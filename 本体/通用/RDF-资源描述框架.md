@@ -144,6 +144,133 @@ VIN123 ──hasBattery──▶ PACK001
 
 RDF 1.1 的核心抽象是 RDF Graph，即由主语、谓语和宾语构成的三元组集合；RDF Dataset 还可以组织默认图和多个命名图。[W3C RDF 1.1 Concepts](https://www.w3.org/TR/rdf11-concepts/)
 
+### 4.1 三元组不是一行数据库记录
+
+数据库的一行通常有固定列：
+
+```text
+vehicle_id | battery_id | production_date
+```
+
+RDF 的三元组是一条独立陈述：
+
+```text
+VIN123 hasBattery PACK001
+VIN123 productionDate 2026-09-04
+```
+
+因此，RDF 不要求所有对象拥有完全相同的字段。不同对象可以有不同属性，只要这些属性使用明确的 IRI 表示即可。
+
+### 4.2 三元组的三个元素
+
+| 元素 | 可以是什么 | 示例 |
+|---|---|---|
+| Subject | IRI 或空白节点 | `ex:VIN123` |
+| Predicate | IRI | `ex:hasBattery` |
+| Object | IRI、空白节点或字面量 | `ex:PACK001`、`"A320"` |
+
+在标准 RDF 三元组中，谓语必须是 IRI；主语不能直接是普通字符串；宾语可以是资源，也可以是带数据类型的字面量。
+
+### 4.3 资源、字面量和空白节点
+
+#### IRI 资源
+
+IRI 用于标识可以被引用的资源：
+
+```text
+https://example.com/vehicle/VIN123
+https://example.com/part/PACK001
+```
+
+同一 IRI 在不同三元组中出现时，表示同一个资源标识。
+
+#### 字面量
+
+字面量表示字符串、数字、日期、布尔值等值：
+
+```turtle
+ex:VIN123 ex:modelName "示例车型"@zh .
+ex:VIN123 ex:seatCount 5 .
+ex:VIN123 ex:productionDate "2026-09-04"^^xsd:date .
+```
+
+语言标签 `@zh` 和数据类型 `^^xsd:date` 都是语义的一部分。
+
+#### 空白节点
+
+空白节点表示没有稳定全局标识的结构化资源：
+
+```turtle
+ex:VIN123 ex:hasAddress [
+    ex:city "上海" ;
+    ex:country "中国"
+] .
+```
+
+这里的地址是一个结构，但没有单独的 IRI。跨文件或跨系统交换时，重要业务对象通常应优先使用稳定 IRI，而不是依赖空白节点。
+
+### 4.4 RDF Graph 与 RDF Dataset
+
+单个 RDF Graph 是三元组集合；RDF Dataset 可以包含：
+
+```text
+默认图：当前有效业务事实
+命名图：某个系统、时间点、版本或来源对应的事实集合
+```
+
+例如，可以按来源保存：
+
+```text
+graph:ERP        ERP 主数据
+graph:MES        制造执行数据
+graph:AfterSales 售后故障数据
+graph:Inferred   推理生成的事实
+```
+
+命名图特别适合表达来源、版本、租户和时间上下文，但命名图本身不是完整的权限系统；访问控制仍需由应用或数据平台实现。
+
+### 4.5 RDF 图允许多种视角
+
+同一资源可以同时属于多个分类，也可以同时拥有来自不同系统的属性：
+
+```turtle
+ex:VIN123 a ex:Vehicle ;
+    a ex:CustomerAsset ;
+    ex:manufacturedAt ex:PlantA ;
+    ex:ownedBy ex:Customer001 ;
+    ex:hasBattery ex:PACK001 .
+```
+
+这使 RDF 适合整合跨部门和跨系统知识，但也要求团队建立统一命名、主键和来源治理规则。
+
+### 4.6 RDF 的建模原则
+
+1. **资源与值分开**：需要被其他事实引用的对象使用 IRI，不要全部塞成字符串。
+2. **谓语使用明确动词**：优先 `hasBattery`、`suppliedBy`、`manufacturedAt`，避免泛化的 `relatedTo`。
+3. **稳定标识优先**：车辆使用 VIN、零件使用零件号或序列号、批次使用批次号。
+4. **单位和类型显式化**：金额、日期、温度和尺寸应携带数据类型或单位语义。
+5. **来源单独建模**：需要审计时，记录来源系统、采集时间、有效期和置信度。
+6. **事实与推理分离**：原始事实和推理结果可以放在不同命名图中。
+7. **不要把流程强行编码为静态关系**：审批、冻结和召回属于行动，通常需要规则引擎或工作流执行。
+
+### 4.7 通过图遍历理解 RDF
+
+RDF 的价值不仅是存储单条事实，还在于沿关系连续遍历：
+
+```text
+车辆 VIN123
+  → hasBattery
+电池包 PACK001
+  → fromBatch
+零件批次 BATCH2026
+  → suppliedBy
+供应商 SupplierA
+  → hasAudit
+供应商审核记录 AUDIT001
+```
+
+这类路径可以用于回答“该车辆使用的电池来自哪个供应商、是否存在相关审核问题”等跨系统问题。
+
 ---
 
 ## 五、RDF 的常见序列化格式
@@ -238,6 +365,31 @@ WHERE {
   ?vehicle ex:hasBattery ?battery .
 }
 ```
+
+更完整的影响范围查询可以沿着车辆、电池包、批次和供应商连续遍历：
+
+```sparql
+PREFIX ex: <https://example.com/ev#>
+
+SELECT ?vehicle ?pack ?batch ?supplier
+WHERE {
+  ?vehicle a ex:Vehicle ;
+           ex:hasBattery ?pack .
+  ?pack ex:fromBatch ?batch .
+  ?batch ex:suppliedBy ?supplier .
+}
+```
+
+常见 SPARQL 查询类型包括：
+
+```text
+SELECT     返回表格结果
+ASK        判断某个模式是否存在
+CONSTRUCT  根据查询结果生成新的 RDF 图
+DESCRIBE   返回资源的描述性图数据
+```
+
+SPARQL 负责查询图中的事实；它不会自动替代 OWL 推理机，也不会自动执行冻结批次或发起召回等业务动作。
 
 ---
 
@@ -351,3 +503,4 @@ RDF 的核心价值是把不同来源的信息转换成统一、可链接的图�
 - [W3C RDF 1.1 Concepts](https://www.w3.org/TR/rdf11-concepts/)
 - [W3C RDF 1.1 Primer](https://www.w3.org/TR/rdf11-primer/)
 - [W3C OWL 2 Overview](https://www.w3.org/TR/owl2-overview/)
+- [OWL-Web本体语言详解](./OWL-Web本体语言详解.md)
