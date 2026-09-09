@@ -1,0 +1,4 @@
+[submodule "本体/公司业务/clx"]
+	path = 本体/公司业务/clx
+	url = git@gitlab.chehejia.com:factory/qs-kb.git
+	branch = master
