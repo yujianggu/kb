@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img">
+<title>4P营销模型示意图</title>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L8 3 L0 6" fill="#42667a"/></marker></defs>
+<rect width="960" height="480" fill="#f7fafc"/>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<text x="480" y="47" font-size="31" text-anchor="middle" fill="#19354b">4P营销模型</text>
+<text x="480" y="80" font-size="19" text-anchor="middle" fill="#19354b">通用知识示意 · 尚未与视频内容核对</text>
+<rect x="55" y="115" width="380" height="115" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="245.0" y="151" font-size="26" text-anchor="middle" fill="#19354b">产品 Product</text>
+<text x="245.0" y="183" font-size="20" text-anchor="middle" fill="#19354b">提供什么价值</text>
+<rect x="525" y="115" width="380" height="115" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="715.0" y="151" font-size="26" text-anchor="middle" fill="#19354b">价格 Price</text>
+<text x="715.0" y="183" font-size="20" text-anchor="middle" fill="#19354b">如何收费与覆盖成本</text>
+<rect x="55" y="280" width="380" height="115" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="245.0" y="316" font-size="26" text-anchor="middle" fill="#19354b">渠道 Place</text>
+<text x="245.0" y="348" font-size="20" text-anchor="middle" fill="#19354b">怎样获得与交付</text>
+<rect x="525" y="280" width="380" height="115" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="715.0" y="316" font-size="26" text-anchor="middle" fill="#19354b">推广 Promotion</text>
+<text x="715.0" y="348" font-size="20" text-anchor="middle" fill="#19354b">怎样理解并相信</text>
+<path d="M435 170 H525 M435 335 H525 M245 230 V280 M715 230 V280" stroke="#42667a" stroke-width="3"/>
+<text x="480" y="447" font-size="20" text-anchor="middle" fill="#19354b">四项共同兑现同一个顾客承诺；连线表示配合关系</text>
+</g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img">
+<title>五遍信息沟通模型示意图</title>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L8 3 L0 6" fill="#42667a"/></marker></defs>
+<rect width="960" height="480" fill="#f7fafc"/>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<text x="480" y="47" font-size="31" text-anchor="middle" fill="#19354b">五遍信息沟通模型</text>
+<text x="480" y="80" font-size="19" text-anchor="middle" fill="#19354b">通用主题参考，非作者模型原图</text>
+<rect x="50" y="140" width="250" height="130" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="175.0" y="176" font-size="26" text-anchor="middle" fill="#19354b">发送明确信息</text>
+<text x="175.0" y="208" font-size="20" text-anchor="middle" fill="#19354b">目标、期限、验收</text>
+<rect x="355" y="140" width="250" height="130" rx="16" fill="#e7edf8" stroke="#9eb8c4"/>
+<text x="480.0" y="176" font-size="26" text-anchor="middle" fill="#19354b">接收者复述</text>
+<text x="480.0" y="208" font-size="20" text-anchor="middle" fill="#19354b">理解、做法、疑问</text>
+<rect x="660" y="140" width="250" height="130" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="785.0" y="176" font-size="26" text-anchor="middle" fill="#19354b">发送者核对</text>
+<text x="785.0" y="208" font-size="20" text-anchor="middle" fill="#19354b">确认或修正</text>
+<path d="M300 205 L350 205" fill="none" stroke="#42667a" stroke-width="3" marker-end="url(#a)"/>
+<path d="M605 205 L655 205" fill="none" stroke="#42667a" stroke-width="3" marker-end="url(#a)"/>
+<path d="M785 275 V345 H175 V280" fill="none" stroke="#42667a" stroke-width="3" marker-end="url(#a)"/>
+<text x="480" y="382" font-size="26" text-anchor="middle" fill="#19354b">变更再确认；完成有反馈</text>
+<text x="480" y="447" font-size="20" text-anchor="middle" fill="#19354b">闭环沟通参考：不是把“五遍”猜成五个原始步骤</text>
+</g>
+</svg>

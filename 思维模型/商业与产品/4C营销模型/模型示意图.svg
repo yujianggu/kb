@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img">
+<title>4C营销模型示意图</title>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L8 3 L0 6" fill="#42667a"/></marker></defs>
+<rect width="960" height="480" fill="#f7fafc"/>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<text x="480" y="47" font-size="31" text-anchor="middle" fill="#19354b">4C营销模型</text>
+<text x="480" y="80" font-size="19" text-anchor="middle" fill="#19354b">通用知识示意 · 尚未与视频内容核对</text>
+<rect x="45" y="115" width="380" height="110" rx="16" fill="#e7edf8" stroke="#9eb8c4"/>
+<text x="235.0" y="151" font-size="26" text-anchor="middle" fill="#19354b">需求</text>
+<text x="235.0" y="183" font-size="20" text-anchor="middle" fill="#19354b">想完成什么任务</text>
+<rect x="535" y="115" width="380" height="110" rx="16" fill="#e7edf8" stroke="#9eb8c4"/>
+<text x="725.0" y="151" font-size="26" text-anchor="middle" fill="#19354b">总成本</text>
+<text x="725.0" y="183" font-size="20" text-anchor="middle" fill="#19354b">金钱、时间与学习负担</text>
+<rect x="45" y="280" width="380" height="110" rx="16" fill="#e7edf8" stroke="#9eb8c4"/>
+<text x="235.0" y="316" font-size="26" text-anchor="middle" fill="#19354b">便利性</text>
+<text x="235.0" y="348" font-size="20" text-anchor="middle" fill="#19354b">购买和使用是否顺畅</text>
+<rect x="535" y="280" width="380" height="110" rx="16" fill="#e7edf8" stroke="#9eb8c4"/>
+<text x="725.0" y="316" font-size="26" text-anchor="middle" fill="#19354b">沟通</text>
+<text x="725.0" y="348" font-size="20" text-anchor="middle" fill="#19354b">问题能否得到回应</text>
+<circle cx="480" cy="250" r="64" fill="#19354b"/>
+<text x="480" y="245" font-size="27" text-anchor="middle" fill="white">顾客</text>
+<text x="480" y="277" font-size="24" text-anchor="middle" fill="white">视角</text>
+<text x="480" y="447" font-size="20" text-anchor="middle" fill="#19354b">Lauterborn常见版本：观察一段真实交易，再修复障碍</text>
+</g>
+</svg>

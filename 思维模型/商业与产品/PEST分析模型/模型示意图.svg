@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img">
+<title>PEST分析模型示意图</title>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L8 3 L0 6" fill="#42667a"/></marker></defs>
+<rect width="960" height="480" fill="#f7fafc"/>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<text x="480" y="47" font-size="31" text-anchor="middle" fill="#19354b">PEST分析模型</text>
+<text x="480" y="80" font-size="19" text-anchor="middle" fill="#19354b">通用知识示意 · 尚未与视频内容核对</text>
+<rect x="55" y="115" width="380" height="105" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="245.0" y="151" font-size="26" text-anchor="middle" fill="#19354b">P 政治政策</text>
+<text x="245.0" y="183" font-size="20" text-anchor="middle" fill="#19354b">准入与公共决策</text>
+<rect x="525" y="115" width="380" height="105" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="715.0" y="151" font-size="26" text-anchor="middle" fill="#19354b">E 经济</text>
+<text x="715.0" y="183" font-size="20" text-anchor="middle" fill="#19354b">成本与购买能力</text>
+<rect x="55" y="280" width="380" height="105" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="245.0" y="316" font-size="26" text-anchor="middle" fill="#19354b">S 社会</text>
+<text x="245.0" y="348" font-size="20" text-anchor="middle" fill="#19354b">人群与行为变化</text>
+<rect x="525" y="280" width="380" height="105" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="715.0" y="316" font-size="26" text-anchor="middle" fill="#19354b">T 技术</text>
+<text x="715.0" y="348" font-size="20" text-anchor="middle" fill="#19354b">能力与替代方式</text>
+<rect x="340" y="233" width="280" height="43" rx="10" fill="#19354b"/>
+<text x="480" y="261" font-size="23" text-anchor="middle" fill="white">地区 × 业务 × 时间</text>
+<text x="480" y="447" font-size="20" text-anchor="middle" fill="#19354b">外部事实 → 影响路径 → 行动与监测；不只堆积新闻</text>
+</g>
+</svg>

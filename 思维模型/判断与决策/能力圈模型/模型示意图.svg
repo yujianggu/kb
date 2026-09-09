@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img">
+<title>能力圈模型示意图</title>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L8 3 L0 6" fill="#42667a"/></marker></defs>
+<rect width="960" height="480" fill="#f7fafc"/>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<text x="480" y="47" font-size="31" text-anchor="middle" fill="#19354b">能力圈模型</text>
+<text x="480" y="80" font-size="19" text-anchor="middle" fill="#19354b">通用知识示意 · 尚未与视频内容核对</text>
+<ellipse cx="310" cy="263" rx="245" ry="143" fill="#e7edf8" stroke="#88a3b5" stroke-width="2" stroke-dasharray="8 6"/><ellipse cx="275" cy="267" rx="140" ry="95" fill="#d3ebe6" stroke="#498a80" stroke-width="2"/>
+<text x="275" y="251" font-size="27" text-anchor="middle" fill="#19354b">已有可靠判断</text>
+<text x="275" y="291" font-size="22" text-anchor="middle" fill="#19354b">可解释 · 可检验</text>
+<text x="315" y="145" font-size="23" text-anchor="middle" fill="#19354b">边界附近：低成本验证</text>
+<rect x="640" y="165" width="270" height="165" rx="16" fill="#fcebdc" stroke="#9eb8c4"/>
+<text x="775.0" y="201" font-size="26" text-anchor="middle" fill="#19354b">关键未知</text>
+<text x="775.0" y="233" font-size="20" text-anchor="middle" fill="#19354b">缺少标准或反馈</text>
+<text x="775.0" y="262" font-size="20" text-anchor="middle" fill="#19354b">降低承诺，寻求帮助</text>
+<path d="M555 265 L635 265" fill="none" stroke="#42667a" stroke-width="3" marker-end="url(#a)"/>
+<text x="480" y="447" font-size="20" text-anchor="middle" fill="#19354b">圈的大小不是分数；环境变化时重新检查边界</text>
+</g>
+</svg>

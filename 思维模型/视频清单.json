@@ -1,0 +1,4897 @@
+{
+  "source_url": "https://space.bilibili.com/385126080/lists/189541?type=season",
+  "collection_title": "圆中百知模型（100个重要的思维模型）",
+  "author": "圆中的猫头鹰",
+  "captured_at": "2026-09-09",
+  "collection_updated_at_displayed": "2025-09-01",
+  "sort": "默认排序",
+  "page_counts": [
+    30,
+    30,
+    30,
+    20
+  ],
+  "video_count": 110,
+  "capture_method": "浏览器合集页面DOM，仅标题及链接；未访问视频内容",
+  "videos": [
+    {
+      "order": 1,
+      "page": 1,
+      "bvid": "BV1FR4y1L7hF",
+      "title": "什么是思维模型？——掌握100个思维模型的好处",
+      "url": "https://www.bilibili.com/video/BV1FR4y1L7hF/",
+      "kind": "合集相关资料",
+      "directories": [
+        "合集相关资料"
+      ],
+      "topic": "导论",
+      "title_status": "已核对",
+      "general_status": "不适用（相关资料入口）",
+      "video_status": "未解析",
+      "mapping_notes": [
+        "仅按标题暂作资料分类，具体内容未核对。"
+      ],
+      "categories": [
+        "合集相关资料"
+      ]
+    },
+    {
+      "order": 2,
+      "page": 1,
+      "bvid": "BV1Gu41197Nk",
+      "title": "合取谬误（100个思维模型之1/100）",
+      "url": "https://www.bilibili.com/video/BV1Gu41197Nk/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/合取谬误"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "合取谬误": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 3,
+      "page": 1,
+      "bvid": "BV1U44y1J7BR",
+      "title": "间态放松模型（100个思维模型2/100）放松过头也累得要死！为啥？",
+      "url": "https://www.bilibili.com/video/BV1U44y1J7BR/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/间态放松模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "间态放松模型": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "名称含义待核实，可能为作者特定表述；不得直接等同于通用的休息或注意力理论。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 4,
+      "page": 1,
+      "bvid": "BV1TS4y1V7Ly",
+      "title": "4P-4C思考模型（100个思维模型3/100）",
+      "url": "https://www.bilibili.com/video/BV1TS4y1V7Ly/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/4P营销模型",
+        "商业与产品/4C营销模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "4P营销模型": "通用知识版",
+        "4C营销模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "按营销领域常见4P命名暂定映射；与4C来自同一视频，具体版本尚未与视频核对。",
+        "按营销领域常见4C命名暂定映射；与4P来自同一视频，具体版本尚未与视频核对。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 5,
+      "page": 1,
+      "bvid": "BV1vi4y1f7pa",
+      "title": "能力圈模型（100个思维模型4/100）",
+      "url": "https://www.bilibili.com/video/BV1vi4y1f7pa/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/能力圈模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "能力圈模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 6,
+      "page": 1,
+      "bvid": "BV1hL4y1g7ZM",
+      "title": "销售漏斗模型（100个思维模型5/100）",
+      "url": "https://www.bilibili.com/video/BV1hL4y1g7ZM/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/销售漏斗模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "销售漏斗模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 7,
+      "page": 1,
+      "bvid": "BV11b4y1s7s3",
+      "title": "达克效应（100个思维模型6/100）",
+      "url": "https://www.bilibili.com/video/BV11b4y1s7s3/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/达克效应"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "达克效应": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 8,
+      "page": 1,
+      "bvid": "BV1qP4y1c74F",
+      "title": "马斯洛需求层次理论（100个思维模型之7/100）",
+      "url": "https://www.bilibili.com/video/BV1qP4y1c74F/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/马斯洛需求层次理论"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "马斯洛需求层次理论": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 9,
+      "page": 1,
+      "bvid": "BV1CY411g78G",
+      "title": "五遍信息沟通模型（100个思维模型之8/100）",
+      "url": "https://www.bilibili.com/video/BV1CY411g78G/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/五遍信息沟通模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "五遍信息沟通模型": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "沟通步骤及版本待核实，不能仅根据“五遍”猜测五个环节。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 10,
+      "page": 1,
+      "bvid": "BV1L3411s7Rw",
+      "title": "军标六性——职场保底能力体系（100个思维模型9/100）",
+      "url": "https://www.bilibili.com/video/BV1L3411s7Rw/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/军标六性（职场能力类比）"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "军标六性（职场能力类比）": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "标题明确将军标六性类比到职场；不得把类比解释当作军用标准条文。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 11,
+      "page": 1,
+      "bvid": "BV1BY411n7wM",
+      "title": "101010旁观思维模型（100个思维模型之10/100）",
+      "url": "https://www.bilibili.com/video/BV1BY411n7wM/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/101010旁观思维模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "101010旁观思维模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "保留标题中的101010；具体时间尺度及作者定义待核实。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 12,
+      "page": 1,
+      "bvid": "BV1XP4y1N7ur",
+      "title": "冗余备份思维模型（100个思维模型之11/100）——凑合主义的人生光辉",
+      "url": "https://www.bilibili.com/video/BV1XP4y1N7ur/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/冗余备份思维模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "冗余备份思维模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 13,
+      "page": 1,
+      "bvid": "BV1ba411i7E1",
+      "title": "断裂点理论思维模型（100个动态思维模型）",
+      "url": "https://www.bilibili.com/video/BV1ba411i7E1/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/断裂点理论思维模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "断裂点理论思维模型": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "可能存在跨领域同名概念，需核实视频使用的定义。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 14,
+      "page": 1,
+      "bvid": "BV1Qu411e7Nr",
+      "title": "100个动态思维模型系列：安全边际思维模型",
+      "url": "https://www.bilibili.com/video/BV1Qu411e7Nr/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/安全边际思维模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "安全边际思维模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 15,
+      "page": 1,
+      "bvid": "BV1YT4y1a7g1",
+      "title": "《4-Letters》营销理论模型串烧！营销理论历史走马灯！",
+      "url": "https://www.bilibili.com/video/BV1YT4y1a7g1/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/4-Letters营销理论串烧"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "4-Letters营销理论串烧": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "组合主题入口；标题未列出全部组成，不推测包含哪些营销模型。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 16,
+      "page": 1,
+      "bvid": "BV11v4y1N7bD",
+      "title": "PEST分析模型（100个思维模型系列）",
+      "url": "https://www.bilibili.com/video/BV11v4y1N7bD/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/PEST分析模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "PEST分析模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 17,
+      "page": 1,
+      "bvid": "BV1m3411P7SW",
+      "title": "波特5力模型（100个思维模型动态演示系列16）",
+      "url": "https://www.bilibili.com/video/BV1m3411P7SW/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/波特五力模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "波特五力模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 18,
+      "page": 1,
+      "bvid": "BV1sv4y1P7BS",
+      "title": "波士顿矩阵（100个思维模型动态讲解17/100）",
+      "url": "https://www.bilibili.com/video/BV1sv4y1P7BS/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/波士顿矩阵"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "波士顿矩阵": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 19,
+      "page": 1,
+      "bvid": "BV1N5411R7Vq",
+      "title": "SWOT分析模型（100个思维模型PPT动态演示系列）",
+      "url": "https://www.bilibili.com/video/BV1N5411R7Vq/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/SWOT分析模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "SWOT分析模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 20,
+      "page": 1,
+      "bvid": "BV1i34y177Gb",
+      "title": "黄金圈法则（100个思维模型系列19%）",
+      "url": "https://www.bilibili.com/video/BV1i34y177Gb/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/黄金圈法则"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "黄金圈法则": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 21,
+      "page": 1,
+      "bvid": "BV1A34y1L7mT",
+      "title": "六顶思考帽思维模型——100个思维模型动态演示20/100",
+      "url": "https://www.bilibili.com/video/BV1A34y1L7mT/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/六顶思考帽"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "六顶思考帽": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 22,
+      "page": 1,
+      "bvid": "BV19B4y1v79A",
+      "title": "第一性原理(100个思维模型21/100）",
+      "url": "https://www.bilibili.com/video/BV19B4y1v79A/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/第一性原理"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "第一性原理": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 23,
+      "page": 1,
+      "bvid": "BV1QB4y1a7dD",
+      "title": "路径依赖——圆中百知模型第22期分享",
+      "url": "https://www.bilibili.com/video/BV1QB4y1a7dD/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/路径依赖"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "路径依赖": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 24,
+      "page": 1,
+      "bvid": "BV1ng41117iC",
+      "title": "第23期：SMART原则——从想到到做到",
+      "url": "https://www.bilibili.com/video/BV1ng41117iC/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/SMART原则"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "SMART原则": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 25,
+      "page": 1,
+      "bvid": "BV1VS4y1475V",
+      "title": "放大镜缩小镜思维控制心态也很重要——圆中百知模型第24期",
+      "url": "https://www.bilibili.com/video/BV1VS4y1475V/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/放大镜缩小镜思维"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "放大镜缩小镜思维": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "名称及作者使用方式待核实，暂不编造模型步骤。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 26,
+      "page": 1,
+      "bvid": "BV1nW4y1Y7kh",
+      "title": "二八法则——世界的真相与向上的密码",
+      "url": "https://www.bilibili.com/video/BV1nW4y1Y7kh/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/二八法则"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "二八法则": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 27,
+      "page": 1,
+      "bvid": "BV12d4y1o7Si",
+      "title": "三八理论 思维模型 26/100",
+      "url": "https://www.bilibili.com/video/BV12d4y1o7Si/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/三八理论"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "三八理论": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "同名表述可能指不同概念，需核实其具体定义。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 28,
+      "page": 1,
+      "bvid": "BV1Va411G7s3",
+      "title": "PDCA循环——思维模型分享第27期",
+      "url": "https://www.bilibili.com/video/BV1Va411G7s3/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/PDCA循环"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "PDCA循环": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 29,
+      "page": 1,
+      "bvid": "BV1Vg411Q7FN",
+      "title": "金字塔原理——100个思维模型28/100",
+      "url": "https://www.bilibili.com/video/BV1Vg411Q7FN/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/金字塔原理"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "金字塔原理": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 30,
+      "page": 1,
+      "bvid": "BV1Re411g7Ze",
+      "title": "三分钟思维模型讲解29：SCQA序言结构，开场没烦恼。",
+      "url": "https://www.bilibili.com/video/BV1Re411g7Ze/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/SCQA序言结构"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "SCQA序言结构": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 31,
+      "page": 2,
+      "bvid": "BV1ra41137Hw",
+      "title": "三分钟思维模型：MECE原则（30/100）",
+      "url": "https://www.bilibili.com/video/BV1ra41137Hw/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/MECE原则"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "MECE原则": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 32,
+      "page": 2,
+      "bvid": "BV1ae411u7KA",
+      "title": "几分钟了解1个思维模型31：问题树（100个思维模型）",
+      "url": "https://www.bilibili.com/video/BV1ae411u7KA/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/问题树"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "问题树": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 33,
+      "page": 2,
+      "bvid": "BV1ZW4y1e79a",
+      "title": "3分钟思维模型 奥卡姆剃刀 第32/100期",
+      "url": "https://www.bilibili.com/video/BV1ZW4y1e79a/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/奥卡姆剃刀"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "奥卡姆剃刀": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 34,
+      "page": 2,
+      "bvid": "BV1gd4y1M7Zh",
+      "title": "细节效率思维模型（33/100）模型中的模型，思考中的思考。",
+      "url": "https://www.bilibili.com/video/BV1gd4y1M7Zh/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/细节效率思维模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "细节效率思维模型": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "保留作者题名，具体定义与结构待核实。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 35,
+      "page": 2,
+      "bvid": "BV1zg411a7nC",
+      "title": "3分钟思维模型34：递弱代偿",
+      "url": "https://www.bilibili.com/video/BV1zg411a7nC/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/递弱代偿"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "递弱代偿": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "后续区分哲学主张与经验科学证据，不作为已证实的普适定律。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 36,
+      "page": 2,
+      "bvid": "BV1b44y1f7c1",
+      "title": "3分钟思维模型35：乔哈里视窗",
+      "url": "https://www.bilibili.com/video/BV1b44y1f7c1/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/乔哈里视窗"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "乔哈里视窗": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 37,
+      "page": 2,
+      "bvid": "BV12R4y1X76a",
+      "title": "3分钟思维模型第36期：SQ3R阅读法",
+      "url": "https://www.bilibili.com/video/BV12R4y1X76a/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/SQ3R阅读法"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "SQ3R阅读法": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 38,
+      "page": 2,
+      "bvid": "BV1tK411U75q",
+      "title": "3分钟思维模型37：FFC赞美法（你可能没听过后面的）",
+      "url": "https://www.bilibili.com/video/BV1tK411U75q/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/FFC赞美法"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "FFC赞美法": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "缩写释义与具体版本需核实。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 39,
+      "page": 2,
+      "bvid": "BV1Ae4y1t7kc",
+      "title": "3分钟思维模型（38%） GROW成长模型",
+      "url": "https://www.bilibili.com/video/BV1Ae4y1t7kc/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/GROW成长模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "GROW成长模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 40,
+      "page": 2,
+      "bvid": "BV1gG411c7bG",
+      "title": "三分钟思维模型39%：飞轮效应",
+      "url": "https://www.bilibili.com/video/BV1gG411c7bG/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/飞轮效应"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "飞轮效应": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 41,
+      "page": 2,
+      "bvid": "BV1GP411u7dj",
+      "title": "3分钟思维模型40%：六何法（5W1H）",
+      "url": "https://www.bilibili.com/video/BV1GP411u7dj/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/六何法（5W1H）"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "六何法（5W1H）": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 42,
+      "page": 2,
+      "bvid": "BV1R8411L7ad",
+      "title": "100个思维模型（41%）福格行为模型",
+      "url": "https://www.bilibili.com/video/BV1R8411L7ad/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/福格行为模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "福格行为模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 43,
+      "page": 2,
+      "bvid": "BV1Rv4y197sP",
+      "title": "42% 非SR思维模型（3分钟思维）",
+      "url": "https://www.bilibili.com/video/BV1Rv4y197sP/",
+      "kind": "模型或主题",
+      "directories": [
+        "专业借鉴与待核实主题/非SR思维模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "topic_content_types": {
+        "非SR思维模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "缩写及“非”的具体含义待核实。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 44,
+      "page": 2,
+      "bvid": "BV1dg411n7cC",
+      "title": "100个思维模型（43%）沉默的螺旋（2分钟）",
+      "url": "https://www.bilibili.com/video/BV1dg411n7cC/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/沉默的螺旋"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "沉默的螺旋": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 45,
+      "page": 2,
+      "bvid": "BV1N44y1Z7QT",
+      "title": "（44%）AISAS消费者行为分析模型（严谨一点说，一切都要从注意开始）",
+      "url": "https://www.bilibili.com/video/BV1N44y1Z7QT/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/AISAS消费者行为分析模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "AISAS消费者行为分析模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 46,
+      "page": 2,
+      "bvid": "BV12P4y1B7L9",
+      "title": "（45%）GRAI复盘模型——聪明人都知道的总结思维",
+      "url": "https://www.bilibili.com/video/BV12P4y1B7L9/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/GRAI复盘模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "GRAI复盘模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "缩写释义及步骤版本需核实。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 47,
+      "page": 2,
+      "bvid": "BV1HK411i7TU",
+      "title": "三分钟思维模型（46%）系统思维",
+      "url": "https://www.bilibili.com/video/BV1HK411i7TU/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/系统思维"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "系统思维": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 48,
+      "page": 2,
+      "bvid": "BV11v4y1i7n4",
+      "title": "100个思维模型 47%  四象限法则",
+      "url": "https://www.bilibili.com/video/BV11v4y1i7n4/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/四象限法则"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "四象限法则": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "标题未给出两轴定义，暂不直接等同于时间管理矩阵。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 49,
+      "page": 2,
+      "bvid": "BV1Y3411Z7Mj",
+      "title": "48% KISS复盘模型",
+      "url": "https://www.bilibili.com/video/BV1Y3411Z7Mj/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/KISS复盘模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "KISS复盘模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "标题指复盘版本，不能直接套用同缩写的软件设计原则。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 50,
+      "page": 2,
+      "bvid": "BV1CG4y1M75M",
+      "title": "思维模型49% ：WOOP！一个实现愿望防止拖延的思维工具",
+      "url": "https://www.bilibili.com/video/BV1CG4y1M75M/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/WOOP思维工具"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "WOOP思维工具": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 51,
+      "page": 2,
+      "bvid": "BV1LD4y1N7Gw",
+      "title": "3分钟思维模型 50% 费曼学习法",
+      "url": "https://www.bilibili.com/video/BV1LD4y1N7Gw/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/费曼学习法"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "费曼学习法": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 52,
+      "page": 2,
+      "bvid": "BV1wT411i7hb",
+      "title": "51% 卡尼曼双系统",
+      "url": "https://www.bilibili.com/video/BV1wT411i7hb/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/卡尼曼双系统"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "卡尼曼双系统": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 53,
+      "page": 2,
+      "bvid": "BV1wA41127nw",
+      "title": "思维模型52% 心流与次心流",
+      "url": "https://www.bilibili.com/video/BV1wA41127nw/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/心流",
+        "学习与认知/次心流"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "心流": "通用知识版",
+        "次心流": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "与心流来自同一视频；“次心流”的定义及来源需核实。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 54,
+      "page": 2,
+      "bvid": "BV1ZX4y1U7x6",
+      "title": "思维模型53%：hook上瘾模型（我们为什么会上瘾）",
+      "url": "https://www.bilibili.com/video/BV1ZX4y1U7x6/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/Hook上瘾模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "Hook上瘾模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 55,
+      "page": 2,
+      "bvid": "BV1ib411f7mF",
+      "title": "思维模型 54% 峰终定律",
+      "url": "https://www.bilibili.com/video/BV1ib411f7mF/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/峰终定律"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "峰终定律": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 56,
+      "page": 2,
+      "bvid": "BV1FL411Z74a",
+      "title": "思维模型 55% 首因效应与近因效应",
+      "url": "https://www.bilibili.com/video/BV1FL411Z74a/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/首因效应",
+        "表达与协作/近因效应"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "首因效应": "通用知识版",
+        "近因效应": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 57,
+      "page": 2,
+      "bvid": "BV1qL411X7UK",
+      "title": "思维模型56% 生命的维度",
+      "url": "https://www.bilibili.com/video/BV1qL411X7UK/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/生命的维度"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "生命的维度": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "标题不足以确定模型的维度与结构，需核实作者定义。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 58,
+      "page": 2,
+      "bvid": "BV1wL411D7Ue",
+      "title": "道-法-术-器的关系（思维模型57%）",
+      "url": "https://www.bilibili.com/video/BV1wL411D7Ue/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/道法术器"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "道法术器": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "保留为关系框架主题；层次定义与出处需核实。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 59,
+      "page": 2,
+      "bvid": "BV1Ba4y1T7gd",
+      "title": "思维模型 58% 双目标清单思维",
+      "url": "https://www.bilibili.com/video/BV1Ba4y1T7gd/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/双目标清单思维"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "双目标清单思维": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "标题不足以确定两类目标清单的规则。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 60,
+      "page": 2,
+      "bvid": "BV1tv4y1E7wj",
+      "title": "思维模型 59% 护城河理论",
+      "url": "https://www.bilibili.com/video/BV1tv4y1E7wj/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/护城河理论"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "护城河理论": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 61,
+      "page": 3,
+      "bvid": "BV1fT411b75B",
+      "title": "思维模型 60% 元认知",
+      "url": "https://www.bilibili.com/video/BV1fT411b75B/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/元认知"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "元认知": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 62,
+      "page": 3,
+      "bvid": "BV1hm4y1t7Zo",
+      "title": "思维模型 61% 课题分离（为人太好 才有烦恼）",
+      "url": "https://www.bilibili.com/video/BV1hm4y1t7Zo/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/课题分离"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "课题分离": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 63,
+      "page": 3,
+      "bvid": "BV1uX4y1s7X8",
+      "title": "62% 你先放过你自己——耶克斯多德森定律",
+      "url": "https://www.bilibili.com/video/BV1uX4y1s7X8/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/耶克斯多德森定律"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "耶克斯多德森定律": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 64,
+      "page": 3,
+      "bvid": "BV16u411V7Um",
+      "title": "100个思维模型：63% 需求三要素（来自李叫兽：需求三角模型）",
+      "url": "https://www.bilibili.com/video/BV16u411V7Um/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/需求三角模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "需求三角模型": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "标题将其归于李叫兽，暂仅保存这一题名归属；三要素具体定义待文字资料或视频核实。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 65,
+      "page": 3,
+      "bvid": "BV1pm4y1s7oY",
+      "title": "思维模型64% 大~~~冰山模型思维模型",
+      "url": "https://www.bilibili.com/video/BV1pm4y1s7oY/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/冰山模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "冰山模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "冰山比喻存在多个版本，标题“大~~~冰山模型”不足以确定采用哪一种。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 66,
+      "page": 3,
+      "bvid": "BV1aN411q77u",
+      "title": "思维模型65% 成长型思维——不是思维！？",
+      "url": "https://www.bilibili.com/video/BV1aN411q77u/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/成长型思维"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "成长型思维": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 67,
+      "page": 3,
+      "bvid": "BV1Ch4y1P7bc",
+      "title": "思维模型66% RICE全科问诊模式（医学领域思维的借鉴尝试呀）",
+      "url": "https://www.bilibili.com/video/BV1Ch4y1P7bc/",
+      "kind": "模型或主题",
+      "directories": [
+        "专业借鉴与待核实主题/RICE全科问诊模式"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "topic_content_types": {
+        "RICE全科问诊模式": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "标题明确为全科问诊模式；不得套用产品优先级RICE或运动损伤RICE。医疗内容需另查专业来源。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 68,
+      "page": 3,
+      "bvid": "BV1zK4y1c7aP",
+      "title": "思维模型67%：莫塔5问。一个医学冷知识（也不算冷吧好像）",
+      "url": "https://www.bilibili.com/video/BV1zK4y1c7aP/",
+      "kind": "模型或主题",
+      "directories": [
+        "专业借鉴与待核实主题/莫塔五问"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "topic_content_types": {
+        "莫塔五问": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "原题“莫塔5问”，在目录中规范数字写法；具体内容需专业来源核实，暂不提供诊疗建议。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 69,
+      "page": 3,
+      "bvid": "BV1FF411U7wp",
+      "title": "68% 这个MVP不是那个MVP，但这个MVP可以让你成为MVP的MVP思维模型",
+      "url": "https://www.bilibili.com/video/BV1FF411U7wp/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/MVP思维模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "MVP思维模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "标题强调缩写歧义；保留MVP，不在视频未核对时认定作者所指版本。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 70,
+      "page": 3,
+      "bvid": "BV1U34y1u7kD",
+      "title": "尾大不掉头？思维模型69% 长尾效应",
+      "url": "https://www.bilibili.com/video/BV1U34y1u7kD/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/长尾效应"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "长尾效应": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 71,
+      "page": 3,
+      "bvid": "BV1Lp4y1T7Xm",
+      "title": "说“‘木桶原理’不对”是不对的！100个思维模型70%：反反木桶原理",
+      "url": "https://www.bilibili.com/video/BV1Lp4y1T7Xm/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/反反木桶原理"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "反反木桶原理": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "保留作者的“反反”限定；不可直接覆盖成普通木桶原理。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 72,
+      "page": 3,
+      "bvid": "BV1oe411Q7Hh",
+      "title": "令敌人闻风丧胆的，不是人海战术！而是三三制。",
+      "url": "https://www.bilibili.com/video/BV1oe411Q7Hh/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/三三制"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "三三制": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "仅保存题名中的组织主题，具体历史语境及跨领域适用性待核实。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 73,
+      "page": 3,
+      "bvid": "BV1pw411H7EZ",
+      "title": "你会因为付出太多，而不知道该不该继续吗？100个思维模型第72%期 沉没成本",
+      "url": "https://www.bilibili.com/video/BV1pw411H7EZ/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/沉没成本"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "沉没成本": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 74,
+      "page": 3,
+      "bvid": "BV1hT4y1b7Rd",
+      "title": "想让自己的钱包瘪得慢点吗？思维模型73%-心理账户",
+      "url": "https://www.bilibili.com/video/BV1hT4y1b7Rd/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/心理账户"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "心理账户": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 75,
+      "page": 3,
+      "bvid": "BV1eU421Z7Mx",
+      "title": "思维模型74% 框架效应",
+      "url": "https://www.bilibili.com/video/BV1eU421Z7Mx/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/框架效应"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "框架效应": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 76,
+      "page": 3,
+      "bvid": "BV1Vm411Z73R",
+      "title": "压上身家，90%概率让你财富翻倍，10%身家全无。你会压嘛？ 思维模型75% 前景理论",
+      "url": "https://www.bilibili.com/video/BV1Vm411Z73R/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/前景理论"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "前景理论": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 77,
+      "page": 3,
+      "bvid": "BV1Ry421i7Cc",
+      "title": "杠精做错了什么？思维模型76% 笛卡尔批判思维模型",
+      "url": "https://www.bilibili.com/video/BV1Ry421i7Cc/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/笛卡尔批判思维模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "笛卡尔批判思维模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "作者选取的具体规则、原始出处与模型结构待核实。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 78,
+      "page": 3,
+      "bvid": "BV1Pm411d7JL",
+      "title": "励志公式，看着就烦？烦就对了，哈哈哈。",
+      "url": "https://www.bilibili.com/video/BV1Pm411d7JL/",
+      "kind": "模型或主题",
+      "directories": [
+        "专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "topic_content_types": {
+        "待核实主题-BV1Pm411d7JL": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "原标题仅为“励志公式，看着就烦？烦就对了，哈哈哈。”，不能据此认定具体模型。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 79,
+      "page": 3,
+      "bvid": "BV16t42137DT",
+      "title": "记住我给出的原理：头脑风暴就是头脑的风暴",
+      "url": "https://www.bilibili.com/video/BV16t42137DT/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/头脑风暴"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "头脑风暴": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 80,
+      "page": 3,
+      "bvid": "BV1wx421S7Ha",
+      "title": "“STP市场细分理论”有什么稀奇的？哼！STPST！",
+      "url": "https://www.bilibili.com/video/BV1wx421S7Ha/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/STP市场细分理论"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "STP市场细分理论": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "保留标题明确的STP主题；“STPST”的含义待核实，不据此另造模型。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 81,
+      "page": 3,
+      "bvid": "BV1WT42127oh",
+      "title": "你能灵光乍乍乍乍乍现！全靠“奥斯本检核表法”（100个思维模型80%）",
+      "url": "https://www.bilibili.com/video/BV1WT42127oh/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/奥斯本检核表法"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "奥斯本检核表法": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 82,
+      "page": 3,
+      "bvid": "BV1Nm421N7bp",
+      "title": "每个管理者都不称职？",
+      "url": "https://www.bilibili.com/video/BV1Nm421N7bp/",
+      "kind": "模型或主题",
+      "directories": [
+        "专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "topic_content_types": {
+        "待核实主题-BV1Nm421N7bp": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "原标题仅为“每个管理者都不称职？”，不能据此认定为彼得原理等具体理论。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 83,
+      "page": 3,
+      "bvid": "BV1qs421u7y6",
+      "title": "FAB销售法则，卖的道理不止于卖",
+      "url": "https://www.bilibili.com/video/BV1qs421u7y6/",
+      "kind": "模型或主题",
+      "directories": [
+        "商业与产品/FAB销售法则"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "商业与产品"
+      ],
+      "topic_content_types": {
+        "FAB销售法则": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 84,
+      "page": 3,
+      "bvid": "BV1Fm421V7hQ",
+      "title": "思维模型83%——让没听过TTT和听过TTT的都沉默的TTT思维",
+      "url": "https://www.bilibili.com/video/BV1Fm421V7hQ/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/TTT思维"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "TTT思维": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "缩写高度歧义，暂不展开定义。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 85,
+      "page": 3,
+      "bvid": "BV1Y6421Z7wK",
+      "title": "认知升级往哪儿升级？84% SOLO分类理论给个答案",
+      "url": "https://www.bilibili.com/video/BV1Y6421Z7wK/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/SOLO分类理论"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "SOLO分类理论": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 86,
+      "page": 3,
+      "bvid": "BV1xJ4m1u7JS",
+      "title": "战略不落地，口号假大空！除非……思维模型85% OGSM目标项目化管理工具",
+      "url": "https://www.bilibili.com/video/BV1xJ4m1u7JS/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/OGSM目标管理工具"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "OGSM目标管理工具": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 87,
+      "page": 3,
+      "bvid": "BV1wm42137UW",
+      "title": "道出不公平的真相，如何让自己越富越富！！？？思维模型86%马太效应",
+      "url": "https://www.bilibili.com/video/BV1wm42137UW/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/马太效应"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "马太效应": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 88,
+      "page": 3,
+      "bvid": "BV1uZ421K7aM",
+      "title": "世界的秘密被揭示了——诺依曼思维——思维模型 87%",
+      "url": "https://www.bilibili.com/video/BV1uZ421K7aM/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/诺依曼思维"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "诺依曼思维": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "保留原题用字，不推断人物归属或模型步骤。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 89,
+      "page": 3,
+      "bvid": "BV1nx4y1s7rt",
+      "title": "思维模型88% 多环集合思维 为啥有得必有舍，全都要不行吗",
+      "url": "https://www.bilibili.com/video/BV1nx4y1s7rt/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/多环集合思维"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "多环集合思维": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "名称对应的集合关系与操作步骤待核实。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 90,
+      "page": 3,
+      "bvid": "BV1bm42137kK",
+      "title": "89% PREP表达方式  你有没有见过这么处心积虑科普思维模型的？",
+      "url": "https://www.bilibili.com/video/BV1bm42137kK/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/PREP表达方式"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "PREP表达方式": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 91,
+      "page": 4,
+      "bvid": "BV1o9WSepEpZ",
+      "title": "一条视频我让你损失500万，或者一艘“航空母舰”！思维模型90% 机会成本",
+      "url": "https://www.bilibili.com/video/BV1o9WSepEpZ/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/机会成本"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "机会成本": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 92,
+      "page": 4,
+      "bvid": "BV1Vap4ejEJm",
+      "title": "你为什么放不下？因为在你心里“TA”没完成。思维模型91% 蔡氏效应",
+      "url": "https://www.bilibili.com/video/BV1Vap4ejEJm/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/蔡氏效应"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "蔡氏效应": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 93,
+      "page": 4,
+      "bvid": "BV1Nmt5eLE29",
+      "title": "思维模型92%：逆向思维 为啥逆来更顺？",
+      "url": "https://www.bilibili.com/video/BV1Nmt5eLE29/",
+      "kind": "模型或主题",
+      "directories": [
+        "判断与决策/逆向思维"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "判断与决策"
+      ],
+      "topic_content_types": {
+        "逆向思维": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 94,
+      "page": 4,
+      "bvid": "BV1xPxFehECc",
+      "title": "93% 帕金森定律：一个90%只理解10%的管理学定律。10分钟讲清楚到底什么是帕金森定律",
+      "url": "https://www.bilibili.com/video/BV1xPxFehECc/",
+      "kind": "模型或主题",
+      "directories": [
+        "行动与复盘/帕金森定律"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "行动与复盘"
+      ],
+      "topic_content_types": {
+        "帕金森定律": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 95,
+      "page": 4,
+      "bvid": "BV1pcxteTEhG",
+      "title": "SECI模型：6分钟助眠视频",
+      "url": "https://www.bilibili.com/video/BV1pcxteTEhG/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/SECI模型"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "SECI模型": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 96,
+      "page": 4,
+      "bvid": "BV1e82pYyEfs",
+      "title": "95% 共鸣能量释放，每个人都可以挖掘出巨大能量价值财富。",
+      "url": "https://www.bilibili.com/video/BV1e82pYyEfs/",
+      "kind": "模型或主题",
+      "directories": [
+        "专业借鉴与待核实主题/共鸣能量释放"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "topic_content_types": {
+        "共鸣能量释放": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "保留题名为主题入口，不能将“能量”比喻直接作为物理或心理科学结论。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 97,
+      "page": 4,
+      "bvid": "BV1bj2hYxEVz",
+      "title": "100个思维模型96% 总观效应，是什么奇妙体验？",
+      "url": "https://www.bilibili.com/video/BV1bj2hYxEVz/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/总观效应"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "总观效应": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 98,
+      "page": 4,
+      "bvid": "BV15mCdYhEV8",
+      "title": "思维模型97% 贝勃定律，我们最终会让自己不再那么难过，也不再那么快乐",
+      "url": "https://www.bilibili.com/video/BV15mCdYhEV8/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/贝勃定律"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "贝勃定律": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "名称、原始出处及与相近心理学概念的关系需核实，不直接与韦伯定律等同。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 99,
+      "page": 4,
+      "bvid": "BV12jyUYaEeo",
+      "title": "思维模型98%：曼陀罗思考法 这是一朵智慧之花",
+      "url": "https://www.bilibili.com/video/BV12jyUYaEeo/",
+      "kind": "模型或主题",
+      "directories": [
+        "表达与协作/曼陀罗思考法"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "表达与协作"
+      ],
+      "topic_content_types": {
+        "曼陀罗思考法": "通用知识版"
+      },
+      "title_stage_mapping_notes": [],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 100,
+      "page": 4,
+      "bvid": "BV1R4S8Y6ED1",
+      "title": "思维模型99%：NLP理解层次。能给你无敌洞察力和高纬解决思路的万能模型",
+      "url": "https://www.bilibili.com/video/BV1R4S8Y6ED1/",
+      "kind": "模型或主题",
+      "directories": [
+        "学习与认知/NLP理解层次"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（通用知识版）",
+      "video_status": "未解析",
+      "categories": [
+        "学习与认知"
+      ],
+      "topic_content_types": {
+        "NLP理解层次": "通用知识版"
+      },
+      "title_stage_mapping_notes": [
+        "后续需说明NLP框架的证据边界，不沿用标题中的“万能”承诺。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 101,
+      "page": 4,
+      "bvid": "BV1fpSRYJEZA",
+      "title": "思维模型100%：大道至简 至简方能得道",
+      "url": "https://www.bilibili.com/video/BV1fpSRYJEZA/",
+      "kind": "模型或主题",
+      "directories": [
+        "系统与问题分析/大道至简"
+      ],
+      "topic": null,
+      "title_status": "已核对",
+      "general_status": "三份正文已完成（含主题参考版，原义待核实）",
+      "video_status": "未解析",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "topic_content_types": {
+        "大道至简": "主题参考版"
+      },
+      "title_stage_mapping_notes": [
+        "作为方法论主题保留；标题不足以确定作者的具体框架。"
+      ],
+      "diagram_status": "已完成（每主题PNG与SVG）"
+    },
+    {
+      "order": 102,
+      "page": 4,
+      "bvid": "BV1F9zzYUEN8",
+      "title": "打工人必看！一口气讲清年终总结怎么写（总结思维模型合集）",
+      "url": "https://www.bilibili.com/video/BV1F9zzYUEN8/",
+      "kind": "合集相关资料",
+      "directories": [
+        "合集相关资料"
+      ],
+      "topic": "年终总结专题",
+      "title_status": "已核对",
+      "general_status": "不适用（相关资料入口）",
+      "video_status": "未解析",
+      "mapping_notes": [
+        "仅按标题暂作资料分类，具体内容未核对。"
+      ],
+      "categories": [
+        "合集相关资料"
+      ]
+    },
+    {
+      "order": 103,
+      "page": 4,
+      "bvid": "BV1vW44exEAn",
+      "title": "一本书可以做成这样？我的出版物真·思维卡片书正式上啦！附带DIY安装教程",
+      "url": "https://www.bilibili.com/video/BV1vW44exEAn/",
+      "kind": "合集相关资料",
+      "directories": [
+        "合集相关资料"
+      ],
+      "topic": "思维卡片书介绍",
+      "title_status": "已核对",
+      "general_status": "不适用（相关资料入口）",
+      "video_status": "未解析",
+      "mapping_notes": [
+        "仅按标题暂作资料分类，具体内容未核对。"
+      ],
+      "categories": [
+        "合集相关资料"
+      ]
+    },
+    {
+      "order": 104,
+      "page": 4,
+      "bvid": "BV1aNkwYiE4D",
+      "title": "第二代思维卡片出来了，主打听劝，尽量按照大家需求做的调整",
+      "url": "https://www.bilibili.com/video/BV1aNkwYiE4D/",
+      "kind": "合集相关资料",
+      "directories": [
+        "合集相关资料"
+      ],
+      "topic": "第二代思维卡片介绍",
+      "title_status": "已核对",
+      "general_status": "不适用（相关资料入口）",
+      "video_status": "未解析",
+      "mapping_notes": [
+        "仅按标题暂作资料分类，具体内容未核对。"
+      ],
+      "categories": [
+        "合集相关资料"
+      ]
+    },
+    {
+      "order": 105,
+      "page": 4,
+      "bvid": "BV1tfk4YiEWW",
+      "title": "她说这1分钟能比我5分钟那个讲解卖得多。",
+      "url": "https://www.bilibili.com/video/BV1tfk4YiEWW/",
+      "kind": "合集相关资料",
+      "directories": [
+        "合集相关资料"
+      ],
+      "topic": "主题待核实的推广相关条目",
+      "title_status": "已核对",
+      "general_status": "不适用（相关资料入口）",
+      "video_status": "未解析",
+      "mapping_notes": [
+        "仅按标题暂作资料分类，具体内容未核对。"
+      ],
+      "categories": [
+        "合集相关资料"
+      ]
+    },
+    {
+      "order": 106,
+      "page": 4,
+      "bvid": "BV17Y6HYwEmi",
+      "title": "一口气get100个思维模型需要多长时间？圆中百知模型作者剪辑加长版重制版提速版",
+      "url": "https://www.bilibili.com/video/BV17Y6HYwEmi/",
+      "kind": "合集相关资料",
+      "directories": [
+        "合集相关资料"
+      ],
+      "topic": "百模型汇编",
+      "title_status": "已核对",
+      "general_status": "不适用（相关资料入口）",
+      "video_status": "未解析",
+      "mapping_notes": [
+        "仅按标题暂作资料分类，具体内容未核对。"
+      ],
+      "categories": [
+        "合集相关资料"
+      ]
+    },
+    {
+      "order": 107,
+      "page": 4,
+      "bvid": "BV1nvM3zqEey",
+      "title": "给高考后准大学生的思维模型经验包",
+      "url": "https://www.bilibili.com/video/BV1nvM3zqEey/",
+      "kind": "合集相关资料",
+      "directories": [
+        "合集相关资料"
+      ],
+      "topic": "准大学生专题",
+      "title_status": "已核对",
+      "general_status": "不适用（相关资料入口）",
+      "video_status": "未解析",
+      "mapping_notes": [
+        "仅按标题暂作资料分类，具体内容未核对。"
+      ],
+      "categories": [
+        "合集相关资料"
+      ]
+    },
+    {
+      "order": 108,
+      "page": 4,
+      "bvid": "BV1uyKwzXEzu",
+      "title": "3年100期视频，1本《百知思维模型》",
+      "url": "https://www.bilibili.com/video/BV1uyKwzXEzu/",
+      "kind": "合集相关资料",
+      "directories": [
+        "合集相关资料"
+      ],
+      "topic": "百知思维模型出版物",
+      "title_status": "已核对",
+      "general_status": "不适用（相关资料入口）",
+      "video_status": "未解析",
+      "mapping_notes": [
+        "仅按标题暂作资料分类，具体内容未核对。"
+      ],
+      "categories": [
+        "合集相关资料"
+      ]
+    },
+    {
+      "order": 109,
+      "page": 4,
+      "bvid": "BV1mdb5zGEML",
+      "title": "能放包里的智慧册子，思维模型手册3.0（不是真的智力+100）",
+      "url": "https://www.bilibili.com/video/BV1mdb5zGEML/",
+      "kind": "合集相关资料",
+      "directories": [
+        "合集相关资料"
+      ],
+      "topic": "思维模型手册3.0",
+      "title_status": "已核对",
+      "general_status": "不适用（相关资料入口）",
+      "video_status": "未解析",
+      "mapping_notes": [
+        "仅按标题暂作资料分类，具体内容未核对。"
+      ],
+      "categories": [
+        "合集相关资料"
+      ]
+    },
+    {
+      "order": 110,
+      "page": 4,
+      "bvid": "BV1BQapzZEZY",
+      "title": "聪明人不想告诉你的，全在这里了【已加印】",
+      "url": "https://www.bilibili.com/video/BV1BQapzZEZY/",
+      "kind": "合集相关资料",
+      "directories": [
+        "合集相关资料"
+      ],
+      "topic": "加印相关条目（具体内容待核实）",
+      "title_status": "已核对",
+      "general_status": "不适用（相关资料入口）",
+      "video_status": "未解析",
+      "mapping_notes": [
+        "仅按标题暂作资料分类，具体内容未核对。"
+      ],
+      "categories": [
+        "合集相关资料"
+      ]
+    }
+  ],
+  "topic_directory_count": 103,
+  "related_material_count": 10,
+  "topics": [
+    {
+      "name": "合取谬误",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Gu41197Nk"
+      ],
+      "files": {
+        "overview": "判断与决策/合取谬误/一分钟看懂.md",
+        "detail": "判断与决策/合取谬误/明细.md",
+        "cases": "判断与决策/合取谬误/案例.md",
+        "image": "判断与决策/合取谬误/模型示意图.png",
+        "vector": "判断与决策/合取谬误/模型示意图.svg"
+      },
+      "directory": "判断与决策/合取谬误"
+    },
+    {
+      "name": "间态放松模型",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "“间态放松”的作者定义未核实。以下采用工作与恢复切换的参考主题，不把短休息研究等同于该模型。",
+      "source_bvids": [
+        "BV1U44y1J7BR"
+      ],
+      "files": {
+        "overview": "学习与认知/间态放松模型/一分钟看懂.md",
+        "detail": "学习与认知/间态放松模型/明细.md",
+        "cases": "学习与认知/间态放松模型/案例.md",
+        "image": "学习与认知/间态放松模型/模型示意图.png",
+        "vector": "学习与认知/间态放松模型/模型示意图.svg"
+      },
+      "directory": "学习与认知/间态放松模型"
+    },
+    {
+      "name": "4P营销模型",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1TS4y1V7Ly"
+      ],
+      "files": {
+        "overview": "商业与产品/4P营销模型/一分钟看懂.md",
+        "detail": "商业与产品/4P营销模型/明细.md",
+        "cases": "商业与产品/4P营销模型/案例.md",
+        "image": "商业与产品/4P营销模型/模型示意图.png",
+        "vector": "商业与产品/4P营销模型/模型示意图.svg"
+      },
+      "directory": "商业与产品/4P营销模型"
+    },
+    {
+      "name": "4C营销模型",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1TS4y1V7Ly"
+      ],
+      "files": {
+        "overview": "商业与产品/4C营销模型/一分钟看懂.md",
+        "detail": "商业与产品/4C营销模型/明细.md",
+        "cases": "商业与产品/4C营销模型/案例.md",
+        "image": "商业与产品/4C营销模型/模型示意图.png",
+        "vector": "商业与产品/4C营销模型/模型示意图.svg"
+      },
+      "directory": "商业与产品/4C营销模型"
+    },
+    {
+      "name": "能力圈模型",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1vi4y1f7pa"
+      ],
+      "files": {
+        "overview": "判断与决策/能力圈模型/一分钟看懂.md",
+        "detail": "判断与决策/能力圈模型/明细.md",
+        "cases": "判断与决策/能力圈模型/案例.md",
+        "image": "判断与决策/能力圈模型/模型示意图.png",
+        "vector": "判断与决策/能力圈模型/模型示意图.svg"
+      },
+      "directory": "判断与决策/能力圈模型"
+    },
+    {
+      "name": "销售漏斗模型",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1hL4y1g7ZM"
+      ],
+      "files": {
+        "overview": "商业与产品/销售漏斗模型/一分钟看懂.md",
+        "detail": "商业与产品/销售漏斗模型/明细.md",
+        "cases": "商业与产品/销售漏斗模型/案例.md",
+        "image": "商业与产品/销售漏斗模型/模型示意图.png",
+        "vector": "商业与产品/销售漏斗模型/模型示意图.svg"
+      },
+      "directory": "商业与产品/销售漏斗模型"
+    },
+    {
+      "name": "达克效应",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV11b4y1s7s3"
+      ],
+      "files": {
+        "overview": "判断与决策/达克效应/一分钟看懂.md",
+        "detail": "判断与决策/达克效应/明细.md",
+        "cases": "判断与决策/达克效应/案例.md",
+        "image": "判断与决策/达克效应/模型示意图.png",
+        "vector": "判断与决策/达克效应/模型示意图.svg"
+      },
+      "directory": "判断与决策/达克效应"
+    },
+    {
+      "name": "马斯洛需求层次理论",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1qP4y1c74F"
+      ],
+      "files": {
+        "overview": "学习与认知/马斯洛需求层次理论/一分钟看懂.md",
+        "detail": "学习与认知/马斯洛需求层次理论/明细.md",
+        "cases": "学习与认知/马斯洛需求层次理论/案例.md",
+        "image": "学习与认知/马斯洛需求层次理论/模型示意图.png",
+        "vector": "学习与认知/马斯洛需求层次理论/模型示意图.svg"
+      },
+      "directory": "学习与认知/马斯洛需求层次理论"
+    },
+    {
+      "name": "五遍信息沟通模型",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。本稿参考主题：闭环沟通与任务确认。",
+      "source_bvids": [
+        "BV1CY411g78G"
+      ],
+      "files": {
+        "overview": "表达与协作/五遍信息沟通模型/一分钟看懂.md",
+        "detail": "表达与协作/五遍信息沟通模型/明细.md",
+        "cases": "表达与协作/五遍信息沟通模型/案例.md",
+        "image": "表达与协作/五遍信息沟通模型/模型示意图.png",
+        "vector": "表达与协作/五遍信息沟通模型/模型示意图.svg"
+      },
+      "directory": "表达与协作/五遍信息沟通模型"
+    },
+    {
+      "name": "军标六性（职场能力类比）",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。本稿采用可靠交付的六维职场自查，不是军用标准解释。",
+      "source_bvids": [
+        "BV1L3411s7Rw"
+      ],
+      "files": {
+        "overview": "系统与问题分析/军标六性（职场能力类比）/一分钟看懂.md",
+        "detail": "系统与问题分析/军标六性（职场能力类比）/明细.md",
+        "cases": "系统与问题分析/军标六性（职场能力类比）/案例.md",
+        "image": "系统与问题分析/军标六性（职场能力类比）/模型示意图.png",
+        "vector": "系统与问题分析/军标六性（职场能力类比）/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/军标六性（职场能力类比）"
+    },
+    {
+      "name": "101010旁观思维模型",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1BY411n7wM"
+      ],
+      "files": {
+        "overview": "判断与决策/101010旁观思维模型/一分钟看懂.md",
+        "detail": "判断与决策/101010旁观思维模型/明细.md",
+        "cases": "判断与决策/101010旁观思维模型/案例.md",
+        "image": "判断与决策/101010旁观思维模型/模型示意图.png",
+        "vector": "判断与决策/101010旁观思维模型/模型示意图.svg"
+      },
+      "directory": "判断与决策/101010旁观思维模型"
+    },
+    {
+      "name": "冗余备份思维模型",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1XP4y1N7ur"
+      ],
+      "files": {
+        "overview": "系统与问题分析/冗余备份思维模型/一分钟看懂.md",
+        "detail": "系统与问题分析/冗余备份思维模型/明细.md",
+        "cases": "系统与问题分析/冗余备份思维模型/案例.md",
+        "image": "系统与问题分析/冗余备份思维模型/模型示意图.png",
+        "vector": "系统与问题分析/冗余备份思维模型/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/冗余备份思维模型"
+    },
+    {
+      "name": "断裂点理论思维模型",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。本稿参考主题：熔断、暂停机制与故障隔离；不采用地理学同名定义。",
+      "source_bvids": [
+        "BV1ba411i7E1"
+      ],
+      "files": {
+        "overview": "系统与问题分析/断裂点理论思维模型/一分钟看懂.md",
+        "detail": "系统与问题分析/断裂点理论思维模型/明细.md",
+        "cases": "系统与问题分析/断裂点理论思维模型/案例.md",
+        "image": "系统与问题分析/断裂点理论思维模型/模型示意图.png",
+        "vector": "系统与问题分析/断裂点理论思维模型/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/断裂点理论思维模型"
+    },
+    {
+      "name": "安全边际思维模型",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Qu411e7Nr"
+      ],
+      "files": {
+        "overview": "判断与决策/安全边际思维模型/一分钟看懂.md",
+        "detail": "判断与决策/安全边际思维模型/明细.md",
+        "cases": "判断与决策/安全边际思维模型/案例.md",
+        "image": "判断与决策/安全边际思维模型/模型示意图.png",
+        "vector": "判断与决策/安全边际思维模型/模型示意图.svg"
+      },
+      "directory": "判断与决策/安全边际思维模型"
+    },
+    {
+      "name": "4-Letters营销理论串烧",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。本稿参考主题：按问题选择营销框架，不推测视频组成或理论历史。",
+      "source_bvids": [
+        "BV1YT4y1a7g1"
+      ],
+      "files": {
+        "overview": "商业与产品/4-Letters营销理论串烧/一分钟看懂.md",
+        "detail": "商业与产品/4-Letters营销理论串烧/明细.md",
+        "cases": "商业与产品/4-Letters营销理论串烧/案例.md",
+        "image": "商业与产品/4-Letters营销理论串烧/模型示意图.png",
+        "vector": "商业与产品/4-Letters营销理论串烧/模型示意图.svg"
+      },
+      "directory": "商业与产品/4-Letters营销理论串烧"
+    },
+    {
+      "name": "PEST分析模型",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV11v4y1N7bD"
+      ],
+      "files": {
+        "overview": "商业与产品/PEST分析模型/一分钟看懂.md",
+        "detail": "商业与产品/PEST分析模型/明细.md",
+        "cases": "商业与产品/PEST分析模型/案例.md",
+        "image": "商业与产品/PEST分析模型/模型示意图.png",
+        "vector": "商业与产品/PEST分析模型/模型示意图.svg"
+      },
+      "directory": "商业与产品/PEST分析模型"
+    },
+    {
+      "name": "波特五力模型",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1m3411P7SW"
+      ],
+      "files": {
+        "overview": "商业与产品/波特五力模型/一分钟看懂.md",
+        "detail": "商业与产品/波特五力模型/明细.md",
+        "cases": "商业与产品/波特五力模型/案例.md",
+        "image": "商业与产品/波特五力模型/模型示意图.png",
+        "vector": "商业与产品/波特五力模型/模型示意图.svg"
+      },
+      "directory": "商业与产品/波特五力模型"
+    },
+    {
+      "name": "波士顿矩阵",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1sv4y1P7BS"
+      ],
+      "files": {
+        "overview": "商业与产品/波士顿矩阵/一分钟看懂.md",
+        "detail": "商业与产品/波士顿矩阵/明细.md",
+        "cases": "商业与产品/波士顿矩阵/案例.md",
+        "image": "商业与产品/波士顿矩阵/模型示意图.png",
+        "vector": "商业与产品/波士顿矩阵/模型示意图.svg"
+      },
+      "directory": "商业与产品/波士顿矩阵"
+    },
+    {
+      "name": "SWOT分析模型",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1N5411R7Vq"
+      ],
+      "files": {
+        "overview": "商业与产品/SWOT分析模型/一分钟看懂.md",
+        "detail": "商业与产品/SWOT分析模型/明细.md",
+        "cases": "商业与产品/SWOT分析模型/案例.md",
+        "image": "商业与产品/SWOT分析模型/模型示意图.png",
+        "vector": "商业与产品/SWOT分析模型/模型示意图.svg"
+      },
+      "directory": "商业与产品/SWOT分析模型"
+    },
+    {
+      "name": "黄金圈法则",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1i34y177Gb"
+      ],
+      "files": {
+        "overview": "表达与协作/黄金圈法则/一分钟看懂.md",
+        "detail": "表达与协作/黄金圈法则/明细.md",
+        "cases": "表达与协作/黄金圈法则/案例.md",
+        "image": "表达与协作/黄金圈法则/模型示意图.png",
+        "vector": "表达与协作/黄金圈法则/模型示意图.svg"
+      },
+      "directory": "表达与协作/黄金圈法则"
+    },
+    {
+      "name": "六顶思考帽",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1A34y1L7mT"
+      ],
+      "files": {
+        "overview": "表达与协作/六顶思考帽/一分钟看懂.md",
+        "detail": "表达与协作/六顶思考帽/明细.md",
+        "cases": "表达与协作/六顶思考帽/案例.md",
+        "image": "表达与协作/六顶思考帽/模型示意图.png",
+        "vector": "表达与协作/六顶思考帽/模型示意图.svg"
+      },
+      "directory": "表达与协作/六顶思考帽"
+    },
+    {
+      "name": "第一性原理",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV19B4y1v79A"
+      ],
+      "files": {
+        "overview": "判断与决策/第一性原理/一分钟看懂.md",
+        "detail": "判断与决策/第一性原理/明细.md",
+        "cases": "判断与决策/第一性原理/案例.md",
+        "image": "判断与决策/第一性原理/模型示意图.png",
+        "vector": "判断与决策/第一性原理/模型示意图.svg"
+      },
+      "directory": "判断与决策/第一性原理"
+    },
+    {
+      "name": "路径依赖",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1QB4y1a7dD"
+      ],
+      "files": {
+        "overview": "系统与问题分析/路径依赖/一分钟看懂.md",
+        "detail": "系统与问题分析/路径依赖/明细.md",
+        "cases": "系统与问题分析/路径依赖/案例.md",
+        "image": "系统与问题分析/路径依赖/模型示意图.png",
+        "vector": "系统与问题分析/路径依赖/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/路径依赖"
+    },
+    {
+      "name": "SMART原则",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1ng41117iC"
+      ],
+      "files": {
+        "overview": "行动与复盘/SMART原则/一分钟看懂.md",
+        "detail": "行动与复盘/SMART原则/明细.md",
+        "cases": "行动与复盘/SMART原则/案例.md",
+        "image": "行动与复盘/SMART原则/模型示意图.png",
+        "vector": "行动与复盘/SMART原则/模型示意图.svg"
+      },
+      "directory": "行动与复盘/SMART原则"
+    },
+    {
+      "name": "放大镜缩小镜思维",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。实际参考主题：证据核对与视角切换。",
+      "source_bvids": [
+        "BV1VS4y1475V"
+      ],
+      "files": {
+        "overview": "学习与认知/放大镜缩小镜思维/一分钟看懂.md",
+        "detail": "学习与认知/放大镜缩小镜思维/明细.md",
+        "cases": "学习与认知/放大镜缩小镜思维/案例.md",
+        "image": "学习与认知/放大镜缩小镜思维/模型示意图.png",
+        "vector": "学习与认知/放大镜缩小镜思维/模型示意图.svg"
+      },
+      "directory": "学习与认知/放大镜缩小镜思维"
+    },
+    {
+      "name": "二八法则",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1nW4y1Y7kh"
+      ],
+      "files": {
+        "overview": "判断与决策/二八法则/一分钟看懂.md",
+        "detail": "判断与决策/二八法则/明细.md",
+        "cases": "判断与决策/二八法则/案例.md",
+        "image": "判断与决策/二八法则/模型示意图.png",
+        "vector": "判断与决策/二八法则/模型示意图.svg"
+      },
+      "directory": "判断与决策/二八法则"
+    },
+    {
+      "name": "三八理论",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。实际参考主题：时间预算与工作休息平衡。",
+      "source_bvids": [
+        "BV12d4y1o7Si"
+      ],
+      "files": {
+        "overview": "行动与复盘/三八理论/一分钟看懂.md",
+        "detail": "行动与复盘/三八理论/明细.md",
+        "cases": "行动与复盘/三八理论/案例.md",
+        "image": "行动与复盘/三八理论/模型示意图.png",
+        "vector": "行动与复盘/三八理论/模型示意图.svg"
+      },
+      "directory": "行动与复盘/三八理论"
+    },
+    {
+      "name": "PDCA循环",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Va411G7s3"
+      ],
+      "files": {
+        "overview": "行动与复盘/PDCA循环/一分钟看懂.md",
+        "detail": "行动与复盘/PDCA循环/明细.md",
+        "cases": "行动与复盘/PDCA循环/案例.md",
+        "image": "行动与复盘/PDCA循环/模型示意图.png",
+        "vector": "行动与复盘/PDCA循环/模型示意图.svg"
+      },
+      "directory": "行动与复盘/PDCA循环"
+    },
+    {
+      "name": "金字塔原理",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Vg411Q7FN"
+      ],
+      "files": {
+        "overview": "表达与协作/金字塔原理/一分钟看懂.md",
+        "detail": "表达与协作/金字塔原理/明细.md",
+        "cases": "表达与协作/金字塔原理/案例.md",
+        "image": "表达与协作/金字塔原理/模型示意图.png",
+        "vector": "表达与协作/金字塔原理/模型示意图.svg"
+      },
+      "directory": "表达与协作/金字塔原理"
+    },
+    {
+      "name": "SCQA序言结构",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Re411g7Ze"
+      ],
+      "files": {
+        "overview": "表达与协作/SCQA序言结构/一分钟看懂.md",
+        "detail": "表达与协作/SCQA序言结构/明细.md",
+        "cases": "表达与协作/SCQA序言结构/案例.md",
+        "image": "表达与协作/SCQA序言结构/模型示意图.png",
+        "vector": "表达与协作/SCQA序言结构/模型示意图.svg"
+      },
+      "directory": "表达与协作/SCQA序言结构"
+    },
+    {
+      "name": "MECE原则",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1ra41137Hw"
+      ],
+      "files": {
+        "overview": "系统与问题分析/MECE原则/一分钟看懂.md",
+        "detail": "系统与问题分析/MECE原则/明细.md",
+        "cases": "系统与问题分析/MECE原则/案例.md",
+        "image": "系统与问题分析/MECE原则/模型示意图.png",
+        "vector": "系统与问题分析/MECE原则/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/MECE原则"
+    },
+    {
+      "name": "问题树",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1ae411u7KA"
+      ],
+      "files": {
+        "overview": "系统与问题分析/问题树/一分钟看懂.md",
+        "detail": "系统与问题分析/问题树/明细.md",
+        "cases": "系统与问题分析/问题树/案例.md",
+        "image": "系统与问题分析/问题树/模型示意图.png",
+        "vector": "系统与问题分析/问题树/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/问题树"
+    },
+    {
+      "name": "奥卡姆剃刀",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1ZW4y1e79a"
+      ],
+      "files": {
+        "overview": "判断与决策/奥卡姆剃刀/一分钟看懂.md",
+        "detail": "判断与决策/奥卡姆剃刀/明细.md",
+        "cases": "判断与决策/奥卡姆剃刀/案例.md",
+        "image": "判断与决策/奥卡姆剃刀/模型示意图.png",
+        "vector": "判断与决策/奥卡姆剃刀/模型示意图.svg"
+      },
+      "directory": "判断与决策/奥卡姆剃刀"
+    },
+    {
+      "name": "细节效率思维模型",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。实际参考主题：流程观察与局部改进。",
+      "source_bvids": [
+        "BV1gd4y1M7Zh"
+      ],
+      "files": {
+        "overview": "行动与复盘/细节效率思维模型/一分钟看懂.md",
+        "detail": "行动与复盘/细节效率思维模型/明细.md",
+        "cases": "行动与复盘/细节效率思维模型/案例.md",
+        "image": "行动与复盘/细节效率思维模型/模型示意图.png",
+        "vector": "行动与复盘/细节效率思维模型/模型示意图.svg"
+      },
+      "directory": "行动与复盘/细节效率思维模型"
+    },
+    {
+      "name": "递弱代偿",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1zg411a7nC"
+      ],
+      "files": {
+        "overview": "系统与问题分析/递弱代偿/一分钟看懂.md",
+        "detail": "系统与问题分析/递弱代偿/明细.md",
+        "cases": "系统与问题分析/递弱代偿/案例.md",
+        "image": "系统与问题分析/递弱代偿/模型示意图.png",
+        "vector": "系统与问题分析/递弱代偿/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/递弱代偿"
+    },
+    {
+      "name": "乔哈里视窗",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1b44y1f7c1"
+      ],
+      "files": {
+        "overview": "表达与协作/乔哈里视窗/一分钟看懂.md",
+        "detail": "表达与协作/乔哈里视窗/明细.md",
+        "cases": "表达与协作/乔哈里视窗/案例.md",
+        "image": "表达与协作/乔哈里视窗/模型示意图.png",
+        "vector": "表达与协作/乔哈里视窗/模型示意图.svg"
+      },
+      "directory": "表达与协作/乔哈里视窗"
+    },
+    {
+      "name": "SQ3R阅读法",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV12R4y1X76a"
+      ],
+      "files": {
+        "overview": "学习与认知/SQ3R阅读法/一分钟看懂.md",
+        "detail": "学习与认知/SQ3R阅读法/明细.md",
+        "cases": "学习与认知/SQ3R阅读法/案例.md",
+        "image": "学习与认知/SQ3R阅读法/模型示意图.png",
+        "vector": "学习与认知/SQ3R阅读法/模型示意图.svg"
+      },
+      "directory": "学习与认知/SQ3R阅读法"
+    },
+    {
+      "name": "FFC赞美法",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1tK411U75q"
+      ],
+      "files": {
+        "overview": "表达与协作/FFC赞美法/一分钟看懂.md",
+        "detail": "表达与协作/FFC赞美法/明细.md",
+        "cases": "表达与协作/FFC赞美法/案例.md",
+        "image": "表达与协作/FFC赞美法/模型示意图.png",
+        "vector": "表达与协作/FFC赞美法/模型示意图.svg"
+      },
+      "directory": "表达与协作/FFC赞美法"
+    },
+    {
+      "name": "GROW成长模型",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Ae4y1t7kc"
+      ],
+      "files": {
+        "overview": "行动与复盘/GROW成长模型/一分钟看懂.md",
+        "detail": "行动与复盘/GROW成长模型/明细.md",
+        "cases": "行动与复盘/GROW成长模型/案例.md",
+        "image": "行动与复盘/GROW成长模型/模型示意图.png",
+        "vector": "行动与复盘/GROW成长模型/模型示意图.svg"
+      },
+      "directory": "行动与复盘/GROW成长模型"
+    },
+    {
+      "name": "飞轮效应",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1gG411c7bG"
+      ],
+      "files": {
+        "overview": "系统与问题分析/飞轮效应/一分钟看懂.md",
+        "detail": "系统与问题分析/飞轮效应/明细.md",
+        "cases": "系统与问题分析/飞轮效应/案例.md",
+        "image": "系统与问题分析/飞轮效应/模型示意图.png",
+        "vector": "系统与问题分析/飞轮效应/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/飞轮效应"
+    },
+    {
+      "name": "六何法（5W1H）",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1GP411u7dj"
+      ],
+      "files": {
+        "overview": "系统与问题分析/六何法（5W1H）/一分钟看懂.md",
+        "detail": "系统与问题分析/六何法（5W1H）/明细.md",
+        "cases": "系统与问题分析/六何法（5W1H）/案例.md",
+        "image": "系统与问题分析/六何法（5W1H）/模型示意图.png",
+        "vector": "系统与问题分析/六何法（5W1H）/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/六何法（5W1H）"
+    },
+    {
+      "name": "福格行为模型",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1R8411L7ad"
+      ],
+      "files": {
+        "overview": "行动与复盘/福格行为模型/一分钟看懂.md",
+        "detail": "行动与复盘/福格行为模型/明细.md",
+        "cases": "行动与复盘/福格行为模型/案例.md",
+        "image": "行动与复盘/福格行为模型/模型示意图.png",
+        "vector": "行动与复盘/福格行为模型/模型示意图.svg"
+      },
+      "directory": "行动与复盘/福格行为模型"
+    },
+    {
+      "name": "非SR思维模型",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "采用“刺激—思考选择—回应”的常见管理表述；它是行动提醒，不是对全部人类行为的完整科学模型。",
+      "source_bvids": [
+        "BV1Rv4y197sP"
+      ],
+      "files": {
+        "overview": "专业借鉴与待核实主题/非SR思维模型/一分钟看懂.md",
+        "detail": "专业借鉴与待核实主题/非SR思维模型/明细.md",
+        "cases": "专业借鉴与待核实主题/非SR思维模型/案例.md",
+        "image": "专业借鉴与待核实主题/非SR思维模型/模型示意图.png",
+        "vector": "专业借鉴与待核实主题/非SR思维模型/模型示意图.svg"
+      },
+      "directory": "专业借鉴与待核实主题/非SR思维模型"
+    },
+    {
+      "name": "沉默的螺旋",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1dg411n7cC"
+      ],
+      "files": {
+        "overview": "表达与协作/沉默的螺旋/一分钟看懂.md",
+        "detail": "表达与协作/沉默的螺旋/明细.md",
+        "cases": "表达与协作/沉默的螺旋/案例.md",
+        "image": "表达与协作/沉默的螺旋/模型示意图.png",
+        "vector": "表达与协作/沉默的螺旋/模型示意图.svg"
+      },
+      "directory": "表达与协作/沉默的螺旋"
+    },
+    {
+      "name": "AISAS消费者行为分析模型",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1N44y1Z7QT"
+      ],
+      "files": {
+        "overview": "商业与产品/AISAS消费者行为分析模型/一分钟看懂.md",
+        "detail": "商业与产品/AISAS消费者行为分析模型/明细.md",
+        "cases": "商业与产品/AISAS消费者行为分析模型/案例.md",
+        "image": "商业与产品/AISAS消费者行为分析模型/模型示意图.png",
+        "vector": "商业与产品/AISAS消费者行为分析模型/模型示意图.svg"
+      },
+      "directory": "商业与产品/AISAS消费者行为分析模型"
+    },
+    {
+      "name": "GRAI复盘模型",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV12P4y1B7L9"
+      ],
+      "files": {
+        "overview": "行动与复盘/GRAI复盘模型/一分钟看懂.md",
+        "detail": "行动与复盘/GRAI复盘模型/明细.md",
+        "cases": "行动与复盘/GRAI复盘模型/案例.md",
+        "image": "行动与复盘/GRAI复盘模型/模型示意图.png",
+        "vector": "行动与复盘/GRAI复盘模型/模型示意图.svg"
+      },
+      "directory": "行动与复盘/GRAI复盘模型"
+    },
+    {
+      "name": "系统思维",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1HK411i7TU"
+      ],
+      "files": {
+        "overview": "系统与问题分析/系统思维/一分钟看懂.md",
+        "detail": "系统与问题分析/系统思维/明细.md",
+        "cases": "系统与问题分析/系统思维/案例.md",
+        "image": "系统与问题分析/系统思维/模型示意图.png",
+        "vector": "系统与问题分析/系统思维/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/系统思维"
+    },
+    {
+      "name": "四象限法则",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV11v4y1i7n4"
+      ],
+      "files": {
+        "overview": "行动与复盘/四象限法则/一分钟看懂.md",
+        "detail": "行动与复盘/四象限法则/明细.md",
+        "cases": "行动与复盘/四象限法则/案例.md",
+        "image": "行动与复盘/四象限法则/模型示意图.png",
+        "vector": "行动与复盘/四象限法则/模型示意图.svg"
+      },
+      "directory": "行动与复盘/四象限法则"
+    },
+    {
+      "name": "KISS复盘模型",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Y3411Z7Mj"
+      ],
+      "files": {
+        "overview": "行动与复盘/KISS复盘模型/一分钟看懂.md",
+        "detail": "行动与复盘/KISS复盘模型/明细.md",
+        "cases": "行动与复盘/KISS复盘模型/案例.md",
+        "image": "行动与复盘/KISS复盘模型/模型示意图.png",
+        "vector": "行动与复盘/KISS复盘模型/模型示意图.svg"
+      },
+      "directory": "行动与复盘/KISS复盘模型"
+    },
+    {
+      "name": "WOOP思维工具",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1CG4y1M75M"
+      ],
+      "files": {
+        "overview": "行动与复盘/WOOP思维工具/一分钟看懂.md",
+        "detail": "行动与复盘/WOOP思维工具/明细.md",
+        "cases": "行动与复盘/WOOP思维工具/案例.md",
+        "image": "行动与复盘/WOOP思维工具/模型示意图.png",
+        "vector": "行动与复盘/WOOP思维工具/模型示意图.svg"
+      },
+      "directory": "行动与复盘/WOOP思维工具"
+    },
+    {
+      "name": "费曼学习法",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1LD4y1N7Gw"
+      ],
+      "files": {
+        "overview": "学习与认知/费曼学习法/一分钟看懂.md",
+        "detail": "学习与认知/费曼学习法/明细.md",
+        "cases": "学习与认知/费曼学习法/案例.md",
+        "image": "学习与认知/费曼学习法/模型示意图.png",
+        "vector": "学习与认知/费曼学习法/模型示意图.svg"
+      },
+      "directory": "学习与认知/费曼学习法"
+    },
+    {
+      "name": "卡尼曼双系统",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1wT411i7hb"
+      ],
+      "files": {
+        "overview": "判断与决策/卡尼曼双系统/一分钟看懂.md",
+        "detail": "判断与决策/卡尼曼双系统/明细.md",
+        "cases": "判断与决策/卡尼曼双系统/案例.md",
+        "image": "判断与决策/卡尼曼双系统/模型示意图.png",
+        "vector": "判断与决策/卡尼曼双系统/模型示意图.svg"
+      },
+      "directory": "判断与决策/卡尼曼双系统"
+    },
+    {
+      "name": "心流",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1wA41127nw"
+      ],
+      "files": {
+        "overview": "学习与认知/心流/一分钟看懂.md",
+        "detail": "学习与认知/心流/明细.md",
+        "cases": "学习与认知/心流/案例.md",
+        "image": "学习与认知/心流/模型示意图.png",
+        "vector": "学习与认知/心流/模型示意图.svg"
+      },
+      "directory": "学习与认知/心流"
+    },
+    {
+      "name": "次心流",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "“次心流”没有在本次资料中获得与视频一致的定义；以下采用“普通投入也能推进任务”的参考主题，不定义新的心理学等级。",
+      "source_bvids": [
+        "BV1wA41127nw"
+      ],
+      "files": {
+        "overview": "学习与认知/次心流/一分钟看懂.md",
+        "detail": "学习与认知/次心流/明细.md",
+        "cases": "学习与认知/次心流/案例.md",
+        "image": "学习与认知/次心流/模型示意图.png",
+        "vector": "学习与认知/次心流/模型示意图.svg"
+      },
+      "directory": "学习与认知/次心流"
+    },
+    {
+      "name": "Hook上瘾模型",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1ZX4y1U7x6"
+      ],
+      "files": {
+        "overview": "商业与产品/Hook上瘾模型/一分钟看懂.md",
+        "detail": "商业与产品/Hook上瘾模型/明细.md",
+        "cases": "商业与产品/Hook上瘾模型/案例.md",
+        "image": "商业与产品/Hook上瘾模型/模型示意图.png",
+        "vector": "商业与产品/Hook上瘾模型/模型示意图.svg"
+      },
+      "directory": "商业与产品/Hook上瘾模型"
+    },
+    {
+      "name": "峰终定律",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1ib411f7mF"
+      ],
+      "files": {
+        "overview": "商业与产品/峰终定律/一分钟看懂.md",
+        "detail": "商业与产品/峰终定律/明细.md",
+        "cases": "商业与产品/峰终定律/案例.md",
+        "image": "商业与产品/峰终定律/模型示意图.png",
+        "vector": "商业与产品/峰终定律/模型示意图.svg"
+      },
+      "directory": "商业与产品/峰终定律"
+    },
+    {
+      "name": "首因效应",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1FL411Z74a"
+      ],
+      "files": {
+        "overview": "表达与协作/首因效应/一分钟看懂.md",
+        "detail": "表达与协作/首因效应/明细.md",
+        "cases": "表达与协作/首因效应/案例.md",
+        "image": "表达与协作/首因效应/模型示意图.png",
+        "vector": "表达与协作/首因效应/模型示意图.svg"
+      },
+      "directory": "表达与协作/首因效应"
+    },
+    {
+      "name": "近因效应",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1FL411Z74a"
+      ],
+      "files": {
+        "overview": "表达与协作/近因效应/一分钟看懂.md",
+        "detail": "表达与协作/近因效应/明细.md",
+        "cases": "表达与协作/近因效应/案例.md",
+        "image": "表达与协作/近因效应/模型示意图.png",
+        "vector": "表达与协作/近因效应/模型示意图.svg"
+      },
+      "directory": "表达与协作/近因效应"
+    },
+    {
+      "name": "生命的维度",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "视频标题未给出维度定义；以下采用多维生活盘点，不代表作者模型，不用于给生命价值评分或临床评估。",
+      "source_bvids": [
+        "BV1qL411X7UK"
+      ],
+      "files": {
+        "overview": "学习与认知/生命的维度/一分钟看懂.md",
+        "detail": "学习与认知/生命的维度/明细.md",
+        "cases": "学习与认知/生命的维度/案例.md",
+        "image": "学习与认知/生命的维度/模型示意图.png",
+        "vector": "学习与认知/生命的维度/模型示意图.svg"
+      },
+      "directory": "学习与认知/生命的维度"
+    },
+    {
+      "name": "道法术器",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。实际参考主题：任务中目的、方法、动作与工具的一致性；四层工作定义为本库整理。",
+      "source_bvids": [
+        "BV1wL411D7Ue"
+      ],
+      "files": {
+        "overview": "系统与问题分析/道法术器/一分钟看懂.md",
+        "detail": "系统与问题分析/道法术器/明细.md",
+        "cases": "系统与问题分析/道法术器/案例.md",
+        "image": "系统与问题分析/道法术器/模型示意图.png",
+        "vector": "系统与问题分析/道法术器/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/道法术器"
+    },
+    {
+      "name": "双目标清单思维",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。实际参考主题：结果目标与执行行动的衔接；两张清单是本库整理。",
+      "source_bvids": [
+        "BV1Ba4y1T7gd"
+      ],
+      "files": {
+        "overview": "行动与复盘/双目标清单思维/一分钟看懂.md",
+        "detail": "行动与复盘/双目标清单思维/明细.md",
+        "cases": "行动与复盘/双目标清单思维/案例.md",
+        "image": "行动与复盘/双目标清单思维/模型示意图.png",
+        "vector": "行动与复盘/双目标清单思维/模型示意图.svg"
+      },
+      "directory": "行动与复盘/双目标清单思维"
+    },
+    {
+      "name": "护城河理论",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1tv4y1E7wj"
+      ],
+      "files": {
+        "overview": "商业与产品/护城河理论/一分钟看懂.md",
+        "detail": "商业与产品/护城河理论/明细.md",
+        "cases": "商业与产品/护城河理论/案例.md",
+        "image": "商业与产品/护城河理论/模型示意图.png",
+        "vector": "商业与产品/护城河理论/模型示意图.svg"
+      },
+      "directory": "商业与产品/护城河理论"
+    },
+    {
+      "name": "元认知",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1fT411b75B"
+      ],
+      "files": {
+        "overview": "学习与认知/元认知/一分钟看懂.md",
+        "detail": "学习与认知/元认知/明细.md",
+        "cases": "学习与认知/元认知/案例.md",
+        "image": "学习与认知/元认知/模型示意图.png",
+        "vector": "学习与认知/元认知/模型示意图.svg"
+      },
+      "directory": "学习与认知/元认知"
+    },
+    {
+      "name": "课题分离",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1hm4y1t7Zo"
+      ],
+      "files": {
+        "overview": "表达与协作/课题分离/一分钟看懂.md",
+        "detail": "表达与协作/课题分离/明细.md",
+        "cases": "表达与协作/课题分离/案例.md",
+        "image": "表达与协作/课题分离/模型示意图.png",
+        "vector": "表达与协作/课题分离/模型示意图.svg"
+      },
+      "directory": "表达与协作/课题分离"
+    },
+    {
+      "name": "耶克斯多德森定律",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1uX4y1s7X8"
+      ],
+      "files": {
+        "overview": "学习与认知/耶克斯多德森定律/一分钟看懂.md",
+        "detail": "学习与认知/耶克斯多德森定律/明细.md",
+        "cases": "学习与认知/耶克斯多德森定律/案例.md",
+        "image": "学习与认知/耶克斯多德森定律/模型示意图.png",
+        "vector": "学习与认知/耶克斯多德森定律/模型示意图.svg"
+      },
+      "directory": "学习与认知/耶克斯多德森定律"
+    },
+    {
+      "name": "需求三角模型",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。实际参考主题：问题、方案与行动障碍的需求验证；仅找到二手原义线索。",
+      "source_bvids": [
+        "BV16u411V7Um"
+      ],
+      "files": {
+        "overview": "商业与产品/需求三角模型/一分钟看懂.md",
+        "detail": "商业与产品/需求三角模型/明细.md",
+        "cases": "商业与产品/需求三角模型/案例.md",
+        "image": "商业与产品/需求三角模型/模型示意图.png",
+        "vector": "商业与产品/需求三角模型/模型示意图.svg"
+      },
+      "directory": "商业与产品/需求三角模型"
+    },
+    {
+      "name": "冰山模型",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1pm4y1s7oY"
+      ],
+      "files": {
+        "overview": "系统与问题分析/冰山模型/一分钟看懂.md",
+        "detail": "系统与问题分析/冰山模型/明细.md",
+        "cases": "系统与问题分析/冰山模型/案例.md",
+        "image": "系统与问题分析/冰山模型/模型示意图.png",
+        "vector": "系统与问题分析/冰山模型/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/冰山模型"
+    },
+    {
+      "name": "成长型思维",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1aN411q77u"
+      ],
+      "files": {
+        "overview": "学习与认知/成长型思维/一分钟看懂.md",
+        "detail": "学习与认知/成长型思维/明细.md",
+        "cases": "学习与认知/成长型思维/案例.md",
+        "image": "学习与认知/成长型思维/模型示意图.png",
+        "vector": "学习与认知/成长型思维/模型示意图.svg"
+      },
+      "directory": "学习与认知/成长型思维"
+    },
+    {
+      "name": "RICE全科问诊模式",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Ch4y1P7bc"
+      ],
+      "files": {
+        "overview": "专业借鉴与待核实主题/RICE全科问诊模式/一分钟看懂.md",
+        "detail": "专业借鉴与待核实主题/RICE全科问诊模式/明细.md",
+        "cases": "专业借鉴与待核实主题/RICE全科问诊模式/案例.md",
+        "image": "专业借鉴与待核实主题/RICE全科问诊模式/模型示意图.png",
+        "vector": "专业借鉴与待核实主题/RICE全科问诊模式/模型示意图.svg"
+      },
+      "directory": "专业借鉴与待核实主题/RICE全科问诊模式"
+    },
+    {
+      "name": "莫塔五问",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1zK4y1c7aP"
+      ],
+      "files": {
+        "overview": "专业借鉴与待核实主题/莫塔五问/一分钟看懂.md",
+        "detail": "专业借鉴与待核实主题/莫塔五问/明细.md",
+        "cases": "专业借鉴与待核实主题/莫塔五问/案例.md",
+        "image": "专业借鉴与待核实主题/莫塔五问/模型示意图.png",
+        "vector": "专业借鉴与待核实主题/莫塔五问/模型示意图.svg"
+      },
+      "directory": "专业借鉴与待核实主题/莫塔五问"
+    },
+    {
+      "name": "MVP思维模型",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1FF411U7wp"
+      ],
+      "files": {
+        "overview": "商业与产品/MVP思维模型/一分钟看懂.md",
+        "detail": "商业与产品/MVP思维模型/明细.md",
+        "cases": "商业与产品/MVP思维模型/案例.md",
+        "image": "商业与产品/MVP思维模型/模型示意图.png",
+        "vector": "商业与产品/MVP思维模型/模型示意图.svg"
+      },
+      "directory": "商业与产品/MVP思维模型"
+    },
+    {
+      "name": "长尾效应",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1U34y1u7kD"
+      ],
+      "files": {
+        "overview": "商业与产品/长尾效应/一分钟看懂.md",
+        "detail": "商业与产品/长尾效应/明细.md",
+        "cases": "商业与产品/长尾效应/案例.md",
+        "image": "商业与产品/长尾效应/模型示意图.png",
+        "vector": "商业与产品/长尾效应/模型示意图.svg"
+      },
+      "directory": "商业与产品/长尾效应"
+    },
+    {
+      "name": "反反木桶原理",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名原义待核实。本组文件提供明确注明的相关主题参考，不代表作者模型或视频观点。",
+      "source_bvids": [
+        "BV1Lp4y1T7Xm"
+      ],
+      "files": {
+        "overview": "系统与问题分析/反反木桶原理/一分钟看懂.md",
+        "detail": "系统与问题分析/反反木桶原理/明细.md",
+        "cases": "系统与问题分析/反反木桶原理/案例.md",
+        "image": "系统与问题分析/反反木桶原理/模型示意图.png",
+        "vector": "系统与问题分析/反反木桶原理/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/反反木桶原理"
+    },
+    {
+      "name": "三三制",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名原义待核实。本组文件提供明确注明的相关主题参考，不代表作者模型或视频观点。",
+      "source_bvids": [
+        "BV1oe411Q7Hh"
+      ],
+      "files": {
+        "overview": "表达与协作/三三制/一分钟看懂.md",
+        "detail": "表达与协作/三三制/明细.md",
+        "cases": "表达与协作/三三制/案例.md",
+        "image": "表达与协作/三三制/模型示意图.png",
+        "vector": "表达与协作/三三制/模型示意图.svg"
+      },
+      "directory": "表达与协作/三三制"
+    },
+    {
+      "name": "沉没成本",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1pw411H7EZ"
+      ],
+      "files": {
+        "overview": "判断与决策/沉没成本/一分钟看懂.md",
+        "detail": "判断与决策/沉没成本/明细.md",
+        "cases": "判断与决策/沉没成本/案例.md",
+        "image": "判断与决策/沉没成本/模型示意图.png",
+        "vector": "判断与决策/沉没成本/模型示意图.svg"
+      },
+      "directory": "判断与决策/沉没成本"
+    },
+    {
+      "name": "心理账户",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1hT4y1b7Rd"
+      ],
+      "files": {
+        "overview": "判断与决策/心理账户/一分钟看懂.md",
+        "detail": "判断与决策/心理账户/明细.md",
+        "cases": "判断与决策/心理账户/案例.md",
+        "image": "判断与决策/心理账户/模型示意图.png",
+        "vector": "判断与决策/心理账户/模型示意图.svg"
+      },
+      "directory": "判断与决策/心理账户"
+    },
+    {
+      "name": "框架效应",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1eU421Z7Mx"
+      ],
+      "files": {
+        "overview": "判断与决策/框架效应/一分钟看懂.md",
+        "detail": "判断与决策/框架效应/明细.md",
+        "cases": "判断与决策/框架效应/案例.md",
+        "image": "判断与决策/框架效应/模型示意图.png",
+        "vector": "判断与决策/框架效应/模型示意图.svg"
+      },
+      "directory": "判断与决策/框架效应"
+    },
+    {
+      "name": "前景理论",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Vm411Z73R"
+      ],
+      "files": {
+        "overview": "判断与决策/前景理论/一分钟看懂.md",
+        "detail": "判断与决策/前景理论/明细.md",
+        "cases": "判断与决策/前景理论/案例.md",
+        "image": "判断与决策/前景理论/模型示意图.png",
+        "vector": "判断与决策/前景理论/模型示意图.svg"
+      },
+      "directory": "判断与决策/前景理论"
+    },
+    {
+      "name": "笛卡尔批判思维模型",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Ry421i7Cc"
+      ],
+      "files": {
+        "overview": "判断与决策/笛卡尔批判思维模型/一分钟看懂.md",
+        "detail": "判断与决策/笛卡尔批判思维模型/明细.md",
+        "cases": "判断与决策/笛卡尔批判思维模型/案例.md",
+        "image": "判断与决策/笛卡尔批判思维模型/模型示意图.png",
+        "vector": "判断与决策/笛卡尔批判思维模型/模型示意图.svg"
+      },
+      "directory": "判断与决策/笛卡尔批判思维模型"
+    },
+    {
+      "name": "待核实主题-BV1Pm411d7JL",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "原标题为“励志公式，看着就烦？烦就对了，哈哈哈。”；本稿讨论增长公式与学习的关系，不认定视频使用了下述公式。",
+      "source_bvids": [
+        "BV1Pm411d7JL"
+      ],
+      "files": {
+        "overview": "专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL/一分钟看懂.md",
+        "detail": "专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL/明细.md",
+        "cases": "专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL/案例.md",
+        "image": "专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL/模型示意图.png",
+        "vector": "专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL/模型示意图.svg"
+      },
+      "directory": "专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL"
+    },
+    {
+      "name": "头脑风暴",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV16t42137DT"
+      ],
+      "files": {
+        "overview": "表达与协作/头脑风暴/一分钟看懂.md",
+        "detail": "表达与协作/头脑风暴/明细.md",
+        "cases": "表达与协作/头脑风暴/案例.md",
+        "image": "表达与协作/头脑风暴/模型示意图.png",
+        "vector": "表达与协作/头脑风暴/模型示意图.svg"
+      },
+      "directory": "表达与协作/头脑风暴"
+    },
+    {
+      "name": "STP市场细分理论",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1wx421S7Ha"
+      ],
+      "files": {
+        "overview": "商业与产品/STP市场细分理论/一分钟看懂.md",
+        "detail": "商业与产品/STP市场细分理论/明细.md",
+        "cases": "商业与产品/STP市场细分理论/案例.md",
+        "image": "商业与产品/STP市场细分理论/模型示意图.png",
+        "vector": "商业与产品/STP市场细分理论/模型示意图.svg"
+      },
+      "directory": "商业与产品/STP市场细分理论"
+    },
+    {
+      "name": "奥斯本检核表法",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1WT42127oh"
+      ],
+      "files": {
+        "overview": "表达与协作/奥斯本检核表法/一分钟看懂.md",
+        "detail": "表达与协作/奥斯本检核表法/明细.md",
+        "cases": "表达与协作/奥斯本检核表法/案例.md",
+        "image": "表达与协作/奥斯本检核表法/模型示意图.png",
+        "vector": "表达与协作/奥斯本检核表法/模型示意图.svg"
+      },
+      "directory": "表达与协作/奥斯本检核表法"
+    },
+    {
+      "name": "待核实主题-BV1Nm421N7bp",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "原标题“每个管理者都不称职？”未明确命名；本稿以彼得原理与岗位适配为相关主题，不认定视频内容。",
+      "source_bvids": [
+        "BV1Nm421N7bp"
+      ],
+      "files": {
+        "overview": "专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp/一分钟看懂.md",
+        "detail": "专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp/明细.md",
+        "cases": "专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp/案例.md",
+        "image": "专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp/模型示意图.png",
+        "vector": "专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp/模型示意图.svg"
+      },
+      "directory": "专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp"
+    },
+    {
+      "name": "FAB销售法则",
+      "categories": [
+        "商业与产品"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1qs421u7y6"
+      ],
+      "files": {
+        "overview": "商业与产品/FAB销售法则/一分钟看懂.md",
+        "detail": "商业与产品/FAB销售法则/明细.md",
+        "cases": "商业与产品/FAB销售法则/案例.md",
+        "image": "商业与产品/FAB销售法则/模型示意图.png",
+        "vector": "商业与产品/FAB销售法则/模型示意图.svg"
+      },
+      "directory": "商业与产品/FAB销售法则"
+    },
+    {
+      "name": "TTT思维",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "本稿采用Train the Trainer（培训培训者）的通用语境；具体视频课程结构尚未核对，不把它当作固定三步法。",
+      "source_bvids": [
+        "BV1Fm421V7hQ"
+      ],
+      "files": {
+        "overview": "表达与协作/TTT思维/一分钟看懂.md",
+        "detail": "表达与协作/TTT思维/明细.md",
+        "cases": "表达与协作/TTT思维/案例.md",
+        "image": "表达与协作/TTT思维/模型示意图.png",
+        "vector": "表达与协作/TTT思维/模型示意图.svg"
+      },
+      "directory": "表达与协作/TTT思维"
+    },
+    {
+      "name": "SOLO分类理论",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Y6421Z7wK"
+      ],
+      "files": {
+        "overview": "学习与认知/SOLO分类理论/一分钟看懂.md",
+        "detail": "学习与认知/SOLO分类理论/明细.md",
+        "cases": "学习与认知/SOLO分类理论/案例.md",
+        "image": "学习与认知/SOLO分类理论/模型示意图.png",
+        "vector": "学习与认知/SOLO分类理论/模型示意图.svg"
+      },
+      "directory": "学习与认知/SOLO分类理论"
+    },
+    {
+      "name": "OGSM目标管理工具",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1xJ4m1u7JS"
+      ],
+      "files": {
+        "overview": "行动与复盘/OGSM目标管理工具/一分钟看懂.md",
+        "detail": "行动与复盘/OGSM目标管理工具/明细.md",
+        "cases": "行动与复盘/OGSM目标管理工具/案例.md",
+        "image": "行动与复盘/OGSM目标管理工具/模型示意图.png",
+        "vector": "行动与复盘/OGSM目标管理工具/模型示意图.svg"
+      },
+      "directory": "行动与复盘/OGSM目标管理工具"
+    },
+    {
+      "name": "马太效应",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1wm42137UW"
+      ],
+      "files": {
+        "overview": "系统与问题分析/马太效应/一分钟看懂.md",
+        "detail": "系统与问题分析/马太效应/明细.md",
+        "cases": "系统与问题分析/马太效应/案例.md",
+        "image": "系统与问题分析/马太效应/模型示意图.png",
+        "vector": "系统与问题分析/马太效应/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/马太效应"
+    },
+    {
+      "name": "诺依曼思维",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "名称保留原题用字；以下采用“分解、接口、组合验证”的系统分析参考，不将此名称归为冯·诺依曼提出的正式理论。",
+      "source_bvids": [
+        "BV1uZ421K7aM"
+      ],
+      "files": {
+        "overview": "系统与问题分析/诺依曼思维/一分钟看懂.md",
+        "detail": "系统与问题分析/诺依曼思维/明细.md",
+        "cases": "系统与问题分析/诺依曼思维/案例.md",
+        "image": "系统与问题分析/诺依曼思维/模型示意图.png",
+        "vector": "系统与问题分析/诺依曼思维/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/诺依曼思维"
+    },
+    {
+      "name": "多环集合思维",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。",
+      "source_bvids": [
+        "BV1nx4y1s7rt"
+      ],
+      "files": {
+        "overview": "系统与问题分析/多环集合思维/一分钟看懂.md",
+        "detail": "系统与问题分析/多环集合思维/明细.md",
+        "cases": "系统与问题分析/多环集合思维/案例.md",
+        "image": "系统与问题分析/多环集合思维/模型示意图.png",
+        "vector": "系统与问题分析/多环集合思维/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/多环集合思维"
+    },
+    {
+      "name": "PREP表达方式",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1bm42137kK"
+      ],
+      "files": {
+        "overview": "表达与协作/PREP表达方式/一分钟看懂.md",
+        "detail": "表达与协作/PREP表达方式/明细.md",
+        "cases": "表达与协作/PREP表达方式/案例.md",
+        "image": "表达与协作/PREP表达方式/模型示意图.png",
+        "vector": "表达与协作/PREP表达方式/模型示意图.svg"
+      },
+      "directory": "表达与协作/PREP表达方式"
+    },
+    {
+      "name": "机会成本",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1o9WSepEpZ"
+      ],
+      "files": {
+        "overview": "判断与决策/机会成本/一分钟看懂.md",
+        "detail": "判断与决策/机会成本/明细.md",
+        "cases": "判断与决策/机会成本/案例.md",
+        "image": "判断与决策/机会成本/模型示意图.png",
+        "vector": "判断与决策/机会成本/模型示意图.svg"
+      },
+      "directory": "判断与决策/机会成本"
+    },
+    {
+      "name": "蔡氏效应",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Vap4ejEJm"
+      ],
+      "files": {
+        "overview": "学习与认知/蔡氏效应/一分钟看懂.md",
+        "detail": "学习与认知/蔡氏效应/明细.md",
+        "cases": "学习与认知/蔡氏效应/案例.md",
+        "image": "学习与认知/蔡氏效应/模型示意图.png",
+        "vector": "学习与认知/蔡氏效应/模型示意图.svg"
+      },
+      "directory": "学习与认知/蔡氏效应"
+    },
+    {
+      "name": "逆向思维",
+      "categories": [
+        "判断与决策"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1Nmt5eLE29"
+      ],
+      "files": {
+        "overview": "判断与决策/逆向思维/一分钟看懂.md",
+        "detail": "判断与决策/逆向思维/明细.md",
+        "cases": "判断与决策/逆向思维/案例.md",
+        "image": "判断与决策/逆向思维/模型示意图.png",
+        "vector": "判断与决策/逆向思维/模型示意图.svg"
+      },
+      "directory": "判断与决策/逆向思维"
+    },
+    {
+      "name": "帕金森定律",
+      "categories": [
+        "行动与复盘"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1xPxFehECc"
+      ],
+      "files": {
+        "overview": "行动与复盘/帕金森定律/一分钟看懂.md",
+        "detail": "行动与复盘/帕金森定律/明细.md",
+        "cases": "行动与复盘/帕金森定律/案例.md",
+        "image": "行动与复盘/帕金森定律/模型示意图.png",
+        "vector": "行动与复盘/帕金森定律/模型示意图.svg"
+      },
+      "directory": "行动与复盘/帕金森定律"
+    },
+    {
+      "name": "SECI模型",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1pcxteTEhG"
+      ],
+      "files": {
+        "overview": "系统与问题分析/SECI模型/一分钟看懂.md",
+        "detail": "系统与问题分析/SECI模型/明细.md",
+        "cases": "系统与问题分析/SECI模型/案例.md",
+        "image": "系统与问题分析/SECI模型/模型示意图.png",
+        "vector": "系统与问题分析/SECI模型/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/SECI模型"
+    },
+    {
+      "name": "共鸣能量释放",
+      "categories": [
+        "专业借鉴与待核实主题"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名中的“能量”不作物理量理解；以下采用共同理解与公开协调的传播参考，不声称复现作者模型。",
+      "source_bvids": [
+        "BV1e82pYyEfs"
+      ],
+      "files": {
+        "overview": "专业借鉴与待核实主题/共鸣能量释放/一分钟看懂.md",
+        "detail": "专业借鉴与待核实主题/共鸣能量释放/明细.md",
+        "cases": "专业借鉴与待核实主题/共鸣能量释放/案例.md",
+        "image": "专业借鉴与待核实主题/共鸣能量释放/模型示意图.png",
+        "vector": "专业借鉴与待核实主题/共鸣能量释放/模型示意图.svg"
+      },
+      "directory": "专业借鉴与待核实主题/共鸣能量释放"
+    },
+    {
+      "name": "总观效应",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1bj2hYxEVz"
+      ],
+      "files": {
+        "overview": "学习与认知/总观效应/一分钟看懂.md",
+        "detail": "学习与认知/总观效应/明细.md",
+        "cases": "学习与认知/总观效应/案例.md",
+        "image": "学习与认知/总观效应/模型示意图.png",
+        "vector": "学习与认知/总观效应/模型示意图.svg"
+      },
+      "directory": "学习与认知/总观效应"
+    },
+    {
+      "name": "贝勃定律",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名来源及定义尚未充分核实；本文采用“习惯化与反应变化”的参考主题，不将其等同于韦伯定律或所有情绪适应。",
+      "source_bvids": [
+        "BV15mCdYhEV8"
+      ],
+      "files": {
+        "overview": "学习与认知/贝勃定律/一分钟看懂.md",
+        "detail": "学习与认知/贝勃定律/明细.md",
+        "cases": "学习与认知/贝勃定律/案例.md",
+        "image": "学习与认知/贝勃定律/模型示意图.png",
+        "vector": "学习与认知/贝勃定律/模型示意图.svg"
+      },
+      "directory": "学习与认知/贝勃定律"
+    },
+    {
+      "name": "曼陀罗思考法",
+      "categories": [
+        "表达与协作"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV12jyUYaEeo"
+      ],
+      "files": {
+        "overview": "表达与协作/曼陀罗思考法/一分钟看懂.md",
+        "detail": "表达与协作/曼陀罗思考法/明细.md",
+        "cases": "表达与协作/曼陀罗思考法/案例.md",
+        "image": "表达与协作/曼陀罗思考法/模型示意图.png",
+        "vector": "表达与协作/曼陀罗思考法/模型示意图.svg"
+      },
+      "directory": "表达与协作/曼陀罗思考法"
+    },
+    {
+      "name": "NLP理解层次",
+      "categories": [
+        "学习与认知"
+      ],
+      "content_type": "通用知识版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "采用版本见正文，尚未与视频核对",
+      "scope_note": "正文说明所采用的通用概念与版本；未确认其与本合集视频的具体讲法一致。",
+      "source_bvids": [
+        "BV1R4S8Y6ED1"
+      ],
+      "files": {
+        "overview": "学习与认知/NLP理解层次/一分钟看懂.md",
+        "detail": "学习与认知/NLP理解层次/明细.md",
+        "cases": "学习与认知/NLP理解层次/案例.md",
+        "image": "学习与认知/NLP理解层次/模型示意图.png",
+        "vector": "学习与认知/NLP理解层次/模型示意图.svg"
+      },
+      "directory": "学习与认知/NLP理解层次"
+    },
+    {
+      "name": "大道至简",
+      "categories": [
+        "系统与问题分析"
+      ],
+      "content_type": "主题参考版",
+      "article_status": "三份正文已完成",
+      "diagram_status": "PNG与SVG已完成",
+      "definition_status": "题名原义待核实",
+      "scope_note": "题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。",
+      "source_bvids": [
+        "BV1fpSRYJEZA"
+      ],
+      "files": {
+        "overview": "系统与问题分析/大道至简/一分钟看懂.md",
+        "detail": "系统与问题分析/大道至简/明细.md",
+        "cases": "系统与问题分析/大道至简/案例.md",
+        "image": "系统与问题分析/大道至简/模型示意图.png",
+        "vector": "系统与问题分析/大道至简/模型示意图.svg"
+      },
+      "directory": "系统与问题分析/大道至简"
+    }
+  ],
+  "content_updated_at": "2026-09-09",
+  "content_summary": {
+    "topic_count": 103,
+    "general_knowledge_topics": 81,
+    "reference_topics_pending_original_definition": 22,
+    "article_files": 309,
+    "overview_images": 103,
+    "editable_svg_files": 103,
+    "video_parsed_count": 0
+  },
+  "status_definitions": {
+    "三份正文已完成": "文件包含速览、原理用法与案例；不等于视频解析完成",
+    "通用知识版": "采用已说明的通用概念或版本，未与视频核对",
+    "主题参考版": "题名原义尚未确认，提供相关主题知识，不能视作作者模型",
+    "title_stage_mapping_notes": "最初标题采集阶段的历史备注；当前范围以topics中的状态和正文为准"
+  }
+}
