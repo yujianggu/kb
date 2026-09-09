@@ -554,4 +554,4 @@ Security  控制不同角色和 AI Agent 能看什么、算什么、做什么
 - [Action types overview](https://www.palantir.com/docs/foundry/action-types/overview)
 - [The Ontology system](https://www.palantir.com/docs/foundry/architecture-center/ontology-system)
 
-[返回本目录](./README.md)
+[返回本目录](README.md)

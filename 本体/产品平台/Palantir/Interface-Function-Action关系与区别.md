@@ -519,4 +519,4 @@ Interface
   → Writeback / Webhook 同步外部系统
 ```
 
-[返回本目录](./README.md)
+[返回本目录](README.md)

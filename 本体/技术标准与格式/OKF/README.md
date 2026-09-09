@@ -1,6 +1,6 @@
 # OKF 开放知识格式资料
 
-- [Google OKF 开放知识格式](./Google-OKF开放知识格式.md)
+- [Google OKF 开放知识格式](Google-OKF开放知识格式.md)
 
 本文档沿用已有资料及来源；与 RDF、OWL 的关系应以正文及正式资料为准，不因同属技术目录而认定具有相同标准地位。
 

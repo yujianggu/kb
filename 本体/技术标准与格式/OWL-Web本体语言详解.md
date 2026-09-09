@@ -481,4 +481,4 @@ OWL 的价值不在于把所有流程都写成逻辑公理，而在于提供一�
 - [W3C OWL 2 Profiles](https://www.w3.org/TR/owl2-profiles/)
 - [W3C RDF 1.1 Concepts](https://www.w3.org/TR/rdf11-concepts/)
 
-[返回本目录](./README.md)
+[返回本目录](README.md)

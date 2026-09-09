@@ -95,4 +95,4 @@ Security：限制可见订单、可用仓库和可执行动作
 - [The Ontology system](https://www.palantir.com/docs/foundry/architecture-center/ontology-system)
 - [Action types overview](https://www.palantir.com/docs/foundry/action-types/overview)
 
-[返回本目录](./README.md)
+[返回本目录](README.md)

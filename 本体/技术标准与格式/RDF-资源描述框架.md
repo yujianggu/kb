@@ -505,4 +505,4 @@ RDF 的核心价值是把不同来源的信息转换成统一、可链接的图�
 - [W3C OWL 2 Overview](https://www.w3.org/TR/owl2-overview/)
 - [OWL-Web本体语言详解](OWL-Web本体语言详解.md)
 
-[返回本目录](./README.md)
+[返回本目录](README.md)
