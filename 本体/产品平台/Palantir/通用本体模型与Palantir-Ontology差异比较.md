@@ -94,3 +94,5 @@ Security：限制可见订单、可用仓库和可执行动作
 - [Why create an Ontology?](https://www.palantir.com/docs/foundry/ontology/why-ontology)
 - [The Ontology system](https://www.palantir.com/docs/foundry/architecture-center/ontology-system)
 - [Action types overview](https://www.palantir.com/docs/foundry/action-types/overview)
+
+[返回本目录](./README.md)

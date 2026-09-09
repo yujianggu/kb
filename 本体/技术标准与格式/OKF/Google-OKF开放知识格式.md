@@ -99,3 +99,5 @@ OKF 可以作为本体文档、数据目录、操作手册和 AI 上下文的交
 
 - [Google Cloud：Introducing the Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-open-knowledge-format-can-improve-data-sharing)
 - [OKF Specification](https://github.com/GoogleCloudPlatform/knowledge-catalog/blob/main/okf/SPEC.md)
+
+[返回本目录](./README.md)
