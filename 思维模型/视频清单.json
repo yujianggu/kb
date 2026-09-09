@@ -56,7 +56,8 @@
         "合取谬误": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 3,
@@ -81,7 +82,8 @@
       "title_stage_mapping_notes": [
         "名称含义待核实，可能为作者特定表述；不得直接等同于通用的休息或注意力理论。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 4,
@@ -109,7 +111,8 @@
         "按营销领域常见4P命名暂定映射；与4C来自同一视频，具体版本尚未与视频核对。",
         "按营销领域常见4C命名暂定映射；与4P来自同一视频，具体版本尚未与视频核对。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 5,
@@ -132,7 +135,8 @@
         "能力圈模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 6,
@@ -155,7 +159,8 @@
         "销售漏斗模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 7,
@@ -178,7 +183,8 @@
         "达克效应": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 8,
@@ -201,7 +207,8 @@
         "马斯洛需求层次理论": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 9,
@@ -226,7 +233,8 @@
       "title_stage_mapping_notes": [
         "沟通步骤及版本待核实，不能仅根据“五遍”猜测五个环节。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 10,
@@ -251,7 +259,8 @@
       "title_stage_mapping_notes": [
         "标题明确将军标六性类比到职场；不得把类比解释当作军用标准条文。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 11,
@@ -276,7 +285,8 @@
       "title_stage_mapping_notes": [
         "保留标题中的101010；具体时间尺度及作者定义待核实。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 12,
@@ -299,7 +309,8 @@
         "冗余备份思维模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 13,
@@ -324,7 +335,8 @@
       "title_stage_mapping_notes": [
         "可能存在跨领域同名概念，需核实视频使用的定义。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 14,
@@ -347,7 +359,8 @@
         "安全边际思维模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 15,
@@ -372,7 +385,8 @@
       "title_stage_mapping_notes": [
         "组合主题入口；标题未列出全部组成，不推测包含哪些营销模型。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 16,
@@ -395,7 +409,8 @@
         "PEST分析模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 17,
@@ -418,7 +433,8 @@
         "波特五力模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 18,
@@ -441,7 +457,8 @@
         "波士顿矩阵": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 19,
@@ -464,7 +481,8 @@
         "SWOT分析模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 20,
@@ -487,7 +505,8 @@
         "黄金圈法则": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 21,
@@ -510,7 +529,8 @@
         "六顶思考帽": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 22,
@@ -533,7 +553,8 @@
         "第一性原理": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 23,
@@ -556,7 +577,8 @@
         "路径依赖": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 24,
@@ -579,7 +601,8 @@
         "SMART原则": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 25,
@@ -604,7 +627,8 @@
       "title_stage_mapping_notes": [
         "名称及作者使用方式待核实，暂不编造模型步骤。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 26,
@@ -627,7 +651,8 @@
         "二八法则": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 27,
@@ -652,7 +677,8 @@
       "title_stage_mapping_notes": [
         "同名表述可能指不同概念，需核实其具体定义。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 28,
@@ -675,7 +701,8 @@
         "PDCA循环": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 29,
@@ -698,7 +725,8 @@
         "金字塔原理": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 30,
@@ -721,7 +749,8 @@
         "SCQA序言结构": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 31,
@@ -744,7 +773,8 @@
         "MECE原则": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 32,
@@ -767,7 +797,8 @@
         "问题树": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 33,
@@ -790,7 +821,8 @@
         "奥卡姆剃刀": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 34,
@@ -815,7 +847,8 @@
       "title_stage_mapping_notes": [
         "保留作者题名，具体定义与结构待核实。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 35,
@@ -840,7 +873,8 @@
       "title_stage_mapping_notes": [
         "后续区分哲学主张与经验科学证据，不作为已证实的普适定律。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 36,
@@ -863,7 +897,8 @@
         "乔哈里视窗": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 37,
@@ -886,7 +921,8 @@
         "SQ3R阅读法": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 38,
@@ -911,7 +947,8 @@
       "title_stage_mapping_notes": [
         "缩写释义与具体版本需核实。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 39,
@@ -934,7 +971,8 @@
         "GROW成长模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 40,
@@ -957,7 +995,8 @@
         "飞轮效应": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 41,
@@ -980,7 +1019,8 @@
         "六何法（5W1H）": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 42,
@@ -1003,7 +1043,8 @@
         "福格行为模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 43,
@@ -1028,7 +1069,8 @@
       "title_stage_mapping_notes": [
         "缩写及“非”的具体含义待核实。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 44,
@@ -1051,7 +1093,8 @@
         "沉默的螺旋": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 45,
@@ -1074,7 +1117,8 @@
         "AISAS消费者行为分析模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 46,
@@ -1099,7 +1143,8 @@
       "title_stage_mapping_notes": [
         "缩写释义及步骤版本需核实。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 47,
@@ -1122,7 +1167,8 @@
         "系统思维": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 48,
@@ -1147,7 +1193,8 @@
       "title_stage_mapping_notes": [
         "标题未给出两轴定义，暂不直接等同于时间管理矩阵。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 49,
@@ -1172,7 +1219,8 @@
       "title_stage_mapping_notes": [
         "标题指复盘版本，不能直接套用同缩写的软件设计原则。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 50,
@@ -1195,7 +1243,8 @@
         "WOOP思维工具": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 51,
@@ -1218,7 +1267,8 @@
         "费曼学习法": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 52,
@@ -1241,7 +1291,8 @@
         "卡尼曼双系统": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 53,
@@ -1268,7 +1319,8 @@
       "title_stage_mapping_notes": [
         "与心流来自同一视频；“次心流”的定义及来源需核实。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 54,
@@ -1291,7 +1343,8 @@
         "Hook上瘾模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 55,
@@ -1314,7 +1367,8 @@
         "峰终定律": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 56,
@@ -1339,7 +1393,8 @@
         "近因效应": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 57,
@@ -1364,7 +1419,8 @@
       "title_stage_mapping_notes": [
         "标题不足以确定模型的维度与结构，需核实作者定义。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 58,
@@ -1389,7 +1445,8 @@
       "title_stage_mapping_notes": [
         "保留为关系框架主题；层次定义与出处需核实。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 59,
@@ -1414,7 +1471,8 @@
       "title_stage_mapping_notes": [
         "标题不足以确定两类目标清单的规则。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 60,
@@ -1437,7 +1495,8 @@
         "护城河理论": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 61,
@@ -1460,7 +1519,8 @@
         "元认知": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 62,
@@ -1483,7 +1543,8 @@
         "课题分离": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 63,
@@ -1506,7 +1567,8 @@
         "耶克斯多德森定律": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 64,
@@ -1531,7 +1593,8 @@
       "title_stage_mapping_notes": [
         "标题将其归于李叫兽，暂仅保存这一题名归属；三要素具体定义待文字资料或视频核实。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 65,
@@ -1556,7 +1619,8 @@
       "title_stage_mapping_notes": [
         "冰山比喻存在多个版本，标题“大~~~冰山模型”不足以确定采用哪一种。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 66,
@@ -1579,7 +1643,8 @@
         "成长型思维": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 67,
@@ -1604,7 +1669,8 @@
       "title_stage_mapping_notes": [
         "标题明确为全科问诊模式；不得套用产品优先级RICE或运动损伤RICE。医疗内容需另查专业来源。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 68,
@@ -1629,7 +1695,8 @@
       "title_stage_mapping_notes": [
         "原题“莫塔5问”，在目录中规范数字写法；具体内容需专业来源核实，暂不提供诊疗建议。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 69,
@@ -1654,7 +1721,8 @@
       "title_stage_mapping_notes": [
         "标题强调缩写歧义；保留MVP，不在视频未核对时认定作者所指版本。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 70,
@@ -1677,7 +1745,8 @@
         "长尾效应": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 71,
@@ -1702,7 +1771,8 @@
       "title_stage_mapping_notes": [
         "保留作者的“反反”限定；不可直接覆盖成普通木桶原理。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 72,
@@ -1727,7 +1797,8 @@
       "title_stage_mapping_notes": [
         "仅保存题名中的组织主题，具体历史语境及跨领域适用性待核实。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 73,
@@ -1750,7 +1821,8 @@
         "沉没成本": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 74,
@@ -1773,7 +1845,8 @@
         "心理账户": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 75,
@@ -1796,7 +1869,8 @@
         "框架效应": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 76,
@@ -1819,7 +1893,8 @@
         "前景理论": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 77,
@@ -1844,7 +1919,8 @@
       "title_stage_mapping_notes": [
         "作者选取的具体规则、原始出处与模型结构待核实。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 78,
@@ -1869,7 +1945,8 @@
       "title_stage_mapping_notes": [
         "原标题仅为“励志公式，看着就烦？烦就对了，哈哈哈。”，不能据此认定具体模型。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 79,
@@ -1892,7 +1969,8 @@
         "头脑风暴": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 80,
@@ -1917,7 +1995,8 @@
       "title_stage_mapping_notes": [
         "保留标题明确的STP主题；“STPST”的含义待核实，不据此另造模型。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 81,
@@ -1940,7 +2019,8 @@
         "奥斯本检核表法": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 82,
@@ -1965,7 +2045,8 @@
       "title_stage_mapping_notes": [
         "原标题仅为“每个管理者都不称职？”，不能据此认定为彼得原理等具体理论。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 83,
@@ -1988,7 +2069,8 @@
         "FAB销售法则": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 84,
@@ -2013,7 +2095,8 @@
       "title_stage_mapping_notes": [
         "缩写高度歧义，暂不展开定义。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 85,
@@ -2036,7 +2119,8 @@
         "SOLO分类理论": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 86,
@@ -2059,7 +2143,8 @@
         "OGSM目标管理工具": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 87,
@@ -2082,7 +2167,8 @@
         "马太效应": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 88,
@@ -2107,7 +2193,8 @@
       "title_stage_mapping_notes": [
         "保留原题用字，不推断人物归属或模型步骤。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 89,
@@ -2132,7 +2219,8 @@
       "title_stage_mapping_notes": [
         "名称对应的集合关系与操作步骤待核实。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 90,
@@ -2155,7 +2243,8 @@
         "PREP表达方式": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 91,
@@ -2178,7 +2267,8 @@
         "机会成本": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 92,
@@ -2201,7 +2291,8 @@
         "蔡氏效应": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 93,
@@ -2224,7 +2315,8 @@
         "逆向思维": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 94,
@@ -2247,7 +2339,8 @@
         "帕金森定律": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 95,
@@ -2270,7 +2363,8 @@
         "SECI模型": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 96,
@@ -2295,7 +2389,8 @@
       "title_stage_mapping_notes": [
         "保留题名为主题入口，不能将“能量”比喻直接作为物理或心理科学结论。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 97,
@@ -2318,7 +2413,8 @@
         "总观效应": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 98,
@@ -2343,7 +2439,8 @@
       "title_stage_mapping_notes": [
         "名称、原始出处及与相近心理学概念的关系需核实，不直接与韦伯定律等同。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 99,
@@ -2366,7 +2463,8 @@
         "曼陀罗思考法": "通用知识版"
       },
       "title_stage_mapping_notes": [],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 100,
@@ -2391,7 +2489,8 @@
       "title_stage_mapping_notes": [
         "后续需说明NLP框架的证据边界，不沿用标题中的“万能”承诺。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 101,
@@ -2416,7 +2515,8 @@
       "title_stage_mapping_notes": [
         "作为方法论主题保留；标题不足以确定作者的具体框架。"
       ],
-      "diagram_status": "已完成（每主题PNG与SVG）"
+      "diagram_status": "已完成（每主题PNG与SVG）",
+      "real_case_status": "关联主题均已补充有来源真实案例；视频仍未解析"
     },
     {
       "order": 102,
@@ -2631,7 +2731,18 @@
         "image": "判断与决策/合取谬误/模型示意图.png",
         "vector": "判断与决策/合取谬误/模型示意图.svg"
       },
-      "directory": "判断与决策/合取谬误"
+      "directory": "判断与决策/合取谬误",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究：1983 年 Linda 实验，人物故事如何盖过集合关系"
+      ],
+      "real_case_sources": [
+        "https://psy2.ucsd.edu/~mckenzie/TverskyKahneman1983PsychRev.pdf",
+        "https://kahneman.scholar.princeton.edu/publications",
+        "https://www.cambridge.org/core/books/abs/reasoning/extensional-versus-intuitive-reasoning-the-conjunction-fallacy-in-probability-judgment/95D2B46C8B49B6FF0638CD354492F5DE"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1259
     },
     {
       "name": "间态放松模型",
@@ -2653,7 +2764,17 @@
         "image": "学习与认知/间态放松模型/模型示意图.png",
         "vector": "学习与认知/间态放松模型/模型示意图.svg"
       },
-      "directory": "学习与认知/间态放松模型"
+      "directory": "学习与认知/间态放松模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：微休息对疲劳和绩效的效果并不相同（2022）"
+      ],
+      "real_case_sources": [
+        "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0272460",
+        "https://pubmed.ncbi.nlm.nih.gov/36044424/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1344
     },
     {
       "name": "4P营销模型",
@@ -2675,7 +2796,16 @@
         "image": "商业与产品/4P营销模型/模型示意图.png",
         "vector": "商业与产品/4P营销模型/模型示意图.svg"
       },
-      "directory": "商业与产品/4P营销模型"
+      "directory": "商业与产品/4P营销模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：可口可乐把名字印上包装（澳大利亚，2011年）"
+      ],
+      "real_case_sources": [
+        "https://www.coca-colacompany.com/about-us/history/how-a-campaign-got-its-start-down-under"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1187
     },
     {
       "name": "4C营销模型",
@@ -2697,7 +2827,17 @@
         "image": "商业与产品/4C营销模型/模型示意图.png",
         "vector": "商业与产品/4C营销模型/模型示意图.svg"
       },
-      "directory": "商业与产品/4C营销模型"
+      "directory": "商业与产品/4C营销模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：Amazon Prime 把逐单运费改为年费（美国，2005年）"
+      ],
+      "real_case_sources": [
+        "https://press.aboutamazon.com/2005/2/amazon-com-announces-record-free-cash-flow-fueled-by-lower-prices-and-free-shipping-introduces-new-express-shipping-program-amazon-prime",
+        "https://press.aboutamazon.com/2012/8/amazon-prime-crosses-big-milestone-more-items-are-now-shipped-with-prime-free-two-day-shipping-than-with-free-super-saver-shipping"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1111
     },
     {
       "name": "能力圈模型",
@@ -2719,7 +2859,16 @@
         "image": "判断与决策/能力圈模型/模型示意图.png",
         "vector": "判断与决策/能力圈模型/模型示意图.svg"
       },
-      "directory": "判断与决策/能力圈模型"
+      "directory": "判断与决策/能力圈模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实事件：巴菲特在 1996 年股东信复盘 USAir 判断失误"
+      ],
+      "real_case_sources": [
+        "https://www.berkshirehathaway.com/letters/1996.html"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1227
     },
     {
       "name": "销售漏斗模型",
@@ -2741,7 +2890,16 @@
         "image": "商业与产品/销售漏斗模型/模型示意图.png",
         "vector": "商业与产品/销售漏斗模型/模型示意图.svg"
       },
-      "directory": "商业与产品/销售漏斗模型"
+      "directory": "商业与产品/销售漏斗模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：EA 删除预购促销后，收入反而上升（2013年）"
+      ],
+      "real_case_sources": [
+        "https://www.optimizely.com/contentassets/ac816285f8ee4b78a68a4a4b3c9ae392/case_study_the_big_book_of_experimentation.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1137
     },
     {
       "name": "达克效应",
@@ -2763,7 +2921,16 @@
         "image": "判断与决策/达克效应/模型示意图.png",
         "vector": "判断与决策/达克效应/模型示意图.svg"
       },
-      "directory": "判断与决策/达克效应"
+      "directory": "判断与决策/达克效应",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究：1999 年能力测试，把自我排名与实际表现放在一起"
+      ],
+      "real_case_sources": [
+        "https://gwern.net/doc/psychology/1999-kruger.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1248
     },
     {
       "name": "马斯洛需求层次理论",
@@ -2785,7 +2952,16 @@
         "image": "学习与认知/马斯洛需求层次理论/模型示意图.png",
         "vector": "学习与认知/马斯洛需求层次理论/模型示意图.svg"
       },
-      "directory": "学习与认知/马斯洛需求层次理论"
+      "directory": "学习与认知/马斯洛需求层次理论",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：跨 123 国研究发现需求并非必须逐层满足（2011）"
+      ],
+      "real_case_sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/21688922/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1343
     },
     {
       "name": "五遍信息沟通模型",
@@ -2807,7 +2983,17 @@
         "image": "表达与协作/五遍信息沟通模型/模型示意图.png",
         "vector": "表达与协作/五遍信息沟通模型/模型示意图.svg"
       },
-      "directory": "表达与协作/五遍信息沟通模型"
+      "directory": "表达与协作/五遍信息沟通模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：I-PASS 把交接从单向说完变成接收者确认（2014）"
+      ],
+      "real_case_sources": [
+        "https://www.nejm.org/doi/full/10.1056/NEJMsa1405556",
+        "https://pubmed.ncbi.nlm.nih.gov/25372088/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1229
     },
     {
       "name": "军标六性（职场能力类比）",
@@ -2829,7 +3015,17 @@
         "image": "系统与问题分析/军标六性（职场能力类比）/模型示意图.png",
         "vector": "系统与问题分析/军标六性（职场能力类比）/模型示意图.svg"
       },
-      "directory": "系统与问题分析/军标六性（职场能力类比）"
+      "directory": "系统与问题分析/军标六性（职场能力类比）",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：1970 年阿波罗 13 号：备件在手，接口和操作方法仍决定能否救急"
+      ],
+      "real_case_sources": [
+        "https://www.nasa.gov/missions/apollo/apollo-13-mission-details/",
+        "https://www.nasa.gov/image-article/apollo-13-crew-installing-mail-box-purging-carbon-dioxide-from-lunar-module-april-14-1970/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1286
     },
     {
       "name": "101010旁观思维模型",
@@ -2851,7 +3047,16 @@
         "image": "判断与决策/101010旁观思维模型/模型示意图.png",
         "vector": "判断与决策/101010旁观思维模型/模型示意图.svg"
       },
-      "directory": "判断与决策/101010旁观思维模型"
+      "directory": "判断与决策/101010旁观思维模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实事件：Amazon 1997 年股东信，把短期反应与长期建设分开"
+      ],
+      "real_case_sources": [
+        "https://www.aboutamazon.com/news/company-news/amazons-original-1997-letter-to-shareholders"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1293
     },
     {
       "name": "冗余备份思维模型",
@@ -2873,7 +3078,16 @@
         "image": "系统与问题分析/冗余备份思维模型/模型示意图.png",
         "vector": "系统与问题分析/冗余备份思维模型/模型示意图.svg"
       },
-      "directory": "系统与问题分析/冗余备份思维模型"
+      "directory": "系统与问题分析/冗余备份思维模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：2017 年 GitLab 数据库事故：有多种备份方案，不等于能恢复"
+      ],
+      "real_case_sources": [
+        "https://about.gitlab.com/blog/postmortem-of-database-outage-of-january-31/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1302
     },
     {
       "name": "断裂点理论思维模型",
@@ -2895,7 +3109,17 @@
         "image": "系统与问题分析/断裂点理论思维模型/模型示意图.png",
         "vector": "系统与问题分析/断裂点理论思维模型/模型示意图.svg"
       },
-      "directory": "系统与问题分析/断裂点理论思维模型"
+      "directory": "系统与问题分析/断裂点理论思维模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：2011—2012 年 Netflix Hystrix：限制失败向更多服务扩散"
+      ],
+      "real_case_sources": [
+        "https://github.com/netflix/hystrix/wiki",
+        "https://github.com/netflix/hystrix/wiki/how-it-works"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1252
     },
     {
       "name": "安全边际思维模型",
@@ -2917,7 +3141,16 @@
         "image": "判断与决策/安全边际思维模型/模型示意图.png",
         "vector": "判断与决策/安全边际思维模型/模型示意图.svg"
       },
-      "directory": "判断与决策/安全边际思维模型"
+      "directory": "判断与决策/安全边际思维模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实事件：Berkshire 在 2008 年市场危机中保留流动性余量"
+      ],
+      "real_case_sources": [
+        "https://www.berkshirehathaway.com/letters/2008ltr.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1261
     },
     {
       "name": "4-Letters营销理论串烧",
@@ -2939,7 +3172,17 @@
         "image": "商业与产品/4-Letters营销理论串烧/模型示意图.png",
         "vector": "商业与产品/4-Letters营销理论串烧/模型示意图.svg"
       },
-      "directory": "商业与产品/4-Letters营销理论串烧"
+      "directory": "商业与产品/4-Letters营销理论串烧",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实参考案例：IKEA PS 把设计理念落实为产品系列（1995年）"
+      ],
+      "real_case_sources": [
+        "https://ikeamuseum.com/en/explore/the-story-of-ikea/ikea-ps-1995-brochure/",
+        "https://ikeamuseum.com/en/whats-on/exhibitions/the-story-of-ikea/democratic-design/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1141
     },
     {
       "name": "PEST分析模型",
@@ -2961,7 +3204,18 @@
         "image": "商业与产品/PEST分析模型/模型示意图.png",
         "vector": "商业与产品/PEST分析模型/模型示意图.svg"
       },
-      "directory": "商业与产品/PEST分析模型"
+      "directory": "商业与产品/PEST分析模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：欧盟统一充电接口与 iPhone 15（2022—2023年）"
+      ],
+      "real_case_sources": [
+        "https://www.consilium.europa.eu/en/infographics/2022-06-07-common-charger-directive/",
+        "https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/",
+        "https://www.consilium.europa.eu/en/press/press-releases/2022/10/24/common-charger-eu-ministers-give-final-approval-to-one-size-fits-all-charging-port/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1133
     },
     {
       "name": "波特五力模型",
@@ -2983,7 +3237,17 @@
         "image": "商业与产品/波特五力模型/模型示意图.png",
         "vector": "商业与产品/波特五力模型/模型示意图.svg"
       },
-      "directory": "商业与产品/波特五力模型"
+      "directory": "商业与产品/波特五力模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：JetBlue 收购 Spirit 被阻止（美国，2024年）"
+      ],
+      "real_case_sources": [
+        "https://www.justice.gov/archives/opa/pr/justice-department-statements-jetblue-terminating-acquisition-spirit-airlines",
+        "https://news.jetblue.com/latest-news/press-release-details/2024/JetBlue-Announces-Termination-of-Merger-Agreement-with-Spirit/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1106
     },
     {
       "name": "波士顿矩阵",
@@ -3005,7 +3269,17 @@
         "image": "商业与产品/波士顿矩阵/模型示意图.png",
         "vector": "商业与产品/波士顿矩阵/模型示意图.svg"
       },
-      "directory": "商业与产品/波士顿矩阵"
+      "directory": "商业与产品/波士顿矩阵",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实边界案例：GE 拆分三项业务，不能凭印象贴四象限（2021—2024年）"
+      ],
+      "real_case_sources": [
+        "https://www.ge.com/news/press-releases/ge-plans-to-form-three-public-companies-focused-on-growth-sectors-of-aviation",
+        "https://www.ge.com/investor-relations/spinoff-resources"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1181
     },
     {
       "name": "SWOT分析模型",
@@ -3027,7 +3301,16 @@
         "image": "商业与产品/SWOT分析模型/模型示意图.png",
         "vector": "商业与产品/SWOT分析模型/模型示意图.svg"
       },
-      "directory": "商业与产品/SWOT分析模型"
+      "directory": "商业与产品/SWOT分析模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：乐高在危机中重新聚焦积木（2004年）"
+      ],
+      "real_case_sources": [
+        "https://www.lego.com/cdn/cs/aboutus/assets/blt07abb4b8a3da3f39/Annual_Report_2004_ENG.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1159
     },
     {
       "name": "黄金圈法则",
@@ -3049,7 +3332,16 @@
         "image": "表达与协作/黄金圈法则/模型示意图.png",
         "vector": "表达与协作/黄金圈法则/模型示意图.svg"
       },
-      "directory": "表达与协作/黄金圈法则"
+      "directory": "表达与协作/黄金圈法则",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：Patagonia 在 2022 年把环保目的写进所有权安排"
+      ],
+      "real_case_sources": [
+        "https://www.patagonia.com/ownership/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1226
     },
     {
       "name": "六顶思考帽",
@@ -3071,7 +3363,18 @@
         "image": "表达与协作/六顶思考帽/模型示意图.png",
         "vector": "表达与协作/六顶思考帽/模型示意图.svg"
       },
-      "directory": "表达与协作/六顶思考帽"
+      "directory": "表达与协作/六顶思考帽",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：护理技能教学中的六帽训练（2024 年实施、2025 年发表）"
+      ],
+      "real_case_sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC12210452/",
+        "https://link.springer.com/article/10.1186/s12912-025-03473-3",
+        "https://bmcnurs.biomedcentral.com/counter/pdf/10.1186/s12912-025-03473-3.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1319
     },
     {
       "name": "第一性原理",
@@ -3093,7 +3396,17 @@
         "image": "判断与决策/第一性原理/模型示意图.png",
         "vector": "判断与决策/第一性原理/模型示意图.svg"
       },
-      "directory": "判断与决策/第一性原理"
+      "directory": "判断与决策/第一性原理",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实事件：1970 年 Apollo 13，把接口问题还原为气流与过滤功能"
+      ],
+      "real_case_sources": [
+        "https://www.nasa.gov/missions/apollo/apollo-13-mission-details/",
+        "https://www.nasa.gov/image-article/putting-square-peg-round-hole/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1284
     },
     {
       "name": "路径依赖",
@@ -3115,7 +3428,17 @@
         "image": "系统与问题分析/路径依赖/模型示意图.png",
         "vector": "系统与问题分析/路径依赖/模型示意图.svg"
       },
-      "directory": "系统与问题分析/路径依赖"
+      "directory": "系统与问题分析/路径依赖",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：1846 年英国铁路轨距争议：新标准面对已经铺下去的网络"
+      ],
+      "real_case_sources": [
+        "https://api.parliament.uk/historic-hansard/lords/1846/jul/17/the-question-of-the-gauges",
+        "https://www.railwaysarchive.co.uk/docsummary.php?docID=60"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1291
     },
     {
       "name": "SMART原则",
@@ -3137,7 +3460,17 @@
         "image": "行动与复盘/SMART原则/模型示意图.png",
         "vector": "行动与复盘/SMART原则/模型示意图.svg"
       },
-      "directory": "行动与复盘/SMART原则"
+      "directory": "行动与复盘/SMART原则",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：从登月承诺到可验收的阿波罗任务（1961—1969 年）"
+      ],
+      "real_case_sources": [
+        "https://www.nasa.gov/specials/apollo50th/before.html",
+        "https://www.nasa.gov/history/the-first-step-langleys-contributions-to-apollo/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1326
     },
     {
       "name": "放大镜缩小镜思维",
@@ -3159,7 +3492,16 @@
         "image": "学习与认知/放大镜缩小镜思维/模型示意图.png",
         "vector": "学习与认知/放大镜缩小镜思维/模型示意图.svg"
       },
-      "directory": "学习与认知/放大镜缩小镜思维"
+      "directory": "学习与认知/放大镜缩小镜思维",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：John Snow 同时追踪病例细节与空间分布（1854）"
+      ],
+      "real_case_sources": [
+        "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section2.html"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1342
     },
     {
       "name": "二八法则",
@@ -3181,7 +3523,17 @@
         "image": "判断与决策/二八法则/模型示意图.png",
         "vector": "判断与决策/二八法则/模型示意图.svg"
       },
-      "directory": "判断与决策/二八法则"
+      "directory": "判断与决策/二八法则",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实事件：3M 砂带质量项目，先处理投诉最集中的问题"
+      ],
+      "real_case_sources": [
+        "https://asq.org/quality-resources/articles/case-studies/quality-revolution-reduces-defects-drives-sales-growth-at-3m?id=82f69668588149d0a78b3fc57f962813",
+        "https://asq.org/quality-resources/pareto"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1212
     },
     {
       "name": "三八理论",
@@ -3203,7 +3555,16 @@
         "image": "行动与复盘/三八理论/模型示意图.png",
         "vector": "行动与复盘/三八理论/模型示意图.svg"
       },
-      "directory": "行动与复盘/三八理论"
+      "directory": "行动与复盘/三八理论",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：微软日本把少工作一天与流程调整一起试验（2019 年）"
+      ],
+      "real_case_sources": [
+        "https://news.microsoft.com/ja-jp/2019/10/31/191031-published-the-results-of-measuring-the-effectiveness-of-our-work-life-choice-challenge-summer-2019/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1318
     },
     {
       "name": "PDCA循环",
@@ -3225,7 +3586,16 @@
         "image": "行动与复盘/PDCA循环/模型示意图.png",
         "vector": "行动与复盘/PDCA循环/模型示意图.svg"
       },
-      "directory": "行动与复盘/PDCA循环"
+      "directory": "行动与复盘/PDCA循环",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：拉美医院用小步试验缩短首剂用药等待（2019—2023 年）"
+      ],
+      "real_case_sources": [
+        "https://www.ihi.org/partner/consulting/case-studies/golden-hour-collaboratives-minutes-save-lives"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1259
     },
     {
       "name": "金字塔原理",
@@ -3247,7 +3617,16 @@
         "image": "表达与协作/金字塔原理/模型示意图.png",
         "vector": "表达与协作/金字塔原理/模型示意图.svg"
       },
-      "directory": "表达与协作/金字塔原理"
+      "directory": "表达与协作/金字塔原理",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：苹果 2007 年 iPhone 新闻稿如何组织产品信息"
+      ],
+      "real_case_sources": [
+        "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1267
     },
     {
       "name": "SCQA序言结构",
@@ -3269,7 +3648,16 @@
         "image": "表达与协作/SCQA序言结构/模型示意图.png",
         "vector": "表达与协作/SCQA序言结构/模型示意图.svg"
       },
-      "directory": "表达与协作/SCQA序言结构"
+      "directory": "表达与协作/SCQA序言结构",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：肯尼迪向国会提出登月目标（1961）"
+      ],
+      "real_case_sources": [
+        "https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/united-states-congress-special-message-19610525"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1216
     },
     {
       "name": "MECE原则",
@@ -3291,7 +3679,17 @@
         "image": "系统与问题分析/MECE原则/模型示意图.png",
         "vector": "系统与问题分析/MECE原则/模型示意图.svg"
       },
-      "directory": "系统与问题分析/MECE原则"
+      "directory": "系统与问题分析/MECE原则",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：2020 年美国就业统计：类别齐全，仍可能把人放错格子"
+      ],
+      "real_case_sources": [
+        "https://www.bls.gov/covid19/employment-situation-covid19-faq-december-2020.htm",
+        "https://www.bls.gov/cps/faq.htm"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1312
     },
     {
       "name": "问题树",
@@ -3313,7 +3711,18 @@
         "image": "系统与问题分析/问题树/模型示意图.png",
         "vector": "系统与问题分析/问题树/模型示意图.svg"
       },
-      "directory": "系统与问题分析/问题树"
+      "directory": "系统与问题分析/问题树",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：2003 年哥伦比亚号调查：树上的分支需要证据关闭"
+      ],
+      "real_case_sources": [
+        "https://ntrs.nasa.gov/api/citations/20030107225/downloads/PB2004100867.pdf?attachment=true",
+        "https://www.nasa.gov/history/columbia-accident-investigation-board-synopsis/",
+        "https://govinfo.library.unt.edu/caib/news/report/pdf/vol2/part04.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1306
     },
     {
       "name": "奥卡姆剃刀",
@@ -3335,7 +3744,17 @@
         "image": "判断与决策/奥卡姆剃刀/模型示意图.png",
         "vector": "判断与决策/奥卡姆剃刀/模型示意图.svg"
       },
-      "directory": "判断与决策/奥卡姆剃刀"
+      "directory": "判断与决策/奥卡姆剃刀",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实事件：1777—1783 年拉瓦锡的燃烧解释，用实验删掉多余假设"
+      ],
+      "real_case_sources": [
+        "https://www.acs.org/education/whatischemistry/landmarks/lavoisier.html",
+        "https://www.acs.org/content/dam/acsorg/education/whatischemistry/landmarks/lavoisier/antoine-laurent-lavoisier-commemorative-booklet.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1249
     },
     {
       "name": "细节效率思维模型",
@@ -3357,7 +3776,16 @@
         "image": "行动与复盘/细节效率思维模型/模型示意图.png",
         "vector": "行动与复盘/细节效率思维模型/模型示意图.svg"
       },
-      "directory": "行动与复盘/细节效率思维模型"
+      "directory": "行动与复盘/细节效率思维模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：UPS 把导航终点从街道地址推进到装卸口（2018 年）"
+      ],
+      "real_case_sources": [
+        "https://about.ups.com/us/en/newsroom/press-releases/innovation-driven/ups-deploys-purpose-built-navigation-for-ups-service-personnel.html"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1324
     },
     {
       "name": "递弱代偿",
@@ -3379,7 +3807,17 @@
         "image": "系统与问题分析/递弱代偿/模型示意图.png",
         "vector": "系统与问题分析/递弱代偿/模型示意图.svg"
       },
-      "directory": "系统与问题分析/递弱代偿"
+      "directory": "系统与问题分析/递弱代偿",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：2017 年 WannaCry 与英国 NHS：便利背后的共同依赖"
+      ],
+      "real_case_sources": [
+        "https://www.nao.org.uk/press-releases/investigation-wannacry-cyber-attack-and-the-nhs/",
+        "https://publications.parliament.uk/pa/cm201719/cmselect/cmpubacc/787/78704.htm"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1322
     },
     {
       "name": "乔哈里视窗",
@@ -3401,7 +3839,16 @@
         "image": "表达与协作/乔哈里视窗/模型示意图.png",
         "vector": "表达与协作/乔哈里视窗/模型示意图.svg"
       },
-      "directory": "表达与协作/乔哈里视窗"
+      "directory": "表达与协作/乔哈里视窗",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：皮克斯 Braintrust 让创作者看见盲点（2014 年当事人记录）"
+      ],
+      "real_case_sources": [
+        "https://www.fastcompany.com/3027135/inside-the-pixar-braintrust"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1267
     },
     {
       "name": "SQ3R阅读法",
@@ -3423,7 +3870,17 @@
         "image": "学习与认知/SQ3R阅读法/模型示意图.png",
         "vector": "学习与认知/SQ3R阅读法/模型示意图.svg"
       },
-      "directory": "学习与认知/SQ3R阅读法"
+      "directory": "学习与认知/SQ3R阅读法",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：科学课文的提取练习实验（2011）"
+      ],
+      "real_case_sources": [
+        "https://learninglab.psych.purdue.edu/downloads/2011/2011_Karpicke_Blunt_Science.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/21252317/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1299
     },
     {
       "name": "FFC赞美法",
@@ -3445,7 +3902,16 @@
         "image": "表达与协作/FFC赞美法/模型示意图.png",
         "vector": "表达与协作/FFC赞美法/模型示意图.svg"
       },
-      "directory": "表达与协作/FFC赞美法"
+      "directory": "表达与协作/FFC赞美法",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：夸聪明与夸努力的不同后果（Mueller 与 Dweck，1998）"
+      ],
+      "real_case_sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/9686450/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1177
     },
     {
       "name": "GROW成长模型",
@@ -3467,7 +3933,16 @@
         "image": "行动与复盘/GROW成长模型/模型示意图.png",
         "vector": "行动与复盘/GROW成长模型/模型示意图.svg"
       },
-      "directory": "行动与复盘/GROW成长模型"
+      "directory": "行动与复盘/GROW成长模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：林德把安全管理从下指令转向教练式对话（2016—2018 年）"
+      ],
+      "real_case_sources": [
+        "https://www.performanceconsultants.com/client-stories/linde-coaching-for-safety-performance/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1266
     },
     {
       "name": "飞轮效应",
@@ -3489,7 +3964,16 @@
         "image": "系统与问题分析/飞轮效应/模型示意图.png",
         "vector": "系统与问题分析/飞轮效应/模型示意图.svg"
       },
-      "directory": "系统与问题分析/飞轮效应"
+      "directory": "系统与问题分析/飞轮效应",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：2002 年亚马逊降价与成本改善：循环需要每一段都有支撑"
+      ],
+      "real_case_sources": [
+        "https://press.aboutamazon.com/2002/7/amazon-com-announces-21-sales-growth-driven-by-lower-prices-and-expanded-selection-raises-financial-guidance"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1330
     },
     {
       "name": "六何法（5W1H）",
@@ -3511,7 +3995,17 @@
         "image": "系统与问题分析/六何法（5W1H）/模型示意图.png",
         "vector": "系统与问题分析/六何法（5W1H）/模型示意图.svg"
       },
-      "directory": "系统与问题分析/六何法（5W1H）"
+      "directory": "系统与问题分析/六何法（5W1H）",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：1854 年约翰·斯诺调查伦敦霍乱：先把人、地、时和暴露联系起来"
+      ],
+      "real_case_sources": [
+        "https://www.cdc.gov/mmwr/preview/mmwrhtml/mm5334a1.htm",
+        "https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson1/section2.html"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1269
     },
     {
       "name": "福格行为模型",
@@ -3533,7 +4027,16 @@
         "image": "行动与复盘/福格行为模型/模型示意图.png",
         "vector": "行动与复盘/福格行为模型/模型示意图.svg"
       },
-      "directory": "行动与复盘/福格行为模型"
+      "directory": "行动与复盘/福格行为模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：沃尔玛药房的短信提醒实验（2020 年实施，2022 年发表）"
+      ],
+      "real_case_sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC8833156/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1333
     },
     {
       "name": "非SR思维模型",
@@ -3555,7 +4058,16 @@
         "image": "专业借鉴与待核实主题/非SR思维模型/模型示意图.png",
         "vector": "专业借鉴与待核实主题/非SR思维模型/模型示意图.svg"
       },
-      "directory": "专业借鉴与待核实主题/非SR思维模型"
+      "directory": "专业借鉴与待核实主题/非SR思维模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究案例：Gross 比较重新评价与压住表情（1998）"
+      ],
+      "real_case_sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/9457784/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1278
     },
     {
       "name": "沉默的螺旋",
@@ -3577,7 +4089,16 @@
         "image": "表达与协作/沉默的螺旋/模型示意图.png",
         "vector": "表达与协作/沉默的螺旋/模型示意图.svg"
       },
-      "directory": "表达与协作/沉默的螺旋"
+      "directory": "表达与协作/沉默的螺旋",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：斯诺登议题中，感觉受众赞同的人更愿意发声（2014）"
+      ],
+      "real_case_sources": [
+        "https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1220
     },
     {
       "name": "AISAS消费者行为分析模型",
@@ -3599,7 +4120,17 @@
         "image": "商业与产品/AISAS消费者行为分析模型/模型示意图.png",
         "vector": "商业与产品/AISAS消费者行为分析模型/模型示意图.svg"
       },
-      "directory": "商业与产品/AISAS消费者行为分析模型"
+      "directory": "商业与产品/AISAS消费者行为分析模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：ALS 冰桶挑战形成参与与传播循环（2014年）"
+      ],
+      "real_case_sources": [
+        "https://www.als.org/ibc-how-it-started",
+        "https://www.als.org/blog/understanding-impact-ice-bucket-challenge-als-associations-finances"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1145
     },
     {
       "name": "GRAI复盘模型",
@@ -3621,7 +4152,16 @@
         "image": "行动与复盘/GRAI复盘模型/模型示意图.png",
         "vector": "行动与复盘/GRAI复盘模型/模型示意图.svg"
       },
-      "directory": "行动与复盘/GRAI复盘模型"
+      "directory": "行动与复盘/GRAI复盘模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：Cloudflare 不把全网故障归结为一个工程师（2019 年）"
+      ],
+      "real_case_sources": [
+        "https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1286
     },
     {
       "name": "系统思维",
@@ -3643,7 +4183,17 @@
         "image": "系统与问题分析/系统思维/模型示意图.png",
         "vector": "系统与问题分析/系统思维/模型示意图.svg"
       },
-      "directory": "系统与问题分析/系统思维"
+      "directory": "系统与问题分析/系统思维",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：奥斯特罗姆的尼泊尔灌溉研究：渠道硬件之外还有合作规则"
+      ],
+      "real_case_sources": [
+        "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf",
+        "https://dlc.dlib.indiana.edu/dlc/items/34289334-d380-439e-bdbd-10476a37cfd7"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1327
     },
     {
       "name": "四象限法则",
@@ -3665,7 +4215,17 @@
         "image": "行动与复盘/四象限法则/模型示意图.png",
         "vector": "行动与复盘/四象限法则/模型示意图.svg"
       },
-      "directory": "行动与复盘/四象限法则"
+      "directory": "行动与复盘/四象限法则",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：人们会为“快到期”选择回报更低的任务（2018 年发表）"
+      ],
+      "real_case_sources": [
+        "https://doi.org/10.1093/jcr/ucy008",
+        "https://hub.jhu.edu/2018/05/31/meeting-deadlines-time-management-behaviors/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1283
     },
     {
       "name": "KISS复盘模型",
@@ -3687,7 +4247,16 @@
         "image": "行动与复盘/KISS复盘模型/模型示意图.png",
         "vector": "行动与复盘/KISS复盘模型/模型示意图.svg"
       },
-      "directory": "行动与复盘/KISS复盘模型"
+      "directory": "行动与复盘/KISS复盘模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：GitHub 把故障经验变成保留、停止与新增措施（2018 年）"
+      ],
+      "real_case_sources": [
+        "https://github.blog/news-insights/company-news/oct21-post-incident-analysis/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1285
     },
     {
       "name": "WOOP思维工具",
@@ -3709,7 +4278,16 @@
         "image": "行动与复盘/WOOP思维工具/模型示意图.png",
         "vector": "行动与复盘/WOOP思维工具/模型示意图.svg"
       },
-      "directory": "行动与复盘/WOOP思维工具"
+      "directory": "行动与复盘/WOOP思维工具",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：把运动愿望变成应对障碍的计划（2009 年发表）"
+      ],
+      "real_case_sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/18977113/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1326
     },
     {
       "name": "费曼学习法",
@@ -3731,7 +4309,16 @@
         "image": "学习与认知/费曼学习法/模型示意图.png",
         "vector": "学习与认知/费曼学习法/模型示意图.svg"
       },
-      "directory": "学习与认知/费曼学习法"
+      "directory": "学习与认知/费曼学习法",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：让学生教电脑角色，观察他们如何投入学习（2009）"
+      ],
+      "real_case_sources": [
+        "https://aaalab.stanford.edu/papers/Protege_Effect_Teachable_Agents.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1334
     },
     {
       "name": "卡尼曼双系统",
@@ -3753,7 +4340,18 @@
         "image": "判断与决策/卡尼曼双系统/模型示意图.png",
         "vector": "判断与决策/卡尼曼双系统/模型示意图.svg"
       },
-      "directory": "判断与决策/卡尼曼双系统"
+      "directory": "判断与决策/卡尼曼双系统",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究：2005 年认知反思测试，为什么第一反应需要验算"
+      ],
+      "real_case_sources": [
+        "https://www.aeaweb.org/articles?id=10.1257%2F089533005775196732",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5225989/",
+        "https://bear.warrington.ufl.edu/brenner/mar7588/Papers/frederick-jep2005.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1225
     },
     {
       "name": "心流",
@@ -3775,7 +4373,16 @@
         "image": "学习与认知/心流/模型示意图.png",
         "vector": "学习与认知/心流/模型示意图.svg"
       },
-      "directory": "学习与认知/心流"
+      "directory": "学习与认知/心流",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：专业钢琴家演奏中的心流测量（2010）"
+      ],
+      "real_case_sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/20515220/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1312
     },
     {
       "name": "次心流",
@@ -3797,7 +4404,16 @@
         "image": "学习与认知/次心流/模型示意图.png",
         "vector": "学习与认知/次心流/模型示意图.svg"
       },
-      "directory": "学习与认知/次心流"
+      "directory": "学习与认知/次心流",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：用自适应心算区分无聊、适度挑战与过载（2016）"
+      ],
+      "real_case_sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC4769635/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1327
     },
     {
       "name": "Hook上瘾模型",
@@ -3819,7 +4435,16 @@
         "image": "商业与产品/Hook上瘾模型/模型示意图.png",
         "vector": "商业与产品/Hook上瘾模型/模型示意图.svg"
       },
-      "directory": "商业与产品/Hook上瘾模型"
+      "directory": "商业与产品/Hook上瘾模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：Duolingo 把连续学习与每日目标分开（2020年）"
+      ],
+      "real_case_sources": [
+        "https://blog.duolingo.com/improving-the-streak/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1182
     },
     {
       "name": "峰终定律",
@@ -3841,7 +4466,16 @@
         "image": "商业与产品/峰终定律/模型示意图.png",
         "vector": "商业与产品/峰终定律/模型示意图.svg"
       },
-      "directory": "商业与产品/峰终定律"
+      "directory": "商业与产品/峰终定律",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究：结尾感受改变对结肠镜检查的回忆（2003年发表）"
+      ],
+      "real_case_sources": [
+        "https://pubmed.ncbi.nlm.nih.gov/12855328/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1183
     },
     {
       "name": "首因效应",
@@ -3863,7 +4497,16 @@
         "image": "表达与协作/首因效应/模型示意图.png",
         "vector": "表达与协作/首因效应/模型示意图.svg"
       },
-      "directory": "表达与协作/首因效应"
+      "directory": "表达与协作/首因效应",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：同一组性格词，顺序改变印象（Asch，1946）"
+      ],
+      "real_case_sources": [
+        "https://eclass.uowm.gr/modules/document/file.php/NURED262/%CE%A0%CE%A1%CE%A9%CE%A4%CE%9F%CE%A4%CE%A5%CE%A0%CE%91%20%CE%91%CE%A1%CE%98%CE%A1%CE%91/Asch%20forming%20impressions%20of%20personality%201946%20JASP.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1223
     },
     {
       "name": "近因效应",
@@ -3885,7 +4528,18 @@
         "image": "表达与协作/近因效应/模型示意图.png",
         "vector": "表达与协作/近因效应/模型示意图.svg"
       },
-      "directory": "表达与协作/近因效应"
+      "directory": "表达与协作/近因效应",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：延迟并插入任务，最后几个词不再占明显优势（1966）",
+        "误用反例：忽略真实转折（假设）"
+      ],
+      "real_case_sources": [
+        "https://doi.org/10.1016/S0022-5371(66",
+        "https://www.scribd.com/document/87702703/Two-Storage-Mechanisms-in-Free-Recall-Glanzer-Cunitz-1966-1"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1215
     },
     {
       "name": "生命的维度",
@@ -3907,7 +4561,17 @@
         "image": "学习与认知/生命的维度/模型示意图.png",
         "vector": "学习与认知/生命的维度/模型示意图.svg"
       },
-      "directory": "学习与认知/生命的维度"
+      "directory": "学习与认知/生命的维度",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：WHOQOL-BREF 用多个领域描述生活质量（1998）"
+      ],
+      "real_case_sources": [
+        "https://www.who.int/tools/whoqol",
+        "https://doi.org/10.1017/S0033291798006667"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1375
     },
     {
       "name": "道法术器",
@@ -3929,7 +4593,16 @@
         "image": "系统与问题分析/道法术器/模型示意图.png",
         "vector": "系统与问题分析/道法术器/模型示意图.svg"
       },
-      "directory": "系统与问题分析/道法术器"
+      "directory": "系统与问题分析/道法术器",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：1954 年丰田超市方式：看板必须服务于补货逻辑"
+      ],
+      "real_case_sources": [
+        "https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_automotive_business/chapter2/section7/item4.html"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1275
     },
     {
       "name": "双目标清单思维",
@@ -3951,7 +4624,16 @@
         "image": "行动与复盘/双目标清单思维/模型示意图.png",
         "vector": "行动与复盘/双目标清单思维/模型示意图.svg"
       },
-      "directory": "行动与复盘/双目标清单思维"
+      "directory": "行动与复盘/双目标清单思维",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：接种提醒中多写一个日期和时间（2011 年发表）"
+      ],
+      "real_case_sources": [
+        "https://www.nber.org/papers/w17183"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1347
     },
     {
       "name": "护城河理论",
@@ -3973,7 +4655,16 @@
         "image": "商业与产品/护城河理论/模型示意图.png",
         "vector": "商业与产品/护城河理论/模型示意图.svg"
       },
-      "directory": "商业与产品/护城河理论"
+      "directory": "商业与产品/护城河理论",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：See’s 糖果增长不快，却持续产生现金（1972—2007年）"
+      ],
+      "real_case_sources": [
+        "https://www.berkshirehathaway.com/letters/2007ltr.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1152
     },
     {
       "name": "元认知",
@@ -3995,7 +4686,16 @@
         "image": "学习与认知/元认知/模型示意图.png",
         "vector": "学习与认知/元认知/模型示意图.svg"
       },
-      "directory": "学习与认知/元认知"
+      "directory": "学习与认知/元认知",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：高估掌握程度为什么会使复习过早结束（2012）"
+      ],
+      "real_case_sources": [
+        "https://www.sciencedirect.com/science/article/pii/S0959475211000685"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1310
     },
     {
       "name": "课题分离",
@@ -4017,7 +4717,16 @@
         "image": "表达与协作/课题分离/模型示意图.png",
         "vector": "表达与协作/课题分离/模型示意图.svg"
       },
-      "directory": "表达与协作/课题分离"
+      "directory": "表达与协作/课题分离",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：Netflix 用明确决策负责人保留分歧（2024 年文化备忘录）"
+      ],
+      "real_case_sources": [
+        "https://jobs.netflix.com/netflix-culture.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1266
     },
     {
       "name": "耶克斯多德森定律",
@@ -4039,7 +4748,16 @@
         "image": "学习与认知/耶克斯多德森定律/模型示意图.png",
         "vector": "学习与认知/耶克斯多德森定律/模型示意图.svg"
       },
-      "directory": "学习与认知/耶克斯多德森定律"
+      "directory": "学习与认知/耶克斯多德森定律",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：原始小鼠实验并没有得到一条万能倒 U 曲线（1908）"
+      ],
+      "real_case_sources": [
+        "https://psychclassics.yorku.ca/Yerkes/Law/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1328
     },
     {
       "name": "需求三角模型",
@@ -4061,7 +4779,17 @@
         "image": "商业与产品/需求三角模型/模型示意图.png",
         "vector": "商业与产品/需求三角模型/模型示意图.svg"
       },
-      "directory": "商业与产品/需求三角模型"
+      "directory": "商业与产品/需求三角模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实参考案例：Airbnb 为房源不符增加补救承诺（2019—2020年）"
+      ],
+      "real_case_sources": [
+        "https://news.airbnb.com/in-the-business-of-trust",
+        "https://news.airbnb.com/an-update-on-trust"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1144
     },
     {
       "name": "冰山模型",
@@ -4083,7 +4811,17 @@
         "image": "系统与问题分析/冰山模型/模型示意图.png",
         "vector": "系统与问题分析/冰山模型/模型示意图.svg"
       },
-      "directory": "系统与问题分析/冰山模型"
+      "directory": "系统与问题分析/冰山模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：2003 年哥伦比亚号调查：泡沫撞击之外，还有组织结构"
+      ],
+      "real_case_sources": [
+        "https://www.nasa.gov/history/columbia-accident-investigation-board-synopsis/",
+        "https://www.nasa.gov/history/20-years-ago-remembering-columbia-and-her-crew/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1285
     },
     {
       "name": "成长型思维",
@@ -4105,7 +4843,16 @@
         "image": "学习与认知/成长型思维/模型示意图.png",
         "vector": "学习与认知/成长型思维/模型示意图.svg"
       },
-      "directory": "学习与认知/成长型思维"
+      "directory": "学习与认知/成长型思维",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：美国高中生的成长型思维随机实验（2019）"
+      ],
+      "real_case_sources": [
+        "https://www.nature.com/articles/s41586-019-1466-y"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1327
     },
     {
       "name": "RICE全科问诊模式",
@@ -4127,7 +4874,17 @@
         "image": "专业借鉴与待核实主题/RICE全科问诊模式/模型示意图.png",
         "vector": "专业借鉴与待核实主题/RICE全科问诊模式/模型示意图.svg"
       },
-      "directory": "专业借鉴与待核实主题/RICE全科问诊模式"
+      "directory": "专业借鉴与待核实主题/RICE全科问诊模式",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究案例：英国全科诊室里没有说出口的期待（2000）"
+      ],
+      "real_case_sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC27293/",
+        "https://discovery.ucl.ac.uk/1367787/1/484.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1306
     },
     {
       "name": "莫塔五问",
@@ -4149,7 +4906,16 @@
         "image": "专业借鉴与待核实主题/莫塔五问/模型示意图.png",
         "vector": "专业借鉴与待核实主题/莫塔五问/模型示意图.svg"
       },
-      "directory": "专业借鉴与待核实主题/莫塔五问"
+      "directory": "专业借鉴与待核实主题/莫塔五问",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实事故案例：锚定哮喘，延迟识别肺栓塞的严重性（2021年发表）"
+      ],
+      "real_case_sources": [
+        "https://psnet.ahrq.gov/web-mm/delay-appropriate-diagnosis-and-treatment-leading-death-pulmonary-embolism"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1354
     },
     {
       "name": "MVP思维模型",
@@ -4171,7 +4937,16 @@
         "image": "商业与产品/MVP思维模型/模型示意图.png",
         "vector": "商业与产品/MVP思维模型/模型示意图.svg"
       },
-      "directory": "商业与产品/MVP思维模型"
+      "directory": "商业与产品/MVP思维模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：Buffer 先测需求，再交付最小产品（2010年）"
+      ],
+      "real_case_sources": [
+        "https://buffer.com/resources/idea-to-paying-customers-in-7-weeks-how-we-did-it/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1167
     },
     {
       "name": "长尾效应",
@@ -4193,7 +4968,16 @@
         "image": "商业与产品/长尾效应/模型示意图.png",
         "vector": "商业与产品/长尾效应/模型示意图.svg"
       },
-      "directory": "商业与产品/长尾效应"
+      "directory": "商业与产品/长尾效应",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：iTunes 首周卖到大量不同曲目（苹果，2003年）"
+      ],
+      "real_case_sources": [
+        "https://www.apple.com/newsroom/2003/05/05iTunes-Music-Store-Sells-Over-One-Million-Songs-in-First-Week/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1157
     },
     {
       "name": "反反木桶原理",
@@ -4215,7 +4999,17 @@
         "image": "系统与问题分析/反反木桶原理/模型示意图.png",
         "vector": "系统与问题分析/反反木桶原理/模型示意图.svg"
       },
-      "directory": "系统与问题分析/反反木桶原理"
+      "directory": "系统与问题分析/反反木桶原理",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：1997 年爱信工厂火灾：强大的整车能力也会受制于零件供应"
+      ],
+      "real_case_sources": [
+        "https://www.toyota-global.com/company/history_of_toyota/75years/data/overall_chronological_table/1991.html",
+        "https://www.aisin.com/en/sustainability/report/pdf/aisin_ar2020_en.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1298
     },
     {
       "name": "三三制",
@@ -4237,7 +5031,17 @@
         "image": "表达与协作/三三制/模型示意图.png",
         "vector": "表达与协作/三三制/模型示意图.svg"
       },
-      "directory": "表达与协作/三三制"
+      "directory": "表达与协作/三三制",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：亚马逊小团队实践：关键在授权和结果责任（2021 年官方说明）"
+      ],
+      "real_case_sources": [
+        "https://aws.amazon.com/blogs/enterprise-strategy/two-pizza-teams-are-just-the-start-accountability-and-empowerment-are-key-to-high-performing-agile-organizations-part-2/",
+        "https://aws.amazon.com/executive-insights/content/amazon-two-pizza-team/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1231
     },
     {
       "name": "沉没成本",
@@ -4259,7 +5063,18 @@
         "image": "判断与决策/沉没成本/模型示意图.png",
         "vector": "判断与决策/沉没成本/模型示意图.svg"
       },
-      "directory": "判断与决策/沉没成本"
+      "directory": "判断与决策/沉没成本",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究：1982—1983 年剧院季票，付款差异影响后续出席"
+      ],
+      "real_case_sources": [
+        "https://psyfitec.com/files/uploads/1/0/8/8/10887248/the_psychology_of_sunk_cost.pdf",
+        "https://www.sciencedirect.com/science/article/pii/0749597885900494",
+        "https://cognition.aau.at/bg/BA/Arkes%20%26%20Blumer%201985.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1235
     },
     {
       "name": "心理账户",
@@ -4281,7 +5096,17 @@
         "image": "判断与决策/心理账户/模型示意图.png",
         "vector": "判断与决策/心理账户/模型示意图.svg"
       },
-      "directory": "判断与决策/心理账户"
+      "directory": "判断与决策/心理账户",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究：1981 年丢钱与丢票实验，同样损失为何不同决定"
+      ],
+      "real_case_sources": [
+        "https://stanford.edu/class/psych205/papers/Tversky-Kahneman-1981.pdf",
+        "https://academic.oup.com/jcr/article-abstract/23/1/40/1892763"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1238
     },
     {
       "name": "框架效应",
@@ -4303,7 +5128,16 @@
         "image": "判断与决策/框架效应/模型示意图.png",
         "vector": "判断与决策/框架效应/模型示意图.svg"
       },
-      "directory": "判断与决策/框架效应"
+      "directory": "判断与决策/框架效应",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究：1981 年公共卫生选择题，同一结果换个说法改变偏好"
+      ],
+      "real_case_sources": [
+        "https://stanford.edu/class/psych205/papers/Tversky-Kahneman-1981.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1214
     },
     {
       "name": "前景理论",
@@ -4325,7 +5159,17 @@
         "image": "判断与决策/前景理论/模型示意图.png",
         "vector": "判断与决策/前景理论/模型示意图.svg"
       },
-      "directory": "判断与决策/前景理论"
+      "directory": "判断与决策/前景理论",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究：1979 年风险选择实验，收益与损失下的偏好并不对称"
+      ],
+      "real_case_sources": [
+        "https://kahneman.scholar.princeton.edu/document/11",
+        "https://kahneman.scholar.princeton.edu/publications"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1317
     },
     {
       "name": "笛卡尔批判思维模型",
@@ -4347,7 +5191,17 @@
         "image": "判断与决策/笛卡尔批判思维模型/模型示意图.png",
         "vector": "判断与决策/笛卡尔批判思维模型/模型示意图.svg"
       },
-      "directory": "判断与决策/笛卡尔批判思维模型"
+      "directory": "判断与决策/笛卡尔批判思维模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实事件：1982 年幽门螺杆菌研究，把既有解释改成可检验问题"
+      ],
+      "real_case_sources": [
+        "https://www.nobelprize.org/prizes/medicine/2005/press-release/",
+        "https://www.nobelprize.org/uploads/2018/06/marshall-lecture.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1299
     },
     {
       "name": "待核实主题-BV1Pm411d7JL",
@@ -4369,7 +5223,17 @@
         "image": "专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL/模型示意图.png",
         "vector": "专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL/模型示意图.svg"
       },
-      "directory": "专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL"
+      "directory": "专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究案例：重复阅读的短期优势，一周后并不保持（2006）"
+      ],
+      "real_case_sources": [
+        "https://doi.org/10.1111/j.1467-9280.2006.01693.x",
+        "https://learninglab.psych.purdue.edu/downloads/2006/2006_Roediger_Karpicke_PsychSci.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1329
     },
     {
       "name": "头脑风暴",
@@ -4391,7 +5255,16 @@
         "image": "表达与协作/头脑风暴/模型示意图.png",
         "vector": "表达与协作/头脑风暴/模型示意图.svg"
       },
-      "directory": "表达与协作/头脑风暴"
+      "directory": "表达与协作/头脑风暴",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：轮流发言反而堵住想法：1987 年四项实验"
+      ],
+      "real_case_sources": [
+        "https://www.uni-muenster.de/imperia/md/content/psyifp/aeechterhoff/wintersemester2011-12/seminarthemenfelderdersozialpsychologie/08_diehl_stoebe_productivityloss-brainstorming_jpsp1987.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1223
     },
     {
       "name": "STP市场细分理论",
@@ -4413,7 +5286,17 @@
         "image": "商业与产品/STP市场细分理论/模型示意图.png",
         "vector": "商业与产品/STP市场细分理论/模型示意图.svg"
       },
-      "directory": "商业与产品/STP市场细分理论"
+      "directory": "商业与产品/STP市场细分理论",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：Tesla 先做高价跑车，再拓展车型（2006年计划）"
+      ],
+      "real_case_sources": [
+        "https://www.tesla.com/secret-master-plan",
+        "https://www.tesla.com/master-plan-part-deux"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1126
     },
     {
       "name": "奥斯本检核表法",
@@ -4435,7 +5318,17 @@
         "image": "表达与协作/奥斯本检核表法/模型示意图.png",
         "vector": "表达与协作/奥斯本检核表法/模型示意图.svg"
       },
-      "directory": "表达与协作/奥斯本检核表法"
+      "directory": "表达与协作/奥斯本检核表法",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：3M 把可重复粘贴的胶变成便利贴（1968—1980）"
+      ],
+      "real_case_sources": [
+        "https://www.post-it.com/3M/en_CA/post-it-ca/contact-us/about-us/",
+        "https://lemelson.mit.edu/resources/art-fry-spencer-silver"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1223
     },
     {
       "name": "待核实主题-BV1Nm421N7bp",
@@ -4457,7 +5350,17 @@
         "image": "专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp/模型示意图.png",
         "vector": "专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp/模型示意图.svg"
       },
-      "directory": "专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp"
+      "directory": "专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实组织研究案例：214家企业的销售晋升与管理表现（2018）"
+      ],
+      "real_case_sources": [
+        "https://www.nber.org/papers/w24343",
+        "https://academic.oup.com/qje/article/134/4/2085/5550760"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1337
     },
     {
       "name": "FAB销售法则",
@@ -4479,7 +5382,16 @@
         "image": "商业与产品/FAB销售法则/模型示意图.png",
         "vector": "商业与产品/FAB销售法则/模型示意图.svg"
       },
-      "directory": "商业与产品/FAB销售法则"
+      "directory": "商业与产品/FAB销售法则",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：第一代 iPod 的发布表达（苹果，2001年）"
+      ],
+      "real_case_sources": [
+        "https://www.apple.com/newsroom/2001/10/23Apple-Presents-iPod/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1181
     },
     {
       "name": "TTT思维",
@@ -4501,7 +5413,16 @@
         "image": "表达与协作/TTT思维/模型示意图.png",
         "vector": "表达与协作/TTT思维/模型示意图.svg"
       },
-      "directory": "表达与协作/TTT思维"
+      "directory": "表达与协作/TTT思维",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：高中生先学会教，再带同伴练习（2010 年研究）"
+      ],
+      "real_case_sources": [
+        "https://stacks.cdc.gov/view/cdc/191827/cdc_191827_DS1.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1291
     },
     {
       "name": "SOLO分类理论",
@@ -4523,7 +5444,16 @@
         "image": "学习与认知/SOLO分类理论/模型示意图.png",
         "vector": "学习与认知/SOLO分类理论/模型示意图.svg"
       },
-      "directory": "学习与认知/SOLO分类理论"
+      "directory": "学习与认知/SOLO分类理论",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：瑞典牙科课程把“会列事实”升级为“会解释关系”（2018—2020）"
+      ],
+      "real_case_sources": [
+        "https://doi.org/10.1111/eje.12787"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1327
     },
     {
       "name": "OGSM目标管理工具",
@@ -4545,7 +5475,17 @@
         "image": "行动与复盘/OGSM目标管理工具/模型示意图.png",
         "vector": "行动与复盘/OGSM目标管理工具/模型示意图.svg"
       },
-      "directory": "行动与复盘/OGSM目标管理工具"
+      "directory": "行动与复盘/OGSM目标管理工具",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：宝洁把长期环境方向与年度进度分开披露（2021—2022 年）"
+      ],
+      "real_case_sources": [
+        "https://us.pg.com/blogs/net-zero-closer-look/",
+        "https://us.pg.com/citizenship-report-2022/environmental-sustainability/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1280
     },
     {
       "name": "马太效应",
@@ -4567,7 +5507,16 @@
         "image": "系统与问题分析/马太效应/模型示意图.png",
         "vector": "系统与问题分析/马太效应/模型示意图.svg"
       },
-      "directory": "系统与问题分析/马太效应"
+      "directory": "系统与问题分析/马太效应",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：2018 年荷兰科研资助研究：刚过线与刚落选，后续机会逐渐分开"
+      ],
+      "real_case_sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC5948972/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1369
     },
     {
       "name": "诺依曼思维",
@@ -4589,7 +5538,17 @@
         "image": "系统与问题分析/诺依曼思维/模型示意图.png",
         "vector": "系统与问题分析/诺依曼思维/模型示意图.svg"
       },
-      "directory": "系统与问题分析/诺依曼思维"
+      "directory": "系统与问题分析/诺依曼思维",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：1999 年火星气候轨道器：模块各自工作，单位接口却未对齐"
+      ],
+      "real_case_sources": [
+        "https://science.nasa.gov/mission/mars-climate-orbiter/",
+        "https://ntrs.nasa.gov/search.jsp?R=20060043364"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1279
     },
     {
       "name": "多环集合思维",
@@ -4611,7 +5570,17 @@
         "image": "系统与问题分析/多环集合思维/模型示意图.png",
         "vector": "系统与问题分析/多环集合思维/模型示意图.svg"
       },
-      "directory": "系统与问题分析/多环集合思维"
+      "directory": "系统与问题分析/多环集合思维",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：2018 年毅力号选址：科学价值必须与安全着陆同时成立"
+      ],
+      "real_case_sources": [
+        "https://www.nasa.gov/news-release/nasa-announces-landing-site-for-mars-2020-rover/",
+        "https://www.jpl.nasa.gov/images/pia24167-jezeros-hazard-map/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1272
     },
     {
       "name": "PREP表达方式",
@@ -4633,7 +5602,16 @@
         "image": "表达与协作/PREP表达方式/模型示意图.png",
         "vector": "表达与协作/PREP表达方式/模型示意图.svg"
       },
-      "directory": "表达与协作/PREP表达方式"
+      "directory": "表达与协作/PREP表达方式",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：费曼在挑战者号调查报告中用技术证据约束判断（1986）"
+      ],
+      "real_case_sources": [
+        "https://www.nasa.gov/history/rogersrep/v2appf.htm"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1215
     },
     {
       "name": "机会成本",
@@ -4655,7 +5633,18 @@
         "image": "判断与决策/机会成本/模型示意图.png",
         "vector": "判断与决策/机会成本/模型示意图.svg"
       },
-      "directory": "判断与决策/机会成本"
+      "directory": "判断与决策/机会成本",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实研究：2009 年购买决策实验，提醒“钱还能做什么”会改变选择"
+      ],
+      "real_case_sources": [
+        "https://profiles.wustl.edu/en/publications/opportunity-cost-neglect/",
+        "https://doi.org/10.1086/599764",
+        "https://bear.warrington.ufl.edu/brenner/mar7588/Papers/frederick-jcr-2009.pdf"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1252
     },
     {
       "name": "蔡氏效应",
@@ -4677,7 +5666,17 @@
         "image": "学习与认知/蔡氏效应/模型示意图.png",
         "vector": "学习与认知/蔡氏效应/模型示意图.svg"
       },
-      "directory": "学习与认知/蔡氏效应"
+      "directory": "学习与认知/蔡氏效应",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：写下具体计划，减轻未完成目标的干扰（2011）"
+      ],
+      "real_case_sources": [
+        "https://users.wfu.edu/masicaej/MasicampoBaumeister2011JPSP.pdf",
+        "https://pubmed.ncbi.nlm.nih.gov/21688924/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1325
     },
     {
       "name": "逆向思维",
@@ -4699,7 +5698,17 @@
         "image": "判断与决策/逆向思维/模型示意图.png",
         "vector": "判断与决策/逆向思维/模型示意图.svg"
       },
-      "directory": "判断与决策/逆向思维"
+      "directory": "判断与决策/逆向思维",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实事件：1967 年 Apollo 1 火灾后，从死亡路径倒查设计"
+      ],
+      "real_case_sources": [
+        "https://www.nasa.gov/history/55-years-ago-the-apollo-1-fire-and-its-aftermath/",
+        "https://www.nasa.gov/history/Apollo204/seamans3.html"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1263
     },
     {
       "name": "帕金森定律",
@@ -4721,7 +5730,17 @@
         "image": "行动与复盘/帕金森定律/模型示意图.png",
         "vector": "行动与复盘/帕金森定律/模型示意图.svg"
       },
-      "directory": "行动与复盘/帕金森定律"
+      "directory": "行动与复盘/帕金森定律",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：更远的期限让相同任务显得更难（2018 年在线发表）"
+      ],
+      "real_case_sources": [
+        "https://doi.org/10.1093/jcr/ucy030",
+        "https://hub.jhu.edu/2018/05/31/meeting-deadlines-time-management-behaviors/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1309
     },
     {
       "name": "SECI模型",
@@ -4743,7 +5762,17 @@
         "image": "系统与问题分析/SECI模型/模型示意图.png",
         "vector": "系统与问题分析/SECI模型/模型示意图.svg"
       },
-      "directory": "系统与问题分析/SECI模型"
+      "directory": "系统与问题分析/SECI模型",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：松下面包机研发：把口感经验带回反复试做"
+      ],
+      "real_case_sources": [
+        "https://www.panasonic.com/uk/consumer/home-appliances-learn/home-appliances/a-world-of-history-and-tradition-enjoyed-with-your-breadmaker.html",
+        "https://www.panasonic.com/de/consumer/kueche-haushalt/tipps-aktionen/alles-fuer-die-kueche/professionelles-team-setzt-auf-guten-geschmack.html"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1332
     },
     {
       "name": "共鸣能量释放",
@@ -4765,7 +5794,17 @@
         "image": "专业借鉴与待核实主题/共鸣能量释放/模型示意图.png",
         "vector": "专业借鉴与待核实主题/共鸣能量释放/模型示意图.svg"
       },
-      "directory": "专业借鉴与待核实主题/共鸣能量释放"
+      "directory": "专业借鉴与待核实主题/共鸣能量释放",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实田野研究案例：卢旺达广播剧影响规范认知与协作（2009）"
+      ],
+      "real_case_sources": [
+        "https://collaborate.princeton.edu/en/publications/reducing-intergroup-prejudice-and-conflict-using-the-media-a-fiel/",
+        "https://www.povertyactionlab.org/evaluation/using-media-change-norms-and-behaviors-post-genocide-rwanda"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1396
     },
     {
       "name": "总观效应",
@@ -4787,7 +5826,17 @@
         "image": "学习与认知/总观效应/模型示意图.png",
         "vector": "学习与认知/总观效应/模型示意图.svg"
       },
-      "directory": "学习与认知/总观效应"
+      "directory": "学习与认知/总观效应",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：阿波罗 8 号从看月球转向看地球（1968）"
+      ],
+      "real_case_sources": [
+        "https://science.nasa.gov/earth/earth-observatory/earthrise-revisited-82693/",
+        "https://svs.gsfc.nasa.gov/3936"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1295
     },
     {
       "name": "贝勃定律",
@@ -4809,7 +5858,17 @@
         "image": "学习与认知/贝勃定律/模型示意图.png",
         "vector": "学习与认知/贝勃定律/模型示意图.svg"
       },
-      "directory": "学习与认知/贝勃定律"
+      "directory": "学习与认知/贝勃定律",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：Kandel 团队研究海兔怎样对重复刺激产生习惯化（约 1970 年）"
+      ],
+      "real_case_sources": [
+        "https://www.nobelprize.org/prizes/medicine/2000/kandel/biographical/",
+        "https://www.nobelprize.org/prizes/medicine/2000/kandel/biographical"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1345
     },
     {
       "name": "曼陀罗思考法",
@@ -4831,7 +5890,17 @@
         "image": "表达与协作/曼陀罗思考法/模型示意图.png",
         "vector": "表达与协作/曼陀罗思考法/模型示意图.svg"
       },
-      "directory": "表达与协作/曼陀罗思考法"
+      "directory": "表达与协作/曼陀罗思考法",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：大谷翔平高中目标表：把结果目标拆成训练方向"
+      ],
+      "real_case_sources": [
+        "https://www.sponichi.co.jp/baseball/news/2023/12/10/gazo/20231210s00001173499000p.html",
+        "https://mandalachart.jp/lp/mandalachart/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1264
     },
     {
       "name": "NLP理解层次",
@@ -4853,7 +5922,16 @@
         "image": "学习与认知/NLP理解层次/模型示意图.png",
         "vector": "学习与认知/NLP理解层次/模型示意图.svg"
       },
-      "directory": "学习与认知/NLP理解层次"
+      "directory": "学习与认知/NLP理解层次",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：NLP 健康应用的证据审查没有支持强疗效承诺（2012）"
+      ],
+      "real_case_sources": [
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC3481516/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1370
     },
     {
       "name": "大道至简",
@@ -4875,7 +5953,17 @@
         "image": "系统与问题分析/大道至简/模型示意图.png",
         "vector": "系统与问题分析/大道至简/模型示意图.svg"
       },
-      "directory": "系统与问题分析/大道至简"
+      "directory": "系统与问题分析/大道至简",
+      "real_case_status": "已补充有来源的真实案例（含真实研究或事后模型分析，类型与边界见正文）",
+      "real_case_titles": [
+        "真实案例：2012—2014 年 GOV.UK：把分散入口整理成可找到的公共信息"
+      ],
+      "real_case_sources": [
+        "https://gds.blog.gov.uk/2012/10/17/why-gov-uk-matters/",
+        "https://insidegovuk.blog.gov.uk/2014/12/19/300-websites-to-just-1-in-15-months/"
+      ],
+      "real_case_detail_status": "详解已完成：过程、结果口径、模型分析、迁移步骤及限制见案例正文",
+      "real_case_han_characters": 1269
     }
   ],
   "content_updated_at": "2026-09-09",
@@ -4893,5 +5981,16 @@
     "通用知识版": "采用已说明的通用概念或版本，未与视频核对",
     "主题参考版": "题名原义尚未确认，提供相关主题知识，不能视作作者模型",
     "title_stage_mapping_notes": "最初标题采集阶段的历史备注；当前范围以topics中的状态和正文为准"
+  },
+  "real_case_summary": {
+    "covered_topics": 103,
+    "unique_source_urls": 157,
+    "checked_at": "2026-09-09",
+    "scope": "真实事件、组织记录与实际研究；部分为相关参考主题或事后模型分析，不等于模型有效性的直接验证",
+    "detail_covered_topics": 103,
+    "detail_han_range": [
+      1106,
+      1396
+    ]
   }
 }
