@@ -5992,5 +5992,25 @@
       1106,
       1396
     ]
-  }
+  },
+  "supplemental_videos": [
+    {
+      "added_at": "2026-09-10",
+      "bvid": "BV1C7JazfEdD",
+      "title": "智能时代思考力——硬核5why法：最简单的“为什么”最难问",
+      "author": "圆中的猫头鹰",
+      "duration_seconds": 1043,
+      "url": "https://www.bilibili.com/video/BV1C7JazfEdD/",
+      "directories": [
+        "系统与问题分析/5Why法（五个为什么）"
+      ],
+      "source": "用户追加链接；合集归属未核实",
+      "metadata_status": "已通过公开视频信息接口核对",
+      "general_status": "三份正文与PNG、SVG已完成；通用知识版",
+      "video_status": "未解析"
+    }
+  ],
+  "supplemental_video_count": 1,
+  "registered_video_count": 111,
+  "snapshot_scope_note": "原有 videos、topics 与 content_summary 等字段保留2026-09-09合集快照；用户追加视频另存 supplemental_videos，当前全部模型状态见README.md。"
 }

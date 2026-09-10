@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200"><defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#375267" stroke-width="1.5"/></marker></defs><rect width="1200" height="1200" fill="#f7f9fc"/>
+<text x="600" y="100" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="34" fill="#203849">5Why 法｜追问原因，每一层都找证据</text>
+<text x="600" y="145" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="23" fill="#203849">从具体偏差，走向能够验证的改善措施</text>
+<rect x="130" y="210" width="940" height="105" rx="16" fill="white" stroke="#97b1bc"/>
+<text x="600" y="250" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="28" fill="#176c63">定义问题</text>
+<text x="600" y="288" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="22" fill="#203849">对象、标准、实际与发生条件</text>
+<path d="M600 315 L600 347" stroke="#375267" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="130" y="355" width="940" height="105" rx="16" fill="white" stroke="#97b1bc"/>
+<text x="600" y="395" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="28" fill="#176c63">为什么发生？</text>
+<text x="600" y="433" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="22" fill="#203849">先提出直接原因，标明假设</text>
+<path d="M600 460 L600 492" stroke="#375267" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="130" y="500" width="940" height="105" rx="16" fill="white" stroke="#97b1bc"/>
+<text x="600" y="540" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="28" fill="#176c63">这个原因又为什么产生？</text>
+<text x="600" y="578" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="22" fill="#203849">继续追问；多种原因分支处理</text>
+<path d="M600 605 L600 637" stroke="#375267" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="130" y="645" width="940" height="105" rx="16" fill="white" stroke="#97b1bc"/>
+<text x="600" y="685" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="28" fill="#176c63">证据支持这条原因链吗？</text>
+<text x="600" y="723" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="22" fill="#203849">查现场、日志、测量与反例</text>
+<path d="M600 750 L600 782" stroke="#375267" stroke-width="2.5" marker-end="url(#a)"/>
+<rect x="130" y="790" width="940" height="105" rx="16" fill="white" stroke="#97b1bc"/>
+<text x="600" y="830" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="28" fill="#176c63">采取措施并检查效果</text>
+<text x="600" y="868" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="22" fill="#203849">责任人、期限、验收与复发观察</text>
+<text x="600" y="990" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="24" fill="#203849">“五”不是必须的次数；图中五个环节也不是五个 Why。</text>
+<text x="600" y="1035" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="23" fill="#203849">证据不足就补调查，不能用“人不认真”替代机制分析。</text>
+<text x="600" y="1100" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="20" fill="#203849">本库操作示意 · 非视频截图 · 方法资料与视频内容分别维护</text>
+</svg>
