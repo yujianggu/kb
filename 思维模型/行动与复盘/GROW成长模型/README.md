@@ -4,6 +4,21 @@
 
 用途索引：行动与复盘（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 20世纪80年代由 John Whitmore、Graham Alexander、Alan Fine 在教练实践中共同发展；不同参与方对命名及具体贡献的叙述存在差异。
+
+**人物或机构简介：** Whitmore 是把教练方法引入工作场所的重要实践者，也是 Performance Consultants 联合创办人。Fine 从网球教练实践进入绩效辅导并创办 InsideOut Development；三人的合作将目标、现实、选择与行动整理成教练对话结构。
+
+**归属说明：** 不同版本的 W 可写 Will 或 Way Forward；本库采用 Will，不将任何一家机构的版本写成唯一原版。
+
+**参考来源：**
+
+- [InsideOut：GROW共同发展史](https://legacy.insideoutdev.com/about-us/what-is-the-grow-model/)
+- [Performance Consultants：人物介绍](https://www.performanceconsultants.com/about-us/people/)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

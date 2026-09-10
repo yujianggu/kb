@@ -4,6 +4,16 @@
 
 用途索引：判断与决策（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 丹尼尔·卡尼曼（Daniel Kahneman）是本主题采用版本的主要阐述者；双过程理论由多位研究者发展，System 1／System 2 命名可见 Keith Stanovich 与 Richard West 的2000年论文。
+
+**人物或机构简介：** 卡尼曼是研究判断与决策的心理学家，与阿莫斯·特沃斯基长期合作，将心理学证据带入经济学，并于2002年获得诺贝尔经济学奖。他对直觉与控制加工的整理，是本库“双系统”主题的主要参考。
+
+**归属说明：** 不把双过程研究全部归为卡尼曼首创，也不把“系统”解释为两个固定脑区。
+
+**参考来源：** [Stanovich与West：Individual differences in reasoning（2000）](https://www.keithstanovich.com/Site/Research_on_Reasoning_files/bbs2000_1.pdf)；[卡尼曼2002年诺贝尔讲座](https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf)；[诺贝尔奖：卡尼曼生平与研究](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

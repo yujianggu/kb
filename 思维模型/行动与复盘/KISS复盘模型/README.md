@@ -4,6 +4,21 @@
 
 用途索引：行动与复盘（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** Keep／Improve／Stop／Start 复盘版本的唯一首创者及年份尚未确认。可查实践来源包括 Nelly Martinez 为 Airbus Leadership University 发布的 SessionLab 方法条目。
+
+**人物或机构简介：** Airbus Leadership University 是空客的领导力学习体系，2015年宣布推出多地协同的学习网络，面向员工和管理者的发展。其团队分享了 KISS 复盘活动，这能够证明实践传播，不能证明空客或条目作者首创该框架。
+
+**归属说明：** 它与 Keep It Simple 设计原则只是缩写相同，不能沿用后者的提出者归属。
+
+**参考来源：**
+
+- [SessionLab：KISS实践条目及署名](https://www.sessionlab.com/methods/kiss-keep-improve-stop-start)
+- [Airbus：2015年领导力大学公告](https://www.airbus.com/en/newsroom/press-releases/2015-05-airbus-group-launches-multi-site-leadership-university)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

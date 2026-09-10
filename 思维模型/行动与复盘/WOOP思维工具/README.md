@@ -4,6 +4,20 @@
 
 用途索引：行动与复盘（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 由心理学家 Gabriele Oettingen（加布里埃尔·厄廷根）及其研究团队发展推广，结合心理对照与执行意向研究；执行意向的重要来源是 Peter M. Gollwitzer 的工作。
+
+**人物或机构简介：** 厄廷根在纽约大学和汉堡大学从事心理学研究，长期关注未来想象、动机与自我调节。她研究理想结果与现实障碍的对照，并将相关研究转化为愿望、结果、障碍、计划四项练习。
+
+**参考来源：**
+
+- [WOOP官方：人物介绍](https://woopmylife.org/en/contact)
+- [WOOP官方：科学依据](https://woopmylife.org/en/science)
+- [NYU：厄廷根研究著作](https://wp.nyu.edu/motivationlab/publications/gabriele-oettingen/)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

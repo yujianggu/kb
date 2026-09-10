@@ -4,6 +4,16 @@
 
 用途索引：判断与决策（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 贾斯廷·克鲁格（Justin Kruger）与戴维·邓宁（David Dunning）共同开展研究，1999年发表《Unskilled and unaware of it》。
+
+**人物或机构简介：** 邓宁研究自我认识与社会判断；克鲁格研究过度自信、比较判断及日常启发式。两人在康奈尔大学背景下的合作，考察任务表现与自我评价之间的关系，而不是给人永久划定“聪明”或“愚笨”等级。
+
+**归属说明：** 网络流行的“自信山峰”曲线不等于原论文的图，不能作为两位作者已经验证的统一成长阶段。
+
+**参考来源：** [PubMed：1999年原论文摘要与作者](https://pubmed.ncbi.nlm.nih.gov/10626367/)；[密歇根大学：David Dunning](https://lsa.umich.edu/psych/people/faculty/ddunning.html)；[纽约大学：Justin Kruger研究介绍](https://pages.stern.nyu.edu/~jkruger/)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

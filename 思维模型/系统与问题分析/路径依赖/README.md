@@ -4,6 +4,22 @@
 
 用途索引：系统与问题分析（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 现代经济学的路径依赖研究由保罗·大卫（Paul A. David）、布赖恩·阿瑟（W. Brian Arthur）等推进。大卫的 1985 年 QWERTY 论文与阿瑟关于报酬递增的系列研究是重要来源，不能简单认定一篇论文就是全部思想的起点。
+
+**人物或机构简介：** 大卫是经济史学者，长期在斯坦福研究技术变化及历史选择如何影响经济结果。阿瑟研究报酬递增、技术与复杂性经济学，曾任斯坦福教授并参与圣塔菲研究所的经济学研究；两人的工作帮助解释早期选择如何形成后续优势与转换成本。
+
+**归属说明：** 本页采用技术与组织选择中的经济学含义；路径依赖是有条件的机制分析，不意味着历史决定一切或所有旧路径都低效。
+
+**参考来源：**
+
+- [Stanford：Paul David 生平与 1985 年论文](https://humsci.stanford.edu/feature/paul-david-who-made-stanford-leading-center-economic-history-dies-87)
+- [Arthur：报酬递增与路径依赖论文集](https://sites.santafe.edu/~wbarthur/increasingreturnsbook.html)
+- [Arthur：作者研究介绍](https://sites.santafe.edu/~wbarthur/)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

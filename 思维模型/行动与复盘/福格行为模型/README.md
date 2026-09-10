@@ -4,6 +4,21 @@
 
 用途索引：行动与复盘（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 由 BJ Fogg（BJ·福格）提出，2009年发表《A Behavior Model for Persuasive Design》；现行官方表述采用 B=MAP。
+
+**人物或机构简介：** 福格是行为科学与行为设计研究者，创办了斯坦福大学 Behavior Design Lab，并著有《Tiny Habits》。他的工作把动机、行动难易和提示结合起来，帮助研究者与实践者分析具体行为何时可能发生。
+
+**归属说明：** 早期论文使用 Trigger，当前官方使用 Prompt；B=MAP 是关系助记，不应把任意评分相乘作为科学预测。
+
+**参考来源：**
+
+- [福格官方：模型及人物背景](https://www.behaviormodel.org/)
+- [2009年原论文](https://www.demenzemedicinagenerale.net/images/mens-sana/Captology_Fogg_Behavior_Model.pdf)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

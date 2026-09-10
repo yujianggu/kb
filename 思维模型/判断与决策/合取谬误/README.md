@@ -4,6 +4,16 @@
 
 用途索引：判断与决策（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 阿莫斯·特沃斯基（Amos Tversky）与丹尼尔·卡尼曼（Daniel Kahneman）通过概率判断研究系统展示该偏差，代表论文为1983年的《Extensional versus intuitive reasoning》。
+
+**人物或机构简介：** 特沃斯基与卡尼曼是长期合作的心理学家，研究直觉判断如何偏离概率规则。他们以可比较的任务揭示判断机制；合取谬误研究成为这条研究路径中的代表性工作。卡尼曼后来获2002年诺贝尔经济学奖。
+
+**归属说明：** 这里归属的是对心理偏差的研究，不是概率论中合取关系本身；现代题目变体并非都由两人设计。
+
+**参考来源：** [卡尼曼2002年诺贝尔讲座](https://www.nobelprize.org/uploads/2018/06/kahnemann-lecture.pdf)；[1983年论文书目与作者](https://cir.nii.ac.jp/crid/1363107370260969088?lang=en)；[诺贝尔奖：卡尼曼生平与研究](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

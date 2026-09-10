@@ -4,6 +4,19 @@
 
 用途索引：行动与复盘（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 题名的提出者及提出时间尚未确认；“结果清单＋行动清单”是本库整理的参考工具，不是已经查明的名人原版。
+
+**人物或机构简介：** 无法提供该题名真实提出者的简介。相关研究者 Peter M. Gollwitzer 长期研究目标追求、意向与行动，提出并研究“执行意向”，以具体情境连接动作；他的研究能支持清单衔接思路，但不能证明他提出了“双目标清单”。
+
+**参考来源：**
+
+- [Gollwitzer与Sheeran：意向与目标达成](https://cancercontrol.cancer.gov/sites/default/files/2020-06/goal_intent_attain.pdf)
+- [NYU：Gollwitzer研究著作](https://wp.nyu.edu/motivationlab/publications/peter-gollwitzer/)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

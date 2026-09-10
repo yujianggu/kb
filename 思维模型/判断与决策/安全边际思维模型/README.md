@@ -4,6 +4,16 @@
 
 用途索引：判断与决策（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 投资领域的安全边际与本杰明·格雷厄姆（Benjamin Graham）、戴维·多德（David Dodd）的价值投资体系密切相关，1934年《证券分析》是代表性著作。
+
+**人物或机构简介：** 格雷厄姆与多德在哥伦比亚商学院发展价值投资教学与分析方法，关注价格与内在价值的区别。他们把审慎估值与风险余量放进证券分析框架，后续被更多投资者采用和发展。
+
+**归属说明：** 本库将其扩展到项目与日常决策中的余量设计；工程安全系数另有技术源流，不能归于证券分析作者。
+
+**参考来源：** [哥伦比亚商学院：价值投资历史](https://business.columbia.edu/heilbrunn/about/valueinvestinghistory)；[McGraw-Hill：Security Analysis出版资料](https://www.mheducation.com/highered/mhp/product/security-analysis-seventh-edition.html)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

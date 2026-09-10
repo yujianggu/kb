@@ -4,6 +4,16 @@
 
 用途索引：判断与决策（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 丹尼尔·卡尼曼与阿莫斯·特沃斯基共同提出，1979年在《Econometrica》发表《Prospect Theory: An Analysis of Decision under Risk》。
+
+**人物或机构简介：** 两位心理学家长期合作研究风险与不确定性下的判断。前景理论把实验中观察到的选择方式组织成描述性理论，成为心理学影响经济学的重要路径；卡尼曼因相关研究获2002年诺贝尔经济学奖。
+
+**归属说明：** 两人是共同作者；不能因卡尼曼获奖而省略特沃斯基，也不把这套描述性理论当成个人投资策略。
+
+**参考来源：** [1979年论文书目](https://econpapers.repec.org/article/ecmemetrp/v_3a47_3ay_3a1979_3ai_3a2_3ap_3a263-91.htm)；[诺贝尔奖：卡尼曼生平与研究](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

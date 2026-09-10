@@ -4,6 +4,16 @@
 
 用途索引：判断与决策（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 本库采用特沃斯基与卡尼曼的决策框架研究，代表论文是1981年《The Framing of Decisions and the Psychology of Choice》。
+
+**人物或机构简介：** 两位心理学家把同一决策问题的不同表述进行比较，考察偏好如何变化。他们的合作连接了心理实验与经济决策理论，为分析风险选择提供了系统证据。
+
+**归属说明：** 此处是决策心理学的框架效应；传播学等领域的“框架”研究另有源流，不能全部归于这篇论文。
+
+**参考来源：** [1981年原论文，斯坦福课程存档](https://stanford.edu/class/psych205/papers/Tversky-Kahneman-1981.pdf)；[诺贝尔奖：卡尼曼生平与研究](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

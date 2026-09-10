@@ -4,6 +4,20 @@
 
 用途索引：系统与问题分析（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 芭芭拉·明托（Barbara Minto）明确将 MECE 的提出归于自己；麦肯锡官方访谈记录了这一说明。本次资料未确认可以单列的首次提出年份。
+
+**人物或机构简介：** 明托曾在麦肯锡工作十年，是该公司首位具有 MBA 学位的女性专业顾问。她将写作、论证和问题组织方法发展为金字塔原理，并通过书籍与课程传播；MECE 是其结构化思考方法中的重要组成部分。
+
+**归属说明：** MECE 的归属指这一命名及方法表述，不表示互斥分类和穷尽集合的逻辑思想始于明托。
+
+**参考来源：**
+
+- [McKinsey：Barbara Minto 谈 MECE 与职业经历](https://www.mckinsey.com/alumni/news-and-events/global-news/alumni-news/barbara-minto-mece-i-invented-it-so-i-get-to-say-how-to-pronounce-it)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

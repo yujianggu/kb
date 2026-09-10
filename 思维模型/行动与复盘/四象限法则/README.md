@@ -4,6 +4,21 @@
 
 用途索引：行动与复盘（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 本库采用“重要性×紧迫性”时间矩阵，Stephen R. Covey（史蒂芬·柯维）及 FranklinCovey 是其重要系统化传播者；不认定所有二维四象限图都有同一提出者。
+
+**人物或机构简介：** 柯维是领导力与个人效能领域的作者、顾问，《高效能人士的七个习惯》将以原则为中心的选择和行动组织成学习体系。FranklinCovey 延续相关培训，以时间矩阵帮助个人区分紧急事务与长期重要工作。
+
+**归属说明：** 常见的“艾森豪威尔矩阵”名称不能单独证明艾森豪威尔绘制或首创了今天的四格工具；本目录的视频两轴尚未核实。
+
+**参考来源：**
+
+- [FranklinCovey：时间矩阵](https://www.franklincovey.com/blog/manage-your-time-and-energy-effectively/)
+- [FranklinCovey：Stephen R. Covey生平](https://ir.franklincovey.com/news-releases/news-release-details/franklin-covey-co-announces-passing-dr-stephen-r-covey-renowned/)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

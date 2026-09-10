@@ -4,6 +4,21 @@
 
 用途索引：系统与问题分析（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 本次未确认“诺依曼思维”是约翰·冯·诺依曼（John von Neumann）提出的正式模型。普林斯顿高等研究院资料可以确认其计算机与数学贡献，但不能证明本页“分解、接口、组合验证”的工作步骤出自他。
+
+**人物或机构简介：** 冯·诺依曼是数学家，曾任普林斯顿高等研究院数学教授，研究涉及量子理论、博弈论和计算。他发起研究院电子计算机项目，将数学方法用于多类实际问题，对存储程序计算机的发展产生重要影响。
+
+**归属说明：** 姓名背景与模型作者归属是两件事。本页保留原题名以便追溯，通用系统分析步骤仍标为知识库整理。
+
+**参考来源：**
+
+- [Institute for Advanced Study：John von Neumann](https://www.ias.edu/scholars/von-neumann)
+- [Institute for Advanced Study：Electronic Computer Project](https://www.ias.edu/electronic-computer-project)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

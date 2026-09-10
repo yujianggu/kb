@@ -4,6 +4,14 @@
 
 用途索引：判断与决策（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 机会成本由经济学长期发展；弗里德里希·冯·维泽尔（Friedrich von Wieser）是替代成本思想的重要系统阐述者，不将其认定为所有相关思想的唯一源头。
+
+**人物或机构简介：** 维泽尔是奥地利经济学家，也是奥地利学派早期代表人物。他的《自然价值》等著作讨论价值、成本与生产要素分配，有助于理解为什么选择一种用途时，需要考虑放弃的其他用途。
+
+**参考来源：** [Econlib：机会成本的思想史说明](https://www.econlib.org/library/Columns/y2005/JasayunseenB.html)；[Deutsche Biographie：Friedrich von Wieser](https://www.deutsche-biographie.de/sfz14842.html)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

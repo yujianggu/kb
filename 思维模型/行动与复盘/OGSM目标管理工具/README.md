@@ -4,6 +4,22 @@
 
 用途索引：行动与复盘（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 未确认唯一首创者。宝洁（Procter & Gamble，P&G）是现代 OGSM 的重要发展和推广企业；ArchPoint 的历史说明也明确指出其精确起源未知。
+
+**人物或机构简介：** 宝洁由 William Procter 和 James Gamble 于1837年创立，从肥皂与蜡烛业务发展起来。它在消费品研发、消费者研究和品牌管理上积累了实践，OGSM 被用于连接战略方向、量化目标与组织执行。
+
+**归属说明：** “源于20世纪50年代日本”属于常见历史叙述，现有证据不足以给出某位日本首创者或准确首创年份；不将宝洁的推广直接等同于最早发明。
+
+**参考来源：**
+
+- [ArchPoint：OGSM历史与边界](https://archpointconsulting.com/strategyogsm/strategic-planning-frameworks)
+- [P&G：公司名称与创立历史](https://us.pg.com/blogs/pg-misspelling-procter-and-gamble/)
+- [P&G：创新历史](https://in.pg.com/innovation/)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

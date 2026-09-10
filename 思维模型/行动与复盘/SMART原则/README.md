@@ -4,6 +4,20 @@
 
 用途索引：行动与复盘（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** George T. Doran（乔治·多兰）在1981年11月《Management Review》文章中提出 S.M.A.R.T. 目标书写标准。
+
+**人物或机构简介：** 多兰是一位管理咨询与企业规划实践者。他从管理者难以写清目标的问题出发，把具体性、衡量、责任分配、现实条件和时间要求整理成助记标准；贡献重点是改善目标表述，而非发明所有目标管理思想。
+
+**归属说明：** 原文为 Specific、Measurable、Assignable、Realistic、Time-related。本库正文采用后来常用的 Achievable、Relevant 等变体，应与原文版本区分。
+
+**参考来源：**
+
+- [Doran：1981年原文扫描](https://www.decisionskills.com/uploads/5/1/6/0/5160560/doran_1981_s.m.a.r.t-way-management-review.pdf)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

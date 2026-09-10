@@ -4,6 +4,21 @@
 
 用途索引：行动与复盘（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 源头与 Walter A. Shewhart（沃尔特·休哈特）的循环学习思想有关；W. Edwards Deming（戴明）于1950年在日本讲授的循环经日本管理实践发展为 PDCA，不能归为某人一次性独立发明。
+
+**人物或机构简介：** 休哈特在贝尔实验室从事统计质量工作，是戴明的重要导师。戴明将统计方法、系统改进与管理学习结合并广泛传播；他后来强调 PDSA 的 Study（研究），重视用结果检验预测并修正认识。
+
+**归属说明：** PDCA 的 Check 与戴明倡导的 PDSA 的 Study 应区别介绍；“戴明环”这一俗称不等于戴明本人主张两个版本完全相同。
+
+**参考来源：**
+
+- [Deming Institute：循环发展史](https://deming.org/wp-content/uploads/2020/06/circling-back.pdf)
+- [Deming Institute：PDSA及休哈特渊源](https://deming.org/explore/pdsa/)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

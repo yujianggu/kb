@@ -4,6 +4,14 @@
 
 用途索引：判断与决策（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 理查德·塞勒（Richard H. Thaler）发展了心理账户理论，用来解释人们如何在心理上划分、记录和评价金钱。
+
+**人物或机构简介：** 塞勒是行为经济学的重要研究者，曾在康奈尔大学和芝加哥大学从事研究。他把有限理性、公平偏好和自我控制问题带入经济分析，因对行为经济学的贡献获得2017年诺贝尔经济学奖。
+
+**参考来源：** [诺贝尔奖：2017年经济学奖说明](https://www.nobelprize.org/prizes/economic-sciences/2017/press-release/)；[诺贝尔奖：Richard Thaler Facts](https://www.nobelprize.org/prizes/economic-sciences/2017/thaler/facts/)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

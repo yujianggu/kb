@@ -4,6 +4,20 @@
 
 用途索引：系统与问题分析（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 本次未确认这一中文思维模型的可靠首创归属。本页采用工程中的熔断、暂停和故障隔离主题，参考 Microsoft Azure 架构中心发布的 Circuit Breaker 模式说明。
+
+**人物或机构简介：** Microsoft 的 Azure 架构中心面向云应用设计者提供架构模式和工程指南。其熔断模式文档说明连续失败时暂时阻止调用、保护资源并试探恢复的机制，帮助开发者讨论可靠性与可用性的取舍。
+
+**归属说明：** Microsoft 在这里是技术文档发布机构，不是已确认的题名提出公司，也不代表它发明了所有熔断保护机制；勿与地理学同名理论混用。
+
+**参考来源：**
+
+- [Microsoft Learn：Circuit Breaker pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)
