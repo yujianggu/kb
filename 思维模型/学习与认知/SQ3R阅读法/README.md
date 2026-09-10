@@ -4,6 +4,16 @@
 
 用途索引：学习与认知（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 弗朗西斯·罗宾逊（Francis P. Robinson）开发；其 1946 年《Effective Study》已收录 Survey Q3R 方法。
+
+**人物或机构简介：** 罗宾逊是俄亥俄州立大学的心理学家，也是《Effective Study》的作者。他把教材学习组织成浏览、提问、阅读、复述和复习的过程，强调学习者主动检查理解；这一阅读流程后来被高校学习支持机构广泛介绍。
+
+**归属说明：** 这里列可核实的 1946 年版本，不把该版本年份进一步断言为方法首次形成或最早出版年份。
+
+**参考来源：** [康奈尔大学：SQ3R 及开发者](https://lsc.cornell.edu/how-to-study/reading-strategies/textbook-reading-systems/)；[1946 年《Effective Study》书目与目录](https://books.google.com/books/about/Effective_Study.html?id=OsVrAAAAIAAJ)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

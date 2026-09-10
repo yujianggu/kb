@@ -4,6 +4,16 @@
 
 用途索引：学习与认知（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 按本库采用的 Zeigarnik 效应理解，提出者为布卢玛·蔡格尼克（Bluma Zeigarnik），她于 1927 年报告未完成与已完成任务的记忆差异。
+
+**人物或机构简介：** 蔡格尼克是心理学家，早年在柏林大学随库尔特·勒温开展实验研究，以任务中断与记忆研究闻名。她在 1931 年赴苏联后继续研究心理活动与病理心理问题；其学术工作并不限于后来以她命名的记忆效应。
+
+**归属说明：** “蔡氏效应”在本库按未完成任务主题对应 Zeigarnik；这项归属不能证明所有现实中的未完成事件必然记得更牢，也不能混同恢复任务的 Ovsiankina 效应。
+
+**参考来源：** [APA：Zeigarnik 效应及 1927 年归属](https://dictionary.apa.org/zeigarnik-effect)；[Gestalt Theory：家属撰写的 Zeigarnik 回忆与生平](https://www.gestalttheory.net/uploads/pdf/GTH-Archive/2007Zeigarnik_Memoir.pdf)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

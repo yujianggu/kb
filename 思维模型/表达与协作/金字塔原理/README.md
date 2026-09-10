@@ -4,6 +4,14 @@
 
 用途索引：表达与协作（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 芭芭拉·明托（Barbara Minto）在麦肯锡工作期间逐步形成并教授这一方法；作者官网区分了 1987 年出版版本与 1996 年修订教材。
+
+**人物或机构简介：** 明托是商务写作与结构化思考培训者，1963—1973 年任职麦肯锡。她从编辑咨询报告中发现，表达混乱往往源于观点关系未厘清，随后把归组、概括与层级组织发展成课程和教材。
+
+**参考来源：** [明托官网：方法与教材版本](https://www.barbaraminto.com/)；[麦肯锡：明托职业回顾](https://www.mckinsey.com/alumni/news-and-events/global-news/alumni-news/barbara-minto-mece-i-invented-it-so-i-get-to-say-how-to-pronounce-it)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

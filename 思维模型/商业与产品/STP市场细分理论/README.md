@@ -4,6 +4,22 @@
 
 用途索引：商业与产品（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** STP 是市场细分、目标选择、定位等思想逐步整合的框架，不宜归为单人一次发明。Wendell R. Smith 的1956年论文是市场细分的重要早期文献，Philip Kotler 的营销教材推动了体系化教学。
+
+**人物或机构简介：** 温德尔·史密斯在1956年以产品差异化与市场细分作为不同营销策略进行讨论，论文署名机构为 Alderson & Sessions。菲利普·科特勒长期在西北大学凯洛格管理学院研究和教授营销，其《营销管理》等著作推动营销知识的系统传播。
+
+**归属说明：** 1956年对应市场细分论文，不是完整 STP 框架的诞生年份；未核实视频标题中 STPST 的扩展含义。
+
+**参考来源：**
+
+- [Smith：1956年市场细分原论文](https://journals.sagepub.com/doi/abs/10.1177/002224295602100102)
+- [凯洛格管理学院：Philip Kotler 简介](https://www.kellogg.northwestern.edu/academics-research/faculty/kotler_philip/)
+- [OpenStax：Product Positioning与STP](https://openstax.org/books/principles-marketing/pages/5-6-product-positioning)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

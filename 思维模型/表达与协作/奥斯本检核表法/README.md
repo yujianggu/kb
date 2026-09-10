@@ -4,6 +4,16 @@
 
 用途索引：表达与协作（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 亚历克斯·奥斯本（Alex Osborn）的创意提问检核表，来自其《Applied Imagination》体系。John E. Arnold 的 1959 年《Creative Engineering》已明确引用该书的检核表。
+
+**人物或机构简介：** 奥斯本是创造力教育的推动者，1954 年创办创造教育基金会。他通过头脑风暴及有方向的提问，帮助人们延后评价、改变观察角度并发展新想法；检核表正是这种“用提示激发创意”思路的具体工具。
+
+**归属说明：** 本库九类中文提示属于常见整理版本；不把后来助记法的名称、全部译词或排序都归为奥斯本原文。
+
+**参考来源：** [John E. Arnold：Creative Engineering，检核表引用](https://inist.org/Library/1959.John%20E%20Arnold.Creative%20Engineering.pdf)；[CEF：奥斯本简介](https://www.creativeeducationfoundation.org/about/)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

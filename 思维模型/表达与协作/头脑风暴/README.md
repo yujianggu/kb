@@ -4,6 +4,14 @@
 
 用途索引：表达与协作（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 亚历克斯·奥斯本（Alex Osborn）是头脑风暴的主要提出者与推广者；1953 年《Applied Imagination》是其创造性问题解决方法的重要系统化文献。
+
+**人物或机构简介：** 奥斯本从事创造力方法的开发与教育，1954 年创办 Creative Education Foundation（创造教育基金会）。他推动把创造力从依赖灵感的活动转为可刻意练习的过程，相关工作发展成创造性问题解决教学与培训。
+
+**参考来源：** [CEF：奥斯本与基金会历史](https://www.creativeeducationfoundation.org/about/)；[CEF：创造性问题解决工作手册](https://www.creativeeducationfoundation.org/wp-content/uploads/2015/06/CPS-Participant-Workbook-FINAL-web.pdf)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

@@ -4,6 +4,21 @@
 
 用途索引：商业与产品（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** Daniel Kahneman 与 Barbara L. Fredrickson 等人的研究形成了峰终评价的证据基础；1993年冷水实验论文还包括 Charles A. Schreiber 和 Donald A. Redelmeier。
+
+**人物或机构简介：** 丹尼尔·卡尼曼是研究判断、决策以及体验与记忆差异的心理学家。他与合作者将心理学证据引入经济决策研究；峰终研究属于其体验效用与记忆效用工作，强调当下感受和事后评价可能不同。
+
+**归属说明：** 应保留共同作者；1993年是关键实验发表年份，不把所有情境中的峰终规律归于单次实验。
+
+**参考来源：**
+
+- [SAGE：1993年冷水实验原论文与四位作者](https://journals.sagepub.com/doi/pdf/10.1111/j.1467-9280.1993.tb00589.x)
+- [诺贝尔奖网站：Kahneman 自传与体验研究](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/?source=post_page---------------------------)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

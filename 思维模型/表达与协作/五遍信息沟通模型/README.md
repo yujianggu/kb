@@ -4,6 +4,16 @@
 
 用途索引：表达与协作（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 尚未确认“五遍信息沟通”的原始提出者、标准步骤或首创年份。本库采用的相关参考是闭环沟通；AHRQ 与美国国防部合作开发的 TeamSTEPPS 于 2006 年发布，包含复述核对工具。
+
+**人物或机构简介：** 美国医疗保健研究与质量局（AHRQ）提供医疗质量与患者安全研究及改进工具。它与美国国防部合作推出 TeamSTEPPS 团队训练体系，其中 check-back 要求接收者反馈理解、发送者再次核对，帮助发现沟通偏差。
+
+**归属说明：** AHRQ 是相关参考方法的提供者，不是“五遍模型”的已证实提出者；本次未找到支持丰田等企业首创该题名模型的可靠原始资料。
+
+**参考来源：** [AHRQ：机构与 TeamSTEPPS 历史](https://www.ahrq.gov/cpi/about/brief-history.html)；[AHRQ：Check-Back 工具](https://www.ahrq.gov/teamstepps-program/curriculum/communication/tools/checkback.html)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

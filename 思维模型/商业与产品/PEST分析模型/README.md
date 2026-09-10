@@ -4,6 +4,21 @@
 
 用途索引：商业与产品（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 未确认 PEST 这一缩写及四项排列的唯一首创者。可确证的相关早期来源是 Francis J. Aguilar 于1967年出版的《Scanning the Business Environment》。
+
+**人物或机构简介：** 弗朗西斯·阿吉拉尔是哈佛商学院的战略规划、综合管理与商业伦理学者。他研究管理者如何获取外部事件和趋势的信息，并将其用于决策；其环境扫描研究为理解宏观环境分析提供了重要背景。
+
+**归属说明：** 环境扫描研究的早期作者不自动等于 PEST 名称的发明者；PESTLE 是增加法律和环境维度的相关扩展。
+
+**参考来源：**
+
+- [哈佛商学院：Aguilar 生平与1967年环境扫描著作](https://www.hbs.edu/news/releases/aguilar-obituary)
+- [CIPD：PESTLE分析文字事实表](https://www.cipd.org/uk/knowledge/factsheets/pestle-analysis-factsheet/)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

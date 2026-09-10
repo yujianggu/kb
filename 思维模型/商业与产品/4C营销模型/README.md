@@ -4,6 +4,21 @@
 
 用途索引：商业与产品（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** Robert F. Lauterborn（罗伯特·劳特朋）于1990年在《Advertising Age》发表消费者需求、成本、便利、沟通这一4C版本。
+
+**人物或机构简介：** 劳特朋是广告与整合营销传播教育者，曾任北卡罗来纳大学教堂山分校广告学教授。在进入学界前，他从事企业营销传播与广告管理，后参与整合营销传播著作写作，强调从消费者角度重新审视营销安排。
+
+**归属说明：** 本页采用消费者视角的4C，不是清晰、一致等传播表达版本；1990年是已查到的公开发表年份。
+
+**参考来源：**
+
+- [Smart Insights：Lauterborn 1990年4C与同名版本区分](https://www.smartinsights.com/marketing-planning/marketing-models/4cs-marketing-model/)
+- [HSTalks：Robert Lauterborn 作者简介](https://hstalks.com/expert/2744/prof-robert-f-lauterborn/)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

@@ -4,6 +4,14 @@
 
 用途索引：学习与认知（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 约翰·弗拉维尔（John H. Flavell）命名并推动元认知研究；1979 年论文《Metacognition and Cognitive Monitoring》是其系统阐述这一领域的代表文献。
+
+**人物或机构简介：** 弗拉维尔是美国发展心理学家，曾任斯坦福大学心理学教授，长期研究儿童认知发展。他推动皮亚杰思想在英语学界的传播，也研究儿童如何理解记忆、思考及他人的心理活动，将对认知本身的认识纳入发展研究。
+
+**参考来源：** [斯坦福大学：Flavell 生平与元认知贡献](https://news.stanford.edu/stories/2025/06/john-flavell-developmental-psychology-obituary)；[Flavell 1979 年论文原文副本](https://www.neurodyspaca.org/IMG/pdf/flavell_-_1979_-_metacognition_and_cognitive_monitoring.pdf)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

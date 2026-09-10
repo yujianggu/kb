@@ -4,6 +4,16 @@
 
 用途索引：表达与协作（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 来自芭芭拉·明托（Barbara Minto）的金字塔原理与 SCQ Framework。作者官网明确使用 Situation—Complication—Question；本库使用的 SCQA 将 Answer 单独列为回答。
+
+**人物或机构简介：** 明托曾在麦肯锡负责报告编辑与写作训练，后来独立开展商务沟通教学。她把读者需要回答的问题放在写作起点，用背景与变化建立问题，再用金字塔结构组织答案及其支撑理由。
+
+**归属说明：** SCQA 是与明托框架相联系的常见展开写法，不能据此声称四字母缩写本身具有已确认的独立首创年份。
+
+**参考来源：** [明托官网：SCQ 框架](https://www.barbaraminto.com/)；[麦肯锡：明托职业回顾](https://www.mckinsey.com/alumni/news-and-events/global-news/alumni-news/barbara-minto-mece-i-invented-it-so-i-get-to-say-how-to-pronounce-it)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

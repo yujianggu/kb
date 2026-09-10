@@ -4,6 +4,20 @@
 
 用途索引：商业与产品（编辑分类）。用于解释业务如何创造价值、活动如何配合，以及资源应该优先投在哪里。
 
+## 提出者与背景
+
+**提出者／来源：** 迈克尔·波特（Michael E. Porter）在1985年出版的《竞争优势》中系统阐述价值链。
+
+**人物或机构简介：** 迈克尔·波特是哈佛商学院的战略与竞争研究学者，研究企业如何选择竞争位置、组织活动并维持优势。他的五力与价值链框架分别连接行业结构和企业内部活动，为经营选择提供了不同层次的分析工具。
+
+**参考来源：**
+
+- [哈佛商学院：The Value Chain](https://www.isc.hbs.edu/strategy/business-strategy/Pages/the-value-chain.aspx)
+- [哈佛商学院：Michael Porter 生平与著作](https://www.isc.hbs.edu/about-michael-porter/biography/Pages/default.aspx)
+- [出版商：《Competitive Advantage》内容与节选](https://www.simonandschuster.com/books/Competitive-Advantage/Michael-E-Porter/9780684841465)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

@@ -4,6 +4,14 @@
 
 用途索引：表达与协作（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 西蒙·斯涅克（Simon Sinek）提出 Golden Circle，以 Why—How—What 组织目的、做法和产出；2009 年 TEDx 演讲及《Start with Why》推动了这一框架的传播。
+
+**人物或机构简介：** 斯涅克是关注领导力与组织目的的作家、演讲者。他通过《Start with Why》等作品讨论领导者如何解释行动意义、建立共同方向；黄金圈是这一传播体系中的核心框架，适合梳理主张而非保证经营结果。
+
+**参考来源：** [Simon Sinek 官方：Golden Circle 演讲背景](https://simonsinek.com/videos/ted-talks?trk=public_post_comment-text)；[《Start with Why》2009 年出版记录](https://books.google.com/books/about/Start_with_Why.html?id=iyw6ul1x_n8C)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

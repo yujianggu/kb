@@ -4,6 +4,22 @@
 
 用途索引：商业与产品（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 现代销售漏斗由销售阶段思想和后续营销实践演变而来，未确认唯一首创者。William W. Townsend 的1924年《Bond Salesmanship》是漏斗比喻的早期文献线索。
+
+**人物或机构简介：** 威廉·汤森德是《Bond Salesmanship》的作者，该书围绕债券销售知识、销售步骤、异议处理和销售组织展开。它体现了早期销售教育对顾客思考与成交过程的关注；其历史语境与今天按客户数量计算转化的数字漏斗有所不同。
+
+**归属说明：** 书目信息可确证作者与年代，漏斗措辞以历史讨论中所附原书摘图为线索；不把1924年的比喻等同于现代CRM漏斗，也不直接写成Lewis于1898年发明现代漏斗。
+
+**参考来源：**
+
+- [宾夕法尼亚大学图书目录：1924年原书](https://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp62905)
+- [Google Books：原书目录与出版信息](https://books.google.com/books/about/Bond_Salesmanship.html?id=qglDAAAAIAAJ)
+- [Tom Roach：原书摘图与漏斗历史讨论](https://thetomroach.com/2021/09/01/)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

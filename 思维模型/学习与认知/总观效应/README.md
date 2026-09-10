@@ -4,6 +4,14 @@
 
 用途索引：学习与认知（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 弗兰克·怀特（Frank White）提出并命名 Overview Effect，1987 年出版《The Overview Effect: Space Exploration and Human Evolution》。
+
+**人物或机构简介：** 怀特是关注太空探索与人类未来的作家、太空哲学研究者，也是 Overview Institute 的共同创办者。他通过航天员访谈与文字材料，讨论从太空观看地球如何改变整体认知，并将这一体验带入公共讨论。
+
+**参考来源：** [Frank White：作者及著作介绍](https://frankwhiteauthor.com/)；[Overview Institute：Frank White 简介](https://overviewinstitute.org/dt_team/frank-white/)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

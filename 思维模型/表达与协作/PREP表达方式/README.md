@@ -4,6 +4,16 @@
 
 用途索引：表达与协作（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** Toastmasters 官方杂志 1984 年 11 月第 25 页，将 Point—Reason—Example—Point 框架明确记为 Ralph Carey 开发。这是可核验的早期归属记录，不能将 Toastmasters 的传播直接等同于首创。
+
+**人物或机构简介：** Ralph Carey 在该刊记载中任休斯飞机公司（Hughes Aircraft Company）企业演示培训项目经理，负责教管理人员作有效演示。PREP 在这一职业培训语境中用于帮助发言者迅速组织观点、理由与例子。
+
+**归属说明：** 现有记录支持 Carey 的开发者归属，但未给出准确发明年份；1984 年是该记录的发表年份。
+
+**参考来源：** [Toastmaster 1984 年 11 月刊，第 25 页](https://content.toastmasters.org/image/upload/toastmaster-magazine-november-1984.pdf)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

@@ -4,6 +4,22 @@
 
 用途索引：商业与产品（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 就最小可行产品这一含义，哈佛商学院材料将术语提出追溯至 Frank Robinson（2001）；Eric Ries 在精益创业方法中进一步发展并推广其验证学习用途。
+
+**人物或机构简介：** 弗兰克·罗宾逊在相关材料中被介绍为 SyncDev 的负责人，强调产品范围与风险回报的平衡。埃里克·莱斯是创业者和精益创业方法的作者，将最小可行产品放入构建、衡量、学习循环，帮助团队减少未经验证的大量投入。
+
+**归属说明：** 本页只核对 Minimum Viable Product；不据此认定尚未解析的视频中所有 MVP 缩写均为此义。
+
+**参考来源：**
+
+- [哈佛商学院：MVP Development，术语来源](https://entrepreneurship.hbs.edu/Documents/Session%20Summary/HBSRockMVPDevelopment.pdf)
+- [The Lean Startup：方法与MVP](https://theleanstartup.com/principles)
+- [The Lean Startup：Eric Ries 作者简介](https://theleanstartup.com/book)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

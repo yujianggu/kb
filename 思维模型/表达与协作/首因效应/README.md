@@ -4,6 +4,14 @@
 
 用途索引：表达与协作（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 需要区分研究语境：Solomon E. Asch 的 1946 年人格印象研究是社会评价中信息顺序影响的经典来源；记忆中的首位优势另有研究脉络，不能统一归为 Asch 首创。
+
+**人物或机构简介：** 所罗门·阿希（Solomon E. Asch）是社会心理学研究者，曾任教于新学院、斯沃斯莫尔学院和宾夕法尼亚大学。他以人格印象及从众研究著称，关注情境与信息整体结构如何改变人们对局部特征和他人的判断。
+
+**参考来源：** [新学院：Asch 1946 年原论文](https://histories.newschool.edu/reader/forming-impressions-personality)；[宾夕法尼亚大学：Asch 生平](https://almanac.upenn.edu/archive/v42/n23/asch.html)；[Murdock：序列记忆研究](https://www.researchgate.net/publication/232580580_The_serial_position_effect_of_free_recall)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

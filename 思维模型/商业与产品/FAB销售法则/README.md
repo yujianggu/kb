@@ -4,6 +4,21 @@
 
 用途索引：商业与产品（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 尚未查到足以确认 FAB（特征—优势—利益）唯一首创者与提出年份的一手资料。本页保留通用销售表达法的定位；Neil Rackham 的1988年《SPIN Selling》可作为客户利益表达的相关研究背景。
+
+**人物或机构简介：** 尼尔·雷克汉姆是 Huthwaite 的创办者及销售研究作者，其《SPIN Selling》以复杂销售中的需求与沟通行为为重点，讨论如何向客户说明利益。他是这里介绍的相关研究者，不能据此认定为 FAB 缩写或三段表达法的提出者。
+
+**归属说明：** 明确区分 FAB 通用口诀与 SPIN 研究；未找到原始出版证据前，不附会某位销售大师为发明者。
+
+**参考来源：**
+
+- [Juno School：FAB通用定义](https://www.junoschool.org/article/fab-sales-technique-examples/)
+- [McGraw Hill：《SPIN Selling》作者、年份与内容](https://www.mheducation.com/highered/mhp/product/spin-selling.html)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

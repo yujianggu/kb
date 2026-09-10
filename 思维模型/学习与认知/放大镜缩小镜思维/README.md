@@ -4,6 +4,16 @@
 
 用途索引：学习与认知（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 本题名的原始提出者或提出公司尚未确认。本库正文采用证据核对与视角切换作为相关主题，不将该题名直接归属于某位心理学家。
+
+**人物或机构简介：** 相关研究者阿伦·贝克（Aaron T. Beck）是精神科医生，曾在宾夕法尼亚大学任教。他在 20 世纪 60 年代发展认知疗法，研究个体对情境的解释与情绪、行为的关系；这里介绍他作为相关思想背景，不作为本题名的首创者。
+
+**归属说明：** 认知重构与“放大镜、缩小镜”比喻用途相近，不能据此认定两者为同一模型。
+
+**参考来源：** [NHS：核对与重构想法](https://www.nhs.uk/every-mind-matters/mental-wellbeing-tips/self-help-cbt-techniques/reframing-unhelpful-thoughts/)；[Beck Institute：Aaron Beck 生平](https://beckinstitute.org/about/dr-aaron-t-beck/)；[Aaron Beck：认知疗法与 CBT 的关系](https://beckinstitute.org/blog/does-cognitive-therapy-cognitive-behavior-therapy/)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

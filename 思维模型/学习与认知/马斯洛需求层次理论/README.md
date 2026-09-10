@@ -4,6 +4,16 @@
 
 用途索引：学习与认知（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 亚伯拉罕·马斯洛（Abraham H. Maslow）于 1943 年在《A Theory of Human Motivation》中阐述需要层次及其相对优先性。
+
+**人物或机构简介：** 马斯洛是美国心理学家、人本主义心理学的重要推动者，曾创办布兰戴斯大学心理学系并长期任教。他关注动机、自我实现与人的发展潜能，尝试扩展当时心理学过度集中于病理与行为控制的研究视野。
+
+**归属说明：** 需要层次并非人人严格依次完成的阶梯；阅读时应保留原文对并存需要、部分满足和次序例外的讨论。
+
+**参考来源：** [Maslow：1943 年原论文](https://psychclassics.yorku.ca/Maslow/motivation)；[布兰戴斯大学：Maslow 任教与研究](https://www.brandeis.edu/now/2013/may/maslow.html)；[布兰戴斯大学：人本主义贡献](https://www.brandeis.edu/now/2008/december/lachman-maslow.html)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

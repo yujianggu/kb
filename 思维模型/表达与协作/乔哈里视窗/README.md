@@ -4,6 +4,14 @@
 
 用途索引：表达与协作（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 约瑟夫·勒夫特（Joseph Luft）与哈林顿·英厄姆（Harrington Ingham）共同提出，通常记为 1955 年；模型来自人际关系与团体训练语境。
+
+**人物或机构简介：** Luft 与 Ingham 都参与人际关系训练，在加利福尼亚州 Ojai 的研讨活动中共同制作四格图，讨论人们如何向彼此开放信息。Luft 后续通过教学和《On Human Interaction》等著作继续发展与传播这一工具。
+
+**参考来源：** [OCAD University：Creative Techniques Handbook，Johari 条目](https://openresearch.ocadu.ca/id/eprint/1042/1/Creative%20Techniques%20Handbook_2015-2016_FINAL%20OCAD%20DF.pdf)；[William Bergquist：New Johari Window，起源回顾](https://library.psychology.edu/wp-files/uploads/2026/01/final.draft-61.062123.pdf)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

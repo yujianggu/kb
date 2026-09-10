@@ -4,6 +4,14 @@
 
 用途索引：学习与认知（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** 卡罗尔·德韦克（Carol S. Dweck）及其合作者发展相关研究；2006 年《Mindset》面向大众系统传播成长型与固定型思维的区分。
+
+**人物或机构简介：** 德韦克是斯坦福大学心理学教授，其研究横跨发展、社会及人格心理学，关注人们对自身能力的理解如何影响动机、自我调节和成就。她的贡献是把能力信念转为可研究的问题，而非只倡导泛化的积极态度。
+
+**参考来源：** [斯坦福大学：Dweck 研究背景](https://psychology.stanford.edu/people/carol-dweck)；[斯坦福教学中心：成长型思维与 2006 年著作](https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning)。查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

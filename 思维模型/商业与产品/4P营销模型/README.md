@@ -4,6 +4,21 @@
 
 用途索引：商业与产品（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** E. Jerome McCarthy（杰罗姆·麦卡锡）于1960年在《Basic Marketing: A Managerial Approach》中提出产品、价格、渠道、促销四项营销组合分类。
+
+**人物或机构简介：** 麦卡锡是美国营销教育者，曾长期在密歇根州立大学任教。他以营销管理者面临的实际决策组织教材，将复杂的营销组合整理成易于教学和应用的四项框架，并参与企业咨询与营销教育。
+
+**归属说明：** 这里指4P分类的提出者；营销组合概念的发展和菲利普·科特勒等人的教材传播是不同贡献。
+
+**参考来源：**
+
+- [ERIC收录材料：1960年教材与4P分类](https://files.eric.ed.gov/fulltext/ED391753.pdf)
+- [Lansing State Journal：麦卡锡讣告与教学贡献](https://www.legacy.com/us/obituaries/lsj/name/jerry-mccarthy-obituary?id=16988654)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)

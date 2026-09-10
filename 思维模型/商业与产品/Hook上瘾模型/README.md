@@ -4,6 +4,21 @@
 
 用途索引：商业与产品（编辑分类）。
 
+## 提出者与背景
+
+**提出者／来源：** Nir Eyal（尼尔·埃亚尔）提出并在2014年《Hooked: How to Build Habit-Forming Products》中系统介绍 Hook 模型。
+
+**人物或机构简介：** 埃亚尔是研究心理学、技术与商业交叉问题的作者、顾问和教育者，曾在斯坦福商学院及设计学院授课。他围绕习惯形成与注意力管理写作，将行为研究整理为产品设计者可讨论的框架。
+
+**归属说明：** 本页指产品习惯形成框架，不把中文“上瘾”题名当成医学成瘾诊断。
+
+**参考来源：**
+
+- [Penguin Random House：《Hooked》出版与作者介绍](https://penguinrandomhousehighereducation.com/book/?isbn=9781591847786)
+- [Nir Eyal：本人网站与经历](https://www.nirandfar.com/)
+
+查阅日期：2026-09-10。
+
 ## 阅读入口
 
 - [一分钟看懂：先看图，再读大纲](一分钟看懂.md)
