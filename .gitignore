@@ -1,0 +1,8 @@
+# macOS metadata
+.DS_Store
+
+# clx is tracked as a Git submodule; do not ignore the whole directory.
+# Ignore company-specific temporary files in the submodule's own .gitignore.
+
+# JetBrains IDE settings
+.idea/

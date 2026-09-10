@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img">
+<title>4-Letters营销理论串烧示意图</title>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L8 3 L0 6" fill="#42667a"/></marker></defs>
+<rect width="960" height="480" fill="#f7fafc"/>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<text x="480" y="47" font-size="31" text-anchor="middle" fill="#19354b">4-Letters营销理论串烧</text>
+<text x="480" y="80" font-size="19" text-anchor="middle" fill="#19354b">通用主题参考，非作者模型原图</text>
+<rect x="45" y="120" width="265" height="115" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="177.5" y="156" font-size="26" text-anchor="middle" fill="#19354b">供给安排</text>
+<text x="177.5" y="188" font-size="20" text-anchor="middle" fill="#19354b">4P：如何形成交易</text>
+<rect x="345" y="120" width="265" height="115" rx="16" fill="#e7edf8" stroke="#9eb8c4"/>
+<text x="477.5" y="156" font-size="26" text-anchor="middle" fill="#19354b">顾客负担</text>
+<text x="477.5" y="188" font-size="20" text-anchor="middle" fill="#19354b">4C：哪里不合体验</text>
+<rect x="645" y="120" width="265" height="115" rx="16" fill="#fcebdc" stroke="#9eb8c4"/>
+<text x="777.5" y="156" font-size="26" text-anchor="middle" fill="#19354b">阶段表现</text>
+<text x="777.5" y="188" font-size="20" text-anchor="middle" fill="#19354b">漏斗：在哪里流失</text>
+<rect x="240" y="315" width="480" height="80" rx="16" fill="#e1f0ef" stroke="#9eb8c4"/>
+<text x="480.0" y="351" font-size="26" text-anchor="middle" fill="#19354b">按当前问题选择，再用证据验证</text>
+<path d="M175 240 L335 310" fill="none" stroke="#42667a" stroke-width="3" marker-end="url(#a)"/>
+<path d="M480 240 L480 310" fill="none" stroke="#42667a" stroke-width="3" marker-end="url(#a)"/>
+<path d="M780 240 L625 310" fill="none" stroke="#42667a" stroke-width="3" marker-end="url(#a)"/>
+<text x="480" y="447" font-size="20" text-anchor="middle" fill="#19354b">本库示例分工；不代表视频组成或营销理论演进顺序</text>
+</g>
+</svg>

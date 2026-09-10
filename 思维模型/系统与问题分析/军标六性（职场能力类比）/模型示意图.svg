@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img">
+<title>军标六性（职场能力类比）示意图</title>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L8 3 L0 6" fill="#42667a"/></marker></defs>
+<rect width="960" height="480" fill="#f7fafc"/>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<text x="480" y="47" font-size="31" text-anchor="middle" fill="#19354b">军标六性（职场能力类比）</text>
+<text x="480" y="80" font-size="19" text-anchor="middle" fill="#19354b">通用主题参考，非作者模型原图</text>
+<rect x="45" y="135" width="270" height="230" rx="16" fill="#dcefeb" stroke="#9eb8c4"/>
+<text x="180.0" y="171" font-size="26" text-anchor="middle" fill="#19354b">交付与修复</text>
+<text x="180.0" y="203" font-size="20" text-anchor="middle" fill="#19354b">可靠性 → 稳定完成</text>
+<text x="180.0" y="232" font-size="20" text-anchor="middle" fill="#19354b">维修性 → 出错可修</text>
+<rect x="345" y="135" width="270" height="230" rx="16" fill="#e7edf8" stroke="#9eb8c4"/>
+<text x="480.0" y="171" font-size="26" text-anchor="middle" fill="#19354b">资源与检查</text>
+<text x="480.0" y="203" font-size="20" text-anchor="middle" fill="#19354b">保障性 → 条件到位</text>
+<text x="480.0" y="232" font-size="20" text-anchor="middle" fill="#19354b">测试性 → 状态可查</text>
+<rect x="645" y="135" width="270" height="230" rx="16" fill="#fcebdc" stroke="#9eb8c4"/>
+<text x="780.0" y="171" font-size="26" text-anchor="middle" fill="#19354b">边界与变化</text>
+<text x="780.0" y="203" font-size="20" text-anchor="middle" fill="#19354b">安全性 → 风险受控</text>
+<text x="780.0" y="232" font-size="20" text-anchor="middle" fill="#19354b">环境适应 → 调整方法</text>
+<text x="480" y="447" font-size="20" text-anchor="middle" fill="#19354b">箭头仅表示本库类比映射；不是军标条文或人员认证</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img">
+<title>达克效应示意图</title>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L8 3 L0 6" fill="#42667a"/></marker></defs>
+<rect width="960" height="480" fill="#f7fafc"/>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<text x="480" y="47" font-size="31" text-anchor="middle" fill="#19354b">达克效应</text>
+<text x="480" y="80" font-size="19" text-anchor="middle" fill="#19354b">重点是校准自评；不画未经证实的“学习山峰曲线”</text>
+<rect x="65" y="150" width="340" height="125" rx="16" fill="#e7edf8" stroke="#9eb8c4"/>
+<text x="235.0" y="186" font-size="26" text-anchor="middle" fill="#19354b">任务前的预测</text>
+<text x="235.0" y="218" font-size="20" text-anchor="middle" fill="#19354b">预计表现与信心</text>
+<rect x="555" y="150" width="340" height="125" rx="16" fill="#dcefeb" stroke="#9eb8c4"/>
+<text x="725.0" y="186" font-size="26" text-anchor="middle" fill="#19354b">任务后的证据</text>
+<text x="725.0" y="218" font-size="20" text-anchor="middle" fill="#19354b">按明确标准评价</text>
+<path d="M410 210 L550 210" fill="none" stroke="#42667a" stroke-width="3" marker-end="url(#a)"/>
+<text x="480.0" y="198.0" font-size="19" text-anchor="middle" fill="#19354b">比较</text>
+<rect x="260" y="320" width="440" height="75" rx="16" fill="#fcebdc" stroke="#9eb8c4"/>
+<text x="480.0" y="356" font-size="26" text-anchor="middle" fill="#19354b">修正标准、练习，再检验</text>
+<path d="M720 279 L670 314" fill="none" stroke="#42667a" stroke-width="3" marker-end="url(#a)"/>
+<path d="M290 315 L235 280" fill="none" stroke="#42667a" stroke-width="3" marker-end="url(#a)"/>
+<text x="480" y="447" font-size="20" text-anchor="middle" fill="#19354b">自信不等于能力；群体研究不能用来给个人贴标签</text>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 480" role="img">
+<title>销售漏斗模型示意图</title>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0 0 L8 3 L0 6" fill="#42667a"/></marker></defs>
+<rect width="960" height="480" fill="#f7fafc"/>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif">
+<text x="480" y="47" font-size="31" text-anchor="middle" fill="#19354b">销售漏斗模型</text>
+<text x="480" y="80" font-size="19" text-anchor="middle" fill="#19354b">同一批对象 · 顺序事件 · 相同观察窗口</text>
+<path d="M125 115 H835 L803 187 H157 Z" fill="#dcefeb" stroke="#91b9b4"/>
+<text x="480" y="160" font-size="25" text-anchor="middle" fill="#19354b">咨询 100（假设）</text>
+<path d="M240 205 H720 L688 277 H272 Z" fill="#dcefeb" stroke="#91b9b4"/>
+<text x="480" y="250" font-size="25" text-anchor="middle" fill="#19354b">试用 40</text>
+<path d="M355 295 H605 L573 367 H387 Z" fill="#dcefeb" stroke="#91b9b4"/>
+<text x="480" y="340" font-size="25" text-anchor="middle" fill="#19354b">付款 10</text>
+<text x="820" y="245" font-size="25" text-anchor="middle" fill="#19354b">40%</text>
+<text x="765" y="335" font-size="25" text-anchor="middle" fill="#19354b">25%</text>
+<text x="480" y="447" font-size="20" text-anchor="middle" fill="#19354b">40% × 25% = 10%；不同月份、不同队列不能混算</text>
+</g>
+</svg>
