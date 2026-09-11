@@ -6004,13 +6004,24 @@
       "directories": [
         "系统与问题分析/5Why法（五个为什么）"
       ],
-      "source": "用户追加链接；合集归属未核实",
+      "source": "用户追加链接；页面显示属于圆中百知模型100+",
       "metadata_status": "已通过公开视频信息接口核对",
       "general_status": "三份正文与PNG、SVG已完成；通用知识版",
-      "video_status": "未解析"
+      "video_status": "已完成画面内容笔记；非完整音频转录",
+      "video_notes": "系统与问题分析/5Why法（五个为什么）/视频笔记.md",
+      "content_checked_at": "2026-09-10",
+      "content_method": "播放器分段定位，阅读课件与可见字幕；无可用字幕接口结果，未完整听译",
+      "coverage": "四项要点、九步流程、个人/质量/招聘/销售示例及结尾提醒；可能遗漏帧间及口头补充",
+      "collection_url": "https://space.bilibili.com/385126080/channel/collectiondetail?sid=4343761",
+      "visual_notes_completed": true,
+      "full_transcript_completed": false
     }
   ],
   "supplemental_video_count": 1,
   "registered_video_count": 111,
-  "snapshot_scope_note": "原有 videos、topics 与 content_summary 等字段保留2026-09-09合集快照；用户追加视频另存 supplemental_videos，当前全部模型状态见README.md。"
+  "snapshot_scope_note": "原有 videos、topics 与 content_summary 等字段保留2026-09-09合集快照；用户追加视频另存 supplemental_videos，当前全部模型状态见README.md。",
+  "supplemental_content_summary": {
+    "visual_notes_count": 1,
+    "full_transcript_count": 0
+  }
 }
