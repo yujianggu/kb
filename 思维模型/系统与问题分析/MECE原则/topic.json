@@ -1,0 +1,17 @@
+{
+  "id": "thinking.mece",
+  "title": "MECE原则",
+  "summary": "把支出分成“餐饮、网购、交通”时，一笔网上订餐可能算进两类，房租又没有位置。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

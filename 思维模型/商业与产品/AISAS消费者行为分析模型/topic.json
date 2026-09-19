@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-027",
+  "title": "AISAS消费者行为分析模型",
+  "summary": "版本与边界： 采用电通传播中的Attention、Interest、Search、Action、Share版本。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

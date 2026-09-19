@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "title": "基础理论与方法",
+  "groups": [],
+  "topics": [
+    {
+      "id": "ontology.introduction",
+      "title": "本体论-快速入门与案例",
+      "summary": "理解概念、实例、属性与关系，建立本体建模的共同语言。",
+      "kind": "concept",
+      "scope": "general",
+      "status": "general",
+      "metadata": "本体/基础理论与方法/本体论-快速入门与案例/topic.json",
+      "brief": "本体/基础理论与方法/本体论-快速入门与案例/摘要.md"
+    },
+    {
+      "id": "ontology.modeling",
+      "title": "本体模型与本体建模方法",
+      "summary": "从业务问题识别对象、关系与约束，形成可核验的本体模型。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "本体/基础理论与方法/本体模型与本体建模方法/topic.json",
+      "brief": "本体/基础理论与方法/本体模型与本体建模方法/摘要.md"
+    },
+    {
+      "id": "ontology.operational",
+      "title": "运营型本体定义与分类",
+      "summary": "理解运营型本体如何连接业务对象、状态、逻辑、行动与治理。",
+      "kind": "concept",
+      "scope": "general",
+      "status": "general",
+      "metadata": "本体/基础理论与方法/运营型本体定义与分类/topic.json",
+      "brief": "本体/基础理论与方法/运营型本体定义与分类/摘要.md"
+    }
+  ]
+}

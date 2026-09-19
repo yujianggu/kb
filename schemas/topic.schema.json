@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Knowledge topic",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "title",
+    "summary",
+    "kind",
+    "scope",
+    "status",
+    "entrypoints",
+    "requires",
+    "related"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9._-]*$"
+    },
+    "title": {
+      "type": "string",
+      "pattern": "\\S"
+    },
+    "summary": {
+      "type": "string",
+      "pattern": "\\S"
+    },
+    "kind": {
+      "enum": [
+        "concept",
+        "method",
+        "template",
+        "example",
+        "reference"
+      ]
+    },
+    "scope": {
+      "enum": [
+        "general",
+        "industry",
+        "company"
+      ]
+    },
+    "status": {
+      "enum": [
+        "general",
+        "reference",
+        "example"
+      ]
+    },
+    "entrypoints": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "brief",
+        "detail"
+      ],
+      "properties": {
+        "brief": {
+          "type": "string",
+          "minLength": 1
+        },
+        "detail": {
+          "type": "string",
+          "minLength": 1
+        },
+        "examples": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sources": {
+          "type": "string",
+          "minLength": 1
+        },
+        "assets": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "requires": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    },
+    "related": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

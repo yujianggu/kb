@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-030",
+  "title": "MVP思维模型",
+  "summary": "采用 Minimum Viable Product（最小可行产品）的通用产品管理版本，因为它有公开文字来源；视频标题强调缩写歧义，不能认定作者所指就是此版本。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

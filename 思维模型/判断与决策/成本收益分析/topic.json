@@ -1,0 +1,17 @@
+{
+  "id": "thinking.cost-benefit",
+  "title": "成本收益分析",
+  "summary": "成本收益分析把可选方案放在相同范围与时间下比较，判断新增投入是否带来足够收益。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

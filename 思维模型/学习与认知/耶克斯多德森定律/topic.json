@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-052",
+  "title": "耶克斯多德森定律",
+  "summary": "越紧张就一定表现越好吗？",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

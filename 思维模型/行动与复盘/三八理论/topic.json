@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-085",
+  "title": "三八理论",
+  "summary": "原义待核实；“一天除去工作和睡眠，还剩很多时间”听起来简单，实际却漏了通勤、吃饭和照护。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "reference",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

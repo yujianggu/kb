@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-038",
+  "title": "波特五力模型",
+  "summary": "一家店顾客不少，却始终难赚钱，原因可能不只在同行竞争：供货方强势、顾客容易转店、替代方案便宜、新店随时进入，都可能压缩利润。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

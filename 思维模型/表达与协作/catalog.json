@@ -1,0 +1,177 @@
+{
+  "version": 1,
+  "title": "表达与协作",
+  "groups": [],
+  "topics": [
+    {
+      "id": "thinking.model-091",
+      "title": "FFC赞美法",
+      "summary": "版本与边界： 采用中文传播中常见的Feeling—Facts—Compare（感受—事实—比较）版本。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/FFC赞美法/topic.json",
+      "brief": "思维模型/表达与协作/FFC赞美法/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-092",
+      "title": "PREP表达方式",
+      "summary": "被问“你建议怎么做”时，先把所有背景倒出来，听众可能等不到答案。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/PREP表达方式/topic.json",
+      "brief": "思维模型/表达与协作/PREP表达方式/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-093",
+      "title": "SCQA序言结构",
+      "summary": "“我们要加两个人”是建议，读者却还不知道为什么现在需要。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/SCQA序言结构/topic.json",
+      "brief": "思维模型/表达与协作/SCQA序言结构/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-094",
+      "title": "TTT思维",
+      "summary": "自己会做，并不代表能教会别人；教过一次，也不代表别人能把方法继续教下去。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/TTT思维/topic.json",
+      "brief": "思维模型/表达与协作/TTT思维/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-095",
+      "title": "三三制",
+      "summary": "原义待核实；题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/表达与协作/三三制/topic.json",
+      "brief": "思维模型/表达与协作/三三制/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-096",
+      "title": "乔哈里视窗",
+      "summary": "版本与边界： 采用自我知晓与他人知晓两轴的通用乔哈里视窗；格子描述特定关系中的信息，不是永久人格分类。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/乔哈里视窗/topic.json",
+      "brief": "思维模型/表达与协作/乔哈里视窗/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-097",
+      "title": "五遍信息沟通模型",
+      "summary": "原义待核实；“我已经说了”与“对方准确理解并能执行”之间还有距离。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/表达与协作/五遍信息沟通模型/topic.json",
+      "brief": "思维模型/表达与协作/五遍信息沟通模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-098",
+      "title": "六顶思考帽",
+      "summary": "会议里，有人刚提方案，有人就说危险，另一个人觉得很兴奋，大家其实在做不同的思考工作。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/六顶思考帽/topic.json",
+      "brief": "思维模型/表达与协作/六顶思考帽/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-099",
+      "title": "头脑风暴",
+      "summary": "采用延迟评价、扩展想法、相互启发的通用创意协作方法，不宣称集体口头讨论总优于独立思考。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/头脑风暴/topic.json",
+      "brief": "思维模型/表达与协作/头脑风暴/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-100",
+      "title": "奥斯本检核表法",
+      "summary": "采用奥斯本问题检核表的通用创意提示：另作他用、借鉴、修改、扩大、缩小、替代、重排、颠倒、组合；译法和分组存在差异。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/奥斯本检核表法/topic.json",
+      "brief": "思维模型/表达与协作/奥斯本检核表法/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-101",
+      "title": "曼陀罗思考法",
+      "summary": "围绕一个目标想到很多点，却总绕回同一角度，可以试用九宫格。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/曼陀罗思考法/topic.json",
+      "brief": "思维模型/表达与协作/曼陀罗思考法/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-102",
+      "title": "沉默的螺旋",
+      "summary": "版本与边界： 采用Noelle-Neumann的公众意见表达理论；它描述可能发生的社会机制，不意味着所有沉默都由从众或恐惧造成。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/沉默的螺旋/topic.json",
+      "brief": "思维模型/表达与协作/沉默的螺旋/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-103",
+      "title": "课题分离",
+      "summary": "朋友不赞同你的选择，你可以认真解释，却不能直接决定他最后是否赞同。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/课题分离/topic.json",
+      "brief": "思维模型/表达与协作/课题分离/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-104",
+      "title": "近因效应",
+      "summary": "季度绩效回顾时，最近一周的失误可能压过此前几个月的工作；刚读完一串项目，也可能更容易记得结尾部分。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/近因效应/topic.json",
+      "brief": "思维模型/表达与协作/近因效应/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-106",
+      "title": "首因效应",
+      "summary": "介绍一位新人时，第一条信息可能成为理解后续行为的背景；背一串词时，开头部分也可能更容易被记住。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/首因效应/topic.json",
+      "brief": "思维模型/表达与协作/首因效应/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-107",
+      "title": "黄金圈法则",
+      "summary": "“我们开读书会”说清了活动，却没解释为什么值得参加。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/黄金圈法则/topic.json",
+      "brief": "思维模型/表达与协作/黄金圈法则/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.pyramid",
+      "title": "金字塔原理",
+      "summary": "汇报了十分钟，对方仍问“所以你建议什么”，通常需要重新组织材料。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/表达与协作/金字塔原理/topic.json",
+      "brief": "思维模型/表达与协作/金字塔原理/一分钟看懂.md"
+    }
+  ]
+}

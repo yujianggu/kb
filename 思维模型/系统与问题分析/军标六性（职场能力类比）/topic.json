@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-063",
+  "title": "军标六性（职场能力类比）",
+  "summary": "原义待核实；一个人偶尔把任务做得漂亮，不等于团队能持续依赖他的交付。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "reference",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

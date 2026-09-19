@@ -1,0 +1,17 @@
+{
+  "id": "thinking.pdca",
+  "title": "PDCA循环",
+  "summary": "背单词总是记不住，换一本书不一定有用。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

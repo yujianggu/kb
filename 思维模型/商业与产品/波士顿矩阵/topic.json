@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-037",
+  "title": "波士顿矩阵",
+  "summary": "一家企业有四条产品线，平均分钱看似公平，却可能让成熟业务过度投入、新业务一直长不大。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

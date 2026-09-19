@@ -1,0 +1,14 @@
+{
+  "id": "ontology.palantir.after-sales",
+  "title": "Palantir-Ontology-四要素与汽车售后案例",
+  "summary": "通过汽车售后教学案例理解 Data、Logic、Action、Security。",
+  "kind": "example",
+  "scope": "industry",
+  "status": "example",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../Palantir-Ontology-四要素与汽车售后案例.md"
+  },
+  "requires": [],
+  "related": []
+}

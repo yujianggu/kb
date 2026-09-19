@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "title": "中国瑰宝",
+  "groups": [],
+  "topics": [
+    {
+      "id": "culture.buddhism",
+      "title": "佛家",
+      "summary": "在历史与传统语境中理解佛教思想、人物和经典。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/佛家/topic.json",
+      "brief": "中国瑰宝/佛家/摘要.md"
+    },
+    {
+      "id": "culture.comparison",
+      "title": "三家对照",
+      "summary": "比较佛、道、儒的异同、交往与常见误读。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/三家比较/topic.json",
+      "brief": "中国瑰宝/三家比较/摘要.md"
+    },
+    {
+      "id": "culture.confucianism",
+      "title": "儒家",
+      "summary": "在历史语境中理解儒家思想、人物和经典。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/儒家/topic.json",
+      "brief": "中国瑰宝/儒家/摘要.md"
+    },
+    {
+      "id": "culture.daoism",
+      "title": "道家",
+      "summary": "在历史语境中理解道家思想、人物和经典。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/道家/topic.json",
+      "brief": "中国瑰宝/道家/摘要.md"
+    }
+  ]
+}

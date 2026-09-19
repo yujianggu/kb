@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-107",
+  "title": "黄金圈法则",
+  "summary": "“我们开读书会”说清了活动，却没解释为什么值得参加。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

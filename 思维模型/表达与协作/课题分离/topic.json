@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-103",
+  "title": "课题分离",
+  "summary": "朋友不赞同你的选择，你可以认真解释，却不能直接决定他最后是否赞同。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

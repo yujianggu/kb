@@ -1,0 +1,14 @@
+{
+  "id": "culture.comparison",
+  "title": "三家对照",
+  "summary": "比较佛、道、儒的异同、交往与常见误读。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../三家对照.md"
+  },
+  "requires": [],
+  "related": []
+}

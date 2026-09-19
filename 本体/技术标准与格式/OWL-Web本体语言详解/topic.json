@@ -1,0 +1,16 @@
+{
+  "id": "ontology.owl",
+  "title": "OWL-Web本体语言详解",
+  "summary": "了解 OWL 的类、属性、语义约束与推理表达。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../OWL-Web本体语言详解.md"
+  },
+  "requires": [
+    "ontology.rdf"
+  ],
+  "related": []
+}

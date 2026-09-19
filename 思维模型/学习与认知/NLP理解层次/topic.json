@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-042",
+  "title": "NLP理解层次",
+  "summary": "“这次没练习”和“我就是没能力的人”说的不是同一回事。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

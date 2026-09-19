@@ -1,0 +1,15 @@
+{
+  "id": "culture.confucianism",
+  "title": "儒家",
+  "summary": "在历史语境中理解儒家思想、人物和经典。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "思想与概念.md",
+    "sources": "经典导读.md"
+  },
+  "requires": [],
+  "related": []
+}

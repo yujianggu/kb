@@ -1,0 +1,137 @@
+{
+  "version": 1,
+  "title": "行动与复盘",
+  "groups": [],
+  "topics": [
+    {
+      "id": "thinking.model-078",
+      "title": "GRAI复盘模型",
+      "summary": "版本与边界： 采用中文资料中的Goal、Result、Analysis、Insight版本，即回顾目标、评估结果、分析原因、提炼经验。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/行动与复盘/GRAI复盘模型/topic.json",
+      "brief": "思维模型/行动与复盘/GRAI复盘模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-079",
+      "title": "GROW成长模型",
+      "summary": "版本与边界： 采用Goal、Reality、Options、Will版本，W指行动意愿与具体承诺；不是给人成长程度打分的模型。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/行动与复盘/GROW成长模型/topic.json",
+      "brief": "思维模型/行动与复盘/GROW成长模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-080",
+      "title": "KISS复盘模型",
+      "summary": "版本与边界： 采用Keep、Improve、Stop、Start四类复盘版本。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/行动与复盘/KISS复盘模型/topic.json",
+      "brief": "思维模型/行动与复盘/KISS复盘模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-081",
+      "title": "OGSM目标管理工具",
+      "summary": "“成为优秀团队”不能直接安排下周工作。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/行动与复盘/OGSM目标管理工具/topic.json",
+      "brief": "思维模型/行动与复盘/OGSM目标管理工具/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-083",
+      "title": "SMART原则",
+      "summary": "“提高英语水平”表达了愿望，却很难安排今天做什么，也无法判断何时完成。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/行动与复盘/SMART原则/topic.json",
+      "brief": "思维模型/行动与复盘/SMART原则/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-084",
+      "title": "WOOP思维工具",
+      "summary": "版本与边界： 采用Wish、Outcome、Obstacle、Plan版本，即愿望、最佳结果、内在障碍、如果—那么计划；依据WOOP官方文字指南。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/行动与复盘/WOOP思维工具/topic.json",
+      "brief": "思维模型/行动与复盘/WOOP思维工具/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-085",
+      "title": "三八理论",
+      "summary": "原义待核实；“一天除去工作和睡眠，还剩很多时间”听起来简单，实际却漏了通勤、吃饭和照护。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/行动与复盘/三八理论/topic.json",
+      "brief": "思维模型/行动与复盘/三八理论/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-086",
+      "title": "双目标清单思维",
+      "summary": "原义待核实；愿望清单写得很完整，到了周一仍不知道该做什么，本参考稿用两张相连的清单处理这个问题：一张记录希望得到的结果，一张记录近期可执行的行动。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/行动与复盘/双目标清单思维/topic.json",
+      "brief": "思维模型/行动与复盘/双目标清单思维/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-087",
+      "title": "四象限法则",
+      "summary": "版本与边界： 题名未说明两轴。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/行动与复盘/四象限法则/topic.json",
+      "brief": "思维模型/行动与复盘/四象限法则/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-088",
+      "title": "帕金森定律",
+      "summary": "一份本可简洁完成的说明，若边界和期限都模糊，可能不断加资料、加审批，最终占满整周。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/行动与复盘/帕金森定律/topic.json",
+      "brief": "思维模型/行动与复盘/帕金森定律/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-089",
+      "title": "福格行为模型",
+      "summary": "版本与边界： 采用BJ Fogg官网的B=MAP版本：Motivation、Ability、Prompt；旧材料可能使用Trigger一词，本稿统一称“提示”。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/行动与复盘/福格行为模型/topic.json",
+      "brief": "思维模型/行动与复盘/福格行为模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-090",
+      "title": "细节效率思维模型",
+      "summary": "原义待核实；每天少点一次按钮，可能节约时间；但如果真正延误来自等待批准，优化按钮未必改善交付。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/行动与复盘/细节效率思维模型/topic.json",
+      "brief": "思维模型/行动与复盘/细节效率思维模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.pdca",
+      "title": "PDCA循环",
+      "summary": "背单词总是记不住，换一本书不一定有用。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/行动与复盘/PDCA循环/topic.json",
+      "brief": "思维模型/行动与复盘/PDCA循环/一分钟看懂.md"
+    }
+  ]
+}

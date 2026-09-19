@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-096",
+  "title": "乔哈里视窗",
+  "summary": "版本与边界： 采用自我知晓与他人知晓两轴的通用乔哈里视窗；格子描述特定关系中的信息，不是永久人格分类。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

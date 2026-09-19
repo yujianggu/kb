@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-060",
+  "title": "SECI模型",
+  "summary": "老师傅知道机器声音哪里不对，新人却只拿到一本说明书。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

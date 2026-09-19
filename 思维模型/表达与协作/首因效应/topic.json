@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-106",
+  "title": "首因效应",
+  "summary": "介绍一位新人时，第一条信息可能成为理解后续行为的背景；背一串词时，开头部分也可能更容易被记住。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}
