@@ -4,6 +4,16 @@
   "groups": [],
   "topics": [
     {
+      "id": "thinking.lean-startup",
+      "title": "精益创业与验证式学习",
+      "summary": "在需求、购买或交付尚不确定时，设计实验并用证据决定继续、转向或停止；不以小样本短期结果证明长期盈利。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/精益创业与验证式学习/topic.json",
+      "brief": "思维模型/商业与产品/精益创业与验证式学习/一分钟看懂.md"
+    },
+    {
       "id": "thinking.model-024",
       "title": "4-Letters营销理论串烧",
       "summary": "原义待核实；遇到营销问题时，背出越多缩写不一定越有帮助。",
