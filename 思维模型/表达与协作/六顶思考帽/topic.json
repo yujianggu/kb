@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-098",
+  "title": "六顶思考帽",
+  "summary": "会议里，有人刚提方案，有人就说危险，另一个人觉得很兴奋，大家其实在做不同的思考工作。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

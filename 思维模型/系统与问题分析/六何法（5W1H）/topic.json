@@ -1,0 +1,17 @@
+{
+  "id": "thinking.5w1h",
+  "title": "六何法（5W1H）",
+  "summary": "版本与边界： 采用What、Why、Who、When、Where、How六类问题；不把5W1H与连续追问原因的“五个为什么”混为一谈。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

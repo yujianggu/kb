@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-048",
+  "title": "成长型思维",
+  "summary": "采用德韦克关于能力可发展的通用版本，不能据此认定与视频解释相同。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

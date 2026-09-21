@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-099",
+  "title": "头脑风暴",
+  "summary": "采用延迟评价、扩展想法、相互启发的通用创意协作方法，不宣称集体口头讨论总优于独立思考。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

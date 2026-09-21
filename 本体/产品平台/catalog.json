@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "title": "产品平台",
+  "groups": [
+    {
+      "title": "Palantir",
+      "catalog": "本体/产品平台/Palantir/catalog.json"
+    }
+  ],
+  "topics": []
+}

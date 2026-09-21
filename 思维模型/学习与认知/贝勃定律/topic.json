@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-054",
+  "title": "贝勃定律",
+  "summary": "原义待核实；同一提示出现很多次，人可能越来越少注意；但这不表示事件变得不重要，也不表示所有痛苦或快乐都会按同样速度消退。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "reference",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "title": "OKF",
+  "groups": [],
+  "topics": [
+    {
+      "id": "ontology.okf",
+      "title": "Google-OKF开放知识格式",
+      "summary": "查阅库中 OKF 格式资料及其来源边界。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "本体/技术标准与格式/OKF/Google-OKF开放知识格式/topic.json",
+      "brief": "本体/技术标准与格式/OKF/Google-OKF开放知识格式/摘要.md"
+    }
+  ]
+}

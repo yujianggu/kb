@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-025",
+  "title": "4C营销模型",
+  "summary": "同样一门课程，老师觉得内容丰富，学员却觉得报名麻烦、时间不合。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

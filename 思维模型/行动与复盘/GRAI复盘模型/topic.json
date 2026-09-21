@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-078",
+  "title": "GRAI复盘模型",
+  "summary": "版本与边界： 采用中文资料中的Goal、Result、Analysis、Insight版本，即回顾目标、评估结果、分析原因、提炼经验。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ontology.introduction",
+  "title": "本体论-快速入门与案例",
+  "summary": "理解概念、实例、属性与关系，建立本体建模的共同语言。",
+  "kind": "concept",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../本体论-快速入门与案例.md"
+  },
+  "requires": [],
+  "related": []
+}

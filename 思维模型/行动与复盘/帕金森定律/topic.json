@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-088",
+  "title": "帕金森定律",
+  "summary": "一份本可简洁完成的说明，若边界和期限都模糊，可能不断加资料、加审批，最终占满整周。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

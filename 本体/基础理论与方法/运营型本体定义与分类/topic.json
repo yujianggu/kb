@@ -1,0 +1,16 @@
+{
+  "id": "ontology.operational",
+  "title": "运营型本体定义与分类",
+  "summary": "理解运营型本体如何连接业务对象、状态、逻辑、行动与治理。",
+  "kind": "concept",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../运营型本体定义与分类.md"
+  },
+  "requires": [
+    "ontology.introduction"
+  ],
+  "related": []
+}

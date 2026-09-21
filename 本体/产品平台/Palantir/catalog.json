@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "title": "Palantir",
+  "groups": [],
+  "topics": [
+    {
+      "id": "ontology.palantir.after-sales",
+      "title": "Palantir-Ontology-四要素与汽车售后案例",
+      "summary": "通过汽车售后教学案例理解 Data、Logic、Action、Security。",
+      "kind": "example",
+      "scope": "industry",
+      "status": "example",
+      "metadata": "本体/产品平台/Palantir/Palantir-Ontology-四要素与汽车售后案例/topic.json",
+      "brief": "本体/产品平台/Palantir/Palantir-Ontology-四要素与汽车售后案例/摘要.md"
+    },
+    {
+      "id": "ontology.palantir.comparison",
+      "title": "通用本体模型与Palantir-Ontology差异比较",
+      "summary": "比较通用知识表示与 Palantir 运营型产品实现。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "本体/产品平台/Palantir/通用本体模型与Palantir-Ontology差异比较/topic.json",
+      "brief": "本体/产品平台/Palantir/通用本体模型与Palantir-Ontology差异比较/摘要.md"
+    },
+    {
+      "id": "ontology.palantir.components",
+      "title": "Interface-Function-Action关系与区别",
+      "summary": "区分 Palantir Interface、Function 与 Action 的职责。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "本体/产品平台/Palantir/Interface-Function-Action关系与区别/topic.json",
+      "brief": "本体/产品平台/Palantir/Interface-Function-Action关系与区别/摘要.md"
+    },
+    {
+      "id": "ontology.palantir.overview",
+      "title": "palantir-ontology-summary",
+      "summary": "了解 Palantir Ontology 的整体模型与核心构件。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "本体/产品平台/Palantir/palantir-ontology-summary/topic.json",
+      "brief": "本体/产品平台/Palantir/palantir-ontology-summary/摘要.md"
+    }
+  ]
+}

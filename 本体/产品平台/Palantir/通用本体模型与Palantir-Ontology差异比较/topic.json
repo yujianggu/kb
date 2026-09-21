@@ -1,0 +1,16 @@
+{
+  "id": "ontology.palantir.comparison",
+  "title": "通用本体模型与Palantir-Ontology差异比较",
+  "summary": "比较通用知识表示与 Palantir 运营型产品实现。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../通用本体模型与Palantir-Ontology差异比较.md"
+  },
+  "requires": [
+    "ontology.introduction"
+  ],
+  "related": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-070",
+  "title": "系统思维",
+  "summary": "本文的分析角度： 先明确要分析的范围，再看哪些东西在积累、什么让它们增加或减少、各个因素如何相互影响，以及这些影响多久才会显现。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

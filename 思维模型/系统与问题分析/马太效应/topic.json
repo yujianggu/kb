@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-077",
+  "title": "马太效应",
+  "summary": "两项贡献相近的工作，署上知名者的名字可能更容易受到注意。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

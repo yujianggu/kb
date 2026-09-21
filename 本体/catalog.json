@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "title": "本体",
+  "groups": [
+    {
+      "title": "产品平台",
+      "catalog": "本体/产品平台/catalog.json"
+    },
+    {
+      "title": "基础理论与方法",
+      "catalog": "本体/基础理论与方法/catalog.json"
+    },
+    {
+      "title": "技术标准与格式",
+      "catalog": "本体/技术标准与格式/catalog.json"
+    },
+    {
+      "title": "行业案例",
+      "catalog": "本体/行业案例/catalog.json"
+    }
+  ],
+  "topics": []
+}

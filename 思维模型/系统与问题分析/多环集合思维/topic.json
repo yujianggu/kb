@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-067",
+  "title": "多环集合思维",
+  "summary": "原义待核实；想租一间便宜、近公司、又安静的房子，可以把每个条件视作一组候选房源，寻找同时满足条件的交集。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "reference",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}
