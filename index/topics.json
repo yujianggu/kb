@@ -89,6 +89,10 @@
       "metadata": "思维模型/系统与问题分析/5Why法（五个为什么）/topic.json",
       "sha256": "94fd45b77b70eac17ce58f2f1c730b10eea5d30d8f61b322e61b610442766bce"
     },
+    "thinking.lean-startup": {
+      "metadata": "思维模型/商业与产品/精益创业与验证式学习/topic.json",
+      "sha256": "aeca795390b369b29bc86f1150f181f1059ddb7dc8e2354b614d19d13960552f"
+    },
     "thinking.mece": {
       "metadata": "思维模型/系统与问题分析/MECE原则/topic.json",
       "sha256": "d3c501ecb7d7a98ee29a9010e1220853e25e3e3c54185f8e04846ba9bf854d49"
