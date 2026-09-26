@@ -1,0 +1,19 @@
+{
+  "id": "english.roadmap",
+  "title": "学习路线",
+  "summary": "选择成人英语重学阶段、20单元大纲与学习安排；本库教学设计，不是官方分级。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "README.md",
+    "detail": "路线与大纲.md",
+    "examples": "12周学习计划.md",
+    "sources": "../../来源与边界.md"
+  },
+  "requires": [],
+  "related": [
+    "english.assessment",
+    "english.practice"
+  ]
+}

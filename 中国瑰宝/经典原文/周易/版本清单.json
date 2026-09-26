@@ -2,7 +2,7 @@
   "book": "周易",
   "retrieved_date": "2026-09-26",
   "coverage": "收录64卦；各卦原页合载卦爻经文、彖传和象传，乾坤页还含文言传。另收系辞上、系辞下、说卦、序卦、杂卦，共69个本地阅读单元，覆盖经文与十翼；分文件数不等于传统十翼篇数。保留“易经”“彖曰”“象曰”“文言曰”等层次标识。",
-  "full_text_sha256": "3f031a0525e0b359ac2efd14c7dee0f2d3024e4df965ba92b0779650a8d5ab37",
+  "full_text_sha256": "b1cd9df1b3ed2aa8f93b399b0d5dc404f8f05564ae2ed15c6627d61b1a700564",
   "sources": [
     {
       "label": "周易/乾",
@@ -495,11 +495,12 @@
       "path": "篇章/001-乾.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2404991",
       "text_han_characters": 1026,
-      "sha256": "f165a4efac3be206419faf4e5a246ec3e96ea888d6cf5bdb80a706ff121e80e3",
+      "sha256": "a11a750188ee0f6fded0e1c352c8a5563aaaf0a9440a3353219ffb94dc0b9e05",
       "source_page": "周易/乾",
       "source_revision": 2404991,
       "source_revision_timestamp": "2024-05-09T09:29:29Z",
-      "source_wikitext_sha256": "e8b8c4a93f7e1f86e00e83635a12423da0e134ec463ea21837f6a41b41661156"
+      "source_wikitext_sha256": "e8b8c4a93f7e1f86e00e83635a12423da0e134ec463ea21837f6a41b41661156",
+      "transformation": "仅格式转写"
     },
     {
       "order": 2,
@@ -507,11 +508,12 @@
       "path": "篇章/002-坤.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2404999",
       "text_han_characters": 533,
-      "sha256": "a17169bd3288e8c2d36e2bac16eb64060793d52737f2144c90d890b508aa03e3",
+      "sha256": "47c257962e68887574e6a600f6cf1e1f3b9deae78dcfcd5ca2f5b82058195248",
       "source_page": "周易/坤",
       "source_revision": 2404999,
       "source_revision_timestamp": "2024-05-09T09:29:59Z",
-      "source_wikitext_sha256": "a229442f54886cd2b21b1b6ab19cb377c4c59e5fcd8ac6b75f44b846459ca881"
+      "source_wikitext_sha256": "a229442f54886cd2b21b1b6ab19cb377c4c59e5fcd8ac6b75f44b846459ca881",
+      "transformation": "仅格式转写"
     },
     {
       "order": 3,
@@ -519,11 +521,12 @@
       "path": "篇章/003-屯.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2527353",
       "text_han_characters": 221,
-      "sha256": "c2513311dc64b3ffe8ebe45310aa9494111a50050a3f6b468ee4ad59c493e3ba",
+      "sha256": "98467f2a0eb3c92bcf4b78cf015165a9e0096a93b75034c3880d03c3c4023ae8",
       "source_page": "周易/屯",
       "source_revision": 2527353,
       "source_revision_timestamp": "2025-02-10T12:18:43Z",
-      "source_wikitext_sha256": "9683da38374211851362493c9a51489b50792b7ac6ab075d242c27ad7eabd48e"
+      "source_wikitext_sha256": "9683da38374211851362493c9a51489b50792b7ac6ab075d242c27ad7eabd48e",
+      "transformation": "仅格式转写"
     },
     {
       "order": 4,
@@ -531,11 +534,12 @@
       "path": "篇章/004-蒙.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2601829",
       "text_han_characters": 213,
-      "sha256": "2309c33022581632485a8d982c921540aa54fd6c81b586d0505fa858d17ae95d",
+      "sha256": "e1bfdef503ceb06a40491f9f940a56e94790a23e1d78d6414263107d095e7300",
       "source_page": "周易/蒙",
       "source_revision": 2601829,
       "source_revision_timestamp": "2025-09-29T11:14:23Z",
-      "source_wikitext_sha256": "54ad0a6054afd8ccb62053c8149a6b4c66b7cb9a7e77fe8b31c4d874b97fa276"
+      "source_wikitext_sha256": "54ad0a6054afd8ccb62053c8149a6b4c66b7cb9a7e77fe8b31c4d874b97fa276",
+      "transformation": "仅格式转写"
     },
     {
       "order": 5,
@@ -543,11 +547,12 @@
       "path": "篇章/005-需.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405039",
       "text_han_characters": 222,
-      "sha256": "6a2741060e1015af1646e3005250a189168c04ee73c4658e989c37d0657e31a6",
+      "sha256": "f79ea73b523a3936d89870d5c6cc30d4d4a135ce9fd56bf93e8f16359e725c11",
       "source_page": "周易/需",
       "source_revision": 2405039,
       "source_revision_timestamp": "2024-05-09T09:32:25Z",
-      "source_wikitext_sha256": "48abe6009474bf5afe40505001079457df8326910b7c5fac4125a5a7a356fe76"
+      "source_wikitext_sha256": "48abe6009474bf5afe40505001079457df8326910b7c5fac4125a5a7a356fe76",
+      "transformation": "仅格式转写"
     },
     {
       "order": 6,
@@ -555,11 +560,12 @@
       "path": "篇章/006-訟.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405032",
       "text_han_characters": 229,
-      "sha256": "9848152547a9376bee9c721901afb99a92a3474692fbf56e8fe0479dc45e77d9",
+      "sha256": "1e5343852a9ae2b811acd6887e36cad43b67af3609d6d65fe9092c977cb6adf5",
       "source_page": "周易/訟",
       "source_revision": 2405032,
       "source_revision_timestamp": "2024-05-09T09:31:54Z",
-      "source_wikitext_sha256": "59292dbcac74e3f4a3d70cf783736326b42bfb1c0b822d419dcec5d77520ef09"
+      "source_wikitext_sha256": "59292dbcac74e3f4a3d70cf783736326b42bfb1c0b822d419dcec5d77520ef09",
+      "transformation": "仅格式转写"
     },
     {
       "order": 7,
@@ -567,11 +573,12 @@
       "path": "篇章/007-師.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405011",
       "text_han_characters": 213,
-      "sha256": "b62434c45be603b9522b27423cb82dbfff9f7d61024625ca3071ec94de0a636b",
+      "sha256": "75f93403621c1e15c5860f63fbe6d08a3f79ea0a68240cfedbc6ea3dca6de63a",
       "source_page": "周易/師",
       "source_revision": 2405011,
       "source_revision_timestamp": "2024-05-09T09:30:35Z",
-      "source_wikitext_sha256": "131b206cbc0995b1adfdab9560e66d7843fd85e3172bb4e9f89bb37e4665c1f9"
+      "source_wikitext_sha256": "131b206cbc0995b1adfdab9560e66d7843fd85e3172bb4e9f89bb37e4665c1f9",
+      "transformation": "仅格式转写"
     },
     {
       "order": 8,
@@ -579,11 +586,12 @@
       "path": "篇章/008-比.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405022",
       "text_han_characters": 208,
-      "sha256": "2700a1f92a929a90c501ee2765a986894475e2802ee40519a3efdb0c7e6ea105",
+      "sha256": "3730373659bc9ff0cbe220d28ece2756b5edd5ba00e7288b42db6572524bbc1a",
       "source_page": "周易/比",
       "source_revision": 2405022,
       "source_revision_timestamp": "2024-05-09T09:31:10Z",
-      "source_wikitext_sha256": "bfa9eb4716a7c703479f6e6a7e4a9b15ab71ba78bd9c9912ded75e40f8b16554"
+      "source_wikitext_sha256": "bfa9eb4716a7c703479f6e6a7e4a9b15ab71ba78bd9c9912ded75e40f8b16554",
+      "transformation": "仅格式转写"
     },
     {
       "order": 9,
@@ -591,11 +599,12 @@
       "path": "篇章/009-小畜.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405006",
       "text_han_characters": 198,
-      "sha256": "711bfca2ab78b3c719cd767a44b6e2a7c3efe7fb878e6072a23aa234283e7678",
+      "sha256": "1c079846ee453f38b2e88415e1e2140e0c55b2d3b447b2497c1545df1a9f40b4",
       "source_page": "周易/小畜",
       "source_revision": 2405006,
       "source_revision_timestamp": "2024-05-09T09:30:22Z",
-      "source_wikitext_sha256": "f42cf7bcf0de765e5f997192eb4c9945a19487dfb20bd3ccadb704c52f02cdf4"
+      "source_wikitext_sha256": "f42cf7bcf0de765e5f997192eb4c9945a19487dfb20bd3ccadb704c52f02cdf4",
+      "transformation": "仅格式转写"
     },
     {
       "order": 10,
@@ -603,11 +612,12 @@
       "path": "篇章/010-履.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2494097",
       "text_han_characters": 206,
-      "sha256": "9cabce55896633269e6fe21f02c73f5565c5ecab2b8f9ae605a68946b11b34e2",
+      "sha256": "d1a0cdaa81c1133c2400ca9f4e3113252999cbe3d76c52f349df27fb132eeec8",
       "source_page": "周易/履",
       "source_revision": 2494097,
       "source_revision_timestamp": "2024-11-27T13:26:34Z",
-      "source_wikitext_sha256": "d86ef9a395ed5891e1bda0287c0f2b0397400b21d09e613d34c9eae4f48100e8"
+      "source_wikitext_sha256": "d86ef9a395ed5891e1bda0287c0f2b0397400b21d09e613d34c9eae4f48100e8",
+      "transformation": "仅格式转写"
     },
     {
       "order": 11,
@@ -615,11 +625,12 @@
       "path": "篇章/011-泰.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2106138",
       "text_han_characters": 245,
-      "sha256": "33adf4bfd9091fd0e339342c481b0578d7d2a58de61a6f2f36cefdd4de3ee4d4",
+      "sha256": "2c43b6472a316cd12b7532fe325162121e7fb19444d2cedfb1eedb3536e758e7",
       "source_page": "周易/泰",
       "source_revision": 2106138,
       "source_revision_timestamp": "2022-02-16T00:35:51Z",
-      "source_wikitext_sha256": "ecd49dba63369af09ab717293badc4b5823106b89c25ee5ebed44466817616e7"
+      "source_wikitext_sha256": "ecd49dba63369af09ab717293badc4b5823106b89c25ee5ebed44466817616e7",
+      "transformation": "仅格式转写"
     },
     {
       "order": 12,
@@ -627,11 +638,12 @@
       "path": "篇章/012-否.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2106139",
       "text_han_characters": 212,
-      "sha256": "8c3acc25728a0dbdec9d33b3f343ee1081be8c4bd3062e92517a9f96f4028cb6",
+      "sha256": "53b008bf58253787a48173ad2c5c90b1999559183c79db458caf3ed50227f0f6",
       "source_page": "周易/否",
       "source_revision": 2106139,
       "source_revision_timestamp": "2022-02-16T00:36:08Z",
-      "source_wikitext_sha256": "f77270d71abb3e775b473769162c8ba82b523e733930e80f2cf260f6fa3ff4cf"
+      "source_wikitext_sha256": "f77270d71abb3e775b473769162c8ba82b523e733930e80f2cf260f6fa3ff4cf",
+      "transformation": "仅格式转写"
     },
     {
       "order": 13,
@@ -639,11 +651,12 @@
       "path": "篇章/013-同人.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2106140",
       "text_han_characters": 224,
-      "sha256": "89b623b436b1f856109b63f2525a6998b2984ecde7150571d8b2af75cf189421",
+      "sha256": "6daa6ecddef4a90d848bfbc0c92c97825a9dc473fbb2003943c37289628def1c",
       "source_page": "周易/同人",
       "source_revision": 2106140,
       "source_revision_timestamp": "2022-02-16T00:36:25Z",
-      "source_wikitext_sha256": "9a9e6ac2ce8032856b0f061a594440d684b9a6e9ebb3e7db36212a726f66471b"
+      "source_wikitext_sha256": "9a9e6ac2ce8032856b0f061a594440d684b9a6e9ebb3e7db36212a726f66471b",
+      "transformation": "仅格式转写"
     },
     {
       "order": 14,
@@ -651,11 +664,12 @@
       "path": "篇章/014-大有.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2494004",
       "text_han_characters": 195,
-      "sha256": "5401200d67ddf2437cb714e371ab9ce6d3dd4655890c10c126470c856e607ca6",
+      "sha256": "0371c9fa4b13c2195445174218d340fc4e1cfe0f39c9783af65b4e24d048df2c",
       "source_page": "周易/大有",
       "source_revision": 2494004,
       "source_revision_timestamp": "2024-11-26T12:47:06Z",
-      "source_wikitext_sha256": "49b73707fe9e51e2e4efde66b960c5ae267f5b8eefcd1e752ee55fa7dd93db5a"
+      "source_wikitext_sha256": "49b73707fe9e51e2e4efde66b960c5ae267f5b8eefcd1e752ee55fa7dd93db5a",
+      "transformation": "仅格式转写"
     },
     {
       "order": 15,
@@ -663,11 +677,12 @@
       "path": "篇章/015-謙.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2106142",
       "text_han_characters": 211,
-      "sha256": "74b6059653d39ae1329835de9f7e2a5cf79876f2748d2708b8a61026c2a37389",
+      "sha256": "4436cff65660e338a02e602a432cc74ef31ff720813845607e53c16ce750ec12",
       "source_page": "周易/謙",
       "source_revision": 2106142,
       "source_revision_timestamp": "2022-02-16T00:37:04Z",
-      "source_wikitext_sha256": "2ffb3b0269b10fe966f76b4dd96b49503733677215fa6b9df7414a0a903d3700"
+      "source_wikitext_sha256": "2ffb3b0269b10fe966f76b4dd96b49503733677215fa6b9df7414a0a903d3700",
+      "transformation": "仅格式转写"
     },
     {
       "order": 16,
@@ -675,11 +690,12 @@
       "path": "篇章/016-豫.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2106143",
       "text_han_characters": 212,
-      "sha256": "55f5c186a8676aa21a98e425feac2c4dbee0622ae1e80ff9bb88b30df9eb8875",
+      "sha256": "0f22955e38f8fc6095a0b35be1d7c12feb390a6854fc76c3520fb2852919d960",
       "source_page": "周易/豫",
       "source_revision": 2106143,
       "source_revision_timestamp": "2022-02-16T00:37:24Z",
-      "source_wikitext_sha256": "444b5d44cc6d7005b0d43a9ef97fff42b8b82f30d2d8c4740c2418820d177b36"
+      "source_wikitext_sha256": "444b5d44cc6d7005b0d43a9ef97fff42b8b82f30d2d8c4740c2418820d177b36",
+      "transformation": "仅格式转写"
     },
     {
       "order": 17,
@@ -687,11 +703,12 @@
       "path": "篇章/017-隨.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2497157",
       "text_han_characters": 193,
-      "sha256": "6525f7607aaa17122715427c7e8ecaba0ea4e57e509c394acce27be3d093c8b6",
+      "sha256": "19bddc8cfa91c2f295ce6b62a9e8a939a7cefcee7fe6c73f54180228cb04b59f",
       "source_page": "周易/隨",
       "source_revision": 2497157,
       "source_revision_timestamp": "2024-12-02T13:21:24Z",
-      "source_wikitext_sha256": "4efab4ca14190c6d78e8a9a51ca51eb6ad73003166b9c89a0785f44e49c1071e"
+      "source_wikitext_sha256": "4efab4ca14190c6d78e8a9a51ca51eb6ad73003166b9c89a0785f44e49c1071e",
+      "transformation": "仅格式转写"
     },
     {
       "order": 18,
@@ -699,11 +716,12 @@
       "path": "篇章/018-蠱.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2106145",
       "text_han_characters": 196,
-      "sha256": "bcd38605052c32f998fd67766bcb18414de43a84c490f22276fe88b211814630",
+      "sha256": "c4681b21c42bbc6493be3908b1ddd3658371b5d6a6f55234f02fd545a1837ba9",
       "source_page": "周易/蠱",
       "source_revision": 2106145,
       "source_revision_timestamp": "2022-02-16T00:38:30Z",
-      "source_wikitext_sha256": "b823e1f7c186f7ae3ea27e22955595a873311c8c8f1c00a1b09d00f887df6a5a"
+      "source_wikitext_sha256": "b823e1f7c186f7ae3ea27e22955595a873311c8c8f1c00a1b09d00f887df6a5a",
+      "transformation": "仅格式转写"
     },
     {
       "order": 19,
@@ -711,11 +729,12 @@
       "path": "篇章/019-臨.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2106146",
       "text_han_characters": 179,
-      "sha256": "a6fab872a8f6bbdf826b6da2b9733a0320572bdf7254c7da0ba58cc6bfa3c4dd",
+      "sha256": "187cc8ce4f7482e229185d0e3579dc633c7e0035bfea103dda463b2e8207d85c",
       "source_page": "周易/臨",
       "source_revision": 2106146,
       "source_revision_timestamp": "2022-02-16T00:38:55Z",
-      "source_wikitext_sha256": "beadffbfc5356c83e7068507a7446efbe4c175eeec1c3845ec634e288f3217cc"
+      "source_wikitext_sha256": "beadffbfc5356c83e7068507a7446efbe4c175eeec1c3845ec634e288f3217cc",
+      "transformation": "仅格式转写"
     },
     {
       "order": 20,
@@ -723,11 +742,12 @@
       "path": "篇章/020-觀.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2106147",
       "text_han_characters": 189,
-      "sha256": "f5afe051eca461aad6d14fdde925970cfff74ea1a529de0fe495f14f5e76cfab",
+      "sha256": "de30f95f27f9e0bfcc4940028a469c66ecbbd62436177bdf5ec5d7e406f62c81",
       "source_page": "周易/觀",
       "source_revision": 2106147,
       "source_revision_timestamp": "2022-02-16T00:39:12Z",
-      "source_wikitext_sha256": "82a41830c878c010fb1164b131c2a3b8ba18cbb4592d46f5d38abc120cf2e9e7"
+      "source_wikitext_sha256": "82a41830c878c010fb1164b131c2a3b8ba18cbb4592d46f5d38abc120cf2e9e7",
+      "transformation": "仅格式转写"
     },
     {
       "order": 21,
@@ -735,11 +755,12 @@
       "path": "篇章/021-噬嗑.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2404997",
       "text_han_characters": 173,
-      "sha256": "18441a1b57197d43a2a9154b40dd30c4a659c9cc5f3fde45d5641f399e5a3e98",
+      "sha256": "8a8080f94a873ec41cc4163fe27be3cacbadd691753d7bcabe0b56005470ecf7",
       "source_page": "周易/噬嗑",
       "source_revision": 2404997,
       "source_revision_timestamp": "2024-05-09T09:29:51Z",
-      "source_wikitext_sha256": "db8345f6caa1e34ad0add5951b6546db6ff1168375e5220e3efd8c4f6badf830"
+      "source_wikitext_sha256": "db8345f6caa1e34ad0add5951b6546db6ff1168375e5220e3efd8c4f6badf830",
+      "transformation": "仅格式转写"
     },
     {
       "order": 22,
@@ -747,11 +768,12 @@
       "path": "篇章/022-賁.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405035",
       "text_han_characters": 202,
-      "sha256": "3295b0e6a9a626ebb88e50dec598ba58082e8ad938a19419c0cff3b4e8766da4",
+      "sha256": "7c52a7c4d2917a34b01e0aa9bb8253a9654d9970c50bd1226729919ce9e50e9b",
       "source_page": "周易/賁",
       "source_revision": 2405035,
       "source_revision_timestamp": "2024-05-09T09:32:07Z",
-      "source_wikitext_sha256": "f7418a0d3805c366e3afc6e9c7fb32c0c1da7883bf714cbe6235fe477365773c"
+      "source_wikitext_sha256": "f7418a0d3805c366e3afc6e9c7fb32c0c1da7883bf714cbe6235fe477365773c",
+      "transformation": "仅格式转写"
     },
     {
       "order": 23,
@@ -759,11 +781,12 @@
       "path": "篇章/023-剝.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2404994",
       "text_han_characters": 182,
-      "sha256": "f3387a301a63c3fdeb298a5ebde58479b1e68674ed20c4c5120e895016c219d2",
+      "sha256": "a430e99d2fe96c205d53e98f4a34791ea0924417dfeeb220ac6dfe582bf3c469",
       "source_page": "周易/剝",
       "source_revision": 2404994,
       "source_revision_timestamp": "2024-05-09T09:29:37Z",
-      "source_wikitext_sha256": "a719d564a93cd90a6474efe2515e070e2bc1537394eaeb85f3f92fe2da5d7ef3"
+      "source_wikitext_sha256": "a719d564a93cd90a6474efe2515e070e2bc1537394eaeb85f3f92fe2da5d7ef3",
+      "transformation": "仅格式转写"
     },
     {
       "order": 24,
@@ -771,11 +794,12 @@
       "path": "篇章/024-復.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2497162",
       "text_han_characters": 216,
-      "sha256": "c5363210b0c92c9236a94873d28a84f0c7662a604c7869a6bf3874526f40ba57",
+      "sha256": "7564e04c0ab06fdb8bf40f70401f6786618f695f47b68b11a7fd3f7b2f464f4d",
       "source_page": "周易/復",
       "source_revision": 2497162,
       "source_revision_timestamp": "2024-12-02T13:44:28Z",
-      "source_wikitext_sha256": "81af912f4f2b2e80cd7e532e96ced7ddd4f2009a2e76358abac80c8c3ddf0c51"
+      "source_wikitext_sha256": "81af912f4f2b2e80cd7e532e96ced7ddd4f2009a2e76358abac80c8c3ddf0c51",
+      "transformation": "仅格式转写"
     },
     {
       "order": 25,
@@ -783,11 +807,12 @@
       "path": "篇章/025-无妄.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2527352",
       "text_han_characters": 211,
-      "sha256": "8927896c7b34d65503ec1fb3cc9a7b426659ad7d4cdbcf97b581c294e71bb94c",
+      "sha256": "03e93e73ee3501f2ffe302b62a139d5e9fb9111eceea9da27004bb2b646c1394",
       "source_page": "周易/无妄",
       "source_revision": 2527352,
       "source_revision_timestamp": "2025-02-10T12:06:56Z",
-      "source_wikitext_sha256": "8b0c1cccd695ebeb46b21bb7dd2cd4fb6a7921f5310c0d4ff7238b1c07a99012"
+      "source_wikitext_sha256": "8b0c1cccd695ebeb46b21bb7dd2cd4fb6a7921f5310c0d4ff7238b1c07a99012",
+      "transformation": "仅格式转写"
     },
     {
       "order": 26,
@@ -795,11 +820,12 @@
       "path": "篇章/026-大畜.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405001",
       "text_han_characters": 183,
-      "sha256": "7bbc04b8a230bad6eeb4d27a5570f6549743cfa644bcf19d521038896a9b0d4a",
+      "sha256": "81a88a169557e7701123f99583ffd832a1c6779b97525972f4590d756fbc0399",
       "source_page": "周易/大畜",
       "source_revision": 2405001,
       "source_revision_timestamp": "2024-05-09T09:30:07Z",
-      "source_wikitext_sha256": "8eb67508919828e639e9fbb6513318b183102e5412488007c35a562d3919f0a7"
+      "source_wikitext_sha256": "8eb67508919828e639e9fbb6513318b183102e5412488007c35a562d3919f0a7",
+      "transformation": "仅格式转写"
     },
     {
       "order": 27,
@@ -807,11 +833,12 @@
       "path": "篇章/027-頤.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405042",
       "text_han_characters": 208,
-      "sha256": "fc60eaae8a2512d865bfe60bcf63f5dea940f5939a70c65573ad2e4301fa70de",
+      "sha256": "5a85071a2ccae46b44bf22ea144e39ab3a28b46e63515c1f56f4b0d70d955a17",
       "source_page": "周易/頤",
       "source_revision": 2405042,
       "source_revision_timestamp": "2024-05-09T09:32:35Z",
-      "source_wikitext_sha256": "fc7603fd1bd8e4d73bca4a6b12a322021754fce2f493c3e83b592b4abb7ab982"
+      "source_wikitext_sha256": "fc7603fd1bd8e4d73bca4a6b12a322021754fce2f493c3e83b592b4abb7ab982",
+      "transformation": "仅格式转写"
     },
     {
       "order": 28,
@@ -819,11 +846,12 @@
       "path": "篇章/028-大過.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405002",
       "text_han_characters": 200,
-      "sha256": "d9c8b2ff6fa50cf2e05e565a9332344d733395f75e7f4e2fcde8a516b46acef3",
+      "sha256": "722b269500633704941531f7077fa06f620ccbb95b1c2c35a22b6eace829fd9b",
       "source_page": "周易/大過",
       "source_revision": 2405002,
       "source_revision_timestamp": "2024-05-09T09:30:12Z",
-      "source_wikitext_sha256": "ad4b9ded3baa7aff3ad1b90e4e034e331ca8c54cf84ba19208836bff5cc9f41b"
+      "source_wikitext_sha256": "ad4b9ded3baa7aff3ad1b90e4e034e331ca8c54cf84ba19208836bff5cc9f41b",
+      "transformation": "仅格式转写"
     },
     {
       "order": 29,
@@ -831,11 +859,12 @@
       "path": "篇章/029-坎.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2502716",
       "text_han_characters": 221,
-      "sha256": "d8e85c167d080278938059af5c9bcb4c13deaa089db16d49a591351971388372",
+      "sha256": "37af50cdb116828b639be57ec096ef2920a21d212cacfb835a2b129d1b05d3c5",
       "source_page": "周易/坎",
       "source_revision": 2502716,
       "source_revision_timestamp": "2024-12-09T13:33:34Z",
-      "source_wikitext_sha256": "da7aee1d247bc4ce1592fdafbf9d4b17fb3207ed5fa1e875963fa8e913b8f46c"
+      "source_wikitext_sha256": "da7aee1d247bc4ce1592fdafbf9d4b17fb3207ed5fa1e875963fa8e913b8f46c",
+      "transformation": "仅格式转写"
     },
     {
       "order": 30,
@@ -843,11 +872,12 @@
       "path": "篇章/030-離.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2528049",
       "text_han_characters": 199,
-      "sha256": "ce714b8524864f8729a10dc3de42e8cb220c00f56b3958e3f599eab8395f5fe3",
+      "sha256": "69f84f74e1ff3677a86480af05a182bcbea2431928de694fcdb3ec41662d4b43",
       "source_page": "周易/離",
       "source_revision": 2528049,
       "source_revision_timestamp": "2025-02-13T04:13:01Z",
-      "source_wikitext_sha256": "4b4e7fdfa364bfa441d9d1b3ceb4037d5f6ed7da4e3f144d95393674cfec010a"
+      "source_wikitext_sha256": "4b4e7fdfa364bfa441d9d1b3ceb4037d5f6ed7da4e3f144d95393674cfec010a",
+      "transformation": "仅格式转写"
     },
     {
       "order": 31,
@@ -855,11 +885,12 @@
       "path": "篇章/031-咸.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2404996",
       "text_han_characters": 211,
-      "sha256": "da8562dd56d0c48e3a5b99697f1d94fea9548ee7e8f2bfd89eb9975c3dd6afb5",
+      "sha256": "7375a7b27f39f81659abbfafa616c4d79579cd0151ae20b9ff4bd043c1f37ae9",
       "source_page": "周易/咸",
       "source_revision": 2404996,
       "source_revision_timestamp": "2024-05-09T09:29:48Z",
-      "source_wikitext_sha256": "2af1a796adc503c8d4e699506a8266ca9d26927f3e1927f0077ae174486023c1"
+      "source_wikitext_sha256": "2af1a796adc503c8d4e699506a8266ca9d26927f3e1927f0077ae174486023c1",
+      "transformation": "仅格式转写"
     },
     {
       "order": 32,
@@ -867,11 +898,12 @@
       "path": "篇章/032-恒.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2530043",
       "text_han_characters": 234,
-      "sha256": "68d0c40cb79b22798d6ee6e5c75bcb8204c2723eb5cb9209b76942a9e07c9794",
+      "sha256": "4d948671107772aef44dab39d2ab4309e5e4c211888a094d19fc4e638d03c16f",
       "source_page": "周易/恒",
       "source_revision": 2530043,
       "source_revision_timestamp": "2025-02-18T17:55:29Z",
-      "source_wikitext_sha256": "f83bd210dfac9669fab947e02479a45bcff367da4ea21d29192c6afe8216d8c1"
+      "source_wikitext_sha256": "f83bd210dfac9669fab947e02479a45bcff367da4ea21d29192c6afe8216d8c1",
+      "transformation": "仅格式转写"
     },
     {
       "order": 33,
@@ -879,11 +911,12 @@
       "path": "篇章/033-遯.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405037",
       "text_han_characters": 183,
-      "sha256": "9d3868a0f3b8486e2be9c3588df43c3caa59841159036730a07671debc598119",
+      "sha256": "4e425092b23527aab202c5df34e92c2961abe6785a8bade2aec5ec32acee9165",
       "source_page": "周易/遯",
       "source_revision": 2405037,
       "source_revision_timestamp": "2024-05-09T09:32:14Z",
-      "source_wikitext_sha256": "978fac550393f8f1c7710cce5596ab698183877f18b7fbea9473172952e7ab46"
+      "source_wikitext_sha256": "978fac550393f8f1c7710cce5596ab698183877f18b7fbea9473172952e7ab46",
+      "transformation": "仅格式转写"
     },
     {
       "order": 34,
@@ -891,11 +924,12 @@
       "path": "篇章/034-大壯.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2531745",
       "text_han_characters": 193,
-      "sha256": "90c1cce513b91a09366e32820689aee4534072cb56c02325cc5d7190b8a77b2d",
+      "sha256": "077d3ba31f428e0332119a4b09e23f4e3c1c3244a07b0ba0b1ece19faa29e85b",
       "source_page": "周易/大壯",
       "source_revision": 2531745,
       "source_revision_timestamp": "2025-02-24T16:21:13Z",
-      "source_wikitext_sha256": "674310af5463d01e36e6b8b11bb3e5dd7591b63ac381917e42391e2f2724ab7a"
+      "source_wikitext_sha256": "674310af5463d01e36e6b8b11bb3e5dd7591b63ac381917e42391e2f2724ab7a",
+      "transformation": "仅格式转写"
     },
     {
       "order": 35,
@@ -903,11 +937,12 @@
       "path": "篇章/035-晉.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2584802",
       "text_han_characters": 200,
-      "sha256": "d30f692407b9761d6c33fc4939c6034f66f837179ce3760795e26d58c6e4ad5b",
+      "sha256": "7d86ea6c33dcdc6c6c339f4c8dc39926d55018f3ef068cd7aafc421ce085493c",
       "source_page": "周易/晉",
       "source_revision": 2584802,
       "source_revision_timestamp": "2025-08-02T07:55:04Z",
-      "source_wikitext_sha256": "bd51d51f3a62784288fd183a0b610e0862f99e19289e75a1d8c735acf287db68"
+      "source_wikitext_sha256": "bd51d51f3a62784288fd183a0b610e0862f99e19289e75a1d8c735acf287db68",
+      "transformation": "仅格式转写"
     },
     {
       "order": 36,
@@ -915,11 +950,12 @@
       "path": "篇章/036-明夷.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2531747",
       "text_han_characters": 224,
-      "sha256": "f1afd1e999e1c07de17bd59654643c0d24fd9327a24794376530873b647477bd",
+      "sha256": "824d60aec2040bbdafab4a9559fac78f815fb3897d4b479d551bcc24029bc1a0",
       "source_page": "周易/明夷",
       "source_revision": 2531747,
       "source_revision_timestamp": "2025-02-24T17:26:31Z",
-      "source_wikitext_sha256": "806bac05f2b162ccc57709315d392de0c1ec55c76e6805c086ca1f0eec907eb9"
+      "source_wikitext_sha256": "806bac05f2b162ccc57709315d392de0c1ec55c76e6805c086ca1f0eec907eb9",
+      "transformation": "仅格式转写"
     },
     {
       "order": 37,
@@ -927,11 +963,12 @@
       "path": "篇章/037-家人.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405005",
       "text_han_characters": 206,
-      "sha256": "f133deae18100da35b4f61a5707a4428acd50e73eadf8bad7b3544cf2ec3fb94",
+      "sha256": "6da0175a2c9912d1c11d6e1ba7620b9a222593a3d4e2498e7b94cdef651e6741",
       "source_page": "周易/家人",
       "source_revision": 2405005,
       "source_revision_timestamp": "2024-05-09T09:30:20Z",
-      "source_wikitext_sha256": "0179c8e76f2ef04ee811c1acf142f707d29083fe324de7c4cd086ceb47f79c99"
+      "source_wikitext_sha256": "0179c8e76f2ef04ee811c1acf142f707d29083fe324de7c4cd086ceb47f79c99",
+      "transformation": "仅格式转写"
     },
     {
       "order": 38,
@@ -939,11 +976,12 @@
       "path": "篇章/038-睽.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2531978",
       "text_han_characters": 248,
-      "sha256": "3b424d2a5298052e464d66e5bfac9eb8c0b672d7192170612edc8c43f18e630c",
+      "sha256": "ee4e4737c8799d7dab3d6bd3fc903e4fee694339c5cfa07aad7009570aa8a427",
       "source_page": "周易/睽",
       "source_revision": 2531978,
       "source_revision_timestamp": "2025-02-25T16:09:38Z",
-      "source_wikitext_sha256": "c1d6fa887f02fe3cd5cd6f1cb26c19c681e6d3411baaffa0b63bf67205f754c1"
+      "source_wikitext_sha256": "c1d6fa887f02fe3cd5cd6f1cb26c19c681e6d3411baaffa0b63bf67205f754c1",
+      "transformation": "仅格式转写"
     },
     {
       "order": 39,
@@ -951,11 +989,12 @@
       "path": "篇章/039-蹇.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405036",
       "text_han_characters": 199,
-      "sha256": "9b06a52a8d6ab735ac78c6fc8e8e816e7ee2e517c2dcf233de7b2a65faa630c1",
+      "sha256": "62982f815aee9d3178663364b88caf4bc42e55d421c4e0d86252a239799c334e",
       "source_page": "周易/蹇",
       "source_revision": 2405036,
       "source_revision_timestamp": "2024-05-09T09:32:11Z",
-      "source_wikitext_sha256": "4fca7850987f383c2a66b195c5c35c5f39be0c41877c5607013d6a9858d7066b"
+      "source_wikitext_sha256": "4fca7850987f383c2a66b195c5c35c5f39be0c41877c5607013d6a9858d7066b",
+      "transformation": "仅格式转写"
     },
     {
       "order": 40,
@@ -963,11 +1002,12 @@
       "path": "篇章/040-解.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405031",
       "text_han_characters": 222,
-      "sha256": "25cddf02deb5e2dcc4a7e48bb6c6ba85f4b852ac2bc6c9726e5f56e1d67c99ad",
+      "sha256": "4030da0c7a2e7e36a8449d3231f3d1f29a40500207e09237fbbec8633e29d3de",
       "source_page": "周易/解",
       "source_revision": 2405031,
       "source_revision_timestamp": "2024-05-09T09:31:50Z",
-      "source_wikitext_sha256": "1692cdd39a4394193a1d2e6bf9b18e540d1b04f62ab995e7ffffbdfedf7db51c"
+      "source_wikitext_sha256": "1692cdd39a4394193a1d2e6bf9b18e540d1b04f62ab995e7ffffbdfedf7db51c",
+      "transformation": "仅格式转写"
     },
     {
       "order": 41,
@@ -975,11 +1015,12 @@
       "path": "篇章/041-損.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405014",
       "text_han_characters": 229,
-      "sha256": "81eb69b54fa4dc8aae1b1f63b9e99f41967e43c8fc9858bd5121d67eca46c353",
+      "sha256": "e2e13e1644b1e0f01b52ee53aaf5a6a9e09fba3d064b18e101ddea3bd1ec452e",
       "source_page": "周易/損",
       "source_revision": 2405014,
       "source_revision_timestamp": "2024-05-09T09:30:46Z",
-      "source_wikitext_sha256": "4a666d00946a3e1b263073fe01b4fc6c43005081345f1fef5edd7ad3631406e5"
+      "source_wikitext_sha256": "4a666d00946a3e1b263073fe01b4fc6c43005081345f1fef5edd7ad3631406e5",
+      "transformation": "仅格式转写"
     },
     {
       "order": 42,
@@ -987,11 +1028,12 @@
       "path": "篇章/042-益.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405025",
       "text_han_characters": 248,
-      "sha256": "e96b93de640dbb49afdf162a8f8a7c0795a70e7d2f70efb5434ae185ac29712c",
+      "sha256": "efe578cccfc142b4ff17f098ef9913bcd6a4bbc2bd03fa9cb4f0083876948db1",
       "source_page": "周易/益",
       "source_revision": 2405025,
       "source_revision_timestamp": "2024-05-09T09:31:20Z",
-      "source_wikitext_sha256": "06c7cedf7e76fcc3cde93e19595b0eeaeae87a617c4672764c327eb1d8089013"
+      "source_wikitext_sha256": "06c7cedf7e76fcc3cde93e19595b0eeaeae87a617c4672764c327eb1d8089013",
+      "transformation": "仅格式转写"
     },
     {
       "order": 43,
@@ -999,11 +1041,12 @@
       "path": "篇章/043-夬.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405003",
       "text_han_characters": 238,
-      "sha256": "c0a1a7309cfe4e7d7bd5bdce2793234aab23a3b784c6e124cad447146286f812",
+      "sha256": "e4105420103fd58c1b01dea1fba7b55ce8c4239e1a5b5a61f4b74691cb17b485",
       "source_page": "周易/夬",
       "source_revision": 2405003,
       "source_revision_timestamp": "2024-05-09T09:30:15Z",
-      "source_wikitext_sha256": "1dbda1e9e07a19fe4ff04491bf7f99b3b9c501702773972d647745c2c5f4b0aa"
+      "source_wikitext_sha256": "1dbda1e9e07a19fe4ff04491bf7f99b3b9c501702773972d647745c2c5f4b0aa",
+      "transformation": "仅格式转写"
     },
     {
       "order": 44,
@@ -1011,11 +1054,12 @@
       "path": "篇章/044-姤.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2437487",
       "text_han_characters": 201,
-      "sha256": "25fceade163a3036f3363d4e8e57a9069abb09dd46ba35f8c236494f78f84ce9",
+      "sha256": "dee17355578e4691204be8db155dfc2aa8645e77c199baa481db5449bc0155c1",
       "source_page": "周易/姤",
       "source_revision": 2437487,
       "source_revision_timestamp": "2024-07-18T05:16:39Z",
-      "source_wikitext_sha256": "0ad9c15852f82af7ee896aea1b53a3a28bdb922c4b2e484fb1f4f8dc29c2eb5d"
+      "source_wikitext_sha256": "0ad9c15852f82af7ee896aea1b53a3a28bdb922c4b2e484fb1f4f8dc29c2eb5d",
+      "transformation": "仅格式转写"
     },
     {
       "order": 45,
@@ -1023,11 +1067,12 @@
       "path": "篇章/045-萃.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2535017",
       "text_han_characters": 229,
-      "sha256": "9845f77272b065b2ef4d6acd2844c34f7b18f5a4414e139a1e4015cd9b617d65",
+      "sha256": "b574123f242a2c44ffe093ed5745e2662f0bda31e546d42386bc636d06e9fb4a",
       "source_page": "周易/萃",
       "source_revision": 2535017,
       "source_revision_timestamp": "2025-03-06T05:54:11Z",
-      "source_wikitext_sha256": "0c75443453aa21e178d88f3ca69fb92bb275f1a3369e4d6c36ff4f9638e7c960"
+      "source_wikitext_sha256": "0c75443453aa21e178d88f3ca69fb92bb275f1a3369e4d6c36ff4f9638e7c960",
+      "transformation": "仅格式转写"
     },
     {
       "order": 46,
@@ -1035,11 +1080,12 @@
       "path": "篇章/046-升.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2404995",
       "text_han_characters": 170,
-      "sha256": "7e65fa87a89d86d2efe0c89941f88dbeec369d0604fde468e52014ea12330833",
+      "sha256": "16a86d10d631188736239abd62bab0a5cc0a41ed089d076fb866134669445047",
       "source_page": "周易/升",
       "source_revision": 2404995,
       "source_revision_timestamp": "2024-05-09T09:29:40Z",
-      "source_wikitext_sha256": "93e1dc68658655b3f7848ad602a105ea69c48698a7a66982c688ee4999745009"
+      "source_wikitext_sha256": "93e1dc68658655b3f7848ad602a105ea69c48698a7a66982c688ee4999745009",
+      "transformation": "仅格式转写"
     },
     {
       "order": 47,
@@ -1047,11 +1093,12 @@
       "path": "篇章/047-困.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2502714",
       "text_han_characters": 256,
-      "sha256": "eeca54af34d4755b1f08d796069f80673f369bc821182ef5a6e88c2615a64d61",
+      "sha256": "a098b678a4792ef128948c2b2adf73c89daeb9a95e3958a6f9a3ac8ee6a89675",
       "source_page": "周易/困",
       "source_revision": 2502714,
       "source_revision_timestamp": "2024-12-09T13:20:26Z",
-      "source_wikitext_sha256": "bf6317455d24514e3663a47f299d2ebf43a08995c560ac3d68912f98c3e398d9"
+      "source_wikitext_sha256": "bf6317455d24514e3663a47f299d2ebf43a08995c560ac3d68912f98c3e398d9",
+      "transformation": "仅格式转写"
     },
     {
       "order": 48,
@@ -1059,11 +1106,12 @@
       "path": "篇章/048-井.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2404992",
       "text_han_characters": 210,
-      "sha256": "afb7222d4895c71ba4c9eac23378d5616b7c90c4a31276f854a70dcf7be74663",
+      "sha256": "e16f8e67637f26c6cca32ad1d2c627c8619882b9a6bb0192c08e160ba3f62511",
       "source_page": "周易/井",
       "source_revision": 2404992,
       "source_revision_timestamp": "2024-05-09T09:29:32Z",
-      "source_wikitext_sha256": "34f78ff12497ad2d99e182c2fe5f072af9e27549fbd326b257c8cfcacc50fd21"
+      "source_wikitext_sha256": "34f78ff12497ad2d99e182c2fe5f072af9e27549fbd326b257c8cfcacc50fd21",
+      "transformation": "仅格式转写"
     },
     {
       "order": 49,
@@ -1071,11 +1119,12 @@
       "path": "篇章/049-革.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2674393",
       "text_han_characters": 229,
-      "sha256": "eab329e479c8a91ffd6d253578228636e5a5fd854c7e84c4627d160ccddfae86",
+      "sha256": "554dff4f6afe03b7107e76e8f60ea0ba8005a3ed1951d3c77116d5f72fb32aac",
       "source_page": "周易/革",
       "source_revision": 2674393,
       "source_revision_timestamp": "2026-03-17T12:28:39Z",
-      "source_wikitext_sha256": "06ae513abe4310a8e54515ef9425f92a197ad60db172e931a6051a6e9c0bba1e"
+      "source_wikitext_sha256": "06ae513abe4310a8e54515ef9425f92a197ad60db172e931a6051a6e9c0bba1e",
+      "transformation": "仅格式转写"
     },
     {
       "order": 50,
@@ -1083,11 +1132,12 @@
       "path": "篇章/050-鼎.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2106200",
       "text_han_characters": 214,
-      "sha256": "d74835ebb6c23e7c6ae36e6114f60a52b276845d30fd4113b52f17591609ecf0",
+      "sha256": "c85340d69aaea1d4bee17ecd80027ec429720572f480685df88e270a7757403c",
       "source_page": "周易/鼎",
       "source_revision": 2106200,
       "source_revision_timestamp": "2022-02-16T01:03:42Z",
-      "source_wikitext_sha256": "4705977c9a85a039a0ddf61ffb9e7baa6208def15b4d41934cb823046e6b5ec3"
+      "source_wikitext_sha256": "4705977c9a85a039a0ddf61ffb9e7baa6208def15b4d41934cb823046e6b5ec3",
+      "transformation": "仅格式转写"
     },
     {
       "order": 51,
@@ -1095,11 +1145,12 @@
       "path": "篇章/051-震.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2560429",
       "text_han_characters": 231,
-      "sha256": "f6e6951b3f1711ddf78ee8051ad8c46416b2c0a1ef81f235ddf7b907147f7e16",
+      "sha256": "702ccff012f8128be8682513cb12ce200f969ef75cd674b863dde47e725352ca",
       "source_page": "周易/震",
       "source_revision": 2560429,
       "source_revision_timestamp": "2025-05-11T11:56:19Z",
-      "source_wikitext_sha256": "0084d1f85a25ac2556fe40e4fccc6a03b0ddfc75723291a2b56564c1ac593bee"
+      "source_wikitext_sha256": "0084d1f85a25ac2556fe40e4fccc6a03b0ddfc75723291a2b56564c1ac593bee",
+      "transformation": "仅格式转写"
     },
     {
       "order": 52,
@@ -1107,11 +1158,12 @@
       "path": "篇章/052-艮.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405028",
       "text_han_characters": 199,
-      "sha256": "2b5a75da3647b9bd3154903e2033dbd9c6a28a605e777a10a25df58a932e2f36",
+      "sha256": "7c008de4411423ace46591206fee8a398c3a2abc34da88d88283ed5bd03300f2",
       "source_page": "周易/艮",
       "source_revision": 2405028,
       "source_revision_timestamp": "2024-05-09T09:31:34Z",
-      "source_wikitext_sha256": "0fb0d5820dfb140cb97ede2657770f56d925b622c117fd570a5dd8dfee418d77"
+      "source_wikitext_sha256": "0fb0d5820dfb140cb97ede2657770f56d925b622c117fd570a5dd8dfee418d77",
+      "transformation": "仅格式转写"
     },
     {
       "order": 53,
@@ -1119,11 +1171,12 @@
       "path": "篇章/053-漸.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2560535",
       "text_han_characters": 225,
-      "sha256": "3f9e5e6a85fcc32b848cd983022b7e61881d58ee57636d122018ef28f90acc1b",
+      "sha256": "a535dd3eeb7c045c0289ba1510749683290164ee9aed87144e69cc6181f56dbd",
       "source_page": "周易/漸",
       "source_revision": 2560535,
       "source_revision_timestamp": "2025-05-11T22:11:31Z",
-      "source_wikitext_sha256": "46da172e6576ba774f6c61741a2d566014f5e5fc90c1065251cb80ccd89b28d7"
+      "source_wikitext_sha256": "46da172e6576ba774f6c61741a2d566014f5e5fc90c1065251cb80ccd89b28d7",
+      "transformation": "仅格式转写"
     },
     {
       "order": 54,
@@ -1131,11 +1184,12 @@
       "path": "篇章/054-歸妹.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2511521",
       "text_han_characters": 228,
-      "sha256": "f6649c77382643ad6a4cb76791e1f35326a4ab9f2af9e9c52b948d41e35332da",
+      "sha256": "947a3fe82dd9223bbceba1fd1593721d34349b15467fec11689d8ef3eb694d55",
       "source_page": "周易/歸妹",
       "source_revision": 2511521,
       "source_revision_timestamp": "2024-12-29T10:12:14Z",
-      "source_wikitext_sha256": "03a725d580b54c4fb9279c88fbed6ee3f8a0198d4bb06bda8005e4fa96a4a8da"
+      "source_wikitext_sha256": "03a725d580b54c4fb9279c88fbed6ee3f8a0198d4bb06bda8005e4fa96a4a8da",
+      "transformation": "仅格式转写"
     },
     {
       "order": 55,
@@ -1143,11 +1197,12 @@
       "path": "篇章/055-豐.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2560608",
       "text_han_characters": 259,
-      "sha256": "401d1358dd3e663ea098bbd671dcef059884d7b19908906f5da107839d308dcb",
+      "sha256": "2f96aecf159f16e762307c61e38b5b7c3adf219f66dd030b0393ba56b24262a2",
       "source_page": "周易/豐",
       "source_revision": 2560608,
       "source_revision_timestamp": "2025-05-12T09:59:17Z",
-      "source_wikitext_sha256": "34a7435e6f633a3921adfc6416d4d5d1ca4fcb466369f4c35950aa66f419bbef"
+      "source_wikitext_sha256": "34a7435e6f633a3921adfc6416d4d5d1ca4fcb466369f4c35950aa66f419bbef",
+      "transformation": "仅格式转写"
     },
     {
       "order": 56,
@@ -1155,11 +1210,12 @@
       "path": "篇章/056-旅.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2560781",
       "text_han_characters": 219,
-      "sha256": "58d31c86b4f5010128213d7f424ba0b15436ea79ef8374eb2322875f81d4d849",
+      "sha256": "bd1f243158f8bd3a3d676cfb1ccf17ba9a8821e416f724d20ace877f42c8e02f",
       "source_page": "周易/旅",
       "source_revision": 2560781,
       "source_revision_timestamp": "2025-05-12T15:38:39Z",
-      "source_wikitext_sha256": "d5fb1000d0ba4ae8e1a8aff0f3888fdfe37db39650a4a29ba8b91e0e4080b39c"
+      "source_wikitext_sha256": "d5fb1000d0ba4ae8e1a8aff0f3888fdfe37db39650a4a29ba8b91e0e4080b39c",
+      "transformation": "仅格式转写"
     },
     {
       "order": 57,
@@ -1167,11 +1223,12 @@
       "path": "篇章/057-巽.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2441563",
       "text_han_characters": 197,
-      "sha256": "f613bc260800081609ec7f1f0b97994990a4e3958b0d40f6bedc06380353f973",
+      "sha256": "b644f847cd4d3cc3297bdd5c9de87d26c68f6ffd65918c709d14254dfcb7f301",
       "source_page": "周易/巽",
       "source_revision": 2441563,
       "source_revision_timestamp": "2024-07-29T08:22:53Z",
-      "source_wikitext_sha256": "79e94364967282b18bcfec37796580eae17c3af103d87a626fc1d959abced2fe"
+      "source_wikitext_sha256": "79e94364967282b18bcfec37796580eae17c3af103d87a626fc1d959abced2fe",
+      "transformation": "仅格式转写"
     },
     {
       "order": 58,
@@ -1179,11 +1236,12 @@
       "path": "篇章/058-兌.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2404993",
       "text_han_characters": 159,
-      "sha256": "a4b49f044d108af048baf7577e5b9ec455685d715ae4960bf7100b6d57d36c97",
+      "sha256": "e2d519491ab1a682799c8cf84a389fbc072017ac78e70609914cac2e7eb1a7ed",
       "source_page": "周易/兌",
       "source_revision": 2404993,
       "source_revision_timestamp": "2024-05-09T09:29:35Z",
-      "source_wikitext_sha256": "0ecebe0d070dcd3cdf07019a3f1d578cbcd4d1bb441c48b8536bb596e3e49850"
+      "source_wikitext_sha256": "0ecebe0d070dcd3cdf07019a3f1d578cbcd4d1bb441c48b8536bb596e3e49850",
+      "transformation": "仅格式转写"
     },
     {
       "order": 59,
@@ -1191,11 +1249,12 @@
       "path": "篇章/059-渙.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405023",
       "text_han_characters": 176,
-      "sha256": "7bcbd3acf088d0b6cafa877b475782bfff4fe51ae53aea7ad31f50d265167ce8",
+      "sha256": "8707daeb1991c2edb61333a35af2efcc0f03c9ef142c9b4e35a25abdc8280592",
       "source_page": "周易/渙",
       "source_revision": 2405023,
       "source_revision_timestamp": "2024-05-09T09:31:15Z",
-      "source_wikitext_sha256": "198a4a36895852ef5012d78d8b34adbbf463f22d094899c38f37e149e8094efc"
+      "source_wikitext_sha256": "198a4a36895852ef5012d78d8b34adbbf463f22d094899c38f37e149e8094efc",
+      "transformation": "仅格式转写"
     },
     {
       "order": 60,
@@ -1203,11 +1262,12 @@
       "path": "篇章/060-節.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405027",
       "text_han_characters": 180,
-      "sha256": "bf21f84aa849f10bba8356aca88a88bb5b1b1caa8f7bce5e63336c8482bbfa99",
+      "sha256": "f3cb4e4bf2bb2912c01bd1d53f7949a9efecb858338ebea2486031f69f12820d",
       "source_page": "周易/節",
       "source_revision": 2405027,
       "source_revision_timestamp": "2024-05-09T09:31:27Z",
-      "source_wikitext_sha256": "a017661595c6358621214894a41885648d4e2fe71af0d43ebd9f7b3f66517bcf"
+      "source_wikitext_sha256": "a017661595c6358621214894a41885648d4e2fe71af0d43ebd9f7b3f66517bcf",
+      "transformation": "仅格式转写"
     },
     {
       "order": 61,
@@ -1215,11 +1275,12 @@
       "path": "篇章/061-中孚.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2404990",
       "text_han_characters": 202,
-      "sha256": "cd2c8bf089da349e07e07e6e7ea759520f714d09f16d2bf3effc99198cff7e8a",
+      "sha256": "4315183010b4b01a41bb0d61ba9604c89fb85bfdab00b8b9f6f4b70860c5c8ff",
       "source_page": "周易/中孚",
       "source_revision": 2404990,
       "source_revision_timestamp": "2024-05-09T09:29:27Z",
-      "source_wikitext_sha256": "d61da365e37c5e41ce60429337ccbd3ef23acb10e5e1d4aee1f35c0f4c66c9be"
+      "source_wikitext_sha256": "d61da365e37c5e41ce60429337ccbd3ef23acb10e5e1d4aee1f35c0f4c66c9be",
+      "transformation": "仅格式转写"
     },
     {
       "order": 62,
@@ -1227,11 +1288,12 @@
       "path": "篇章/062-小過.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405007",
       "text_han_characters": 266,
-      "sha256": "d48dc820a15db70cba818adaefdfaef1b1835d0560089cc46efd31eaa1dbc881",
+      "sha256": "0918a049fd69b8881a5cf21c569ee3459f52f740f24fad84e23aacd79704d894",
       "source_page": "周易/小過",
       "source_revision": 2405007,
       "source_revision_timestamp": "2024-05-09T09:30:25Z",
-      "source_wikitext_sha256": "7ab47c03fc3e16fd20c550bdcc825ba2e666591a70da6b6800cb9c30ad1e3436"
+      "source_wikitext_sha256": "7ab47c03fc3e16fd20c550bdcc825ba2e666591a70da6b6800cb9c30ad1e3436",
+      "transformation": "仅格式转写"
     },
     {
       "order": 63,
@@ -1239,11 +1301,12 @@
       "path": "篇章/063-既濟.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2572417",
       "text_han_characters": 197,
-      "sha256": "c280bba7c5cf29b6688ddfd3e4b395b29f0e2e6d972312ae543412344eb0aac3",
+      "sha256": "4a33bbddc6a7b8f36a16948557a8a42265f26b9ac6c786d4307fa2498abaeb9e",
       "source_page": "周易/既濟",
       "source_revision": 2572417,
       "source_revision_timestamp": "2025-06-24T03:32:03Z",
-      "source_wikitext_sha256": "e9099522d8013177a9316c8fc499a10b80d50edd18b3401cbd79b2d31ab58d78"
+      "source_wikitext_sha256": "e9099522d8013177a9316c8fc499a10b80d50edd18b3401cbd79b2d31ab58d78",
+      "transformation": "仅格式转写"
     },
     {
       "order": 64,
@@ -1251,11 +1314,12 @@
       "path": "篇章/064-未濟.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2405020",
       "text_han_characters": 199,
-      "sha256": "27dd9b4b4b46bfcddd91f4783a2acc958f84b21d007135df2e3971be682abf8d",
+      "sha256": "e8976e28cc18937edf9ddc3c67d9c75b6b09da0c41746e4c2e0d7bd28b465977",
       "source_page": "周易/未濟",
       "source_revision": 2405020,
       "source_revision_timestamp": "2024-05-09T09:31:05Z",
-      "source_wikitext_sha256": "b12a283926d6a25db17f50c4b490fc417ecd66e8578b5bec757b7b6581e16911"
+      "source_wikitext_sha256": "b12a283926d6a25db17f50c4b490fc417ecd66e8578b5bec757b7b6581e16911",
+      "transformation": "仅格式转写"
     },
     {
       "order": 65,
@@ -1263,23 +1327,25 @@
       "path": "篇章/065-繫辭上.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2611140",
       "text_han_characters": 2376,
-      "sha256": "4c7407c83dc5cef8c0a99123c91c941d4a746bba8b254762767230bf6e495670",
+      "sha256": "a704ca038f1cac2e53a5629c69eac685573f92491f5b4fca1c1ee1e55162412a",
       "source_page": "易傳/繫辭上",
       "source_revision": 2611140,
       "source_revision_timestamp": "2025-11-02T05:36:59Z",
-      "source_wikitext_sha256": "9508017c95ea4c05b246d51343a2bc469a8c14d18df1c804396c29852c0dec61"
+      "source_wikitext_sha256": "9508017c95ea4c05b246d51343a2bc469a8c14d18df1c804396c29852c0dec61",
+      "transformation": "仅格式转写"
     },
     {
       "order": 66,
       "title": "繫辭下",
       "path": "篇章/066-繫辭下.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2611136",
-      "text_han_characters": 2165,
-      "sha256": "b57e005bbb819635306e2ecc99cd473625cb0c5642890f096c0983f9ee9a4427",
+      "text_han_characters": 2163,
+      "sha256": "365c8d69b4e30cf96892aa13ae525289fcea19876c6127417caea6f44ff23173",
       "source_page": "易傳/繫辭下",
       "source_revision": 2611136,
       "source_revision_timestamp": "2025-11-02T05:29:36Z",
-      "source_wikitext_sha256": "15c150d7c7c32ddd0cb859bdb01dd54d22d3e5fe9658ce65c93d6e7c5580b652"
+      "source_wikitext_sha256": "15c150d7c7c32ddd0cb859bdb01dd54d22d3e5fe9658ce65c93d6e7c5580b652",
+      "transformation": "仅格式转写"
     },
     {
       "order": 67,
@@ -1287,11 +1353,12 @@
       "path": "篇章/067-說卦.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2614055",
       "text_han_characters": 1000,
-      "sha256": "10f04f7ae1f63d79b3d2c7d7c3280edfcda7854734e2273991d1624b272c7612",
+      "sha256": "c9f24a5370323ce0f2c6af630120eac0222622d0baf47253e15f1c7ef8640c10",
       "source_page": "易傳/說卦",
       "source_revision": 2614055,
       "source_revision_timestamp": "2025-11-09T10:18:24Z",
-      "source_wikitext_sha256": "7da093e48ca915aa517c914541b9cf49f3d1b5afc5a10b70ae5fba460d0faab5"
+      "source_wikitext_sha256": "7da093e48ca915aa517c914541b9cf49f3d1b5afc5a10b70ae5fba460d0faab5",
+      "transformation": "仅格式转写"
     },
     {
       "order": 68,
@@ -1299,23 +1366,25 @@
       "path": "篇章/068-序卦.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2611127",
       "text_han_characters": 909,
-      "sha256": "7f48a16c691c2a583563c11d6a40e310970f7453501cd0ee0f78573f4dafc1b7",
+      "sha256": "cc66696da3de747ceea1faab70ac1f913ca58062df2f8cb563ce40eaa7e3de6b",
       "source_page": "易傳/序卦",
       "source_revision": 2611127,
       "source_revision_timestamp": "2025-11-02T04:54:19Z",
-      "source_wikitext_sha256": "ef7cf749e2ec0f36a49d95160e88d5bc0411f4ef10689c2b193065cb103c6bc1"
+      "source_wikitext_sha256": "ef7cf749e2ec0f36a49d95160e88d5bc0411f4ef10689c2b193065cb103c6bc1",
+      "transformation": "仅格式转写"
     },
     {
       "order": 69,
       "title": "雜卦",
       "path": "篇章/069-雜卦.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2611129",
-      "text_han_characters": 505,
-      "sha256": "5fd9322b9030ad41c1733884f4c5422871343a07cc8d492383f80fac2c685902",
+      "text_han_characters": 252,
+      "sha256": "fd8dc05c683cf4945fba848cad61e5b1f688af9bad1ca86a87da3ec46be479ef",
       "source_page": "易傳/雜卦",
       "source_revision": 2611129,
       "source_revision_timestamp": "2025-11-02T04:56:33Z",
-      "source_wikitext_sha256": "103297014c4250878a8248cc21c17b32a42e3e55fda21f3103862de50fcd55cb"
+      "source_wikitext_sha256": "103297014c4250878a8248cc21c17b32a42e3e55fda21f3103862de50fcd55cb",
+      "transformation": "截取正文至来源标记「==校詁版==」之前；其余保留于底本数据。具体分篇说明见来源页。"
     }
   ]
 }

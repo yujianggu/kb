@@ -1,0 +1,20 @@
+{
+  "id": "english.practice",
+  "title": "场景任务",
+  "summary": "通过介绍、改约、方案比较与提案练习综合运用；材料均为原创教学示例。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "README.md",
+    "detail": "教程.md",
+    "examples": "案例.md",
+    "sources": "../../来源与边界.md"
+  },
+  "requires": [],
+  "related": [
+    "english.assessment",
+    "english.speaking",
+    "english.writing"
+  ]
+}

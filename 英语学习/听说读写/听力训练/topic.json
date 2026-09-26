@@ -1,0 +1,16 @@
+{
+  "id": "english.listening",
+  "title": "听力训练",
+  "summary": "需要建立先听后看、抓信息与定位误听原因的日常听力流程时使用；原创脚本须配合搭档朗读或可靠 TTS，无音频时不能算听力测评。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "README.md",
+    "detail": "教程.md",
+    "examples": "案例.md",
+    "sources": "../../来源与边界.md"
+  },
+  "requires": [],
+  "related": ["english.pronunciation", "english.vocabulary", "english.speaking", "english.assessment", "english.practice"]
+}

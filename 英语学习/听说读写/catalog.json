@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "title": "听说读写",
+  "groups": [],
+  "topics": [
+    {
+      "id": "english.listening",
+      "title": "听力训练",
+      "summary": "需要建立先听后看、抓信息与定位误听原因的日常听力流程时使用；原创脚本须配合搭档朗读或可靠 TTS，无音频时不能算听力测评。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "英语学习/听说读写/听力训练/topic.json",
+      "brief": "英语学习/听说读写/听力训练/README.md"
+    },
+    {
+      "id": "english.reading",
+      "title": "阅读理解",
+      "summary": "需要从通知、说明或观点文本中取得信息并给出证据时使用，训练定位、拆句和有限推断；不把常识补入原文或把猜中答案当理解。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "英语学习/听说读写/阅读理解/topic.json",
+      "brief": "英语学习/听说读写/阅读理解/README.md"
+    },
+    {
+      "id": "english.speaking",
+      "title": "口语表达",
+      "summary": "需要把已知词句用于真实交流时使用，以信息差、追问、澄清和确认结果组织口语练习；单人背稿不能代替互动评估。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "英语学习/听说读写/口语表达/topic.json",
+      "brief": "英语学习/听说读写/口语表达/README.md"
+    },
+    {
+      "id": "english.writing",
+      "title": "写作表达",
+      "summary": "需要面向具体读者写清请求、解释或建议时使用，提供从事实清单到内容与语言修订的流程；不以复杂词汇或范文相似度替代任务完成。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "英语学习/听说读写/写作表达/topic.json",
+      "brief": "英语学习/听说读写/写作表达/README.md"
+    }
+  ]
+}

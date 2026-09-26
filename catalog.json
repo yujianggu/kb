@@ -31,6 +31,12 @@
       "title": "企业经营研究",
       "summary": "基于公开资料研究九家企业与机构的经营机制、真实案例和适用边界。",
       "catalog": "企业经营研究/catalog.json"
+    },
+    {
+      "id": "english",
+      "title": "英语学习",
+      "summary": "面向中文母语学习者的英语学习路线、大纲、专项教程与原创教学案例。",
+      "catalog": "英语学习/catalog.json"
     }
   ],
   "extensions": [

@@ -1,0 +1,16 @@
+{
+  "id": "english.writing",
+  "title": "写作表达",
+  "summary": "需要面向具体读者写清请求、解释或建议时使用，提供从事实清单到内容与语言修订的流程；不以复杂词汇或范文相似度替代任务完成。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "README.md",
+    "detail": "教程.md",
+    "examples": "案例.md",
+    "sources": "../../来源与边界.md"
+  },
+  "requires": [],
+  "related": ["english.grammar", "english.vocabulary", "english.reading", "english.assessment", "english.practice"]
+}

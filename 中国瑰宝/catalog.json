@@ -1,7 +1,12 @@
 {
   "version": 1,
   "title": "中国瑰宝",
-  "groups": [],
+  "groups": [
+    {
+      "title": "经典原文",
+      "catalog": "中国瑰宝/经典原文/catalog.json"
+    }
+  ],
   "topics": [
     {
       "id": "culture.buddhism",

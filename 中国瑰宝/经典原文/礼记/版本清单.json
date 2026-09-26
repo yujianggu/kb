@@ -2,7 +2,7 @@
   "book": "礼记",
   "retrieved_date": "2026-09-26",
   "coverage": "收录小戴《礼记》49篇，保留《大学》《中庸》在篇本中的原序。不是《大戴礼记》，也不包括《周礼》《仪礼》或整套注疏。保留底本字形；来源注记另列。",
-  "full_text_sha256": "94893a4ccd2e82465ac20fe81ebabcd81bce5cc53d3d671573d22d309ce40946",
+  "full_text_sha256": "dcea0e8a9c8408260edf2d0a876757cfc4927bd5be7075de3e5ea5f85139d76a",
   "sources": [
     {
       "label": "禮記/曲禮上",
@@ -359,7 +359,8 @@
       "source_page": "禮記/曲禮上",
       "source_revision": 2592817,
       "source_revision_timestamp": "2025-08-22T07:40:38Z",
-      "source_wikitext_sha256": "1eaab1800d570c548a267eea06463358d6904a804bc11e6abd4adf71ea6d246b"
+      "source_wikitext_sha256": "1eaab1800d570c548a267eea06463358d6904a804bc11e6abd4adf71ea6d246b",
+      "transformation": "仅格式转写"
     },
     {
       "order": 2,
@@ -371,7 +372,8 @@
       "source_page": "禮記/曲禮下",
       "source_revision": 2633691,
       "source_revision_timestamp": "2025-12-16T06:00:53Z",
-      "source_wikitext_sha256": "905b369162738e992a5082c37a83786b0aaf80fa6acbe66197f1425050d4f003"
+      "source_wikitext_sha256": "905b369162738e992a5082c37a83786b0aaf80fa6acbe66197f1425050d4f003",
+      "transformation": "仅格式转写"
     },
     {
       "order": 3,
@@ -383,19 +385,21 @@
       "source_page": "禮記/檀弓上",
       "source_revision": 2346509,
       "source_revision_timestamp": "2023-12-21T03:48:21Z",
-      "source_wikitext_sha256": "1e06991892a24c28fd517f2eed9c0b63dee1d4f4e5b3406559fd54aec138c763"
+      "source_wikitext_sha256": "1e06991892a24c28fd517f2eed9c0b63dee1d4f4e5b3406559fd54aec138c763",
+      "transformation": "仅格式转写"
     },
     {
       "order": 4,
       "title": "檀弓下",
       "path": "篇章/004-檀弓下.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2346897",
-      "text_han_characters": 5437,
-      "sha256": "b004a6e1a2c60d5f11e085e040cbfc74ca6b0126ba4d960b01cc234c3726e51c",
+      "text_han_characters": 5371,
+      "sha256": "3f3471d6f7dd9cfd18c7d6ec70c778242b7a77f372dab9c4aa219a014813c04e",
       "source_page": "禮記/檀弓下",
       "source_revision": 2346897,
       "source_revision_timestamp": "2023-12-21T13:29:35Z",
-      "source_wikitext_sha256": "c9ac8d67a37aaa7a3f5ad10a5b75d4cf0476d68388449b1ddb53010dd13f44fa"
+      "source_wikitext_sha256": "c9ac8d67a37aaa7a3f5ad10a5b75d4cf0476d68388449b1ddb53010dd13f44fa",
+      "transformation": "截取正文至来源标记「====他本====」之前；其余保留于底本数据。具体分篇说明见来源页。"
     },
     {
       "order": 5,
@@ -407,7 +411,8 @@
       "source_page": "禮記/王制",
       "source_revision": 2346513,
       "source_revision_timestamp": "2023-12-21T03:48:33Z",
-      "source_wikitext_sha256": "ff9fc53c9944186c80b140e6d04db822b4b44817ed54295dcf52702db1cb2c1d"
+      "source_wikitext_sha256": "ff9fc53c9944186c80b140e6d04db822b4b44817ed54295dcf52702db1cb2c1d",
+      "transformation": "仅格式转写"
     },
     {
       "order": 6,
@@ -415,11 +420,12 @@
       "path": "篇章/006-月令.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2346506",
       "text_han_characters": 5165,
-      "sha256": "bed9deaac3ce716dde320b4fb2ceda2d856d4139594d5f25118f9441fa1db916",
+      "sha256": "f7492f6d42c2d50ad064e6f957b0e687cd7a00bc0f1da4682b61e94f951aa742",
       "source_page": "禮記/月令",
       "source_revision": 2346506,
       "source_revision_timestamp": "2023-12-21T03:48:12Z",
-      "source_wikitext_sha256": "fa190776161f33ef86eba3d6e1209a9d8072f52185acf3dc5f3f329bf77fe5cb"
+      "source_wikitext_sha256": "fa190776161f33ef86eba3d6e1209a9d8072f52185acf3dc5f3f329bf77fe5cb",
+      "transformation": "仅格式转写"
     },
     {
       "order": 7,
@@ -431,7 +437,8 @@
       "source_page": "禮記/曾子問",
       "source_revision": 2346505,
       "source_revision_timestamp": "2023-12-21T03:48:10Z",
-      "source_wikitext_sha256": "fbc31842c800690ceee00d97669f5abd37c969ab6cbfd60be8681047dff564ae"
+      "source_wikitext_sha256": "fbc31842c800690ceee00d97669f5abd37c969ab6cbfd60be8681047dff564ae",
+      "transformation": "仅格式转写"
     },
     {
       "order": 8,
@@ -443,7 +450,8 @@
       "source_page": "禮記/文王世子",
       "source_revision": 2346501,
       "source_revision_timestamp": "2023-12-21T03:47:59Z",
-      "source_wikitext_sha256": "8cb7e0bc036c85344f8f2aaf4697a58f2d8e7f6ced937f045c8c7b7a3d5e6ff0"
+      "source_wikitext_sha256": "8cb7e0bc036c85344f8f2aaf4697a58f2d8e7f6ced937f045c8c7b7a3d5e6ff0",
+      "transformation": "仅格式转写"
     },
     {
       "order": 9,
@@ -455,7 +463,8 @@
       "source_page": "禮記/禮運",
       "source_revision": 2626644,
       "source_revision_timestamp": "2025-11-30T04:01:05Z",
-      "source_wikitext_sha256": "31a2da49ccb913c8a4fe0f109c7f94cd64303cb48ec93946348496f53272156f"
+      "source_wikitext_sha256": "31a2da49ccb913c8a4fe0f109c7f94cd64303cb48ec93946348496f53272156f",
+      "transformation": "仅格式转写"
     },
     {
       "order": 10,
@@ -467,7 +476,8 @@
       "source_page": "禮記/禮器",
       "source_revision": 2346517,
       "source_revision_timestamp": "2023-12-21T03:48:43Z",
-      "source_wikitext_sha256": "36614d00f80c37a0ea8918b4696813e8bf2cf81176359d7811bc535d8d8a83da"
+      "source_wikitext_sha256": "36614d00f80c37a0ea8918b4696813e8bf2cf81176359d7811bc535d8d8a83da",
+      "transformation": "仅格式转写"
     },
     {
       "order": 11,
@@ -479,7 +489,8 @@
       "source_page": "禮記/郊特牲",
       "source_revision": 2346522,
       "source_revision_timestamp": "2023-12-21T03:48:58Z",
-      "source_wikitext_sha256": "a111ea60975e8113ebf664d6bdbbbb1840d504e92acedb9df8ba11999a92adf2"
+      "source_wikitext_sha256": "a111ea60975e8113ebf664d6bdbbbb1840d504e92acedb9df8ba11999a92adf2",
+      "transformation": "仅格式转写"
     },
     {
       "order": 12,
@@ -491,7 +502,8 @@
       "source_page": "禮記/內則",
       "source_revision": 1649882,
       "source_revision_timestamp": "2019-08-03T00:24:19Z",
-      "source_wikitext_sha256": "64861395afc1798ecdafd2e65554be7e49c06054e083733693743272f3e00361"
+      "source_wikitext_sha256": "64861395afc1798ecdafd2e65554be7e49c06054e083733693743272f3e00361",
+      "transformation": "仅格式转写"
     },
     {
       "order": 13,
@@ -503,7 +515,8 @@
       "source_page": "禮記/明堂位",
       "source_revision": 2346502,
       "source_revision_timestamp": "2023-12-21T03:48:02Z",
-      "source_wikitext_sha256": "e726157090efaf06ddc446bf27d6b73d7e5ae5f3b83c92f1e13a7b337ce17bda"
+      "source_wikitext_sha256": "e726157090efaf06ddc446bf27d6b73d7e5ae5f3b83c92f1e13a7b337ce17bda",
+      "transformation": "仅格式转写"
     },
     {
       "order": 14,
@@ -515,7 +528,8 @@
       "source_page": "禮記/玉藻",
       "source_revision": 2346512,
       "source_revision_timestamp": "2023-12-21T03:48:30Z",
-      "source_wikitext_sha256": "1ec7149b2b7da2079abd84becdc2a5881a7c4b55d383852e31e5389c757ded6c"
+      "source_wikitext_sha256": "1ec7149b2b7da2079abd84becdc2a5881a7c4b55d383852e31e5389c757ded6c",
+      "transformation": "仅格式转写"
     },
     {
       "order": 15,
@@ -527,7 +541,8 @@
       "source_page": "禮記/喪服小記",
       "source_revision": 2346492,
       "source_revision_timestamp": "2023-12-21T03:47:36Z",
-      "source_wikitext_sha256": "4211c44e47d9149725a472975ab528096e4f31d94d2f8a6eceece423f8c1d1e5"
+      "source_wikitext_sha256": "4211c44e47d9149725a472975ab528096e4f31d94d2f8a6eceece423f8c1d1e5",
+      "transformation": "仅格式转写"
     },
     {
       "order": 16,
@@ -539,7 +554,8 @@
       "source_page": "禮記/大傳",
       "source_revision": 2633369,
       "source_revision_timestamp": "2025-12-15T11:22:03Z",
-      "source_wikitext_sha256": "2bb29104a2f9017ff8ba13de7502f6087627cd88343479a736bda7a44d56782f"
+      "source_wikitext_sha256": "2bb29104a2f9017ff8ba13de7502f6087627cd88343479a736bda7a44d56782f",
+      "transformation": "仅格式转写"
     },
     {
       "order": 17,
@@ -551,7 +567,8 @@
       "source_page": "禮記/少儀",
       "source_revision": 2346499,
       "source_revision_timestamp": "2023-12-21T03:47:54Z",
-      "source_wikitext_sha256": "0a160d58dc0a4723da98cf721fa433d9434d16a13c47df003d896b50098c29af"
+      "source_wikitext_sha256": "0a160d58dc0a4723da98cf721fa433d9434d16a13c47df003d896b50098c29af",
+      "transformation": "仅格式转写"
     },
     {
       "order": 18,
@@ -563,7 +580,8 @@
       "source_page": "禮記/學記",
       "source_revision": 2346497,
       "source_revision_timestamp": "2023-12-21T03:47:49Z",
-      "source_wikitext_sha256": "8f22407a18c778c04d78913ca351372fcf484c8a12ffb01c90d94599191c7adb"
+      "source_wikitext_sha256": "8f22407a18c778c04d78913ca351372fcf484c8a12ffb01c90d94599191c7adb",
+      "transformation": "仅格式转写"
     },
     {
       "order": 19,
@@ -571,11 +589,12 @@
       "path": "篇章/019-樂記.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2346508",
       "text_han_characters": 5259,
-      "sha256": "4900efed6409ad4f626d75db260054a1300908f1868ff05368f71e32220707cc",
+      "sha256": "4994c90622b97c5dfd428ebab67af2f2488df258c9a053b20f9b23e960e27e66",
       "source_page": "禮記/樂記",
       "source_revision": 2346508,
       "source_revision_timestamp": "2023-12-21T03:48:18Z",
-      "source_wikitext_sha256": "f5cd5d8d3975444b20aa647fcb4a34c122402ffa53dddd5e571533ed6919e42f"
+      "source_wikitext_sha256": "f5cd5d8d3975444b20aa647fcb4a34c122402ffa53dddd5e571533ed6919e42f",
+      "transformation": "仅格式转写"
     },
     {
       "order": 20,
@@ -587,7 +606,8 @@
       "source_page": "禮記/雜記上",
       "source_revision": 2346525,
       "source_revision_timestamp": "2023-12-21T03:49:06Z",
-      "source_wikitext_sha256": "03ace5d3c6ef1e1a0c5041decb58b18603893916e725b75f55828d0dae881803"
+      "source_wikitext_sha256": "03ace5d3c6ef1e1a0c5041decb58b18603893916e725b75f55828d0dae881803",
+      "transformation": "仅格式转写"
     },
     {
       "order": 21,
@@ -599,7 +619,8 @@
       "source_page": "禮記/雜記下",
       "source_revision": 2346526,
       "source_revision_timestamp": "2023-12-21T03:49:08Z",
-      "source_wikitext_sha256": "d27c7b5f6b828bcc0da2309d85870de7e51c22582b914ea56628ee30a35bd08f"
+      "source_wikitext_sha256": "d27c7b5f6b828bcc0da2309d85870de7e51c22582b914ea56628ee30a35bd08f",
+      "transformation": "仅格式转写"
     },
     {
       "order": 22,
@@ -611,7 +632,8 @@
       "source_page": "禮記/喪大記",
       "source_revision": 2346490,
       "source_revision_timestamp": "2023-12-21T03:47:31Z",
-      "source_wikitext_sha256": "41a3bf89243f229d90ed727305c60e4f930704da50a436e4ee9abe22e3faa990"
+      "source_wikitext_sha256": "41a3bf89243f229d90ed727305c60e4f930704da50a436e4ee9abe22e3faa990",
+      "transformation": "仅格式转写"
     },
     {
       "order": 23,
@@ -623,7 +645,8 @@
       "source_page": "禮記/祭法",
       "source_revision": 2372569,
       "source_revision_timestamp": "2024-03-12T10:30:59Z",
-      "source_wikitext_sha256": "8a5f90f90ee43fa8bc3e41e214554b9f46ef090162fe8dbc62b4380723d29256"
+      "source_wikitext_sha256": "8a5f90f90ee43fa8bc3e41e214554b9f46ef090162fe8dbc62b4380723d29256",
+      "transformation": "仅格式转写"
     },
     {
       "order": 24,
@@ -635,7 +658,8 @@
       "source_page": "禮記/祭義",
       "source_revision": 2626583,
       "source_revision_timestamp": "2025-11-29T14:06:33Z",
-      "source_wikitext_sha256": "ad046209fa5c5885bc24971dd6ee95eff93aec49cb682c90b47856277700a1ef"
+      "source_wikitext_sha256": "ad046209fa5c5885bc24971dd6ee95eff93aec49cb682c90b47856277700a1ef",
+      "transformation": "仅格式转写"
     },
     {
       "order": 25,
@@ -647,7 +671,8 @@
       "source_page": "禮記/祭統",
       "source_revision": 2346515,
       "source_revision_timestamp": "2023-12-21T03:48:38Z",
-      "source_wikitext_sha256": "f90c9e1f00321c6e611cc6ea952d65e2f7e839c3e591749bd91f0833dfea8e5d"
+      "source_wikitext_sha256": "f90c9e1f00321c6e611cc6ea952d65e2f7e839c3e591749bd91f0833dfea8e5d",
+      "transformation": "仅格式转写"
     },
     {
       "order": 26,
@@ -659,7 +684,8 @@
       "source_page": "禮記/經解",
       "source_revision": 2611189,
       "source_revision_timestamp": "2025-11-02T07:06:27Z",
-      "source_wikitext_sha256": "0e522acc65c60b0a121ef478a2787631845d21ff1dbc38e9e91bcc4578a73c52"
+      "source_wikitext_sha256": "0e522acc65c60b0a121ef478a2787631845d21ff1dbc38e9e91bcc4578a73c52",
+      "transformation": "仅格式转写"
     },
     {
       "order": 27,
@@ -671,7 +697,8 @@
       "source_page": "禮記/哀公問",
       "source_revision": 2611186,
       "source_revision_timestamp": "2025-11-02T07:04:41Z",
-      "source_wikitext_sha256": "a25d2aedc39081562693796e7ac9c99bde67bdc5f66fed31c99f93c571e65aae"
+      "source_wikitext_sha256": "a25d2aedc39081562693796e7ac9c99bde67bdc5f66fed31c99f93c571e65aae",
+      "transformation": "仅格式转写"
     },
     {
       "order": 28,
@@ -683,7 +710,8 @@
       "source_page": "禮記/仲尼燕居",
       "source_revision": 2611184,
       "source_revision_timestamp": "2025-11-02T07:03:07Z",
-      "source_wikitext_sha256": "f6780ee0d1d82624f1560ca888dadb80f08f79e134f6099ba6ef622ebfe620ad"
+      "source_wikitext_sha256": "f6780ee0d1d82624f1560ca888dadb80f08f79e134f6099ba6ef622ebfe620ad",
+      "transformation": "仅格式转写"
     },
     {
       "order": 29,
@@ -695,7 +723,8 @@
       "source_page": "禮記/孔子閒居",
       "source_revision": 2346496,
       "source_revision_timestamp": "2023-12-21T03:47:46Z",
-      "source_wikitext_sha256": "6afc0ece6c04a80c526a3232ae97f1ce52848af82d1f9f2bd977249cff26332d"
+      "source_wikitext_sha256": "6afc0ece6c04a80c526a3232ae97f1ce52848af82d1f9f2bd977249cff26332d",
+      "transformation": "仅格式转写"
     },
     {
       "order": 30,
@@ -707,7 +736,8 @@
       "source_page": "禮記/坊記",
       "source_revision": 2611197,
       "source_revision_timestamp": "2025-11-02T07:23:26Z",
-      "source_wikitext_sha256": "c24952e47564d7e9587f598cde038551b81233f0e3d370f1ed6b76e60c56178e"
+      "source_wikitext_sha256": "c24952e47564d7e9587f598cde038551b81233f0e3d370f1ed6b76e60c56178e",
+      "transformation": "仅格式转写"
     },
     {
       "order": 31,
@@ -719,7 +749,8 @@
       "source_page": "禮記/中庸",
       "source_revision": 2346484,
       "source_revision_timestamp": "2023-12-21T03:47:15Z",
-      "source_wikitext_sha256": "c2969c67e287437efaca4cec62a55d6a3a8fdf0708256079caaf94cd2eb9ec61"
+      "source_wikitext_sha256": "c2969c67e287437efaca4cec62a55d6a3a8fdf0708256079caaf94cd2eb9ec61",
+      "transformation": "仅格式转写"
     },
     {
       "order": 32,
@@ -731,7 +762,8 @@
       "source_page": "禮記/表記",
       "source_revision": 7904360,
       "source_revision_timestamp": "2026-06-28T01:26:40Z",
-      "source_wikitext_sha256": "deaa8b76e8dd01f67ea046d81554656e34fac0d3202525ed51bddd2289131c8e"
+      "source_wikitext_sha256": "deaa8b76e8dd01f67ea046d81554656e34fac0d3202525ed51bddd2289131c8e",
+      "transformation": "仅格式转写"
     },
     {
       "order": 33,
@@ -739,11 +771,12 @@
       "path": "篇章/033-緇衣.md",
       "source_url": "https://zh.wikisource.org/w/index.php?oldid=2346904",
       "text_han_characters": 2149,
-      "sha256": "ecfdc4a9f0182397cb83998a0a30c460a2f7b4194d402140964ab2be6888bc6d",
+      "sha256": "a58c3502995bd84c8b5c5966c484e4508ef2b42a8cc01c1080d7cfa4ad5a5a32",
       "source_page": "禮記/緇衣",
       "source_revision": 2346904,
       "source_revision_timestamp": "2023-12-21T13:33:19Z",
-      "source_wikitext_sha256": "35235f8c00ce1338fb2b46593af4cc4cf3f36b123a818b7ada140e6af5619296"
+      "source_wikitext_sha256": "35235f8c00ce1338fb2b46593af4cc4cf3f36b123a818b7ada140e6af5619296",
+      "transformation": "仅格式转写"
     },
     {
       "order": 34,
@@ -755,7 +788,8 @@
       "source_page": "禮記/奔喪",
       "source_revision": 2346495,
       "source_revision_timestamp": "2023-12-21T03:47:43Z",
-      "source_wikitext_sha256": "50e81ec4e08dcee6560205b0bd37831716f7bff65d976ac5c59c85b394453f09"
+      "source_wikitext_sha256": "50e81ec4e08dcee6560205b0bd37831716f7bff65d976ac5c59c85b394453f09",
+      "transformation": "仅格式转写"
     },
     {
       "order": 35,
@@ -767,7 +801,8 @@
       "source_page": "禮記/問喪",
       "source_revision": 2346489,
       "source_revision_timestamp": "2023-12-21T03:47:28Z",
-      "source_wikitext_sha256": "f52061ea97df625eae13c806264970c032fd8c9152dc8105bbef760b798ca368"
+      "source_wikitext_sha256": "f52061ea97df625eae13c806264970c032fd8c9152dc8105bbef760b798ca368",
+      "transformation": "仅格式转写"
     },
     {
       "order": 36,
@@ -779,7 +814,8 @@
       "source_page": "禮記/服問",
       "source_revision": 2346507,
       "source_revision_timestamp": "2023-12-21T03:48:15Z",
-      "source_wikitext_sha256": "74228c613397700568bc64c6605242dfb98e8cc1158b823bbb51066a1d0b8628"
+      "source_wikitext_sha256": "74228c613397700568bc64c6605242dfb98e8cc1158b823bbb51066a1d0b8628",
+      "transformation": "仅格式转写"
     },
     {
       "order": 37,
@@ -791,7 +827,8 @@
       "source_page": "禮記/間傳",
       "source_revision": 2346524,
       "source_revision_timestamp": "2023-12-21T03:49:03Z",
-      "source_wikitext_sha256": "384e7334afa91ab1fa1c14decf5a429b5e95abaec8d72e10c37c1054ff0e890b"
+      "source_wikitext_sha256": "384e7334afa91ab1fa1c14decf5a429b5e95abaec8d72e10c37c1054ff0e890b",
+      "transformation": "仅格式转写"
     },
     {
       "order": 38,
@@ -803,7 +840,8 @@
       "source_page": "禮記/三年問",
       "source_revision": 2346483,
       "source_revision_timestamp": "2023-12-21T03:47:12Z",
-      "source_wikitext_sha256": "f2fbee8e95b3b8a49430017c11838da785ecda0f46cc9e7c1cbe0c0a0818f53e"
+      "source_wikitext_sha256": "f2fbee8e95b3b8a49430017c11838da785ecda0f46cc9e7c1cbe0c0a0818f53e",
+      "transformation": "仅格式转写"
     },
     {
       "order": 39,
@@ -815,7 +853,8 @@
       "source_page": "禮記/深衣",
       "source_revision": 2346510,
       "source_revision_timestamp": "2023-12-21T03:48:25Z",
-      "source_wikitext_sha256": "81d071231f3ad798f8f41c2899a6e54de83f56e76a78831240dbe45f20edf81e"
+      "source_wikitext_sha256": "81d071231f3ad798f8f41c2899a6e54de83f56e76a78831240dbe45f20edf81e",
+      "transformation": "仅格式转写"
     },
     {
       "order": 40,
@@ -827,7 +866,8 @@
       "source_page": "禮記/投壺",
       "source_revision": 2346500,
       "source_revision_timestamp": "2023-12-21T03:47:56Z",
-      "source_wikitext_sha256": "1bedb8a4ebb7b25f90173e6d09b046d12d10ca49c3425054f425650c493a3831"
+      "source_wikitext_sha256": "1bedb8a4ebb7b25f90173e6d09b046d12d10ca49c3425054f425650c493a3831",
+      "transformation": "仅格式转写"
     },
     {
       "order": 41,
@@ -839,7 +879,8 @@
       "source_page": "禮記/儒行",
       "source_revision": 2346486,
       "source_revision_timestamp": "2023-12-21T03:47:20Z",
-      "source_wikitext_sha256": "aa14fa5952973ce853d6ff27cffc8667f06c672a03b19b459df5caba0bb91ecb"
+      "source_wikitext_sha256": "aa14fa5952973ce853d6ff27cffc8667f06c672a03b19b459df5caba0bb91ecb",
+      "transformation": "仅格式转写"
     },
     {
       "order": 42,
@@ -851,7 +892,8 @@
       "source_page": "禮記/大學",
       "source_revision": 2809685,
       "source_revision_timestamp": "2026-04-27T03:23:09Z",
-      "source_wikitext_sha256": "1719851e4755b278788b59587727d05666c47833fefa4bfa6f4c0949f7f052d3"
+      "source_wikitext_sha256": "1719851e4755b278788b59587727d05666c47833fefa4bfa6f4c0949f7f052d3",
+      "transformation": "仅格式转写"
     },
     {
       "order": 43,
@@ -863,7 +905,8 @@
       "source_page": "禮記/冠義",
       "source_revision": 2346487,
       "source_revision_timestamp": "2023-12-21T03:47:23Z",
-      "source_wikitext_sha256": "481c9df833fc903ace69ebb6d176588deea811c1e4942d1c8f1e46efa3c65202"
+      "source_wikitext_sha256": "481c9df833fc903ace69ebb6d176588deea811c1e4942d1c8f1e46efa3c65202",
+      "transformation": "仅格式转写"
     },
     {
       "order": 44,
@@ -875,7 +918,8 @@
       "source_page": "禮記/昏義",
       "source_revision": 2346503,
       "source_revision_timestamp": "2023-12-21T03:48:04Z",
-      "source_wikitext_sha256": "8dbdc3668fe7d33d3b7299408897a881c4c95f1cd15e52f5c2fa9ab5a2066cfb"
+      "source_wikitext_sha256": "8dbdc3668fe7d33d3b7299408897a881c4c95f1cd15e52f5c2fa9ab5a2066cfb",
+      "transformation": "仅格式转写"
     },
     {
       "order": 45,
@@ -887,7 +931,8 @@
       "source_page": "禮記/鄉飲酒義",
       "source_revision": 2346523,
       "source_revision_timestamp": "2023-12-21T03:49:01Z",
-      "source_wikitext_sha256": "c41c273a7f6a5abe613fbd2ae7bd12b1225375a727f8fbda30a950db2195d075"
+      "source_wikitext_sha256": "c41c273a7f6a5abe613fbd2ae7bd12b1225375a727f8fbda30a950db2195d075",
+      "transformation": "仅格式转写"
     },
     {
       "order": 46,
@@ -899,7 +944,8 @@
       "source_page": "禮記/射義",
       "source_revision": 2346498,
       "source_revision_timestamp": "2023-12-21T03:47:51Z",
-      "source_wikitext_sha256": "6f06c6ca68efa6a106b4321c0efc9e4893c506e987ac3de817fed594336db545"
+      "source_wikitext_sha256": "6f06c6ca68efa6a106b4321c0efc9e4893c506e987ac3de817fed594336db545",
+      "transformation": "仅格式转写"
     },
     {
       "order": 47,
@@ -911,7 +957,8 @@
       "source_page": "禮記/燕義",
       "source_revision": 2346511,
       "source_revision_timestamp": "2023-12-21T03:48:27Z",
-      "source_wikitext_sha256": "df35a56764ae6d6e1be123b5f525addf80586ddbb6aa39368707f0f77a931b9a"
+      "source_wikitext_sha256": "df35a56764ae6d6e1be123b5f525addf80586ddbb6aa39368707f0f77a931b9a",
+      "transformation": "仅格式转写"
     },
     {
       "order": 48,
@@ -923,7 +970,8 @@
       "source_page": "禮記/聘義",
       "source_revision": 2346520,
       "source_revision_timestamp": "2023-12-21T03:48:53Z",
-      "source_wikitext_sha256": "8fb93a3fa0ad8c5d1d83c04ba8498436940d619a932840702418163b99315595"
+      "source_wikitext_sha256": "8fb93a3fa0ad8c5d1d83c04ba8498436940d619a932840702418163b99315595",
+      "transformation": "仅格式转写"
     },
     {
       "order": 49,
@@ -935,7 +983,8 @@
       "source_page": "禮記/喪服四制",
       "source_revision": 2346491,
       "source_revision_timestamp": "2023-12-21T03:47:33Z",
-      "source_wikitext_sha256": "3369621d684ac67d81cf779a5dbf896e41dc87679f18b81c1428f0d3afbe1ff5"
+      "source_wikitext_sha256": "3369621d684ac67d81cf779a5dbf896e41dc87679f18b81c1428f0d3afbe1ff5",
+      "transformation": "仅格式转写"
     }
   ]
 }

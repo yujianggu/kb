@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "title": "基础能力",
+  "groups": [],
+  "topics": [
+    {
+      "id": "english.grammar",
+      "title": "语法与句子",
+      "summary": "从完整句骨架到时态语境、冠词可数性与从句，建立按问题类型修改的流程；适合规则会认但表达不稳的学习者。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "英语学习/基础能力/语法与句子/topic.json",
+      "brief": "英语学习/基础能力/语法与句子/README.md"
+    },
+    {
+      "id": "english.pronunciation",
+      "title": "语音与发音",
+      "summary": "用词典音频、真实听辨和录音复核提升可懂度，练音素、词重音、句重音与意群；文字分析不能代替声音任务。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "英语学习/基础能力/语音与发音/topic.json",
+      "brief": "英语学习/基础能力/语音与发音/README.md"
+    },
+    {
+      "id": "english.vocabulary",
+      "title": "词汇与语块",
+      "summary": "从当前任务选词，结合义项、词性、搭配和发音制作语境卡，用主动回忆与新场景表达检验会用程度；不以词表数量代替能力。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "英语学习/基础能力/词汇与语块/topic.json",
+      "brief": "英语学习/基础能力/词汇与语块/README.md"
+    }
+  ]
+}

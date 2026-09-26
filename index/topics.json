@@ -45,6 +45,46 @@
       "metadata": "中国瑰宝/中华历史/topic.json",
       "sha256": "3286788d67b3dda15ae9d9f38e0f9f63623437047e6b7cf58673d924e3ffed1a"
     },
+    "culture.classics.chunqiu": {
+      "metadata": "中国瑰宝/经典原文/春秋/topic.json",
+      "sha256": "f5f05c43beddec0ad73fb2edd267078918674270e98d549e32c395eca3a1225b"
+    },
+    "culture.classics.daxue": {
+      "metadata": "中国瑰宝/经典原文/大学/topic.json",
+      "sha256": "24b46a039dc6884bd7e2cc5ef0abe4562553205a505b335845bd8e1dbf2295bc"
+    },
+    "culture.classics.liji": {
+      "metadata": "中国瑰宝/经典原文/礼记/topic.json",
+      "sha256": "8dbb876349fa86d54aa68cfe015615ab590219eda7bbce606b9a24af2dff26ab"
+    },
+    "culture.classics.lunyu": {
+      "metadata": "中国瑰宝/经典原文/论语/topic.json",
+      "sha256": "5a929ddbf1c68ba94bbbc1726d7cc59c7e612e084731b9d09d691b544c930880"
+    },
+    "culture.classics.mengzi": {
+      "metadata": "中国瑰宝/经典原文/孟子/topic.json",
+      "sha256": "3426d30f05efb169e25d5b0ecd9e222019ee20de6dd5d5ca8bc73451f3e074ee"
+    },
+    "culture.classics.shangshu": {
+      "metadata": "中国瑰宝/经典原文/尚书/topic.json",
+      "sha256": "7fae19af84eec34fc883939c21e5a1cc9fd9530a38f4c3d5645748b2950fe430"
+    },
+    "culture.classics.shiji": {
+      "metadata": "中国瑰宝/经典原文/史记/topic.json",
+      "sha256": "9c925bcffd0d8e6ff4a3531b58a9d90dd2d76b77e182f677c69be19efe82dadb"
+    },
+    "culture.classics.shijing": {
+      "metadata": "中国瑰宝/经典原文/诗经/topic.json",
+      "sha256": "0a0f8e660b8e5769524ef8f94d3b28d5677a29cd6e5287dd244bf31f027cadf9"
+    },
+    "culture.classics.zhongyong": {
+      "metadata": "中国瑰宝/经典原文/中庸/topic.json",
+      "sha256": "ae8b90095aa080690c2342ae95480c74d4410b3766dca03e2d60463e26fcf63c"
+    },
+    "culture.classics.zhouyi": {
+      "metadata": "中国瑰宝/经典原文/周易/topic.json",
+      "sha256": "1c722647ae62032964f4b63061d81aa2a3fe23c40e4de1599e526306d8232c41"
+    },
     "culture.comparison": {
       "metadata": "中国瑰宝/三家比较/topic.json",
       "sha256": "58ab0787f920b942ca266e269ca3bab9387969a8efcb4d81b0ff3fc72e1824fd"
@@ -56,6 +96,46 @@
     "culture.daoism": {
       "metadata": "中国瑰宝/道家/topic.json",
       "sha256": "f2a9aa0335355f7278bd3d600e45c935bf4d6ee0e4a120129f7aeefb770e7883"
+    },
+    "english.assessment": {
+      "metadata": "英语学习/学习规划/诊断与测评/topic.json",
+      "sha256": "9a69595a0a6abb069182870b6decbafbea0039965d8bc6f6b6a61a0e2d72b4aa"
+    },
+    "english.grammar": {
+      "metadata": "英语学习/基础能力/语法与句子/topic.json",
+      "sha256": "52560d0499ea16b7e42683e76023f3b5cce895f0cd61afa2c90e6e1a30f22ffb"
+    },
+    "english.listening": {
+      "metadata": "英语学习/听说读写/听力训练/topic.json",
+      "sha256": "2c7884d58b8aa21bbefa0ea3280c46d9d9a1f9a9dddf711edbb3ec7850300c4d"
+    },
+    "english.practice": {
+      "metadata": "英语学习/综合实践/场景任务/topic.json",
+      "sha256": "a688b14e20e350fc7928ab99a8e2447076c4b51532c41a386aa6bbc18134059b"
+    },
+    "english.pronunciation": {
+      "metadata": "英语学习/基础能力/语音与发音/topic.json",
+      "sha256": "ed95a8766b3c75a9e3ec72d97f981f7f7b9832d81688e5a29eb3b48a8f7037c0"
+    },
+    "english.reading": {
+      "metadata": "英语学习/听说读写/阅读理解/topic.json",
+      "sha256": "3523ebcb51645859a36cd3c851fdae9b684a328591ff0687189573f3ac2f511a"
+    },
+    "english.roadmap": {
+      "metadata": "英语学习/学习规划/学习路线/topic.json",
+      "sha256": "19fdb9b5ba5f221ee297e35272af90b3d947e37eaa52e88850b5c689dc1b5974"
+    },
+    "english.speaking": {
+      "metadata": "英语学习/听说读写/口语表达/topic.json",
+      "sha256": "94be4990e7cc1c04e8ed221f571a15d80dfcc7d62755fb59a7f4b612dd0e4cdc"
+    },
+    "english.vocabulary": {
+      "metadata": "英语学习/基础能力/词汇与语块/topic.json",
+      "sha256": "37b945a3fe20cbd14a09a4746f3fdbc81e5421501260d1ddb04a48caab61b43b"
+    },
+    "english.writing": {
+      "metadata": "英语学习/听说读写/写作表达/topic.json",
+      "sha256": "f1f0b82a6366cad2ceb4180db5a112f4eb0308270c1557dc8ad56ba90a40c003"
     },
     "ontology.ev-quality": {
       "metadata": "本体/行业案例/新能源车质量安全域本体模型/topic.json",
