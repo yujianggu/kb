@@ -4,7 +4,7 @@
 
 `kb.json` 注册领域与可选扩展；每个主题的 `topic.json` 是元数据唯一来源。`catalog.json` 和 `index/topics.json` 由工具生成，避免多个地方手工维护同一摘要。
 
-现有主题正文和链接保留。新增主题在合适分类下建立独立目录，提供元数据、短摘要及正文。不要把公司事实放入通用主题，也不要因教学例子完整就将其登记为行业标准。
+现有主题正文和链接保留。新增主题在合适分类下建立独立目录，提供元数据、短摘要及正文。不要把公司事实写成通用规律，也不要因教学例子完整就将其登记为行业标准。
 
 ## 元数据约定
 
@@ -13,7 +13,7 @@
 - `id`：小写字母、数字、点、下划线、连字符组成；建立后不随目录或标题变化。
 - `title`、`summary`：标题和一两句用途说明。索引摘要回答“何时选它”，正文摘要回答“它是什么、何时不适用”。
 - `kind`：concept、method、template、example、reference。
-- `scope`：general、industry、company；公司主题应在独立扩展中维护。
+- `scope`：general、industry、company；企业公开资料研究可登记为 company 并进入主库；企业内部资料继续在独立扩展中维护。
 - `status`：general、reference、example；不在本次迁移中提高内容证据等级。
 - `entrypoints`：至少 brief、detail；按需要提供 examples、sources、assets，值为相对元数据目录的文件路径。
 - `requires`：缺少后会影响理解或应用的必需主题 ID；保持最小集合。

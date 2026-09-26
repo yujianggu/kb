@@ -1,0 +1,2826 @@
+{
+  "book": "诗经",
+  "retrieved_date": "2026-09-26",
+  "coverage": "收录305篇有辞诗歌全文，并在目录末单列6篇笙诗存目；共311个条目。笙诗无传世歌词，不属于本次下载遗漏。诗歌采用来源简体字形；不收毛传、郑笺及历代注疏。",
+  "full_text_sha256": "f8088c5b7f816ce19ce8d8e89951c70841b62027c8c2aded1e43961db168822d",
+  "sources": [
+    {
+      "label": "诗经电子文本",
+      "url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "commit": "b8594f81a89752241442f2ce267d6f66f96704ee",
+      "download_sha256": "3c7ca54d59424542ada99adfcc85420287fbbd5c8a511e9baf705cb2b04051e7"
+    },
+    {
+      "label": "笙诗存目参考目录",
+      "url": "https://zh.wikisource.org/wiki/詩經",
+      "revision": 8738202
+    }
+  ],
+  "chapters": [
+    {
+      "order": 1,
+      "title": "关雎",
+      "path": "篇章/001-关雎.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 80,
+      "sha256": "d79173644d30bfe641bc97a7ed63b4c68b86ade360adb98c9bddbdd0230e519b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 2,
+      "title": "葛覃",
+      "path": "篇章/002-葛覃.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "2583383629a9958af168a546959f4396316b0bd5b44e5db70952bb231b0035e5",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 3,
+      "title": "卷耳",
+      "path": "篇章/003-卷耳.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 70,
+      "sha256": "d82485d881a344b17a5b775baeaad2e1c37adf68a63b669c393e9348669c7b1a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 4,
+      "title": "樛木",
+      "path": "篇章/004-樛木.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "a4480c3efb2dca465742e5b3440908b641ed88eaed85f290bd59bf8c4a9a2a0c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 5,
+      "title": "螽斯",
+      "path": "篇章/005-螽斯.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 39,
+      "sha256": "be62d24d892412da82df36d9f9baf674adb6e7db699628d4143628a053121499",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 6,
+      "title": "桃夭",
+      "path": "篇章/006-桃夭.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "33332a9b049502c2e4d26e1ae9ce74430ab52b53112d6855e73372c596af70dd",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 7,
+      "title": "兔罝",
+      "path": "篇章/007-兔罝.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "0513c37f8c73bd2791625d76ea57dd62f169be8e11e7fe699b25c57798a2ef27",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 8,
+      "title": "芣苡",
+      "path": "篇章/008-芣苡.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "fe18d4af7d157914383e22629c3bbe9cd849a2b523132b4f014c090029527d61",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 9,
+      "title": "汉广",
+      "path": "篇章/009-汉广.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 96,
+      "sha256": "601c7c3fe048bed2348b5767db413a9e3a72154b0981f93188a73a63cac87eef",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 10,
+      "title": "汝坟",
+      "path": "篇章/010-汝坟.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "a2a8fe38f70a240bf31b61119e9a035851027c04709b44df2b90de829712d9d3",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 11,
+      "title": "麟之趾",
+      "path": "篇章/011-麟之趾.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 33,
+      "sha256": "431c37984ee123c1c5b52c2939e7fbcbeb45c54934cbffc1c6d3fbac966cb03f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 12,
+      "title": "鹊巢",
+      "path": "篇章/012-鹊巢.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "a04d54fc609269bac76081791566e388795f1b5c0ceab0a7731dbdebc9b69c06",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 13,
+      "title": "采蘩",
+      "path": "篇章/013-采蘩.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "cef27c551c2cff220d2a860f8b90a05a0131cbdb4917d8ffbb68183f5b3e0163",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 14,
+      "title": "草虫",
+      "path": "篇章/014-草虫.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 84,
+      "sha256": "f84a3c18b959ba48964ca26d9fdc28936c493e25f84fbb74b0d38212ede2327e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 15,
+      "title": "采蘋",
+      "path": "篇章/015-采蘋.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "dbce5d843442d335fed49d954f32670b5711bad0537df860b81dd4568d55accf",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 16,
+      "title": "甘棠",
+      "path": "篇章/016-甘棠.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 36,
+      "sha256": "d9e8c7c3ad6ff80263356ce49ee1f187c77ca57fe5b2d421ad7bd4fa7dc45699",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 17,
+      "title": "行露",
+      "path": "篇章/017-行露.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 68,
+      "sha256": "bd246b81c1c86eb3ad4ccee18d7267ecdb3d7c24859694da8b32f36f297a452f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 18,
+      "title": "羔羊",
+      "path": "篇章/018-羔羊.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "6023ecde9536055d49f270b3a6ed3184a858289840178acb589c082cfb64fab1",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 19,
+      "title": "殷其雷",
+      "path": "篇章/019-殷其雷.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "8845c4977548e11ebba9103fdc1b2269d6a7f0590b99ffd114d924782e519329",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 20,
+      "title": "摽有梅",
+      "path": "篇章/020-摽有梅.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 45,
+      "sha256": "a722ca3cfeebf13bc703059ff256445a8a30b10f8ec7913cb749d9945b1a861b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 21,
+      "title": "小星",
+      "path": "篇章/021-小星.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 40,
+      "sha256": "8dc6fedbb115ec6ef9799ed357d438b11df51b50dbeba962a8f247037a0fc036",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 22,
+      "title": "江有汜",
+      "path": "篇章/022-江有汜.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "639d929f5a5b02b9d6de1bcb8a17f64ec3ec42c0dd942a7e48c9f2763da0950f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 23,
+      "title": "野有死麕",
+      "path": "篇章/023-野有死麕.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 47,
+      "sha256": "7c2fcc5dfed460f1619c931e68d3709be43e1504d860e16d4bb6d1072cae16c6",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 24,
+      "title": "何彼襛矣",
+      "path": "篇章/024-何彼襛矣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "1b186bc426590f9d31b23ac419388350e750dc87b592b0710ab7e8928c146e2a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 25,
+      "title": "驺虞",
+      "path": "篇章/025-驺虞.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 26,
+      "sha256": "5e19e5e652259a646fa0e38c62f8e188c69049c4ba31b3b00b1b444c5b153550",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 26,
+      "title": "柏舟",
+      "path": "篇章/026-柏舟.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 120,
+      "sha256": "e4eb41e6fa0edd812843940321b1422236be6b78895bc1b69c4674bd0a24b203",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 27,
+      "title": "绿衣",
+      "path": "篇章/027-绿衣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "d7d9ea1008e99111a55fc06b1df055ff4a87e90f10a1afed2fd3fde635b56212",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 28,
+      "title": "燕燕",
+      "path": "篇章/028-燕燕.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 96,
+      "sha256": "114e76421a52649e7c33d555623b101f493f68f004f77a2d075414e3816a8c98",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 29,
+      "title": "日月",
+      "path": "篇章/029-日月.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 99,
+      "sha256": "3785d7fbf6a1ded004aaadc426b17c4e5caa389ec26df520e3c7abbbf4dc12fc",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 30,
+      "title": "终风",
+      "path": "篇章/030-终风.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "839b585e9d9eb44621151ac4d8cc31f5e47e1b0da1c3905dcf0ceeae488851a1",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 31,
+      "title": "击鼓",
+      "path": "篇章/031-击鼓.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 80,
+      "sha256": "0775bdecbc9110e6bfea4bfb862a0b6b669b2000d0f3fd4fb14b651ebc381db1",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 32,
+      "title": "凯风",
+      "path": "篇章/032-凯风.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "447e2d103ca45f54742439d47eaceea822da0c9f78e809d1bfdee0f9dc6afc1e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 33,
+      "title": "雄雉",
+      "path": "篇章/033-雄雉.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "799615e0e7442170aee3a9910f7d34bc5b7889d93313db9b6ac79f194ab0ff3f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 34,
+      "title": "匏有苦叶",
+      "path": "篇章/034-匏有苦叶.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "64378e1a8a04dcb52f803d7825724927825b7a549f35fc7f124a9008c4cc8783",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 35,
+      "title": "谷风",
+      "path": "篇章/035-谷风.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 194,
+      "sha256": "168da485ec716b3c30e6b400cbb67471d75463796ebcac96f4f120812b4e10df",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 36,
+      "title": "式微",
+      "path": "篇章/036-式微.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "95cc47e1ca22bf56325cdc65b33613fe2a701de72f87cceee350b8eb31aadc19",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 37,
+      "title": "旄丘",
+      "path": "篇章/037-旄丘.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 66,
+      "sha256": "cb1076cede25d239eda4f306f801e3ed47a9f169b85e74296b433f94ba93d7c0",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 38,
+      "title": "简兮",
+      "path": "篇章/038-简兮.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 71,
+      "sha256": "cf432e31749775807d5c8d14abfe750bdea70af411063aa5500a6065f0c1efbe",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 39,
+      "title": "泉水",
+      "path": "篇章/039-泉水.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 97,
+      "sha256": "bb6239d714714f9ce8dcb3d8fc116a9f4726da9d8c2c800c1cfa2939d2784a92",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 40,
+      "title": "北门",
+      "path": "篇章/040-北门.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 89,
+      "sha256": "78935432b984fed98423ed43a2ab0946fe8cd27d125ceee99421ae087d0bd22b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 41,
+      "title": "北风",
+      "path": "篇章/041-北风.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "bc87bbd0bfdb0ee309b2c300319196e8219c936da4496e41d6ba534265b73364",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 42,
+      "title": "静女",
+      "path": "篇章/042-静女.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 50,
+      "sha256": "ffcee983c1022175c6eb48b47f1bdb809ce61a8f3d3f21821e2fb4e943910191",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 43,
+      "title": "新台",
+      "path": "篇章/043-新台.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "bbd7e604a359441a0d4314121b50f4b6bdfaad14ee649353152935d8f0685f24",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 44,
+      "title": "二子乘舟",
+      "path": "篇章/044-二子乘舟.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "5b188355962bb354ad8ad88907e7ff18873d82426c36f492ca343855347ea202",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 45,
+      "title": "柏舟",
+      "path": "篇章/045-柏舟.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 58,
+      "sha256": "61ddae29b31f71da2cd11fa1c37c285a7d6d2e52b47106a56e6c7ad3063ac4c5",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 46,
+      "title": "墙有茨",
+      "path": "篇章/046-墙有茨.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 69,
+      "sha256": "8a5f6f48c5738e62144c85ee2b5a2d1618aa3fb0c1dc6b9e76ec695783336740",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 47,
+      "title": "君子偕老",
+      "path": "篇章/047-君子偕老.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 101,
+      "sha256": "2781bda54d013d7d3ec508897deab62429082b15eac3b85fa31ddfe30ed67fd7",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 48,
+      "title": "桑中",
+      "path": "篇章/048-桑中.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 99,
+      "sha256": "d688766e520589f2fee883beb47c2bd4b13a6da6fddb1e9815155cc4818db04a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 49,
+      "title": "鹑之奔奔",
+      "path": "篇章/049-鹑之奔奔.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "aa33f186a3bb785eebc48bfd747c5dff4ecd265ec79c3a2bd5e5208bdc02881f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 50,
+      "title": "定之方中",
+      "path": "篇章/050-定之方中.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 84,
+      "sha256": "96eb61978a226763ed1a741e79c4eae3c6a52501bbf7f5364f1a27f297b90324",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 51,
+      "title": "蝃蝀",
+      "path": "篇章/051-蝃蝀.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 51,
+      "sha256": "3a457e3402dcc196d4ed7c5085ce00181b9c9c137b0af04ff98e18b0dbf7ae63",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 52,
+      "title": "相鼠",
+      "path": "篇章/052-相鼠.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "e140f9753f597f119603808e48c93d69c59de26fa3cd7a7cbf11afffe92b01b5",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 53,
+      "title": "干旄",
+      "path": "篇章/053-干旄.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "8cee7bd52c20ef8a15eb867219ec2568728324857aa33fcb6187a648ad3bb8c8",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 54,
+      "title": "载驰",
+      "path": "篇章/054-载驰.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 113,
+      "sha256": "de77c2d13eeb50c00a557bbf87745d904a89eefb97cadbbe52986bab5c50f088",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 55,
+      "title": "淇奥",
+      "path": "篇章/055-淇奥.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 110,
+      "sha256": "5ffb501e3dfe839520d0fbb3714c7272d0d4a16830e4928c541ef67e7594d106",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 56,
+      "title": "考槃",
+      "path": "篇章/056-考槃.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "59ff5fe6399e35fccc4e0e6598e8d0715cb93d8c12d0652e2f8b91ffc42b4dee",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 57,
+      "title": "硕人",
+      "path": "篇章/057-硕人.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 112,
+      "sha256": "50f675519952f06a1b90ef550d664e5a07168543e010694db67e3ad3928bfbad",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 58,
+      "title": "氓",
+      "path": "篇章/058-氓.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 240,
+      "sha256": "8a6346d12fd1a49d1dc2ba69e5234e73af5a186db7deaa229dbea64602e871a7",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 59,
+      "title": "竹竿",
+      "path": "篇章/059-竹竿.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 65,
+      "sha256": "0f1c1b138905d8d79ee63432d09bd9c5ded54411fd24d68545da648c79848341",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 60,
+      "title": "芄兰",
+      "path": "篇章/060-芄兰.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "0b07d509be79e09d2fd9583e210ce4fe568bc73afdb2998bd8f5c645057ad551",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 61,
+      "title": "河广",
+      "path": "篇章/061-河广.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "3d8f8fc88688559c36e1874d79b083108b84a4c59cf1ef4583398deabb2e0708",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 62,
+      "title": "伯兮",
+      "path": "篇章/062-伯兮.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "034dcd4678bca95c1378746a27db32fb376d721531b9e50092b9551f0db72b82",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 63,
+      "title": "有狐",
+      "path": "篇章/063-有狐.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "666e1f607dd0d0ad9c5f6db566aec0ef2bb62b1bce466f17c8e4ec0a250f2c0f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 64,
+      "title": "木瓜",
+      "path": "篇章/064-木瓜.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 54,
+      "sha256": "8dce109fe6674ebf3128d2cd64752ba6ced93651ba8bd5a1db20d0d4a65b656f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 65,
+      "title": "黍离",
+      "path": "篇章/065-黍离.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 117,
+      "sha256": "9ce178112a83b96e8f452894444d90fcc5e041679075149d312870788b7a7051",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 66,
+      "title": "君子于役",
+      "path": "篇章/066-君子于役.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "b5f1628d42eea25fad450a861b86acb77d19ef75c30cd523d9fd96ffc7a6922a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 67,
+      "title": "君子阳阳",
+      "path": "篇章/067-君子阳阳.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "7f0623c0255a66f802b7ba6de056374b0e9ead8d35376bebc06c6161bbcfed3a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 68,
+      "title": "扬之水",
+      "path": "篇章/068-扬之水.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 78,
+      "sha256": "4f7b2bce6c5cc9f190e0dccbb3db601f70009a85063c3a13e5eda715116ac1f7",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 69,
+      "title": "中谷有蓷",
+      "path": "篇章/069-中谷有蓷.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 76,
+      "sha256": "8dea20daab7b1c3e4f71fe6609f5c61617620b5e4ebc34c87eb380e721b1f275",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 70,
+      "title": "兔爰",
+      "path": "篇章/070-兔爰.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 81,
+      "sha256": "d0484ff4766096e6b3770d6a5eb693b4eab85d94b06f9bd6215885779cb73595",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 71,
+      "title": "葛藟",
+      "path": "篇章/071-葛藟.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "dc3707e68a7ccadd417223c0dc978294b044a41763ca33d3d072ad73e15cf0fb",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 72,
+      "title": "采葛",
+      "path": "篇章/072-采葛.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 36,
+      "sha256": "2def1da0fa817c7960f372c16ad0eee9dc09e7f87fa69e2900674924b53535b4",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 73,
+      "title": "大车",
+      "path": "篇章/073-大车.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "b427a99e735f53a1e347ccd56c361006d0dec4ce911237e872bb7f38e123bdab",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 74,
+      "title": "丘中有麻",
+      "path": "篇章/074-丘中有麻.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 49,
+      "sha256": "35bc84ca89c3c8311dac86c1719aa1b5952901446dc284211b89f9b15b4039de",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 75,
+      "title": "缁衣",
+      "path": "篇章/075-缁衣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 69,
+      "sha256": "c986ef8a671cfe51078f517f8dce5f8bb2e180e092bf7b9e9b7e7f9b45a6fa45",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 76,
+      "title": "将仲子",
+      "path": "篇章/076-将仲子.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 100,
+      "sha256": "d97ff0e7bf588b58a881cd59153eb6b21a923abb9d8aa7fba02c0164c5b0a209",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 77,
+      "title": "叔于田",
+      "path": "篇章/077-叔于田.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 57,
+      "sha256": "4bc3aa89d434c855e79d1a87416ec49257af47820bf7f81b824d66c0b6211c15",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 78,
+      "title": "大叔于田",
+      "path": "篇章/078-大叔于田.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 111,
+      "sha256": "0e01e2315016b0f6648016dc81ea55b31f00e0d2b95ed533150125935c9cb56c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 79,
+      "title": "清人",
+      "path": "篇章/079-清人.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 50,
+      "sha256": "96c981b50780c401916f6ef43c4a6f4d929dea9b71a6499e8ecef615443d1977",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 80,
+      "title": "羔裘",
+      "path": "篇章/080-羔裘.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "350e18dd28ef667f32463081337f6849d184f748de188fbfb4ce2c9131f895f5",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 81,
+      "title": "遵大路",
+      "path": "篇章/081-遵大路.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 36,
+      "sha256": "9761a766ea237b08194405231ea54011ddcbe8983a3c828480286b46e39f0f6f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 82,
+      "title": "女曰鸡鸣",
+      "path": "篇章/082-女曰鸡鸣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 78,
+      "sha256": "b52de0eff0304ca345f739af05e3a1e95af71f395a66aa51740ce9027e724344",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 83,
+      "title": "有女同车",
+      "path": "篇章/083-有女同车.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "b99e69401d728f86d675205d0d88c87510c9070cb66dd1771216cd1f37740206",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 84,
+      "title": "山有扶苏",
+      "path": "篇章/084-山有扶苏.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "cc48b3ee4f60748fb0e1c00134be0715f0d2d0a05b5aca9bb9ec1cf8d4dd1c1b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 85,
+      "title": "萚兮",
+      "path": "篇章/085-萚兮.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "2fbc891a5c3f7ef7708cc216254949af7e569d0abb0958e1796dadeae440f6b7",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 86,
+      "title": "狡童",
+      "path": "篇章/086-狡童.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 38,
+      "sha256": "719d90b5e40dcb84b07f3c8275d2c7c7df6af684341191372b344f07a2170aae",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 87,
+      "title": "褰裳",
+      "path": "篇章/087-褰裳.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 44,
+      "sha256": "d2f2472f6b1f055ccf9dfdac2b70d6daefe07918f8e7b20ec4718ed622a58fef",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 88,
+      "title": "丰",
+      "path": "篇章/088-丰.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 60,
+      "sha256": "7c206220273548145fafcfd8b3dae796e540317592d5e773296f1da7fbfcfe1b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 89,
+      "title": "东门之墠",
+      "path": "篇章/089-东门之墠.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "9256a6e7ccce7a1cce45bffa1bc518f4a3aa8672d62d2ad9d80c63eee564765b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 90,
+      "title": "风雨",
+      "path": "篇章/090-风雨.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "33e1d32815fe5f6d4b9dfa337d713fef034659c5e71246a34f6ee308753cd1b8",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 91,
+      "title": "子衿",
+      "path": "篇章/091-子衿.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 49,
+      "sha256": "2165f7ecc6b41429800bf4bc2b3a3bb73a74062ee6ceeb39202bb21fd8e10fa0",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 92,
+      "title": "扬之水",
+      "path": "篇章/092-扬之水.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "ec0e75119c30eefc72d073bbc5bcff3ddcd462f84b9ae48fc177cd8bdd15a07c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 93,
+      "title": "出其东门",
+      "path": "篇章/093-出其东门.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "f4b52e38bd557b8d0b674f3a8db1e5061f846939fea7df12c336d1d2ce33adb5",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 94,
+      "title": "野有蔓草",
+      "path": "篇章/094-野有蔓草.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "f18697f769b6c2eeca273dd32f13c63ff061e96450fc1be0130308c4e10793ee",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 95,
+      "title": "溱洧",
+      "path": "篇章/095-溱洧.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 92,
+      "sha256": "d21762baf642a37cd7b119231a0c2b0e538df31dc77fd8aa328d6aae1b532b0f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 96,
+      "title": "鸡鸣",
+      "path": "篇章/096-鸡鸣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 51,
+      "sha256": "0669260abb3a9566457231205737ffec5013f55fc6c4dafbc75370171e2662a2",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 97,
+      "title": "还",
+      "path": "篇章/097-还.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 69,
+      "sha256": "f899447522785958998f7f598a150ecec609c621b1c173a93dcb2685755921ab",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 98,
+      "title": "着",
+      "path": "篇章/098-着.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 57,
+      "sha256": "96baf792ced4f54ec769d642575be6139db23693c413846be4b1743ae3711695",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 99,
+      "title": "东方之日",
+      "path": "篇章/099-东方之日.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 42,
+      "sha256": "858c503510c1f05baa9f73618bc7ba81459d6572b608171ac9cb0834448bb0c5",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 100,
+      "title": "东方未明",
+      "path": "篇章/100-东方未明.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "208d57b129a0cc92445279fd0c908c5659f2545ba0e0b4e3f08fe789b094f0cc",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 101,
+      "title": "南山",
+      "path": "篇章/101-南山.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 100,
+      "sha256": "16915bc855c645fcd486e9915b7e69f3c18813cb261f51f1c5f7e72cdd4899b7",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 102,
+      "title": "甫田",
+      "path": "篇章/102-甫田.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "98b0d8f7bb38af8cbce3c2e665bc0f5578643347eed9b0399109f0c31b1bf8c8",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 103,
+      "title": "卢令",
+      "path": "篇章/103-卢令.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 24,
+      "sha256": "fd8212abe204b45c968b5d2aafce206f80e01eaeb29260ac06e6c8b078a7de10",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 104,
+      "title": "敝笱",
+      "path": "篇章/104-敝笱.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "a2bdb74caa122e8ea4aa0315b3b1b04086094e91401d5bfa0963c3e1daeb338c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 105,
+      "title": "载驱",
+      "path": "篇章/105-载驱.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "404bc9778752e2681219e66269eebdd7a0c3e2d335e4932af0bb56611ccb10c5",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 106,
+      "title": "猗嗟",
+      "path": "篇章/106-猗嗟.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "37cd77312d4aa2d99f87d2d54d52a894708deec983670b6b1c42c9630599aa6a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 107,
+      "title": "葛屦",
+      "path": "篇章/107-葛屦.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 44,
+      "sha256": "9780c6f758af10a3662563a5f68ec3ebca8790883e985b0bc7235e34121e656d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 108,
+      "title": "汾沮洳",
+      "path": "篇章/108-汾沮洳.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 69,
+      "sha256": "94d2acc7e124e45cd5cd50c382a0a5470a22e30a1760da69af6c8998dd79207b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 109,
+      "title": "园有桃",
+      "path": "篇章/109-园有桃.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 97,
+      "sha256": "9adb777b4e1ba73077312d9c09ac3165ff52a7ad89927a14ab648695d2e9f5c4",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 110,
+      "title": "陟岵",
+      "path": "篇章/110-陟岵.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 81,
+      "sha256": "b56084dc48ce0a974a957df3cbae5bd54c803e0aa6157d79654e80f67ea77d25",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 111,
+      "title": "十亩之间",
+      "path": "篇章/111-十亩之间.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 30,
+      "sha256": "cece520109b50487c539849c3b602597b9e4b39fac8715366daa275bf21f5ffc",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 112,
+      "title": "伐檀",
+      "path": "篇章/112-伐檀.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 144,
+      "sha256": "b903ec0d8b2778d31d0d07990ce8259d6c7c770a5f77eab1e4a2644033b72d8e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 113,
+      "title": "硕鼠",
+      "path": "篇章/113-硕鼠.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 96,
+      "sha256": "f525e4f0623548de4279448fd7763fadd2fcf9d6c97cad636b33e7a332c271ba",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 114,
+      "title": "蟋蟀",
+      "path": "篇章/114-蟋蟀.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 96,
+      "sha256": "51ef29b7a062db43102044109db5de99728732138021e07a5cd1a9971c9c34b5",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 115,
+      "title": "山有枢",
+      "path": "篇章/115-山有枢.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 91,
+      "sha256": "5bab880299fd212986ab9f99cbb65b77c72c61240797f611728ba98419586b0a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 116,
+      "title": "扬之水",
+      "path": "篇章/116-扬之水.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 62,
+      "sha256": "ac7d1055fa6c69e795879ad1e98d99c6a02ccce234588155e0a948577222ff05",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 117,
+      "title": "椒聊",
+      "path": "篇章/117-椒聊.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 44,
+      "sha256": "e92a58378e1f249dc495bed6a2d0c9209e7cf2875223df7e23fc8effa356fe5b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 118,
+      "title": "绸缪",
+      "path": "篇章/118-绸缪.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 75,
+      "sha256": "82f70ce22592907b10ccaeec4c3eb221fab7e39e9cbf48c01d37eee4dccf3bc3",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 119,
+      "title": "杕杜",
+      "path": "篇章/119-杕杜.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 74,
+      "sha256": "1ef269153e90e52fe7df3064988a3e3633752c9a15b559f3170aff4cc83b23ed",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 120,
+      "title": "羔裘",
+      "path": "篇章/120-羔裘.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 34,
+      "sha256": "e77c348eaad582dec6a878fe1462bcb26734e878b64126cd15cef45fc581282e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 121,
+      "title": "鸨羽",
+      "path": "篇章/121-鸨羽.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 87,
+      "sha256": "4c9fd6e681ffc8b86b7b4ab5d0925c9f9318f38706af8f6e990c52e106e031d3",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 122,
+      "title": "无衣",
+      "path": "篇章/122-无衣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 30,
+      "sha256": "7bd5b2935c97a247b96d292f54d77e757797c8bd292436a78ce9204638a5fe70",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 123,
+      "title": "有杕之杜",
+      "path": "篇章/123-有杕之杜.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "b63b541d7c40bbd5e96bfc09353e573cff7b6eae0d58c2c0ffa745f6fded6699",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 124,
+      "title": "葛生",
+      "path": "篇章/124-葛生.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 76,
+      "sha256": "4529c0776daddf4644020b3fabd0f1f5d09c2dadab39995e8abec2f74d1db32e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 125,
+      "title": "采苓",
+      "path": "篇章/125-采苓.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 93,
+      "sha256": "5a570100b457e64f73f2563ea990ed6070552f8f0ba2b96d965fa5f1139d3ca8",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 126,
+      "title": "车邻",
+      "path": "篇章/126-车邻.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 60,
+      "sha256": "03575dd58b6dedca750b8e03607fa5be7cdde8b4dbd2bba552be53342e5bbdae",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 127,
+      "title": "驷驖",
+      "path": "篇章/127-驷驖.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "cf09fbef0e4cf46b462409dba65a30f069f625cea806b1e1cc2df0b58eddc559",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 128,
+      "title": "小戎",
+      "path": "篇章/128-小戎.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 121,
+      "sha256": "e19adfe78919b10a201fd49bec80a279fcd5f5570dafd699a6c1cbe6f45adcac",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 129,
+      "title": "蒹葭",
+      "path": "篇章/129-蒹葭.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 99,
+      "sha256": "4ed12aeb14a1e99409a2415f66c80594834780d90fcd1731d6f56a69845ff08b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 130,
+      "title": "终南",
+      "path": "篇章/130-终南.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "53e43865311687690c3e1b95441730a282ee90c942ac955306afe9edccb1ecb1",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 131,
+      "title": "黄鸟",
+      "path": "篇章/131-黄鸟.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 138,
+      "sha256": "abf766ebeae9f13f801a755364223bfa9e5e0cdfa3f585ea9c5168574aec77b2",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 132,
+      "title": "晨风",
+      "path": "篇章/132-晨风.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "0bcd63f49f98869f1bc9823e41da526060dcec1fdd62d1486d02e1b8f9f93b2f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 133,
+      "title": "无衣",
+      "path": "篇章/133-无衣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 60,
+      "sha256": "6885f58a804c2a221ddf9d7c51936199768b8c72f816a67a04ec8ffe0509c27d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 134,
+      "title": "渭阳",
+      "path": "篇章/134-渭阳.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "e5d4812bee063b5823f7b2f95f0ae72254ee2f8e01fdc02cad0231e8b376b63a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 135,
+      "title": "权舆",
+      "path": "篇章/135-权舆.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 40,
+      "sha256": "09fcdc7bf032be78882173d20746a37c4e7385a09bc65d7e7e45809eb4c264e1",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 136,
+      "title": "宛丘",
+      "path": "篇章/136-宛丘.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 49,
+      "sha256": "42dfc2cedecc95880e299e9f118d5a2773446cfce0cd5f011be9be7fd35dbc5b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 137,
+      "title": "东门之枌",
+      "path": "篇章/137-东门之枌.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "8be530081ee2e9e62986453a4a63582c11cb6cfd274045f6e01ba2e53bb500a2",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 138,
+      "title": "衡门",
+      "path": "篇章/138-衡门.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "577c5ce8bb26fa20b2369922b4c16e87ce6c1c99292f6c04c86dd9d77aa9a521",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 139,
+      "title": "东门之池",
+      "path": "篇章/139-东门之池.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "db5c5cf2d336aa47687e68c431d975184f65fa77ac47f5f9a28a63b4c92660e5",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 140,
+      "title": "东门之杨",
+      "path": "篇章/140-东门之杨.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "c5391c96ca11c653379cd119645a250174d67d0eb7a8d144462667ee2796397f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 141,
+      "title": "墓门",
+      "path": "篇章/141-墓门.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "0c8fcb877c493061f06ce18f0aa3e6b44fa7e8f1892578f4d15e0df7747906fc",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 142,
+      "title": "防有鹊巢",
+      "path": "篇章/142-防有鹊巢.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "5374fe70c6e87dc33fb0b902d20e8c37f5d8bf66f17f65773b29e41f1e16e8de",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 143,
+      "title": "月出",
+      "path": "篇章/143-月出.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "016afeb893c6de05bcfa8522fed4030cab402de0681191a14695b8189a2eb5b8",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 144,
+      "title": "株林",
+      "path": "篇章/144-株林.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 31,
+      "sha256": "bd5bd8b8f0c03e53f71fcec3c272d970d2d092f2957d367c3d7f72a0583777b0",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 145,
+      "title": "泽陂",
+      "path": "篇章/145-泽陂.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "d55387cd96f9ea81a191d9cdc97bc3d71a811feeaae348ee4fb538f5a001642c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 146,
+      "title": "羔裘",
+      "path": "篇章/146-羔裘.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "0d246346e13286c151770179bfcb6d5890c82b32d1c812684c8d94d067b3e96f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 147,
+      "title": "素冠",
+      "path": "篇章/147-素冠.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 47,
+      "sha256": "0a0805b3abf199bf18ddf14564ac950b4e5382b0b85fff15f6a63bb869bb8152",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 148,
+      "title": "隰有苌楚",
+      "path": "篇章/148-隰有苌楚.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 51,
+      "sha256": "1e70ca189262dc53d8b85ac9abb33b6c8a816c1d84139e4769d6f317c13f5792",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 149,
+      "title": "匪风",
+      "path": "篇章/149-匪风.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "8593c0fbb6fcdfd97ad142c6452713ec623a6c8279e79427f8388e3856ec2ac7",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 150,
+      "title": "蜉蝣",
+      "path": "篇章/150-蜉蝣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "9b8c60769d90b73b3a32f368f0a0f688d8b0ed53c33f18c86c1a17935dbf8bf1",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 151,
+      "title": "候人",
+      "path": "篇章/151-候人.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "3f748ce464daeedc32b7b921d10f52250ad061afc747c58332e6310e0012d476",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 152,
+      "title": "鳲鸠",
+      "path": "篇章/152-鳲鸠.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 96,
+      "sha256": "6c857ae95f58f099465ad1dd5ebd4f4498325dba15c926f3cd9c2558d0c65b0c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 153,
+      "title": "下泉",
+      "path": "篇章/153-下泉.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "f82d3b91d3b733e5943bd10b1de3c8bdbf220cfdea53eabbf3ec079f4b98aa35",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 154,
+      "title": "七月",
+      "path": "篇章/154-七月.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 383,
+      "sha256": "6d60e6ed1573cd603204b27c403181e8ec2f00cfe5662de62ccd8c7b9860ea4a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 155,
+      "title": "鸱鸮",
+      "path": "篇章/155-鸱鸮.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 87,
+      "sha256": "de4d523385406c2dfd759aec25602da3dc8fc9040f58772b98c535b170ff13ce",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 156,
+      "title": "东山",
+      "path": "篇章/156-东山.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 193,
+      "sha256": "08f00a698f90b8321d3a42f1ca2b79b0f9b5358046e073b36ff66635664b6e68",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 157,
+      "title": "破斧",
+      "path": "篇章/157-破斧.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "201cf68c330cf3438a0e6b746facb7a9469d0b3c2feacacb2133e7d137f3ce3a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 158,
+      "title": "伐柯",
+      "path": "篇章/158-伐柯.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "f2e6dec87300370f005fe7e2ece1f54a4bceb5c26f983c90e9631061d661f400",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 159,
+      "title": "九罭",
+      "path": "篇章/159-九罭.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 56,
+      "sha256": "16a5e3a0b215c1d70ce5d25af715f1c2034da2a94becee914579064f6ed55fc7",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 160,
+      "title": "狼跋",
+      "path": "篇章/160-狼跋.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "663cb14d2b400633f48714e3313a43815f476da717cd453d57b8d26b28c961f6",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 161,
+      "title": "鹿鸣",
+      "path": "篇章/161-鹿鸣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 103,
+      "sha256": "2af40066faf51298d7c13bb1ef5903ffa25df74581b306c507167f9c2df8390f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 162,
+      "title": "四牡",
+      "path": "篇章/162-四牡.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 100,
+      "sha256": "1638450d6873ae786bd6e6a997d3df81af483a8beebf1b58cd9a78ebd5087030",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 163,
+      "title": "皇皇者华",
+      "path": "篇章/163-皇皇者华.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 80,
+      "sha256": "294cff14cf25af8372cff22a4c7bf435102d9d5fe2b349fc6e4f588708b697d1",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 164,
+      "title": "棠棣",
+      "path": "篇章/164-棠棣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 129,
+      "sha256": "448a2f855ed0a4a4fc88a91a685389aa423da7eb0a80d19c160f2cfab79c160a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 165,
+      "title": "伐木",
+      "path": "篇章/165-伐木.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 144,
+      "sha256": "7251d7decab03221c831e38235c98e46752298bc9618c37f1631f67840baa225",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 166,
+      "title": "天保",
+      "path": "篇章/166-天保.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 148,
+      "sha256": "c831e443c81a916f467bee7848767f9f44be3e40bd0f3c279ca3a8b8b48d4d5c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 167,
+      "title": "采薇",
+      "path": "篇章/167-采薇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 192,
+      "sha256": "27e570b440670a924ec4cca460abb895f2734b0a379d3d9b53d6f44791ae858f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 168,
+      "title": "出车",
+      "path": "篇章/168-出车.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 192,
+      "sha256": "76510e564d0194f01da28b45bd6c9061470c52216eadc185839cb06ad77d2108",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 169,
+      "title": "杕杜",
+      "path": "篇章/169-杕杜.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 112,
+      "sha256": "38486abd6468487cd341b5bfc13e4f37d5556c86ebe0f7e7d9662341daf1b6fe",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 170,
+      "title": "鱼丽",
+      "path": "篇章/170-鱼丽.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 63,
+      "sha256": "57e8c162697cd897328ddc4ae8131f834565dfddccf10f07ce65fbdf149f31b9",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 171,
+      "title": "南有嘉鱼",
+      "path": "篇章/171-南有嘉鱼.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "2749f2ee1ac5d30722c04067bf0fe334c7c5bdd5ee95723c6476acf26c2d4924",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 172,
+      "title": "南山有台",
+      "path": "篇章/172-南山有台.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 120,
+      "sha256": "693608f374d7d6ae4eb516b7598d326e8c1a3b2eacd8b990677aa0cd991da57e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 173,
+      "title": "蓼萧",
+      "path": "篇章/173-蓼萧.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 98,
+      "sha256": "96ab31ca42fd92cb9252539cae04ceceddc2452b0408ee9bcd39ac11bf1a6d53",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 174,
+      "title": "湛露",
+      "path": "篇章/174-湛露.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "c57454f32a31df8dc39e5900258d1322c27d34e384c9733f9a5b712699ca58ef",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 175,
+      "title": "彤弓",
+      "path": "篇章/175-彤弓.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "d68358fbc88ec71c78fc2baf131047c67c5b8ca7ce8a6c9595a54b2373955f10",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 176,
+      "title": "菁菁者莪",
+      "path": "篇章/176-菁菁者莪.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "70b15333295f81e3f8f0e6cb16045ba398be7ec13cd63a3fd09d34aaf43d1630",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 177,
+      "title": "六月",
+      "path": "篇章/177-六月.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 192,
+      "sha256": "42ca31b89ffe61118d645e7abc9b6d97bb64c4d9b14bab2acb8c1d4efb73c1ba",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 178,
+      "title": "采芑",
+      "path": "篇章/178-采芑.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 192,
+      "sha256": "b21610f9f40f9b2b5b504288b39f101da7131524c333b0ea97ee32d78e567c83",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 179,
+      "title": "车攻",
+      "path": "篇章/179-车攻.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 128,
+      "sha256": "bcaa94f83c8c035904728f18406f7663f477ac967293b5bf72c84c65c059208e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 180,
+      "title": "吉日",
+      "path": "篇章/180-吉日.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 96,
+      "sha256": "5596b60696e9783ed1c370de92724c161d16528c903ece38adb9d638ed965f2d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 181,
+      "title": "鸿雁",
+      "path": "篇章/181-鸿雁.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "274d3ff65de8a2f27ab86a2aa06065a61a4c2932a8fa81a50c2a25c2c9c84a7d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 182,
+      "title": "庭燎",
+      "path": "篇章/182-庭燎.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 57,
+      "sha256": "8f7cc06cfd3fc6e45c84cf6a5b46f994f754c3c322dc67fbd08f317c49ef5c80",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 183,
+      "title": "沔水",
+      "path": "篇章/183-沔水.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 88,
+      "sha256": "4510cede77492d2d3fb40e53f13669f9beca6a2c1724dcc6a5d2e4786c90f8e4",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 184,
+      "title": "鹤鸣",
+      "path": "篇章/184-鹤鸣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 74,
+      "sha256": "3e93208249044e20609ceb47ea7ce933c423b8eaf2d9d45db87c4052096b47c1",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 185,
+      "title": "祈父",
+      "path": "篇章/185-祈父.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 47,
+      "sha256": "5e5a196bb2057e0ba1556b8f8a101358fa27a2ec18f7214df3d18583f4feb09e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 186,
+      "title": "白驹",
+      "path": "篇章/186-白驹.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 97,
+      "sha256": "ac2d04f3e795bb7b03aefa69e20fb0bb344f386f587d02c8f714a0ead6320a65",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 187,
+      "title": "黄鸟",
+      "path": "篇章/187-黄鸟.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 84,
+      "sha256": "de162d41da490b4ce1d2c2857888d0fb78ec5df5df0a81b0762d98cf68b69c23",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 188,
+      "title": "我行其野",
+      "path": "篇章/188-我行其野.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "0de40aa9f2cb1127a2632f651fed0a6cacea4fa95aeb7268ee63f07f59b51fd7",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 189,
+      "title": "斯干",
+      "path": "篇章/189-斯干.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 214,
+      "sha256": "30d6e895c97560fe41f17cf399ab64708502696cf3f78680b9cccffb11b39bf4",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 190,
+      "title": "无羊",
+      "path": "篇章/190-无羊.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 130,
+      "sha256": "88a5a01b29deaf3d8b9d16933953e8ea1950194ba1c3dd4bf9ee01658daafb8c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 191,
+      "title": "节南山",
+      "path": "篇章/191-节南山.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 258,
+      "sha256": "613e826858dec979e0d20979831adc75219e803e2ed59f55c1aaab7791972d5a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 192,
+      "title": "正月",
+      "path": "篇章/192-正月.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 382,
+      "sha256": "5cbbe08cc9beead60e2151639a910d0a21964d9f0cf87188b45b00473e468449",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 193,
+      "title": "十月之交",
+      "path": "篇章/193-十月之交.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 263,
+      "sha256": "d7ef8b02474093ef564aeecf5fad789ba63db4e60ddb063c3ade906aafb77bd0",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 194,
+      "title": "雨无正",
+      "path": "篇章/194-雨无正.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 224,
+      "sha256": "c2107c82b0f9c0c2d23152161d6b985a30aa43567bf8f16001a8b713e8ade261",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 195,
+      "title": "小旻",
+      "path": "篇章/195-小旻.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 194,
+      "sha256": "bef7ed8f9bdf0c88e96f858db8b52470c46ddfef9d800b5b70924f99e5f1faa5",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 196,
+      "title": "小宛",
+      "path": "篇章/196-小宛.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 145,
+      "sha256": "fa671607dad510b96acf9b53862d80d47d69c68794ecd5eac5399dc83ff10aaa",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 197,
+      "title": "小弁",
+      "path": "篇章/197-小弁.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 258,
+      "sha256": "00b3321bf4346e522d0dd5883437df129f30040bcca5d5a55fc53e06f3856606",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 198,
+      "title": "巧言",
+      "path": "篇章/198-巧言.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 193,
+      "sha256": "c37abfe39abacc387cd743a1678337581f8d72c7d0d9be1d14cfa0611aed7314",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 199,
+      "title": "何人斯",
+      "path": "篇章/199-何人斯.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 193,
+      "sha256": "12a86f3a21a46e7f640def933001cd5020b801d5712b8d00f487cebf6c4d5a73",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 200,
+      "title": "巷伯",
+      "path": "篇章/200-巷伯.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 140,
+      "sha256": "d72e56145d7af4c45264a53afa8c4d4d2dc30ef34ab616bd271be80185b7a811",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 201,
+      "title": "谷风",
+      "path": "篇章/201-谷风.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "6ae799378f0cbc91e991012bd26a75a53edfa023c4f1e50f884bc477cb5e6274",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 202,
+      "title": "蓼莪",
+      "path": "篇章/202-蓼莪.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 130,
+      "sha256": "da8dcd724feaa6e6d0d582b61b6385b438713175a0f3db7d57a34aca8ae400e3",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 203,
+      "title": "大东",
+      "path": "篇章/203-大东.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 227,
+      "sha256": "8cc684b9c1a6194a50431bdfa1abe1aa6dc8f34db001c089f9ac977334abf412",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 204,
+      "title": "四月",
+      "path": "篇章/204-四月.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 128,
+      "sha256": "02cc3bf2488be9f98df495d29cd690e8e2b0310840e71bad1449f78509c67156",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 205,
+      "title": "北山",
+      "path": "篇章/205-北山.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 133,
+      "sha256": "2c57de83b3aad0abd5c582cafb2a44cd1d6c79f61bf8a96fded207ef4ed79610",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 206,
+      "title": "无将大车",
+      "path": "篇章/206-无将大车.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "066d59f2e63045de9acf67e0607e34e4a35ba8518bea1046fef63411db3ca124",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 207,
+      "title": "小明",
+      "path": "篇章/207-小明.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 192,
+      "sha256": "03341d229027b02224de02fdc11fb5d96aa9bc95e0366bcc37802db855ce67a6",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 208,
+      "title": "鼓钟",
+      "path": "篇章/208-鼓钟.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 80,
+      "sha256": "4a472edaf95d341dcf7e380c80c36b1fc1aa262008f03a7f330140964ea030fe",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 209,
+      "title": "楚茨",
+      "path": "篇章/209-楚茨.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 288,
+      "sha256": "f8e9a619bfcde4faf22c3ddd8418ad70b9a6a5289ca8a5de92acc37f7ca6205c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 210,
+      "title": "信南山",
+      "path": "篇章/210-信南山.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 145,
+      "sha256": "a5747718a9a57cfef1cc2f8247f3be4dd74a86cba8159a0ceed891ac8e6934a2",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 211,
+      "title": "甫田",
+      "path": "篇章/211-甫田.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 164,
+      "sha256": "975073d4a4cfa380f05671f01699cc18496c47474abf962b2d1801812bc0f4fb",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 212,
+      "title": "大田",
+      "path": "篇章/212-大田.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 140,
+      "sha256": "35c70c09ddc2b38d03663ea579f82937c0ca468bdb8482331ceaa54a827f6deb",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 213,
+      "title": "瞻彼洛矣",
+      "path": "篇章/213-瞻彼洛矣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "4c975d0849625ae3309af8267989624f1d0b9c419a4be66836b7c0452599d8d0",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 214,
+      "title": "裳裳者华",
+      "path": "篇章/214-裳裳者华.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 101,
+      "sha256": "760ebc1630a61fe01a7a903155e73a54ed6f25cf722825c11e97eaa2c07466fd",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 215,
+      "title": "桑扈",
+      "path": "篇章/215-桑扈.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "654f8bd2c24b7beab9c83286ed2351bc34d4f4815d0189d879bd351e6b7d4734",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 216,
+      "title": "鸳鸯",
+      "path": "篇章/216-鸳鸯.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "1fe0e534de5eb96844c9250e7b600da7d9829f5a8be35bd056b62c970e80453a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 217,
+      "title": "頍弁",
+      "path": "篇章/217-頍弁.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 144,
+      "sha256": "8bd2756b2062c0386515294d42000b0952d718adbbd3c11772283b49f1f2519f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 218,
+      "title": "车舝",
+      "path": "篇章/218-车舝.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 125,
+      "sha256": "991769f2d542771941e2b880f82eb75e7ddd271a94ba706c4e3ae33c81fdc294",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 219,
+      "title": "青蝇",
+      "path": "篇章/219-青蝇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 45,
+      "sha256": "69dbf9c13c99538247e29dca49a824f213045cf06dd1a4c50ca24b90d45d90b7",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 220,
+      "title": "宾之初筵",
+      "path": "篇章/220-宾之初筵.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 280,
+      "sha256": "35206dbc79b0d364deb58749ccd5ab2476e355d79198dfb38154f9972beb7ebc",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 221,
+      "title": "鱼藻",
+      "path": "篇章/221-鱼藻.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "6dc88b2c0afc1991587f7ada9c11677f9be733478c9492e440bdea70721eb4ff",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 222,
+      "title": "采菽",
+      "path": "篇章/222-采菽.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 161,
+      "sha256": "c7d863096e685336d054b0a555ca6913a2c84097922ce4c01572fa7c4ea97038",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 223,
+      "title": "角弓",
+      "path": "篇章/223-角弓.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 132,
+      "sha256": "da1e248135826faf7038abc6f5e7ab9c47dc3590ce16339b1048f9726ad3c8b4",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 224,
+      "title": "菀柳",
+      "path": "篇章/224-菀柳.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "a32192bab80e547b90632a114bc2158721b8e1d48e8b51179a479b2ca03590ba",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 225,
+      "title": "都人士",
+      "path": "篇章/225-都人士.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 120,
+      "sha256": "4d268994f2045a3f5c64aa79de41afd96472fdbc60ff68e8197606da6101a272",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 226,
+      "title": "采绿",
+      "path": "篇章/226-采绿.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "c698d9ca56faecbf7a859189924b48a6a8a5aa285faeb188fc0361ab961369f2",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 227,
+      "title": "黍苗",
+      "path": "篇章/227-黍苗.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 80,
+      "sha256": "855ee0030632b9ef56847cf55a663108c4ccc45eedbd463e6c934006aac6b61d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 228,
+      "title": "隰桑",
+      "path": "篇章/228-隰桑.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "3a94126ffed615fb7d602f94a3b8f1bd40a97c3eb368528a78e15d316f64ae61",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 229,
+      "title": "白华",
+      "path": "篇章/229-白华.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 128,
+      "sha256": "70f141d8f95e263ce4d9c82c1de28f32b331e8050548c3fb4a0534574aa01430",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 230,
+      "title": "绵蛮",
+      "path": "篇章/230-绵蛮.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 96,
+      "sha256": "6c056af42cacf083800304c745eca2beaf2550a43e919ef5d5eb220ab4db8eb1",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 231,
+      "title": "瓠叶",
+      "path": "篇章/231-瓠叶.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "5086876d3b9cca2432eb440b2d6190124dc854f9100c05150f41a2c0cdc359b2",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 232,
+      "title": "渐渐之石",
+      "path": "篇章/232-渐渐之石.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 72,
+      "sha256": "5925f3581705735e00804e2eed3e14eac16ba407e52bfbb51513ad47d3447e34",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 233,
+      "title": "苕之华",
+      "path": "篇章/233-苕之华.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 46,
+      "sha256": "8b9c909209ba2961802962ae68feba29efe551cd12d0aa5e16531fbfeea8165d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 234,
+      "title": "何草不黄",
+      "path": "篇章/234-何草不黄.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "24c36df0f93adf5412655186635f70590583d5f0fff639103e722688a4678068",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 235,
+      "title": "文王",
+      "path": "篇章/235-文王.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 228,
+      "sha256": "c425287d012360a026bb5ba59e40a93a61e1b5047fdd91218464816525341d14",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 236,
+      "title": "大明",
+      "path": "篇章/236-大明.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 225,
+      "sha256": "099a7f2e2fd30ea2a4d87bd67698f00cdbf39c9ee031f8b4cf8064245ce267ba",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 237,
+      "title": "绵",
+      "path": "篇章/237-绵.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 224,
+      "sha256": "6cd63f03997e865ea2ed8b3a150697d59d265afac33454f11e3f41f4a527ec52",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 238,
+      "title": "棫朴",
+      "path": "篇章/238-棫朴.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 80,
+      "sha256": "ae4f945ed7f120b9323b3dd6ea912f1b1ad808d8a57789ccaff21b12bf8aa933",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 239,
+      "title": "旱麓",
+      "path": "篇章/239-旱麓.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 96,
+      "sha256": "82e77db8558275bce9fd27fffa05a64813c6e641782a4bcc4e6d2639acb9362d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 240,
+      "title": "思齐",
+      "path": "篇章/240-思齐.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 101,
+      "sha256": "1888f753fc7587a74c4e8001c67d647ed9a9537f107d52c9890ad359218f27a0",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 241,
+      "title": "皇矣",
+      "path": "篇章/241-皇矣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 393,
+      "sha256": "d7171756b122045fb6fb8a67b81502996ac9c9f3f9bcc96cebf9d70206b743c1",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 242,
+      "title": "灵台",
+      "path": "篇章/242-灵台.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 80,
+      "sha256": "5dc25bebef3f5268308c11b9eba2113156bbf2d1d52dc43ca0781a48411e869a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 243,
+      "title": "下武",
+      "path": "篇章/243-下武.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 96,
+      "sha256": "ae75d2dfb7d329a8c0e627899c819175bacfed68fb8fdf67519809c67d58c0ef",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 244,
+      "title": "文王有声",
+      "path": "篇章/244-文王有声.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 161,
+      "sha256": "2c4af6f16dc1c3c4bec73df69656d3ce8ddc8ef769a3254f0676195c659893be",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 245,
+      "title": "生民",
+      "path": "篇章/245-生民.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 296,
+      "sha256": "36f55a0cd809b89cd15284b6356a1119a528cb8b291276fc5f598f3059f79622",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 246,
+      "title": "行苇",
+      "path": "篇章/246-行苇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 131,
+      "sha256": "551388ff47418c9b2dff5f1caf3d992cc2ba5ddf64759ee23ff4b8067d377b42",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 247,
+      "title": "既醉",
+      "path": "篇章/247-既醉.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 129,
+      "sha256": "9edf75eeaa025b849b6e575187b1e67db27179b81cf0f2c638c7c3233e596f28",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 248,
+      "title": "凫鹥",
+      "path": "篇章/248-凫鹥.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 130,
+      "sha256": "e4b02fe9b35eadd13af8bb2cde645ed857ce217a76320f27230b97a93db75310",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 249,
+      "title": "假乐",
+      "path": "篇章/249-假乐.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 96,
+      "sha256": "960d86ff0bca37008ce0759ce30bcec3d5b72cbf0ef2f95d422b6c3ac6f6ee86",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 250,
+      "title": "公刘",
+      "path": "篇章/250-公刘.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 234,
+      "sha256": "2fa5c22d8b06119cf0deed86c7772d1ead74bb2d96459f81b2a6bff5780d7c7d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 251,
+      "title": "泂酌",
+      "path": "篇章/251-泂酌.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 63,
+      "sha256": "3a894ae8827ab6d939db3d4a1182c2b7e8d712b7ff32723c7e316bab918bd882",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 252,
+      "title": "卷阿",
+      "path": "篇章/252-卷阿.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 232,
+      "sha256": "dab2192f8bb505276e8c48ec4ffe7feb5e1976ee24244f4e8c40579cbb468107",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 253,
+      "title": "民劳",
+      "path": "篇章/253-民劳.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 200,
+      "sha256": "1520abbf3fb34d7844b84d5aac17c764fd8038aa3b7b6c33640be99f508bf7ff",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 254,
+      "title": "板",
+      "path": "篇章/254-板.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 259,
+      "sha256": "78c4ebef97b69480e0cd9d683a2d849c276b992d86e61c58432c3f79762a581d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 255,
+      "title": "荡",
+      "path": "篇章/255-荡.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 269,
+      "sha256": "62fb24a9ed9e99e41bbf302cec9fcad2bffaaeb1ce71aaa6f1777679c46183d6",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 256,
+      "title": "抑",
+      "path": "篇章/256-抑.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 469,
+      "sha256": "6dfa702e7347a49e50a8b8e2f05ee56394a079f9e95a2f8d4f21611fa11f0f6e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 257,
+      "title": "桑柔",
+      "path": "篇章/257-桑柔.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 450,
+      "sha256": "2a4e5db884dd9782f8cd9f50b188a5a70a3af50a916a5f07a458fd5b72c16d71",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 258,
+      "title": "云汉",
+      "path": "篇章/258-云汉.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 324,
+      "sha256": "14c81bd8da60afd81a8c680c38b3fb06df39f4cb9aefe2fdf9ab11e7b9b35dc4",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 259,
+      "title": "崧高",
+      "path": "篇章/259-崧高.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 259,
+      "sha256": "b82cd8fe09f991da78f0a598f7caf4828578a15a057d0c412c08ebb8c27c599f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 260,
+      "title": "烝民",
+      "path": "篇章/260-烝民.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 269,
+      "sha256": "be3b3c801eede7543ba11a5041937ee58bd986f75cb0041243579f9d33aeb727",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 261,
+      "title": "韩奕",
+      "path": "篇章/261-韩奕.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 290,
+      "sha256": "0cdd8f02a5f0701f41c5b18ca2eebb128d59440da10c910e775dc766e8642862",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 262,
+      "title": "江汉",
+      "path": "篇章/262-江汉.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 193,
+      "sha256": "56d5fa051007f4e4287f9038eb0fd94b79e647e69bdebb00950938d07326bfd4",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 263,
+      "title": "常武",
+      "path": "篇章/263-常武.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 193,
+      "sha256": "669c3d77af7716579dcbef8a48efb4786ae73b2e4fbe49daa272468baf3527cc",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 264,
+      "title": "瞻卬",
+      "path": "篇章/264-瞻卬.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 249,
+      "sha256": "e60d4e481ee2f7b4b1abadc579afe247a8e3fa076cf3e9df381fb4ff91234a41",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 265,
+      "title": "召旻",
+      "path": "篇章/265-召旻.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 170,
+      "sha256": "1853460d2ad99e5bdade55890addd1597947a3317640ec5783440317ab94c02d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 266,
+      "title": "清庙",
+      "path": "篇章/266-清庙.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 34,
+      "sha256": "a388bcfdbf11b852dc316709f98be27003222fab967eb8f94e585c2274ab6204",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 267,
+      "title": "维天之命",
+      "path": "篇章/267-维天之命.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 35,
+      "sha256": "99af3f3393931d83253ebb38ed5ef709f85e11f1559fefe88e4bad6cf964118e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 268,
+      "title": "维清",
+      "path": "篇章/268-维清.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 18,
+      "sha256": "64d3d4e5a8f56fae906e3f460e9c489fc860fd81de45c16d174b604b5ea03c73",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 269,
+      "title": "烈文",
+      "path": "篇章/269-烈文.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 60,
+      "sha256": "5fa28cc772e0bd2bf4ecda971531428ebb30320a9b133fd75bc2e50b7f949f81",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 270,
+      "title": "天作",
+      "path": "篇章/270-天作.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 27,
+      "sha256": "8e30291baa1729e61daa7e72fb79266b1069401dd948a1eb72bbd23d1a611725",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 271,
+      "title": "昊天有成命",
+      "path": "篇章/271-昊天有成命.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 30,
+      "sha256": "8754159696094d7514c76c9c631b1677c274ff495b824e2d4166fa0dc54509f3",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 272,
+      "title": "我将",
+      "path": "篇章/272-我将.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 44,
+      "sha256": "25dcebfac05b8f911f3c7c49ce6c1bffbe06678aa5d0a241cfff65b93a22bc14",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 273,
+      "title": "时迈",
+      "path": "篇章/273-时迈.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 62,
+      "sha256": "469240ce0b15f0d3a3a0d6f25a93ba61df4dde64193d78788a853c697373f65f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 274,
+      "title": "执竞",
+      "path": "篇章/274-执竞.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 56,
+      "sha256": "257fb718cbaab54dd26f74471b1854f9473311ed471ee21a0281d2c126c32259",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 275,
+      "title": "思文",
+      "path": "篇章/275-思文.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 34,
+      "sha256": "94916f66a277e4b22315ae810d213fe5656b9d97efa3251e7adfdf7f925b8d9b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 276,
+      "title": "臣工",
+      "path": "篇章/276-臣工.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 60,
+      "sha256": "5cca872e866ffab4f6cff1b1ebe8b6b90b7f8e823ca9ebd08e753d700814187c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 277,
+      "title": "噫嘻",
+      "path": "篇章/277-噫嘻.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "3947caaaadc1ca7715cc7fffc4211d5ff19e6ac3aab865881acc74caf3ff0d9c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 278,
+      "title": "振鹭",
+      "path": "篇章/278-振鹭.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 32,
+      "sha256": "ccdf0865664d5a92646c94f620491f3266101cd6befd72399ee5ac0f63cfd57a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 279,
+      "title": "丰年",
+      "path": "篇章/279-丰年.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 30,
+      "sha256": "4c705110b57c726d345b7faee47d10f1367bf4d4a8dfae9e622070b5ef3b06b4",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 280,
+      "title": "有瞽",
+      "path": "篇章/280-有瞽.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 52,
+      "sha256": "b03a1a03abdc8684e6024207894b1d5684e4a8a317164efd4f1c56b9bda92897",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 281,
+      "title": "潜",
+      "path": "篇章/281-潜.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 24,
+      "sha256": "df1c6eadc815bbe5e72fe78541c9c703e14061307db031bb9939909c053578af",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 282,
+      "title": "雝",
+      "path": "篇章/282-雝.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 64,
+      "sha256": "317804e6f7e1d9fd9f06aae307c1d0975571d043b18dc36b8130d1938a752aea",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 283,
+      "title": "载见",
+      "path": "篇章/283-载见.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 58,
+      "sha256": "6ab7768d57592b9604a17673b448cac3ff08e343d3d5980714121d0d21649301",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 284,
+      "title": "有客",
+      "path": "篇章/284-有客.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 48,
+      "sha256": "02548e8ceb2a49e49a421ae8f0a2782a9fcd88527d93370f9a4e4832d8dbfc97",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 285,
+      "title": "武",
+      "path": "篇章/285-武.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 28,
+      "sha256": "290c2e8ad2e62fc19d52472e53f8ab03c16d34fc0bbd95ac3b43f2f5e32ba111",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 286,
+      "title": "闵予小子",
+      "path": "篇章/286-闵予小子.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 45,
+      "sha256": "12895bab3cdbffe6f40744d09d4c7c97067c64764865cd2d6778def3b636c095",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 287,
+      "title": "访落",
+      "path": "篇章/287-访落.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 50,
+      "sha256": "c53e9c5079a05efd88b95318fdd597a640bef2dfb0d8d1dde114e52a9af061df",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 288,
+      "title": "敬之",
+      "path": "篇章/288-敬之.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 54,
+      "sha256": "886819e6679711a0f1297f926ab4a41cbf8b32b7d435e034d78d4de2c48cc36e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 289,
+      "title": "小毖",
+      "path": "篇章/289-小毖.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 34,
+      "sha256": "9601ff9784120fb09a018db0684fd75c637a1ab1b6a7fec38abb576c8eb1d13a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 290,
+      "title": "载芟",
+      "path": "篇章/290-载芟.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 124,
+      "sha256": "c9f431b426c0f5ef94f2a558c08a0f40a93b19867ab55d024be844d46413289f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 291,
+      "title": "良耜",
+      "path": "篇章/291-良耜.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 92,
+      "sha256": "cc0a0fa6130505aae4018d27c3084b9d82ec87d251017b76104ef1f4cc22e52c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 292,
+      "title": "丝衣",
+      "path": "篇章/292-丝衣.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 36,
+      "sha256": "3e0647067a7221a5ccd2128828998f344077d60798f6ff4d5920a9d0a057f4ca",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 293,
+      "title": "酌",
+      "path": "篇章/293-酌.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 35,
+      "sha256": "c53e5ddc71be3b2f38dd48caa0a5e66733c01834e9d41a26a9c1f0c59cd674a4",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 294,
+      "title": "桓",
+      "path": "篇章/294-桓.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 34,
+      "sha256": "841f88809ad5b7698280287835ea68e3ccaea50d4ecd19293fb4abb374643c2d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 295,
+      "title": "赉",
+      "path": "篇章/295-赉.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 25,
+      "sha256": "5676232d4bbe24cc19c72c5e6769cd6b0adfa285120cd240b866e9ebc455752c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 296,
+      "title": "般",
+      "path": "篇章/296-般.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 28,
+      "sha256": "7740d55793c16a22738e5af87946c2ef5a829f3ec2bbf5ec0c8e4b8b51088a0a",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 297,
+      "title": "駉",
+      "path": "篇章/297-駉.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 124,
+      "sha256": "16bab74cb6aa6d44617c8c3117bebb7a398f25919f0bfc3f8a608604d243a51f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 298,
+      "title": "有駜",
+      "path": "篇章/298-有駜.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 98,
+      "sha256": "1f3010fd531305d9d76fd800c966afa041fefb22311df22b6326f90d70a34c81",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 299,
+      "title": "泮水",
+      "path": "篇章/299-泮水.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 257,
+      "sha256": "f26ce657d968e785a70131715f72017534e3c57c022c49d491c1dc6b40a2f2a1",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 300,
+      "title": "閟宫",
+      "path": "篇章/300-閟宫.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 492,
+      "sha256": "25ab23eb13ff1f5eaf45da5fd2d33baf40ed9b6b40724f0c09eae339dd02f695",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 301,
+      "title": "那",
+      "path": "篇章/301-那.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 88,
+      "sha256": "6e40995ea3b08dd366d5b0f126e665181356e80da514f87e77b18ac17af771c5",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 302,
+      "title": "烈祖",
+      "path": "篇章/302-烈祖.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 89,
+      "sha256": "93c052e5093b516a23f2f68e1c190f48d51c3080770d9853af4db261ab97d25f",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 303,
+      "title": "玄鸟",
+      "path": "篇章/303-玄鸟.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 95,
+      "sha256": "3fd5ca65056d3da35fb78210b318a59a262ffa1c5ddcded90aee3ed42c820145",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 304,
+      "title": "长发",
+      "path": "篇章/304-长发.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 217,
+      "sha256": "a04f2ca174246d4925ecca56cfeeca61aef61713840139025a88454dbf684e2d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 305,
+      "title": "殷武",
+      "path": "篇章/305-殷武.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AF%97%E7%BB%8F/shijing.json",
+      "text_han_characters": 153,
+      "sha256": "fe9e929a3b5a94ccedbfd0ce4ff6c917547bfa9b45b54fbb6a1b028f375c2986",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 306,
+      "title": "南陔（笙诗存目）",
+      "path": "篇章/306-南陔（笙诗存目）.md",
+      "source_url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93",
+      "text_han_characters": 28,
+      "sha256": "d56b689cb7f162998e1549bc66d772696a86ca9e637f5eae423c65cecbdba081",
+      "empty_text": true,
+      "source_revision": 8738202
+    },
+    {
+      "order": 307,
+      "title": "白华（笙诗存目）",
+      "path": "篇章/307-白华（笙诗存目）.md",
+      "source_url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93",
+      "text_han_characters": 28,
+      "sha256": "e3ba99d95a69e00a2c965401bd5008ecaabd5d3700950215c356a5259996a454",
+      "empty_text": true,
+      "source_revision": 8738202
+    },
+    {
+      "order": 308,
+      "title": "华黍（笙诗存目）",
+      "path": "篇章/308-华黍（笙诗存目）.md",
+      "source_url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93",
+      "text_han_characters": 28,
+      "sha256": "0b2204f0687f36c0fead13d90f91d4903b4f1ec7335261b399e00d195176abbb",
+      "empty_text": true,
+      "source_revision": 8738202
+    },
+    {
+      "order": 309,
+      "title": "由庚（笙诗存目）",
+      "path": "篇章/309-由庚（笙诗存目）.md",
+      "source_url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93",
+      "text_han_characters": 28,
+      "sha256": "2a52cfee79b0a6343eceb9a9d1917084eba604809d6c989f5f6bf32b6d7416e5",
+      "empty_text": true,
+      "source_revision": 8738202
+    },
+    {
+      "order": 310,
+      "title": "崇丘（笙诗存目）",
+      "path": "篇章/310-崇丘（笙诗存目）.md",
+      "source_url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93",
+      "text_han_characters": 28,
+      "sha256": "405748e02f743f6f742d51316a6679eb943d8571caddb9b2bda4ee567df81432",
+      "empty_text": true,
+      "source_revision": 8738202
+    },
+    {
+      "order": 311,
+      "title": "由仪（笙诗存目）",
+      "path": "篇章/311-由仪（笙诗存目）.md",
+      "source_url": "https://zh.wikisource.org/wiki/%E8%A9%A9%E7%B6%93",
+      "text_han_characters": 28,
+      "sha256": "3c267490bf441640bb484e399697ab6fcbac2e1284bf7adee483178a9a19b3ef",
+      "empty_text": true,
+      "source_revision": 8738202
+    }
+  ]
+}

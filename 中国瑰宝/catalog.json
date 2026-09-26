@@ -14,6 +14,16 @@
       "brief": "中国瑰宝/佛家/摘要.md"
     },
     {
+      "id": "culture.chinese-history",
+      "title": "中华历史",
+      "summary": "按朝代、时间、人物、事件与制度文化交叉查阅中国通史，并辨析并立政权和纪年口径。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/中华历史/topic.json",
+      "brief": "中国瑰宝/中华历史/摘要.md"
+    },
+    {
       "id": "culture.comparison",
       "title": "三家对照",
       "summary": "比较佛、道、儒的异同、交往与常见误读。",

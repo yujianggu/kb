@@ -17,7 +17,7 @@
     {
       "id": "culture",
       "title": "中国瑰宝",
-      "summary": "佛、道、儒的历史语境、思想概念、人物与经典。",
+      "summary": "中华历史的朝代、时间、人物与事件，以及佛、道、儒的思想概念与经典。",
       "catalog": "中国瑰宝/catalog.json"
     },
     {
@@ -25,6 +25,12 @@
       "title": "汇报模板",
       "summary": "业务与技术汇报的可复用结构及使用边界。",
       "catalog": "汇报模板/catalog.json"
+    },
+    {
+      "id": "business",
+      "title": "企业经营研究",
+      "summary": "基于公开资料研究九家企业与机构的经营机制、真实案例和适用边界。",
+      "catalog": "企业经营研究/catalog.json"
     }
   ],
   "extensions": [

@@ -1,9 +1,49 @@
 {
   "version": 1,
   "topics": {
+    "business.amazon": {
+      "metadata": "企业经营研究/企业与机构/亚马逊/topic.json",
+      "sha256": "ae5658f498cecca3ea484c5eb51c8dc5cf01604c20f4a9a48f7435b45fa0406c"
+    },
+    "business.berkshire": {
+      "metadata": "企业经营研究/企业与机构/伯克希尔哈撒韦/topic.json",
+      "sha256": "e9cbf15750e543c47c6486e335f76e3fbc70b75dca63ddeb8e24978687cf2bdd"
+    },
+    "business.costco": {
+      "metadata": "企业经营研究/企业与机构/Costco/topic.json",
+      "sha256": "fe4948623a004985b96c5603ec39360509d8aeaf64cfb2f80283ea7410f6a8f9"
+    },
+    "business.danaher": {
+      "metadata": "企业经营研究/企业与机构/丹纳赫/topic.json",
+      "sha256": "101b146219c591753c0672b1da804dbc882f7ef6778630b6185a19371be04583"
+    },
+    "business.huawei": {
+      "metadata": "企业经营研究/企业与机构/华为/topic.json",
+      "sha256": "11dced7481c55689f70bf696dccf2757c6ff2e7f59a2a353b81d247487e03b5a"
+    },
+    "business.inditex": {
+      "metadata": "企业经营研究/企业与机构/Inditex-Zara/topic.json",
+      "sha256": "f6cdc3b0b4e51c660df6442a0dd32f49a4dfd92627aed068be9442fd672df670"
+    },
+    "business.microsoft": {
+      "metadata": "企业经营研究/企业与机构/微软/topic.json",
+      "sha256": "e11c0a5e666bbd9e7c38d85632f2e94721a296b27487e59bf16631344aa54094"
+    },
+    "business.toyota": {
+      "metadata": "企业经营研究/企业与机构/丰田/topic.json",
+      "sha256": "0ab6f15dc502acc0760d7addec5266c62d91339fdc950e8332c1ff535dd21f95"
+    },
+    "business.yc": {
+      "metadata": "企业经营研究/企业与机构/YC/topic.json",
+      "sha256": "35a83be29941a9b9f5d3aebf72c6fe6167914f5f3d37dd89a37f2230bf30e579"
+    },
     "culture.buddhism": {
       "metadata": "中国瑰宝/佛家/topic.json",
       "sha256": "dea949c191ee4674642f04b07264a177a4c4a038a8053d48d1ebbf75d6830615"
+    },
+    "culture.chinese-history": {
+      "metadata": "中国瑰宝/中华历史/topic.json",
+      "sha256": "3286788d67b3dda15ae9d9f38e0f9f63623437047e6b7cf58673d924e3ffed1a"
     },
     "culture.comparison": {
       "metadata": "中国瑰宝/三家比较/topic.json",

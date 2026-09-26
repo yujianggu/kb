@@ -49,7 +49,7 @@ python3 scripts/kb.py resolve ontology.modeling --layer detail --max-bytes 50000
 - `status: reference` 表示原义待核实的主题参考版。必须显式加 `--allow-reference`，使用时保留这一限制。
 - `status: example` 表示教学／设计示例，不可作为企业事实或通用标准。
 - `kind: reference` 仅表示资料类型，与 `status: reference` 的待核实状态不同。
-- `scope` 区分通用、行业和公司适用范围。当前通用注册表不收录公司子仓库内容。
+- `scope` 区分通用、行业和公司适用范围。企业公开资料研究以 company 标注，表示结论限于所研究企业；主库不收录公司内部资料子仓库内容。
 - 公司子仓库、建设记录、验收记录、完整视频清单及图片不默认加载。需公司资料时依照[公司扩展入口](本体/公司业务/README.md)显式获取。
 
 本次组织调整未重新核验知识事实或厂商版本。具体主题原有来源、日期、争议与适用限制继续有效。
