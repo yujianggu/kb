@@ -1,0 +1,20 @@
+{
+  "id": "culture.classics.zhongyong",
+  "title": "中庸",
+  "summary": "阅读《中庸》传世原文全文，结合成书背景、原典案例和现代教学例，核查篇章与版本边界。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "全文.md",
+    "examples": "案例.md",
+    "sources": "来源.md",
+    "assets": "版本清单.json"
+  },
+  "requires": [],
+  "related": [
+    "culture.confucianism",
+    "culture.chinese-history"
+  ]
+}

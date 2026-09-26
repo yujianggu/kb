@@ -1,0 +1,1112 @@
+{
+  "book": "尚书",
+  "retrieved_date": "2026-09-26",
+  "coverage": "收录通行传世《尚书》58篇；不将目录附列的清华简等出土文本混入传世本。保留各篇所附序语与原站异文注；篇章归属及所谓伪古文问题见背景，不能将58篇一律视作商周实录。",
+  "full_text_sha256": "111c67b615541f0aa01e801ad778c7b01ffec1f84955396cb7055266a47083bf",
+  "sources": [
+    {
+      "label": "尚書/堯典",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%A0%AF%E5%85%B8",
+      "revision": 8732107,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=8732107",
+      "source_wikitext_sha256": "cf064022db435727f69c1f1885a9a44846f332f3f1ee478b3b91bc41cd3b9c38"
+    },
+    {
+      "label": "尚書/舜典",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E8%88%9C%E5%85%B8",
+      "revision": 2084539,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2084539",
+      "source_wikitext_sha256": "ab504c915796422472ae32af79c4f47ad9d21334ea65bf58d72645e4656f144c"
+    },
+    {
+      "label": "尚書/大禹謨",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%A4%A7%E7%A6%B9%E8%AC%A8",
+      "revision": 2550367,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2550367",
+      "source_wikitext_sha256": "98ef0947903383ca2f3bb9c79d01389dc3c75ce2ed698fef7f27abb9cda67390"
+    },
+    {
+      "label": "尚書/皐陶謨",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%9A%90%E9%99%B6%E8%AC%A8",
+      "revision": 2636556,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636556",
+      "source_wikitext_sha256": "267b081b2b46ed085e92e483d766058b9b055273c76bdedf67cb84b1b37a55d3"
+    },
+    {
+      "label": "尚書/益稷",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%9B%8A%E7%A8%B7",
+      "revision": 453136,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=453136",
+      "source_wikitext_sha256": "b508b7aee7b6fab056f8510313222167720d9c4560e2dde92c9e6f5b69993a9a"
+    },
+    {
+      "label": "尚書/禹貢",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%A6%B9%E8%B2%A2",
+      "revision": 7903402,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=7903402",
+      "source_wikitext_sha256": "616e9604611300a7a747a79fdedcab53ee4b02d314490abba7b5768a11d5c7cb"
+    },
+    {
+      "label": "尚書/甘誓",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%94%98%E8%AA%93",
+      "revision": 2636558,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636558",
+      "source_wikitext_sha256": "c8f37614b03399e7563c55fd63c826f32d24d90b457572f52909ab70765ea5b3"
+    },
+    {
+      "label": "尚書/五子之歌",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E4%BA%94%E5%AD%90%E4%B9%8B%E6%AD%8C",
+      "revision": 2616187,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2616187",
+      "source_wikitext_sha256": "69e14722c726ae5647549549fb9cc77adcea484e49e9d42ad987a5c35a88cae1"
+    },
+    {
+      "label": "尚書/胤征",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E8%83%A4%E5%BE%81",
+      "revision": 2550368,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2550368",
+      "source_wikitext_sha256": "d11bc317186be22692c5d85ef4d828cbf36c1d7c26784e70f3415aedef926b55"
+    },
+    {
+      "label": "尚書/湯誓",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E6%B9%AF%E8%AA%93",
+      "revision": 2639577,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2639577",
+      "source_wikitext_sha256": "5eb571ee311eb065067b14a1bfcad95292284e7f62e050b3bba34e6da63ae84d"
+    },
+    {
+      "label": "尚書/仲虺之誥",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E4%BB%B2%E8%99%BA%E4%B9%8B%E8%AA%A5",
+      "revision": 2550369,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2550369",
+      "source_wikitext_sha256": "e0610ae8cf7f43807f4b93c48133230dd9983f65d7f6f0a1face56f12540a7a8"
+    },
+    {
+      "label": "尚書/湯誥",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E6%B9%AF%E8%AA%A5",
+      "revision": 2550370,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2550370",
+      "source_wikitext_sha256": "9c898982e6c918867985ff11e2ae9fa01d2a09aa25afe74eb925ee2a349479df"
+    },
+    {
+      "label": "尚書/伊訓",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E4%BC%8A%E8%A8%93",
+      "revision": 2334343,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334343",
+      "source_wikitext_sha256": "8e10c6ce23748bff3c725cff4df82c6115cbda138480349cb29b4e0c2f913e28"
+    },
+    {
+      "label": "尚書/太甲上",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%A4%AA%E7%94%B2%E4%B8%8A",
+      "revision": 2334328,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334328",
+      "source_wikitext_sha256": "b178fe6945c5fd09e0123f68c1d54c48e6828a32cb26041a78034b45f84a08dc"
+    },
+    {
+      "label": "尚書/太甲中",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%A4%AA%E7%94%B2%E4%B8%AD",
+      "revision": 2334327,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334327",
+      "source_wikitext_sha256": "859dd375235accb80c5f71b7709b3d3b9b5ef2d731adc93f6707b4361b3ed627"
+    },
+    {
+      "label": "尚書/太甲下",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%A4%AA%E7%94%B2%E4%B8%8B",
+      "revision": 2334326,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334326",
+      "source_wikitext_sha256": "c02b7c8ebcf8a15e0b35053d6a3390c8c9bc918055c4167e3f8d656fbcb622a5"
+    },
+    {
+      "label": "尚書/咸有一德",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%92%B8%E6%9C%89%E4%B8%80%E5%BE%B7",
+      "revision": 2334325,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334325",
+      "source_wikitext_sha256": "7c6136218afeb4b8b0cc37a45084962727a6eece32f9b98cb4eaa4ed6c7cd5bd"
+    },
+    {
+      "label": "尚書/盤庚上",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%9B%A4%E5%BA%9A%E4%B8%8A",
+      "revision": 2639582,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2639582",
+      "source_wikitext_sha256": "ce5bfe46b906676763457c7a5dc9c808ab6bd16eae12264af345375e4b80e5d6"
+    },
+    {
+      "label": "尚書/盤庚中",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%9B%A4%E5%BA%9A%E4%B8%AD",
+      "revision": 2639583,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2639583",
+      "source_wikitext_sha256": "5d3211a07851e6ec5bfcf97b1807f2cfbda22ba5f731ec40af495de6e0d00305"
+    },
+    {
+      "label": "尚書/盤庚下",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%9B%A4%E5%BA%9A%E4%B8%8B",
+      "revision": 2636563,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636563",
+      "source_wikitext_sha256": "e929a2c9c37eb1592d1a091184bbc89b844bf0ec2a8f4ed72a91d668e564a3bd"
+    },
+    {
+      "label": "尚書/說命上",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E8%AA%AA%E5%91%BD%E4%B8%8A",
+      "revision": 2550563,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2550563",
+      "source_wikitext_sha256": "203272befd0c4df85ead01539fa7cce2318f749d0548c82aa269943d9f190cd2"
+    },
+    {
+      "label": "尚書/說命中",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E8%AA%AA%E5%91%BD%E4%B8%AD",
+      "revision": 2334323,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334323",
+      "source_wikitext_sha256": "84c47dccc8d112c139c71667c751175bf487ad31f97fb6033e64c3d41e119034"
+    },
+    {
+      "label": "尚書/說命下",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E8%AA%AA%E5%91%BD%E4%B8%8B",
+      "revision": 2504481,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2504481",
+      "source_wikitext_sha256": "168e7f5aaece5a89964976b8012118c3d4c7c57e8e2b89e59cc31fa09b73b273"
+    },
+    {
+      "label": "尚書/高宗肜日",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E9%AB%98%E5%AE%97%E8%82%9C%E6%97%A5",
+      "revision": 2636564,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636564",
+      "source_wikitext_sha256": "f0c573ad747b970776a0e80b89932e8957f6b94724178d47fe6e348941ba68f5"
+    },
+    {
+      "label": "尚書/西伯戡黎",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E8%A5%BF%E4%BC%AF%E6%88%A1%E9%BB%8E",
+      "revision": 2636565,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636565",
+      "source_wikitext_sha256": "1c11f64935e6ab12b5950ac9d7fc9662e5f02eccf501c35b8ae44d71c6505edd"
+    },
+    {
+      "label": "尚書/微子",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%BE%AE%E5%AD%90",
+      "revision": 2636566,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636566",
+      "source_wikitext_sha256": "9dde40562d69042252ab9e8fe22c37206da3cffba53691c4314154f2d478a5b5"
+    },
+    {
+      "label": "尚書/泰誓上",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E6%B3%B0%E8%AA%93%E4%B8%8A",
+      "revision": 2334342,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334342",
+      "source_wikitext_sha256": "e71f56665d1ec4b1dce648a78df09c28eef3ca55ac73554471a585e4ac541518"
+    },
+    {
+      "label": "尚書/泰誓中",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E6%B3%B0%E8%AA%93%E4%B8%AD",
+      "revision": 2334341,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334341",
+      "source_wikitext_sha256": "83f7224ccb02280be34c661067ee1409889eac0fdda1d8fdaaa6e2c257141e2e"
+    },
+    {
+      "label": "尚書/泰誓下",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E6%B3%B0%E8%AA%93%E4%B8%8B",
+      "revision": 2334340,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334340",
+      "source_wikitext_sha256": "ec0cba23c46e4cdc5f1d206c212ec1bb3142337c6e4d3143a69e4e077ec5e736"
+    },
+    {
+      "label": "尚書/牧誓",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%89%A7%E8%AA%93",
+      "revision": 2706545,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2706545",
+      "source_wikitext_sha256": "e05dd0ec64db9b690076786569cfd331618d7f5fa213c20c4379ab5f05f968bf"
+    },
+    {
+      "label": "尚書/武成",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E6%AD%A6%E6%88%90",
+      "revision": 2334339,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334339",
+      "source_wikitext_sha256": "e782a7fb615d431ea3b1f76bb5a499e5a3459e4f9fc3719a6b810a8d801b878e"
+    },
+    {
+      "label": "尚書/洪範",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E6%B4%AA%E7%AF%84",
+      "revision": 8735553,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=8735553",
+      "source_wikitext_sha256": "46d283fc59dae18389ec4983e9dbd4da0ebd96bd75a0a9dbbfa14a8f4b482f3a"
+    },
+    {
+      "label": "尚書/旅獒",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E6%97%85%E7%8D%92",
+      "revision": 2334338,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334338",
+      "source_wikitext_sha256": "54303e3e6be41914bccd1adbe0b39ecbd40c3116279af6d9a314487f8a2f601d"
+    },
+    {
+      "label": "尚書/金縢",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E9%87%91%E7%B8%A2",
+      "revision": 2637019,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2637019",
+      "source_wikitext_sha256": "b3505aa66a7252bfafa885a925a948fa03658f41486903ff72931ee32b3a2083"
+    },
+    {
+      "label": "尚書/大誥",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%A4%A7%E8%AA%A5",
+      "revision": 2636572,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636572",
+      "source_wikitext_sha256": "6c1082310d393b886155f7c1e9c024d8eb20842ac146c0cb943e2da21c5ad5b4"
+    },
+    {
+      "label": "尚書/微子之命",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%BE%AE%E5%AD%90%E4%B9%8B%E5%91%BD",
+      "revision": 2334337,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334337",
+      "source_wikitext_sha256": "fd581c7af297047f24f4d43bd1cf1ac5b4fdd8740eb5ae493e0d5dc0b96e6856"
+    },
+    {
+      "label": "尚書/康誥",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%BA%B7%E8%AA%A5",
+      "revision": 4969668,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=4969668",
+      "source_wikitext_sha256": "886e76cbbb00d6108aa5c7d8575c9c146eb9d4627806ac68307759419696c175"
+    },
+    {
+      "label": "尚書/酒誥",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E9%85%92%E8%AA%A5",
+      "revision": 2636573,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636573",
+      "source_wikitext_sha256": "90caf4d45b01eb1a6713edab0ff4c3ce8948c22c8695fcee2724a38c07cd1cea"
+    },
+    {
+      "label": "尚書/梓材",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E6%A2%93%E6%9D%90",
+      "revision": 2644306,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2644306",
+      "source_wikitext_sha256": "de750ebc302e8c6e1a52d4c2701ec463c9173b76c09531a0979a311bf12dd48b"
+    },
+    {
+      "label": "尚書/召誥",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%8F%AC%E8%AA%A5",
+      "revision": 2644307,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2644307",
+      "source_wikitext_sha256": "a618a73d5eaf2c42886ea305abd17552804a414dca4ffff51ec6c012244f405c"
+    },
+    {
+      "label": "尚書/洛誥",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E6%B4%9B%E8%AA%A5",
+      "revision": 2636576,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636576",
+      "source_wikitext_sha256": "22c23794b16e19b25adef3f117506bcaf3501a09c95c5b81476de12942035d98"
+    },
+    {
+      "label": "尚書/多士",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%A4%9A%E5%A3%AB",
+      "revision": 2636577,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636577",
+      "source_wikitext_sha256": "061e69051de0094109eb2e5fc38ac194bd5cde257836a5db5678b77d09f9f858"
+    },
+    {
+      "label": "尚書/無逸",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%84%A1%E9%80%B8",
+      "revision": 2636578,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636578",
+      "source_wikitext_sha256": "8afc3234ce3eb964a572be187d88faf9532bbcf984be048d9491759dd498d589"
+    },
+    {
+      "label": "尚書/君奭",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%90%9B%E5%A5%AD",
+      "revision": 2636579,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636579",
+      "source_wikitext_sha256": "ea52ecb25bb445b9c685f19f02892c101cdaa9626d82f7758ff59524ff5f6aff"
+    },
+    {
+      "label": "尚書/蔡仲之命",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E8%94%A1%E4%BB%B2%E4%B9%8B%E5%91%BD",
+      "revision": 2334334,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334334",
+      "source_wikitext_sha256": "6b00f1338588b45fdb5d972abac17eeacbffd48aa2d999687578d4f0f02b711a"
+    },
+    {
+      "label": "尚書/多方",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%A4%9A%E6%96%B9",
+      "revision": 2636580,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636580",
+      "source_wikitext_sha256": "09237f4f2ad5960549b6599925b053e6fb6ab3fa55ae002bf4b6df4438c3d02e"
+    },
+    {
+      "label": "尚書/立政",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%AB%8B%E6%94%BF",
+      "revision": 2636581,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636581",
+      "source_wikitext_sha256": "f8851e61dde69fdd91d5ea804532f9224dda2c9f045ded0ff081b724af934503"
+    },
+    {
+      "label": "尚書/周官",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%91%A8%E5%AE%98",
+      "revision": 2416978,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2416978",
+      "source_wikitext_sha256": "03a8af01bcbff5ccd4f67e70b768a488eac4ed423d37190de7c90471c7774cee"
+    },
+    {
+      "label": "尚書/君陳",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%90%9B%E9%99%B3",
+      "revision": 2416977,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2416977",
+      "source_wikitext_sha256": "de5807116b0186cd6c351846c96b9467addab50e75e3c492e54f4676cab2afda"
+    },
+    {
+      "label": "尚書/顧命",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E9%A1%A7%E5%91%BD",
+      "revision": 2636582,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636582",
+      "source_wikitext_sha256": "672be999bf097c5d32ae1be232b906d6a82656bfa5cd96db1e6f3879e2d573fc"
+    },
+    {
+      "label": "尚書/康王之誥",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%BA%B7%E7%8E%8B%E4%B9%8B%E8%AA%A5",
+      "revision": 2636583,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636583",
+      "source_wikitext_sha256": "ac753c7bbd101d1dc8ed053b1675d8e2c1e3faf90a4b3998627ca0eb8fe3df43"
+    },
+    {
+      "label": "尚書/畢命",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%95%A2%E5%91%BD",
+      "revision": 2334333,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334333",
+      "source_wikitext_sha256": "2d7cd23e9209f8152f13218c5e46d2614b0c3b27fe141b96488965a11cfea59e"
+    },
+    {
+      "label": "尚書/君牙",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%90%9B%E7%89%99",
+      "revision": 2334336,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2334336",
+      "source_wikitext_sha256": "6011d1d95b17c0a4643c2c03c4c1906fd5c89d752c141449d3b8562675fa53d9"
+    },
+    {
+      "label": "尚書/冏命",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%86%8F%E5%91%BD",
+      "revision": 2550557,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2550557",
+      "source_wikitext_sha256": "2c96d9464b9782ed92dcf41c2b3649a8fbeb3ec2f7264fde238e7180ecf0e407"
+    },
+    {
+      "label": "尚書/呂刑",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E5%91%82%E5%88%91",
+      "revision": 7908253,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=7908253",
+      "source_wikitext_sha256": "03a10c754d94ad0c84faa65e5cef1466efdfcc34f13cc27098a65fe11b9f03cf"
+    },
+    {
+      "label": "尚書/文侯之命",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E6%96%87%E4%BE%AF%E4%B9%8B%E5%91%BD",
+      "revision": 2636586,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636586",
+      "source_wikitext_sha256": "024084b36913c3d15cdb29c1ab099e7a538df0ccfeb214fdcca68e8fb9477be4"
+    },
+    {
+      "label": "尚書/費誓",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E8%B2%BB%E8%AA%93",
+      "revision": 2636587,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636587",
+      "source_wikitext_sha256": "4e3920a2c301920981a2389153235ec07ef61625eeb0339c3d26b2ab5b164ce4"
+    },
+    {
+      "label": "尚書/秦誓",
+      "url": "https://zh.wikisource.org/wiki/%E5%B0%9A%E6%9B%B8/%E7%A7%A6%E8%AA%93",
+      "revision": 2636588,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636588",
+      "source_wikitext_sha256": "fc8ea344db0d4927624958d4cdcf12457d8ee6d3849d8e012db6f3b6b439784e"
+    }
+  ],
+  "chapters": [
+    {
+      "order": 1,
+      "title": "堯典",
+      "path": "篇章/001-堯典.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=8732107",
+      "text_han_characters": 4063,
+      "sha256": "1460767a7ed69640836fab65b3484f572a31e7c3c046d6d1c1a9adfc54e0d1ce",
+      "source_page": "尚書/堯典",
+      "source_revision": 8732107,
+      "source_revision_timestamp": "2026-08-21T16:44:33Z",
+      "source_wikitext_sha256": "cf064022db435727f69c1f1885a9a44846f332f3f1ee478b3b91bc41cd3b9c38"
+    },
+    {
+      "order": 2,
+      "title": "舜典",
+      "path": "篇章/002-舜典.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2084539",
+      "text_han_characters": 832,
+      "sha256": "372a77a7c69f806cfd72b065c3c20275e2bcaf0a939fb314235ef94a37c5315b",
+      "source_page": "尚書/舜典",
+      "source_revision": 2084539,
+      "source_revision_timestamp": "2021-10-28T15:56:52Z",
+      "source_wikitext_sha256": "ab504c915796422472ae32af79c4f47ad9d21334ea65bf58d72645e4656f144c"
+    },
+    {
+      "order": 3,
+      "title": "大禹謨",
+      "path": "篇章/003-大禹謨.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2550367",
+      "text_han_characters": 864,
+      "sha256": "359c388dc605c85ae93c3ffd92acc3d0789768ee6afaea600032c99bd35defa5",
+      "source_page": "尚書/大禹謨",
+      "source_revision": 2550367,
+      "source_revision_timestamp": "2025-04-12T13:34:56Z",
+      "source_wikitext_sha256": "98ef0947903383ca2f3bb9c79d01389dc3c75ce2ed698fef7f27abb9cda67390"
+    },
+    {
+      "order": 4,
+      "title": "皐陶謨",
+      "path": "篇章/004-皐陶謨.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636556",
+      "text_han_characters": 1002,
+      "sha256": "6659253aa2193a624f66b1330452ba694864aa6b0bb18877b239d3a6f57e756a",
+      "source_page": "尚書/皐陶謨",
+      "source_revision": 2636556,
+      "source_revision_timestamp": "2025-12-27T05:42:28Z",
+      "source_wikitext_sha256": "267b081b2b46ed085e92e483d766058b9b055273c76bdedf67cb84b1b37a55d3"
+    },
+    {
+      "order": 5,
+      "title": "益稷",
+      "path": "篇章/005-益稷.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=453136",
+      "text_han_characters": 622,
+      "sha256": "8c4ab54f387adfee10813e9dcf299b9802ae274b0dd9df6ea2bee7ff9b6d3883",
+      "source_page": "尚書/益稷",
+      "source_revision": 453136,
+      "source_revision_timestamp": "2016-02-24T04:17:14Z",
+      "source_wikitext_sha256": "b508b7aee7b6fab056f8510313222167720d9c4560e2dde92c9e6f5b69993a9a"
+    },
+    {
+      "order": 6,
+      "title": "禹貢",
+      "path": "篇章/006-禹貢.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=7903402",
+      "text_han_characters": 2404,
+      "sha256": "e9f6477c4aca0b9569ef3e61b0a168ff7296aa3da9ad00962e0fd1e39666abfc",
+      "source_page": "尚書/禹貢",
+      "source_revision": 7903402,
+      "source_revision_timestamp": "2026-06-22T07:09:09Z",
+      "source_wikitext_sha256": "616e9604611300a7a747a79fdedcab53ee4b02d314490abba7b5768a11d5c7cb"
+    },
+    {
+      "order": 7,
+      "title": "甘誓",
+      "path": "篇章/007-甘誓.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636558",
+      "text_han_characters": 90,
+      "sha256": "1035ab64e0a5be8ee065501521aac3f999044ae038b10e14992c575acae25e86",
+      "source_page": "尚書/甘誓",
+      "source_revision": 2636558,
+      "source_revision_timestamp": "2025-12-27T05:44:47Z",
+      "source_wikitext_sha256": "c8f37614b03399e7563c55fd63c826f32d24d90b457572f52909ab70765ea5b3"
+    },
+    {
+      "order": 8,
+      "title": "五子之歌",
+      "path": "篇章/008-五子之歌.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2616187",
+      "text_han_characters": 274,
+      "sha256": "1d6ef3ef3e458781935a3c3da6c91ee9eceba1f69d42fc365d7ddde9304f4db2",
+      "source_page": "尚書/五子之歌",
+      "source_revision": 2616187,
+      "source_revision_timestamp": "2025-11-12T02:45:55Z",
+      "source_wikitext_sha256": "69e14722c726ae5647549549fb9cc77adcea484e49e9d42ad987a5c35a88cae1"
+    },
+    {
+      "order": 9,
+      "title": "胤征",
+      "path": "篇章/009-胤征.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2550368",
+      "text_han_characters": 336,
+      "sha256": "c225025cb108460991ba2ec31d2930515548535f31856f3a223dc208247485be",
+      "source_page": "尚書/胤征",
+      "source_revision": 2550368,
+      "source_revision_timestamp": "2025-04-12T13:35:54Z",
+      "source_wikitext_sha256": "d11bc317186be22692c5d85ef4d828cbf36c1d7c26784e70f3415aedef926b55"
+    },
+    {
+      "order": 10,
+      "title": "湯誓",
+      "path": "篇章/010-湯誓.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2639577",
+      "text_han_characters": 148,
+      "sha256": "11c04b97603b041413b4d22bef51e3f4ea7123f5aa8c3c2c18a8e5ce7166d03c",
+      "source_page": "尚書/湯誓",
+      "source_revision": 2639577,
+      "source_revision_timestamp": "2026-01-06T09:01:53Z",
+      "source_wikitext_sha256": "5eb571ee311eb065067b14a1bfcad95292284e7f62e050b3bba34e6da63ae84d"
+    },
+    {
+      "order": 11,
+      "title": "仲虺之誥",
+      "path": "篇章/011-仲虺之誥.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2550369",
+      "text_han_characters": 330,
+      "sha256": "66b149c330886a7c2ef6ae1d26284668105834997cc69afed02cee0b9d4c65a0",
+      "source_page": "尚書/仲虺之誥",
+      "source_revision": 2550369,
+      "source_revision_timestamp": "2025-04-12T13:36:25Z",
+      "source_wikitext_sha256": "e0610ae8cf7f43807f4b93c48133230dd9983f65d7f6f0a1face56f12540a7a8"
+    },
+    {
+      "order": 12,
+      "title": "湯誥",
+      "path": "篇章/012-湯誥.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2550370",
+      "text_han_characters": 414,
+      "sha256": "8cbe00a0c77035c9560da17073db06370bc4921662412f34abc3d0524715e6db",
+      "source_page": "尚書/湯誥",
+      "source_revision": 2550370,
+      "source_revision_timestamp": "2025-04-12T13:38:52Z",
+      "source_wikitext_sha256": "9c898982e6c918867985ff11e2ae9fa01d2a09aa25afe74eb925ee2a349479df"
+    },
+    {
+      "order": 13,
+      "title": "伊訓",
+      "path": "篇章/013-伊訓.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334343",
+      "text_han_characters": 344,
+      "sha256": "ab9e82b6b00fd998e42d4e7ec08de4bd07d88cae6a537d869a759e1aa0a39482",
+      "source_page": "尚書/伊訓",
+      "source_revision": 2334343,
+      "source_revision_timestamp": "2023-11-23T14:55:02Z",
+      "source_wikitext_sha256": "8e10c6ce23748bff3c725cff4df82c6115cbda138480349cb29b4e0c2f913e28"
+    },
+    {
+      "order": 14,
+      "title": "太甲上",
+      "path": "篇章/014-太甲上.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334328",
+      "text_han_characters": 249,
+      "sha256": "65cf95caef24b526ab8f41364ec62f565df7d51994d85dbafe0934193be214b4",
+      "source_page": "尚書/太甲上",
+      "source_revision": 2334328,
+      "source_revision_timestamp": "2023-11-23T14:51:23Z",
+      "source_wikitext_sha256": "b178fe6945c5fd09e0123f68c1d54c48e6828a32cb26041a78034b45f84a08dc"
+    },
+    {
+      "order": 15,
+      "title": "太甲中",
+      "path": "篇章/015-太甲中.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334327",
+      "text_han_characters": 204,
+      "sha256": "7db6c6331edae827899d85308009f39275a1c784d7c9c673832a007c72fe1b6d",
+      "source_page": "尚書/太甲中",
+      "source_revision": 2334327,
+      "source_revision_timestamp": "2023-11-23T14:51:20Z",
+      "source_wikitext_sha256": "859dd375235accb80c5f71b7709b3d3b9b5ef2d731adc93f6707b4361b3ed627"
+    },
+    {
+      "order": 16,
+      "title": "太甲下",
+      "path": "篇章/016-太甲下.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334326",
+      "text_han_characters": 178,
+      "sha256": "a5a88bae2efb122d4e35aa84198c7181ebc12c159b2df2c54efb2226edcc6d4d",
+      "source_page": "尚書/太甲下",
+      "source_revision": 2334326,
+      "source_revision_timestamp": "2023-11-23T14:51:14Z",
+      "source_wikitext_sha256": "c02b7c8ebcf8a15e0b35053d6a3390c8c9bc918055c4167e3f8d656fbcb622a5"
+    },
+    {
+      "order": 17,
+      "title": "咸有一德",
+      "path": "篇章/017-咸有一德.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334325",
+      "text_han_characters": 371,
+      "sha256": "c3c785abaee2a21a70d5bb1a8a11c756fce8d84b7c2a35a2ba9bcb551ae6f9de",
+      "source_page": "尚書/咸有一德",
+      "source_revision": 2334325,
+      "source_revision_timestamp": "2023-11-23T14:50:53Z",
+      "source_wikitext_sha256": "7c6136218afeb4b8b0cc37a45084962727a6eece32f9b98cb4eaa4ed6c7cd5bd"
+    },
+    {
+      "order": 18,
+      "title": "盤庚上",
+      "path": "篇章/018-盤庚上.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2639582",
+      "text_han_characters": 594,
+      "sha256": "b220cccbe122b32d16aba98febcead75dac0eb61b0e77217648fcb27a95457c5",
+      "source_page": "尚書/盤庚上",
+      "source_revision": 2639582,
+      "source_revision_timestamp": "2026-01-06T09:10:39Z",
+      "source_wikitext_sha256": "ce5bfe46b906676763457c7a5dc9c808ab6bd16eae12264af345375e4b80e5d6"
+    },
+    {
+      "order": 19,
+      "title": "盤庚中",
+      "path": "篇章/019-盤庚中.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2639583",
+      "text_han_characters": 494,
+      "sha256": "a4584fa23cfbde3332a273dc1a0d8e64f0b471f5ae062ec7fb97921b5f3798f5",
+      "source_page": "尚書/盤庚中",
+      "source_revision": 2639583,
+      "source_revision_timestamp": "2026-01-06T09:12:15Z",
+      "source_wikitext_sha256": "5d3211a07851e6ec5bfcf97b1807f2cfbda22ba5f731ec40af495de6e0d00305"
+    },
+    {
+      "order": 20,
+      "title": "盤庚下",
+      "path": "篇章/020-盤庚下.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636563",
+      "text_han_characters": 225,
+      "sha256": "ac415b9a43dd803cf6f32f886992e6c4333f1556d592690dc7df943f4168b4f1",
+      "source_page": "尚書/盤庚下",
+      "source_revision": 2636563,
+      "source_revision_timestamp": "2025-12-27T05:52:11Z",
+      "source_wikitext_sha256": "e929a2c9c37eb1592d1a091184bbc89b844bf0ec2a8f4ed72a91d668e564a3bd"
+    },
+    {
+      "order": 21,
+      "title": "說命上",
+      "path": "篇章/021-說命上.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2550563",
+      "text_han_characters": 248,
+      "sha256": "1a5eb140cbb3a0857cc7da0e6a8006771aaccf3d1a4f49308664471cd0416563",
+      "source_page": "尚書/說命上",
+      "source_revision": 2550563,
+      "source_revision_timestamp": "2025-04-13T06:51:56Z",
+      "source_wikitext_sha256": "203272befd0c4df85ead01539fa7cce2318f749d0548c82aa269943d9f190cd2"
+    },
+    {
+      "order": 22,
+      "title": "說命中",
+      "path": "篇章/022-說命中.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334323",
+      "text_han_characters": 227,
+      "sha256": "f2a34553e7ce7a637a513476d156fb648b4f15a476f2f31f3842fc68fd760937",
+      "source_page": "尚書/說命中",
+      "source_revision": 2334323,
+      "source_revision_timestamp": "2023-11-23T14:50:39Z",
+      "source_wikitext_sha256": "84c47dccc8d112c139c71667c751175bf487ad31f97fb6033e64c3d41e119034"
+    },
+    {
+      "order": 23,
+      "title": "說命下",
+      "path": "篇章/023-說命下.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2504481",
+      "text_han_characters": 276,
+      "sha256": "26c4b2a524a4233fd4323dd77a5e3ec88f687de0afbc7850cd86520bbaaae5bf",
+      "source_page": "尚書/說命下",
+      "source_revision": 2504481,
+      "source_revision_timestamp": "2024-12-13T11:49:27Z",
+      "source_wikitext_sha256": "168e7f5aaece5a89964976b8012118c3d4c7c57e8e2b89e59cc31fa09b73b273"
+    },
+    {
+      "order": 24,
+      "title": "高宗肜日",
+      "path": "篇章/024-高宗肜日.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636564",
+      "text_han_characters": 83,
+      "sha256": "b154c37d4798fdfad1856df5175e645423a9a1a8b3f6e3678d202cb1de298aeb",
+      "source_page": "尚書/高宗肜日",
+      "source_revision": 2636564,
+      "source_revision_timestamp": "2025-12-27T05:52:59Z",
+      "source_wikitext_sha256": "f0c573ad747b970776a0e80b89932e8957f6b94724178d47fe6e348941ba68f5"
+    },
+    {
+      "order": 25,
+      "title": "西伯戡黎",
+      "path": "篇章/025-西伯戡黎.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636565",
+      "text_han_characters": 128,
+      "sha256": "5c2748b86bbc1c0650299b1d756ec29fa6283fc9ef8f5eecac24a6a3c326b93c",
+      "source_page": "尚書/西伯戡黎",
+      "source_revision": 2636565,
+      "source_revision_timestamp": "2025-12-27T05:53:45Z",
+      "source_wikitext_sha256": "1c11f64935e6ab12b5950ac9d7fc9662e5f02eccf501c35b8ae44d71c6505edd"
+    },
+    {
+      "order": 26,
+      "title": "微子",
+      "path": "篇章/026-微子.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636566",
+      "text_han_characters": 245,
+      "sha256": "43027fc3228d7eab3e3091b8c7148f6a4273cc02b2c029311aa8766aed51ecff",
+      "source_page": "尚書/微子",
+      "source_revision": 2636566,
+      "source_revision_timestamp": "2025-12-27T05:54:18Z",
+      "source_wikitext_sha256": "9dde40562d69042252ab9e8fe22c37206da3cffba53691c4314154f2d478a5b5"
+    },
+    {
+      "order": 27,
+      "title": "泰誓上",
+      "path": "篇章/027-泰誓上.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334342",
+      "text_han_characters": 303,
+      "sha256": "d3180cc142cf60670c292b6f9f9de505864818ac7884fec80bf4bd18c6aa013c",
+      "source_page": "尚書/泰誓上",
+      "source_revision": 2334342,
+      "source_revision_timestamp": "2023-11-23T14:54:57Z",
+      "source_wikitext_sha256": "e71f56665d1ec4b1dce648a78df09c28eef3ca55ac73554471a585e4ac541518"
+    },
+    {
+      "order": 28,
+      "title": "泰誓中",
+      "path": "篇章/028-泰誓中.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334341",
+      "text_han_characters": 287,
+      "sha256": "ddc5234f7f96084811e8547ed235def380e96137c99ddc8a4a6032f3c1a983dc",
+      "source_page": "尚書/泰誓中",
+      "source_revision": 2334341,
+      "source_revision_timestamp": "2023-11-23T14:54:55Z",
+      "source_wikitext_sha256": "83f7224ccb02280be34c661067ee1409889eac0fdda1d8fdaaa6e2c257141e2e"
+    },
+    {
+      "order": 29,
+      "title": "泰誓下",
+      "path": "篇章/029-泰誓下.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334340",
+      "text_han_characters": 243,
+      "sha256": "10e8fed62428dc0ada767ca9e637ba384dfe5c0df188f3d7f52f7c17389ab461",
+      "source_page": "尚書/泰誓下",
+      "source_revision": 2334340,
+      "source_revision_timestamp": "2023-11-23T14:54:51Z",
+      "source_wikitext_sha256": "ec0cba23c46e4cdc5f1d206c212ec1bb3142337c6e4d3143a69e4e077ec5e736"
+    },
+    {
+      "order": 30,
+      "title": "牧誓",
+      "path": "篇章/030-牧誓.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2706545",
+      "text_han_characters": 369,
+      "sha256": "64be5b1952d089cec431b54d4790c7fa2766f5eef8c2f9fe15c310ba5df334c5",
+      "source_page": "尚書/牧誓",
+      "source_revision": 2706545,
+      "source_revision_timestamp": "2026-04-23T15:22:15Z",
+      "source_wikitext_sha256": "e05dd0ec64db9b690076786569cfd331618d7f5fa213c20c4379ab5f05f968bf"
+    },
+    {
+      "order": 31,
+      "title": "武成",
+      "path": "篇章/031-武成.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334339",
+      "text_han_characters": 437,
+      "sha256": "f5688aa73d364ec7eba4294801a2117ae587b77597dcdbe1ac14caf0b2881494",
+      "source_page": "尚書/武成",
+      "source_revision": 2334339,
+      "source_revision_timestamp": "2023-11-23T14:54:46Z",
+      "source_wikitext_sha256": "e782a7fb615d431ea3b1f76bb5a499e5a3459e4f9fc3719a6b810a8d801b878e"
+    },
+    {
+      "order": 32,
+      "title": "洪範",
+      "path": "篇章/032-洪範.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=8735553",
+      "text_han_characters": 2435,
+      "sha256": "0cd6e7fe78f7be552666aa42c0ed5bcaaef4ded8f554b0c207d68eb877df3791",
+      "source_page": "尚書/洪範",
+      "source_revision": 8735553,
+      "source_revision_timestamp": "2026-08-24T05:32:04Z",
+      "source_wikitext_sha256": "46d283fc59dae18389ec4983e9dbd4da0ebd96bd75a0a9dbbfa14a8f4b482f3a"
+    },
+    {
+      "order": 33,
+      "title": "旅獒",
+      "path": "篇章/033-旅獒.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334338",
+      "text_han_characters": 221,
+      "sha256": "ecb631483d5a40c9b07af324b01f00a70ded07333dacdd2e9ad32d9295ff6dc0",
+      "source_page": "尚書/旅獒",
+      "source_revision": 2334338,
+      "source_revision_timestamp": "2023-11-23T14:54:41Z",
+      "source_wikitext_sha256": "54303e3e6be41914bccd1adbe0b39ecbd40c3116279af6d9a314487f8a2f601d"
+    },
+    {
+      "order": 34,
+      "title": "金縢",
+      "path": "篇章/034-金縢.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2637019",
+      "text_han_characters": 987,
+      "sha256": "a3f06d75717e6bb44b123a76a8895cacdb1c1addd2a2b4548e4bd09fd718429c",
+      "source_page": "尚書/金縢",
+      "source_revision": 2637019,
+      "source_revision_timestamp": "2025-12-28T08:42:00Z",
+      "source_wikitext_sha256": "b3505aa66a7252bfafa885a925a948fa03658f41486903ff72931ee32b3a2083"
+    },
+    {
+      "order": 35,
+      "title": "大誥",
+      "path": "篇章/035-大誥.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636572",
+      "text_han_characters": 689,
+      "sha256": "a3d4f0ab329fd1f46c3c809a56906674a5b0bfb73a131c0faab77c6a0205297d",
+      "source_page": "尚書/大誥",
+      "source_revision": 2636572,
+      "source_revision_timestamp": "2025-12-27T06:02:57Z",
+      "source_wikitext_sha256": "6c1082310d393b886155f7c1e9c024d8eb20842ac146c0cb943e2da21c5ad5b4"
+    },
+    {
+      "order": 36,
+      "title": "微子之命",
+      "path": "篇章/036-微子之命.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334337",
+      "text_han_characters": 173,
+      "sha256": "20a9d96ca25ced966756c2e2ebaa5f908b1762b308aa939c5eb6cd655331d2b4",
+      "source_page": "尚書/微子之命",
+      "source_revision": 2334337,
+      "source_revision_timestamp": "2023-11-23T14:54:36Z",
+      "source_wikitext_sha256": "fd581c7af297047f24f4d43bd1cf1ac5b4fdd8740eb5ae493e0d5dc0b96e6856"
+    },
+    {
+      "order": 37,
+      "title": "康誥",
+      "path": "篇章/037-康誥.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=4969668",
+      "text_han_characters": 965,
+      "sha256": "7b12404e66640ddf3d98bc1565118b50f92d72e0c6e8c6e612366a0cfca48353",
+      "source_page": "尚書/康誥",
+      "source_revision": 4969668,
+      "source_revision_timestamp": "2026-05-17T06:51:57Z",
+      "source_wikitext_sha256": "886e76cbbb00d6108aa5c7d8575c9c146eb9d4627806ac68307759419696c175"
+    },
+    {
+      "order": 38,
+      "title": "酒誥",
+      "path": "篇章/038-酒誥.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636573",
+      "text_han_characters": 686,
+      "sha256": "6def497f58b4ec9e147ca6b399aa33347fd32c3db00b4b01d03dc7373b5bba15",
+      "source_page": "尚書/酒誥",
+      "source_revision": 2636573,
+      "source_revision_timestamp": "2025-12-27T06:03:34Z",
+      "source_wikitext_sha256": "90caf4d45b01eb1a6713edab0ff4c3ce8948c22c8695fcee2724a38c07cd1cea"
+    },
+    {
+      "order": 39,
+      "title": "梓材",
+      "path": "篇章/039-梓材.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2644306",
+      "text_han_characters": 264,
+      "sha256": "1155f8136c58081aa3f23819c989c71774ef17cc47da6d992258d5cd8e75aa94",
+      "source_page": "尚書/梓材",
+      "source_revision": 2644306,
+      "source_revision_timestamp": "2026-01-24T13:36:16Z",
+      "source_wikitext_sha256": "de750ebc302e8c6e1a52d4c2701ec463c9173b76c09531a0979a311bf12dd48b"
+    },
+    {
+      "order": 40,
+      "title": "召誥",
+      "path": "篇章/040-召誥.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2644307",
+      "text_han_characters": 738,
+      "sha256": "45b55ec00e474ef56dab661d557bce743df9c81396e7f1ab681c6ec77916a151",
+      "source_page": "尚書/召誥",
+      "source_revision": 2644307,
+      "source_revision_timestamp": "2026-01-24T13:36:57Z",
+      "source_wikitext_sha256": "a618a73d5eaf2c42886ea305abd17552804a414dca4ffff51ec6c012244f405c"
+    },
+    {
+      "order": 41,
+      "title": "洛誥",
+      "path": "篇章/041-洛誥.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636576",
+      "text_han_characters": 802,
+      "sha256": "e4b9a8b1cff35d8eb6cd638ac17dc575f65f71af98afd1adce5217082e2615b3",
+      "source_page": "尚書/洛誥",
+      "source_revision": 2636576,
+      "source_revision_timestamp": "2025-12-27T06:05:17Z",
+      "source_wikitext_sha256": "22c23794b16e19b25adef3f117506bcaf3501a09c95c5b81476de12942035d98"
+    },
+    {
+      "order": 42,
+      "title": "多士",
+      "path": "篇章/042-多士.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636577",
+      "text_han_characters": 588,
+      "sha256": "47ecdf972f41b37ac50c0b0f8e35f714c7c09e4b39b7a104bf37554fade024cf",
+      "source_page": "尚書/多士",
+      "source_revision": 2636577,
+      "source_revision_timestamp": "2025-12-27T06:05:55Z",
+      "source_wikitext_sha256": "061e69051de0094109eb2e5fc38ac194bd5cde257836a5db5678b77d09f9f858"
+    },
+    {
+      "order": 43,
+      "title": "無逸",
+      "path": "篇章/043-無逸.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636578",
+      "text_han_characters": 615,
+      "sha256": "e471dcc71f28ada8b635f8d4b7a08862b4d2c71a679a6ce7427a11ef1abd3829",
+      "source_page": "尚書/無逸",
+      "source_revision": 2636578,
+      "source_revision_timestamp": "2025-12-27T06:06:43Z",
+      "source_wikitext_sha256": "8afc3234ce3eb964a572be187d88faf9532bbcf984be048d9491759dd498d589"
+    },
+    {
+      "order": 44,
+      "title": "君奭",
+      "path": "篇章/044-君奭.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636579",
+      "text_han_characters": 794,
+      "sha256": "c6820fb8abea000bfa48d92f5c3b2316a68bf058544901b832e3e7579f351de9",
+      "source_page": "尚書/君奭",
+      "source_revision": 2636579,
+      "source_revision_timestamp": "2025-12-27T06:07:35Z",
+      "source_wikitext_sha256": "ea52ecb25bb445b9c685f19f02892c101cdaa9626d82f7758ff59524ff5f6aff"
+    },
+    {
+      "order": 45,
+      "title": "蔡仲之命",
+      "path": "篇章/045-蔡仲之命.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334334",
+      "text_han_characters": 249,
+      "sha256": "96e2952dc3c735c90e37c292d1ab2fbf99726a5999c228fe3370f167b824945f",
+      "source_page": "尚書/蔡仲之命",
+      "source_revision": 2334334,
+      "source_revision_timestamp": "2023-11-23T14:54:18Z",
+      "source_wikitext_sha256": "6b00f1338588b45fdb5d972abac17eeacbffd48aa2d999687578d4f0f02b711a"
+    },
+    {
+      "order": 46,
+      "title": "多方",
+      "path": "篇章/046-多方.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636580",
+      "text_han_characters": 817,
+      "sha256": "b9e2bc9f6459bd579c9abb2972de5506c918dbbb51eadf59916609265a4e1efb",
+      "source_page": "尚書/多方",
+      "source_revision": 2636580,
+      "source_revision_timestamp": "2025-12-27T06:08:10Z",
+      "source_wikitext_sha256": "09237f4f2ad5960549b6599925b053e6fb6ab3fa55ae002bf4b6df4438c3d02e"
+    },
+    {
+      "order": 47,
+      "title": "立政",
+      "path": "篇章/047-立政.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636581",
+      "text_han_characters": 696,
+      "sha256": "4abeff3ba4dd2998ff1325265c10455dc573104b31c8a0e952ef27cc9081d3d4",
+      "source_page": "尚書/立政",
+      "source_revision": 2636581,
+      "source_revision_timestamp": "2025-12-27T06:08:43Z",
+      "source_wikitext_sha256": "f8851e61dde69fdd91d5ea804532f9224dda2c9f045ded0ff081b724af934503"
+    },
+    {
+      "order": 48,
+      "title": "周官",
+      "path": "篇章/048-周官.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2416978",
+      "text_han_characters": 475,
+      "sha256": "62f75918dc23270ad2e23794da0946c0a8162d1a50849cabecca48333b84cfc3",
+      "source_page": "尚書/周官",
+      "source_revision": 2416978,
+      "source_revision_timestamp": "2024-06-04T16:14:08Z",
+      "source_wikitext_sha256": "03a8af01bcbff5ccd4f67e70b768a488eac4ed423d37190de7c90471c7774cee"
+    },
+    {
+      "order": 49,
+      "title": "君陳",
+      "path": "篇章/049-君陳.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2416977",
+      "text_han_characters": 359,
+      "sha256": "a3d1e738a77b3992ad05d5bc47c56249aa56999b70eddb2bce69b78659ac1dfa",
+      "source_page": "尚書/君陳",
+      "source_revision": 2416977,
+      "source_revision_timestamp": "2024-06-04T16:14:06Z",
+      "source_wikitext_sha256": "de5807116b0186cd6c351846c96b9467addab50e75e3c492e54f4676cab2afda"
+    },
+    {
+      "order": 50,
+      "title": "顧命",
+      "path": "篇章/050-顧命.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636582",
+      "text_han_characters": 636,
+      "sha256": "e63f041ab3452d882c10a0da35023cce4e79a82625fbd7477340fe349140b73d",
+      "source_page": "尚書/顧命",
+      "source_revision": 2636582,
+      "source_revision_timestamp": "2025-12-27T06:09:24Z",
+      "source_wikitext_sha256": "672be999bf097c5d32ae1be232b906d6a82656bfa5cd96db1e6f3879e2d573fc"
+    },
+    {
+      "order": 51,
+      "title": "康王之誥",
+      "path": "篇章/051-康王之誥.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636583",
+      "text_han_characters": 283,
+      "sha256": "2b38efb7f578e675e8b16f4183d9868333f54ebf27dd166b39d9346187903eba",
+      "source_page": "尚書/康王之誥",
+      "source_revision": 2636583,
+      "source_revision_timestamp": "2025-12-27T06:09:51Z",
+      "source_wikitext_sha256": "ac753c7bbd101d1dc8ed053b1675d8e2c1e3faf90a4b3998627ca0eb8fe3df43"
+    },
+    {
+      "order": 52,
+      "title": "畢命",
+      "path": "篇章/052-畢命.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334333",
+      "text_han_characters": 449,
+      "sha256": "e8051462b8924ef8037396e7fcc1faf5fb58f44c5f984d95b8c2767a4c87c825",
+      "source_page": "尚書/畢命",
+      "source_revision": 2334333,
+      "source_revision_timestamp": "2023-11-23T14:54:07Z",
+      "source_wikitext_sha256": "2d7cd23e9209f8152f13218c5e46d2614b0c3b27fe141b96488965a11cfea59e"
+    },
+    {
+      "order": 53,
+      "title": "君牙",
+      "path": "篇章/053-君牙.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2334336",
+      "text_han_characters": 346,
+      "sha256": "df9de5e714aa53f68f040e45356ecff2b8f11a6fbde92f1eb7a9433502d89535",
+      "source_page": "尚書/君牙",
+      "source_revision": 2334336,
+      "source_revision_timestamp": "2023-11-23T14:54:29Z",
+      "source_wikitext_sha256": "6011d1d95b17c0a4643c2c03c4c1906fd5c89d752c141449d3b8562675fa53d9"
+    },
+    {
+      "order": 54,
+      "title": "冏命",
+      "path": "篇章/054-冏命.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2550557",
+      "text_han_characters": 238,
+      "sha256": "0126816d9251d8b81aa66c1b77651709448c8fb0fce4bdd46fd25f32f93e004f",
+      "source_page": "尚書/冏命",
+      "source_revision": 2550557,
+      "source_revision_timestamp": "2025-04-13T05:34:06Z",
+      "source_wikitext_sha256": "2c96d9464b9782ed92dcf41c2b3649a8fbeb3ec2f7264fde238e7180ecf0e407"
+    },
+    {
+      "order": 55,
+      "title": "呂刑",
+      "path": "篇章/055-呂刑.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=7908253",
+      "text_han_characters": 3324,
+      "sha256": "2b3ddf79bc2f852553d8a2be10d8359b953ec031ba3669a2d029915d38fd5f1d",
+      "source_page": "尚書/呂刑",
+      "source_revision": 7908253,
+      "source_revision_timestamp": "2026-07-15T10:22:14Z",
+      "source_wikitext_sha256": "03a10c754d94ad0c84faa65e5cef1466efdfcc34f13cc27098a65fe11b9f03cf"
+    },
+    {
+      "order": 56,
+      "title": "文侯之命",
+      "path": "篇章/056-文侯之命.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636586",
+      "text_han_characters": 225,
+      "sha256": "e082e993d3e3cce2d23efdc6fbbed7e1f48a633f242c4dc3dbf7197f761d37da",
+      "source_page": "尚書/文侯之命",
+      "source_revision": 2636586,
+      "source_revision_timestamp": "2025-12-27T06:10:45Z",
+      "source_wikitext_sha256": "024084b36913c3d15cdb29c1ab099e7a538df0ccfeb214fdcca68e8fb9477be4"
+    },
+    {
+      "order": 57,
+      "title": "費誓",
+      "path": "篇章/057-費誓.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636587",
+      "text_han_characters": 189,
+      "sha256": "8edfca3348b95dd10f5b7f0a63248361d27a09f5f61ee1281c5d6db8d23c6ef2",
+      "source_page": "尚書/費誓",
+      "source_revision": 2636587,
+      "source_revision_timestamp": "2025-12-27T06:11:13Z",
+      "source_wikitext_sha256": "4e3920a2c301920981a2389153235ec07ef61625eeb0339c3d26b2ab5b164ce4"
+    },
+    {
+      "order": 58,
+      "title": "秦誓",
+      "path": "篇章/058-秦誓.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636588",
+      "text_han_characters": 261,
+      "sha256": "88db3cef4789f0cc0aba698845274056ea95bf7b969f20425487624d5fc0f5af",
+      "source_page": "尚書/秦誓",
+      "source_revision": 2636588,
+      "source_revision_timestamp": "2025-12-27T06:11:41Z",
+      "source_wikitext_sha256": "fc8ea344db0d4927624958d4cdcf12457d8ee6d3849d8e012db6f3b6b439784e"
+    }
+  ]
+}

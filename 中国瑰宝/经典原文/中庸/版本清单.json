@@ -1,0 +1,29 @@
+{
+  "book": "中庸",
+  "retrieved_date": "2026-09-26",
+  "coverage": "完整采用《礼记·中庸》篇本，与本库《礼记》同篇正文一致。保留原段落，不将朱熹三十三章的章句注释混入原文。",
+  "full_text_sha256": "2fd10d9e0d4d4b1191519a931df7b03e8808ef53f4d31cd3bf765e5dd59adf7b",
+  "sources": [
+    {
+      "label": "禮記/中庸",
+      "url": "https://zh.wikisource.org/wiki/%E7%A6%AE%E8%A8%98/%E4%B8%AD%E5%BA%B8",
+      "revision": 2346484,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2346484",
+      "source_wikitext_sha256": "c2969c67e287437efaca4cec62a55d6a3a8fdf0708256079caaf94cd2eb9ec61"
+    }
+  ],
+  "chapters": [
+    {
+      "order": 1,
+      "title": "中庸",
+      "path": "篇章/001-中庸.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2346484",
+      "text_han_characters": 3567,
+      "sha256": "2611eb118658f689b21f3d54f081d31150d3b3ab427c5e938e47c4164624e507",
+      "source_page": "禮記/中庸",
+      "source_revision": 2346484,
+      "source_revision_timestamp": "2023-12-21T03:47:15Z",
+      "source_wikitext_sha256": "c2969c67e287437efaca4cec62a55d6a3a8fdf0708256079caaf94cd2eb9ec61"
+    }
+  ]
+}
