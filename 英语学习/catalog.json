@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "title": "英语学习",
+  "groups": [
+    {
+      "title": "听说读写",
+      "catalog": "英语学习/听说读写/catalog.json"
+    },
+    {
+      "title": "基础能力",
+      "catalog": "英语学习/基础能力/catalog.json"
+    },
+    {
+      "title": "学习规划",
+      "catalog": "英语学习/学习规划/catalog.json"
+    },
+    {
+      "title": "综合实践",
+      "catalog": "英语学习/综合实践/catalog.json"
+    }
+  ],
+  "topics": []
+}

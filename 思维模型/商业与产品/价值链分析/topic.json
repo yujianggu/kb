@@ -1,0 +1,17 @@
+{
+  "id": "thinking.value-chain",
+  "title": "价值链分析",
+  "summary": "价值链分析把业务拆成创造和交付价值的活动，检查哪些活动影响成本、客户价值，以及活动怎样配合。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

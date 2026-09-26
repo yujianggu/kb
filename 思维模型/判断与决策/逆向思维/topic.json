@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-023",
+  "title": "逆向思维",
+  "summary": "与其只问“怎样成功”，也可以问“怎样会失败”，再把可避免原因转回行动。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

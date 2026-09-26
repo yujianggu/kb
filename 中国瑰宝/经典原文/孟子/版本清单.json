@@ -1,0 +1,290 @@
+{
+  "book": "孟子",
+  "retrieved_date": "2026-09-26",
+  "coverage": "收录七篇，上下共14部分；按底本篇序完整保存，不混入赵岐、朱熹等注家注疏。字形和章句分隔以来源为准。",
+  "full_text_sha256": "d9a3bbd282faa78732294646709ae22f4058856eadcb3922cf2d21f7018553b9",
+  "sources": [
+    {
+      "label": "孟子/梁惠王上",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E6%A2%81%E6%83%A0%E7%8E%8B%E4%B8%8A",
+      "revision": 2642991,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2642991",
+      "source_wikitext_sha256": "b1111818f30a90f244fc010588fad44c635a74b85031498d86f7bfd583619dff"
+    },
+    {
+      "label": "孟子/梁惠王下",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E6%A2%81%E6%83%A0%E7%8E%8B%E4%B8%8B",
+      "revision": 2636980,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636980",
+      "source_wikitext_sha256": "7b44ac8a57dea6016e5f8ab5a70f927c217d96aafd4294148d4daed8235b2be6"
+    },
+    {
+      "label": "孟子/公孫丑上",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E5%85%AC%E5%AD%AB%E4%B8%91%E4%B8%8A",
+      "revision": 2636981,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636981",
+      "source_wikitext_sha256": "d1c1459d77972dc3f413f73a9a56302322e67b944df0d1748b4332e6e06cb501"
+    },
+    {
+      "label": "孟子/公孫丑下",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E5%85%AC%E5%AD%AB%E4%B8%91%E4%B8%8B",
+      "revision": 8750853,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=8750853",
+      "source_wikitext_sha256": "40ba7a47eee6ac8edc3da97c1bfe289594b2af160a7bb3687f9057948dd74684"
+    },
+    {
+      "label": "孟子/滕文公上",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E6%BB%95%E6%96%87%E5%85%AC%E4%B8%8A",
+      "revision": 2636984,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636984",
+      "source_wikitext_sha256": "2932b357917d33a3013eea37b33489465bbecbcc274ccbe60d7b4e3cc35c747d"
+    },
+    {
+      "label": "孟子/滕文公下",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E6%BB%95%E6%96%87%E5%85%AC%E4%B8%8B",
+      "revision": 2636985,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636985",
+      "source_wikitext_sha256": "7561804eea26bd31aa8ff94055fdcffa5245249862a8337071e691aad8ef818f"
+    },
+    {
+      "label": "孟子/離婁上",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E9%9B%A2%E5%A9%81%E4%B8%8A",
+      "revision": 2636988,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636988",
+      "source_wikitext_sha256": "be6b0b6afbe53901fd173aec8d35e0adfd4af47e5074092162c5955a5d62d0d2"
+    },
+    {
+      "label": "孟子/離婁下",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E9%9B%A2%E5%A9%81%E4%B8%8B",
+      "revision": 2636994,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636994",
+      "source_wikitext_sha256": "1ee6ff13f1326be574d7af1e2187aec1d1e6aebf6e73befa9d961c9b0b82f0cf"
+    },
+    {
+      "label": "孟子/萬章上",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E8%90%AC%E7%AB%A0%E4%B8%8A",
+      "revision": 2636998,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2636998",
+      "source_wikitext_sha256": "1303cdf6569f7622dfc2081de4727f050096670b7a9a11e07544f47c31d8d531"
+    },
+    {
+      "label": "孟子/萬章下",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E8%90%AC%E7%AB%A0%E4%B8%8B",
+      "revision": 7912092,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=7912092",
+      "source_wikitext_sha256": "8749a337f795cb67341cc57116e9f1f94d7084f236e23beb006007f413dcc2dc"
+    },
+    {
+      "label": "孟子/告子上",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E5%91%8A%E5%AD%90%E4%B8%8A",
+      "revision": 2637004,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2637004",
+      "source_wikitext_sha256": "f7acc38fe8501c8ef7c43bc11e8bd482a7fdc9e186f7e96f105f504b5b6f59d7"
+    },
+    {
+      "label": "孟子/告子下",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E5%91%8A%E5%AD%90%E4%B8%8B",
+      "revision": 2637005,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2637005",
+      "source_wikitext_sha256": "f6124218fe137d20e5283ce9fff4a48d78e58c8d3284e9b204f8292c10b8dc8a"
+    },
+    {
+      "label": "孟子/盡心上",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E7%9B%A1%E5%BF%83%E4%B8%8A",
+      "revision": 2637007,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2637007",
+      "source_wikitext_sha256": "8e1e6f2bbb7bb40877900bfbc70fcff0d7c66975067d1597c53829f6e38196dc"
+    },
+    {
+      "label": "孟子/盡心下",
+      "url": "https://zh.wikisource.org/wiki/%E5%AD%9F%E5%AD%90/%E7%9B%A1%E5%BF%83%E4%B8%8B",
+      "revision": 2637012,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2637012",
+      "source_wikitext_sha256": "090b80cdc19781b308c025432e65fff048d4cf85730c0676ab4eedc414151a7d"
+    }
+  ],
+  "chapters": [
+    {
+      "order": 1,
+      "title": "梁惠王上",
+      "path": "篇章/001-梁惠王上.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2642991",
+      "text_han_characters": 2441,
+      "sha256": "e3d2fec22cc5ce240cc6e6326b3d80ffe3ece306cc1e13659af01f0c21720320",
+      "source_page": "孟子/梁惠王上",
+      "source_revision": 2642991,
+      "source_revision_timestamp": "2026-01-19T14:38:17Z",
+      "source_wikitext_sha256": "b1111818f30a90f244fc010588fad44c635a74b85031498d86f7bfd583619dff",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 2,
+      "title": "梁惠王下",
+      "path": "篇章/002-梁惠王下.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636980",
+      "text_han_characters": 2927,
+      "sha256": "df6244f2e6760c4afc2e6611c35d2102e1b035b002c6869a4cb3df31ec3ade51",
+      "source_page": "孟子/梁惠王下",
+      "source_revision": 2636980,
+      "source_revision_timestamp": "2025-12-28T05:14:05Z",
+      "source_wikitext_sha256": "7b44ac8a57dea6016e5f8ab5a70f927c217d96aafd4294148d4daed8235b2be6",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 3,
+      "title": "公孫丑上",
+      "path": "篇章/003-公孫丑上.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636981",
+      "text_han_characters": 2688,
+      "sha256": "7a3358a5609b3822df8738c92e7998355158c3d3802921859c8ff93d6c49927c",
+      "source_page": "孟子/公孫丑上",
+      "source_revision": 2636981,
+      "source_revision_timestamp": "2025-12-28T05:20:18Z",
+      "source_wikitext_sha256": "d1c1459d77972dc3f413f73a9a56302322e67b944df0d1748b4332e6e06cb501",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 4,
+      "title": "公孫丑下",
+      "path": "篇章/004-公孫丑下.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=8750853",
+      "text_han_characters": 2463,
+      "sha256": "511635dd0ee5d87b9edca690366706dbed42911c8abd6f4324d56d3b6fc927ba",
+      "source_page": "孟子/公孫丑下",
+      "source_revision": 8750853,
+      "source_revision_timestamp": "2026-09-03T02:52:11Z",
+      "source_wikitext_sha256": "40ba7a47eee6ac8edc3da97c1bfe289594b2af160a7bb3687f9057948dd74684",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 5,
+      "title": "滕文公上",
+      "path": "篇章/005-滕文公上.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636984",
+      "text_han_characters": 2507,
+      "sha256": "5964a1791cba38501bf75b0404d2f35b5dad8637d7b927d59e779239d5319d95",
+      "source_page": "孟子/滕文公上",
+      "source_revision": 2636984,
+      "source_revision_timestamp": "2025-12-28T05:34:06Z",
+      "source_wikitext_sha256": "2932b357917d33a3013eea37b33489465bbecbcc274ccbe60d7b4e3cc35c747d",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 6,
+      "title": "滕文公下",
+      "path": "篇章/006-滕文公下.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636985",
+      "text_han_characters": 2560,
+      "sha256": "e2f05185fb599b35173bde3b5c25b123bf2c57587daeafcabc4966ae1b99b294",
+      "source_page": "孟子/滕文公下",
+      "source_revision": 2636985,
+      "source_revision_timestamp": "2025-12-28T05:39:10Z",
+      "source_wikitext_sha256": "7561804eea26bd31aa8ff94055fdcffa5245249862a8337071e691aad8ef818f",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 7,
+      "title": "離婁上",
+      "path": "篇章/007-離婁上.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636988",
+      "text_han_characters": 2452,
+      "sha256": "681c41284b0c39759ab23f66d9040911d467b4b604dd90509f1d4e85a7ac0415",
+      "source_page": "孟子/離婁上",
+      "source_revision": 2636988,
+      "source_revision_timestamp": "2025-12-28T05:44:32Z",
+      "source_wikitext_sha256": "be6b0b6afbe53901fd173aec8d35e0adfd4af47e5074092162c5955a5d62d0d2",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 8,
+      "title": "離婁下",
+      "path": "篇章/008-離婁下.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636994",
+      "text_han_characters": 2365,
+      "sha256": "1f0fb4248debc2cb7e9eed8f45e240da4c362a1b38a65a467fccfc65ed12717b",
+      "source_page": "孟子/離婁下",
+      "source_revision": 2636994,
+      "source_revision_timestamp": "2025-12-28T05:49:35Z",
+      "source_wikitext_sha256": "1ee6ff13f1326be574d7af1e2187aec1d1e6aebf6e73befa9d961c9b0b82f0cf",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 9,
+      "title": "萬章上",
+      "path": "篇章/009-萬章上.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2636998",
+      "text_han_characters": 2682,
+      "sha256": "f4e5602c36ea327923cdd050d8b088ed9bf67903618d4cebbe850c4d77ec8077",
+      "source_page": "孟子/萬章上",
+      "source_revision": 2636998,
+      "source_revision_timestamp": "2025-12-28T05:53:24Z",
+      "source_wikitext_sha256": "1303cdf6569f7622dfc2081de4727f050096670b7a9a11e07544f47c31d8d531",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 10,
+      "title": "萬章下",
+      "path": "篇章/010-萬章下.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=7912092",
+      "text_han_characters": 2460,
+      "sha256": "4d6b0c41c4559cf4ab2f3501455206f6aa9aea4eeeb4ac621fe6fa32cc96f6fb",
+      "source_page": "孟子/萬章下",
+      "source_revision": 7912092,
+      "source_revision_timestamp": "2026-08-04T05:16:56Z",
+      "source_wikitext_sha256": "8749a337f795cb67341cc57116e9f1f94d7084f236e23beb006007f413dcc2dc",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 11,
+      "title": "告子上",
+      "path": "篇章/011-告子上.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2637004",
+      "text_han_characters": 2647,
+      "sha256": "e0c94ddf8ae4dabb0b3eed89660694c6b61dda51bb7ed8e633d6b3274ad1ae1f",
+      "source_page": "孟子/告子上",
+      "source_revision": 2637004,
+      "source_revision_timestamp": "2025-12-28T06:01:59Z",
+      "source_wikitext_sha256": "f7acc38fe8501c8ef7c43bc11e8bd482a7fdc9e186f7e96f105f504b5b6f59d7",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 12,
+      "title": "告子下",
+      "path": "篇章/012-告子下.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2637005",
+      "text_han_characters": 2621,
+      "sha256": "427a7d5125c53f6c4835960a6ca6f28d43e992ce3e45752a78456c61ea00bf78",
+      "source_page": "孟子/告子下",
+      "source_revision": 2637005,
+      "source_revision_timestamp": "2025-12-28T06:06:30Z",
+      "source_wikitext_sha256": "f6124218fe137d20e5283ce9fff4a48d78e58c8d3284e9b204f8292c10b8dc8a",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 13,
+      "title": "盡心上",
+      "path": "篇章/013-盡心上.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2637007",
+      "text_han_characters": 2428,
+      "sha256": "39ad9eddb1e8d21eed1eb91a68fbc10fb53ed52789dbfe22cc0ad4b38f169ec8",
+      "source_page": "孟子/盡心上",
+      "source_revision": 2637007,
+      "source_revision_timestamp": "2025-12-28T06:12:52Z",
+      "source_wikitext_sha256": "8e1e6f2bbb7bb40877900bfbc70fcff0d7c66975067d1597c53829f6e38196dc",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 14,
+      "title": "盡心下",
+      "path": "篇章/014-盡心下.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2637012",
+      "text_han_characters": 2275,
+      "sha256": "09b9f7115948af6b1104f90d261de9cd6ef1c00d4b435f3a5b9421bf3960e255",
+      "source_page": "孟子/盡心下",
+      "source_revision": 2637012,
+      "source_revision_timestamp": "2025-12-28T06:51:29Z",
+      "source_wikitext_sha256": "090b80cdc19781b308c025432e65fff048d4cf85730c0676ab4eedc414151a7d",
+      "transformation": "仅格式转写"
+    }
+  ]
+}

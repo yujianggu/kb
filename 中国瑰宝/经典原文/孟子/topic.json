@@ -1,0 +1,20 @@
+{
+  "id": "culture.classics.mengzi",
+  "title": "孟子",
+  "summary": "阅读《孟子》七篇上下14部分原文及742段古今对照白话初稿，结合背景和案例；注意底本差异与译法争议。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "全文.md",
+    "examples": "案例.md",
+    "sources": "来源.md",
+    "assets": "版本清单.json"
+  },
+  "requires": [],
+  "related": [
+    "culture.confucianism",
+    "culture.chinese-history"
+  ]
+}

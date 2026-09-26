@@ -1,0 +1,19 @@
+{
+  "id": "thinking.lean-startup",
+  "title": "精益创业与验证式学习",
+  "summary": "在需求、购买或交付尚不确定时，设计实验并用证据决定继续、转向或停止；不以小样本短期结果证明长期盈利。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "来源.md"
+  },
+  "requires": [],
+  "related": [
+    "thinking.model-030",
+    "thinking.cost-benefit"
+  ]
+}

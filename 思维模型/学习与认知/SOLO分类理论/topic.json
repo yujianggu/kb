@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-043",
+  "title": "SOLO分类理论",
+  "summary": "“能列出五个知识点”与“能解释它们怎样连起来”不是同一种理解。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

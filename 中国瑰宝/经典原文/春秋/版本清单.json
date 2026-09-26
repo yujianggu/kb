@@ -1,0 +1,257 @@
+{
+  "book": "春秋",
+  "retrieved_date": "2026-09-26",
+  "coverage": "收录《春秋经》鲁十二公经文，起隐公元年，迄哀公十四年西狩获麟；不以三传替代经文。保留来源字形及注记。庄公篇存在明确疑误与异文，必须同时看校勘说明.md；本电子转写不能视为已校定本。",
+  "full_text_sha256": "0197e02d21c002a2dbfd1d5c184e63dda66e1c54a9389e0cb6007317a69f3945",
+  "sources": [
+    {
+      "label": "春秋經/隱公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E9%9A%B1%E5%85%AC",
+      "revision": 2184546,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2184546",
+      "source_wikitext_sha256": "3c54328011a34f98acc69a827baf8a662ab2565bd7804bc2d79b2eb8a477edc5"
+    },
+    {
+      "label": "春秋經/桓公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E6%A1%93%E5%85%AC",
+      "revision": 2184579,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2184579",
+      "source_wikitext_sha256": "0422f02c2fa18996740b868e1ffd1051f2f4604ef972f03cdbb2a27345d3ba52"
+    },
+    {
+      "label": "春秋經/莊公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E8%8E%8A%E5%85%AC",
+      "revision": 2184394,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2184394",
+      "source_wikitext_sha256": "c9632f935359f33ff9eb64957339d00c8c0e9562740c14980b47c93e20af77c6"
+    },
+    {
+      "label": "春秋經/閔公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E9%96%94%E5%85%AC",
+      "revision": 2184293,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2184293",
+      "source_wikitext_sha256": "919e243f5b94c20b921bf881b1891babccdf3bd4df7fcbafb3ed0bc9d747e765"
+    },
+    {
+      "label": "春秋經/僖公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E5%83%96%E5%85%AC",
+      "revision": 2691889,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2691889",
+      "source_wikitext_sha256": "6c8b7ef0b2633a4096782354da366663709eaa525a56248bdd7ae4b23c15af36"
+    },
+    {
+      "label": "春秋經/文公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E6%96%87%E5%85%AC",
+      "revision": 5978344,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=5978344",
+      "source_wikitext_sha256": "c3507f3b5f0ca18ffdaf89ab65d4b8c26338e9cd4ed1ba648ae2622ab8c9b3a1"
+    },
+    {
+      "label": "春秋經/宣公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E5%AE%A3%E5%85%AC",
+      "revision": 5978347,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=5978347",
+      "source_wikitext_sha256": "c640cc7aafdb5380e798f458422f4152766cd4233b0e0911eb8efb0fb31e234a"
+    },
+    {
+      "label": "春秋經/成公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E6%88%90%E5%85%AC",
+      "revision": 9458629,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=9458629",
+      "source_wikitext_sha256": "d1dc3f052c6f197791fc557129631c08aa8af547b60dcf352041f889cbf81ac6"
+    },
+    {
+      "label": "春秋經/襄公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E8%A5%84%E5%85%AC",
+      "revision": 5978350,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=5978350",
+      "source_wikitext_sha256": "7312fd0c3bf04eca27126bda40c53d10c5d3098c2c194c2d4d526bde09a8ec88"
+    },
+    {
+      "label": "春秋經/昭公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E6%98%AD%E5%85%AC",
+      "revision": 5978358,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=5978358",
+      "source_wikitext_sha256": "4334849f8cbf734745817a6aa011dcc976d8ebe53162d15e4f6465ba20e81442"
+    },
+    {
+      "label": "春秋經/定公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E5%AE%9A%E5%85%AC",
+      "revision": 5978359,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=5978359",
+      "source_wikitext_sha256": "1e8c3ffd9dc17d610a029a8c228023d681b53100b9745f493d5ade3652f06984"
+    },
+    {
+      "label": "春秋經/哀公",
+      "url": "https://zh.wikisource.org/wiki/%E6%98%A5%E7%A7%8B%E7%B6%93/%E5%93%80%E5%85%AC",
+      "revision": 2620452,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2620452",
+      "source_wikitext_sha256": "440f3d7497e803062a25ac338b42eda246b461c211652f92ad2afc5137362338"
+    }
+  ],
+  "chapters": [
+    {
+      "order": 1,
+      "title": "隱公",
+      "path": "篇章/001-隱公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2184546",
+      "text_han_characters": 826,
+      "sha256": "fb79338c8a269757b757e44a37292525bf8fe0a85d636b1b2457bd0cdabb2fae",
+      "source_page": "春秋經/隱公",
+      "source_revision": 2184546,
+      "source_revision_timestamp": "2022-10-06T06:07:24Z",
+      "source_wikitext_sha256": "3c54328011a34f98acc69a827baf8a662ab2565bd7804bc2d79b2eb8a477edc5",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 2,
+      "title": "桓公",
+      "path": "篇章/002-桓公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2184579",
+      "text_han_characters": 1340,
+      "sha256": "26086d277cdaf12a44d3cd9760a5aa5756539262a02348ca36ed9a5289324519",
+      "source_page": "春秋經/桓公",
+      "source_revision": 2184579,
+      "source_revision_timestamp": "2022-10-06T10:08:13Z",
+      "source_wikitext_sha256": "0422f02c2fa18996740b868e1ffd1051f2f4604ef972f03cdbb2a27345d3ba52",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 3,
+      "title": "莊公",
+      "path": "篇章/003-莊公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2184394",
+      "text_han_characters": 1462,
+      "sha256": "96dbb884b0d4721f56c771d2ea692d51181a91b878e43bab9709dd33c85fa2ac",
+      "source_page": "春秋經/莊公",
+      "source_revision": 2184394,
+      "source_revision_timestamp": "2022-10-05T06:35:18Z",
+      "source_wikitext_sha256": "c9632f935359f33ff9eb64957339d00c8c0e9562740c14980b47c93e20af77c6",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 4,
+      "title": "閔公",
+      "path": "篇章/004-閔公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2184293",
+      "text_han_characters": 143,
+      "sha256": "58fce8dc03c1a8d9c5829d1588aa37a9035821603508ce82e0d8d9dde4d4fcda",
+      "source_page": "春秋經/閔公",
+      "source_revision": 2184293,
+      "source_revision_timestamp": "2022-10-04T04:07:31Z",
+      "source_wikitext_sha256": "919e243f5b94c20b921bf881b1891babccdf3bd4df7fcbafb3ed0bc9d747e765",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 5,
+      "title": "僖公",
+      "path": "篇章/005-僖公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2691889",
+      "text_han_characters": 2131,
+      "sha256": "64f4377c63267d6e4bab0ab721d78e22cea1eff2d96ea37afdd3078986b33c35",
+      "source_page": "春秋經/僖公",
+      "source_revision": 2691889,
+      "source_revision_timestamp": "2026-04-10T13:29:19Z",
+      "source_wikitext_sha256": "6c8b7ef0b2633a4096782354da366663709eaa525a56248bdd7ae4b23c15af36",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 6,
+      "title": "文公",
+      "path": "篇章/006-文公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=5978344",
+      "text_han_characters": 1352,
+      "sha256": "3327b7896afb7f81cdc22446325df9a39fbd5f2f689b8c37a50990a613899535",
+      "source_page": "春秋經/文公",
+      "source_revision": 5978344,
+      "source_revision_timestamp": "2026-06-01T06:31:40Z",
+      "source_wikitext_sha256": "c3507f3b5f0ca18ffdaf89ab65d4b8c26338e9cd4ed1ba648ae2622ab8c9b3a1",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 7,
+      "title": "宣公",
+      "path": "篇章/007-宣公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=5978347",
+      "text_han_characters": 1163,
+      "sha256": "fb0e5b74a8115d515fb1c1e20a77750e8bb9278eae2b308783cf7d8f84aec15e",
+      "source_page": "春秋經/宣公",
+      "source_revision": 5978347,
+      "source_revision_timestamp": "2026-06-01T06:56:31Z",
+      "source_wikitext_sha256": "c640cc7aafdb5380e798f458422f4152766cd4233b0e0911eb8efb0fb31e234a",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 8,
+      "title": "成公",
+      "path": "篇章/008-成公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=9458629",
+      "text_han_characters": 1686,
+      "sha256": "b7227d66dffd89f547768fcd7b2222b7e4ecfc3ded5b1ca20f5e1d3a6d1609a7",
+      "source_page": "春秋經/成公",
+      "source_revision": 9458629,
+      "source_revision_timestamp": "2026-09-09T15:48:19Z",
+      "source_wikitext_sha256": "d1dc3f052c6f197791fc557129631c08aa8af547b60dcf352041f889cbf81ac6",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 9,
+      "title": "襄公",
+      "path": "篇章/009-襄公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=5978350",
+      "text_han_characters": 2802,
+      "sha256": "2e12c4e073248e06472682db71ee59b821c99a5b829cbbd7cc523464e03a6aeb",
+      "source_page": "春秋經/襄公",
+      "source_revision": 5978350,
+      "source_revision_timestamp": "2026-06-01T07:10:44Z",
+      "source_wikitext_sha256": "7312fd0c3bf04eca27126bda40c53d10c5d3098c2c194c2d4d526bde09a8ec88",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 10,
+      "title": "昭公",
+      "path": "篇章/010-昭公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=5978358",
+      "text_han_characters": 2144,
+      "sha256": "e6d28afdf7a03cfd9fbf5a8ef960d833ef5d72eabb83a72b681b316790f819ce",
+      "source_page": "春秋經/昭公",
+      "source_revision": 5978358,
+      "source_revision_timestamp": "2026-06-01T07:19:07Z",
+      "source_wikitext_sha256": "4334849f8cbf734745817a6aa011dcc976d8ebe53162d15e4f6465ba20e81442",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 11,
+      "title": "定公",
+      "path": "篇章/011-定公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=5978359",
+      "text_han_characters": 1167,
+      "sha256": "7cd03f6d4fb24519958b7e8ac0c460ff1acfaea8385b37d3cd06d0a77ce7de41",
+      "source_page": "春秋經/定公",
+      "source_revision": 5978359,
+      "source_revision_timestamp": "2026-06-01T07:19:56Z",
+      "source_wikitext_sha256": "1e8c3ffd9dc17d610a029a8c228023d681b53100b9745f493d5ade3652f06984",
+      "transformation": "仅格式转写"
+    },
+    {
+      "order": 12,
+      "title": "哀公",
+      "path": "篇章/012-哀公.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2620452",
+      "text_han_characters": 908,
+      "sha256": "9ff35461ae7f54380d91af23ad6155aa75d5be3eaa9dd3804d9ef18cb757584a",
+      "source_page": "春秋經/哀公",
+      "source_revision": 2620452,
+      "source_revision_timestamp": "2025-11-19T11:31:33Z",
+      "source_wikitext_sha256": "440f3d7497e803062a25ac338b42eda246b461c211652f92ad2afc5137362338",
+      "transformation": "主文截至十有四年春西狩獲麟；原站后续记事另存附录，不混入经文。"
+    }
+  ],
+  "supplementary": [
+    {
+      "path": "附录-哀公十四年续记.md",
+      "sha256": "7d19fbc9654ebb9fbfccf037922c09917ff446048b282b0cbf7856e3b4b0e0df",
+      "kind": "原站附录，不属于获麟以前经文主文"
+    }
+  ]
+}

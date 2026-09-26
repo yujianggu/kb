@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "title": "学习与认知",
+  "groups": [],
+  "topics": [
+    {
+      "id": "thinking.model-042",
+      "title": "NLP理解层次",
+      "summary": "“这次没练习”和“我就是没能力的人”说的不是同一回事。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/学习与认知/NLP理解层次/topic.json",
+      "brief": "思维模型/学习与认知/NLP理解层次/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-043",
+      "title": "SOLO分类理论",
+      "summary": "“能列出五个知识点”与“能解释它们怎样连起来”不是同一种理解。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/学习与认知/SOLO分类理论/topic.json",
+      "brief": "思维模型/学习与认知/SOLO分类理论/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-044",
+      "title": "SQ3R阅读法",
+      "summary": "版本与边界： 采用Survey、Question、Read、Recite、Review五步版本；Recite强调脱离原文回忆和解释，不是逐字背诵。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/学习与认知/SQ3R阅读法/topic.json",
+      "brief": "思维模型/学习与认知/SQ3R阅读法/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-045",
+      "title": "元认知",
+      "summary": "做题前估计自己已经掌握，交卷后却发现漏洞，元认知关心的正是这种“我怎样认识和管理自己的认知”。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/学习与认知/元认知/topic.json",
+      "brief": "思维模型/学习与认知/元认知/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-046",
+      "title": "心流",
+      "summary": "写作、解题或练琴时，你全神贯注于眼前任务，能不断知道下一步该怎么做，时间感也可能改变，这类体验常被称为心流。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/学习与认知/心流/topic.json",
+      "brief": "思维模型/学习与认知/心流/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-047",
+      "title": "总观效应",
+      "summary": "从太空看地球，一些航天员描述自己更强烈地意识到地球的整体性、脆弱性与人类共享的处境。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/学习与认知/总观效应/topic.json",
+      "brief": "思维模型/学习与认知/总观效应/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-048",
+      "title": "成长型思维",
+      "summary": "采用德韦克关于能力可发展的通用版本，不能据此认定与视频解释相同。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/学习与认知/成长型思维/topic.json",
+      "brief": "思维模型/学习与认知/成长型思维/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-049",
+      "title": "放大镜缩小镜思维",
+      "summary": "原义待核实；一次汇报没答好，就推断“我一直都不行”，是把局部事件扩展成整体评价。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/学习与认知/放大镜缩小镜思维/topic.json",
+      "brief": "思维模型/学习与认知/放大镜缩小镜思维/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-050",
+      "title": "次心流",
+      "summary": "原义待核实；没有达到忘我状态，也可以把事情做得很好。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/学习与认知/次心流/topic.json",
+      "brief": "思维模型/学习与认知/次心流/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-051",
+      "title": "生命的维度",
+      "summary": "原义待核实；工资变高，却失去休息和相处时间；事情做得多，却觉得没有方向。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/学习与认知/生命的维度/topic.json",
+      "brief": "思维模型/学习与认知/生命的维度/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-052",
+      "title": "耶克斯多德森定律",
+      "summary": "越紧张就一定表现越好吗？",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/学习与认知/耶克斯多德森定律/topic.json",
+      "brief": "思维模型/学习与认知/耶克斯多德森定律/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-053",
+      "title": "蔡氏效应",
+      "summary": "“没做完的事更难忘”常被称为蔡氏效应，即Zeigarnik效应。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/学习与认知/蔡氏效应/topic.json",
+      "brief": "思维模型/学习与认知/蔡氏效应/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-054",
+      "title": "贝勃定律",
+      "summary": "原义待核实；同一提示出现很多次，人可能越来越少注意；但这不表示事件变得不重要，也不表示所有痛苦或快乐都会按同样速度消退。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/学习与认知/贝勃定律/topic.json",
+      "brief": "思维模型/学习与认知/贝勃定律/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-055",
+      "title": "费曼学习法",
+      "summary": "看完一章觉得都懂，合上书却说不出为什么，费曼学习法就用来暴露这种差距。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/学习与认知/费曼学习法/topic.json",
+      "brief": "思维模型/学习与认知/费曼学习法/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-056",
+      "title": "间态放松模型",
+      "summary": "原义待核实；连续处理复杂材料后，继续刷一屏信息未必算恢复。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/学习与认知/间态放松模型/topic.json",
+      "brief": "思维模型/学习与认知/间态放松模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-057",
+      "title": "马斯洛需求层次理论",
+      "summary": "有人工作时无法专注，原因可能是疲惫、担心岗位变化，也可能是缺少尊重和成长机会。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/学习与认知/马斯洛需求层次理论/topic.json",
+      "brief": "思维模型/学习与认知/马斯洛需求层次理论/一分钟看懂.md"
+    }
+  ]
+}

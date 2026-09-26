@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "title": "专业借鉴与待核实主题",
+  "groups": [],
+  "topics": [
+    {
+      "id": "thinking.model-001",
+      "title": "RICE全科问诊模式",
+      "summary": "采用《中国全科医学》中的 Reason、Idea、Concern、Expectation 版本，不套用产品优先级或运动损伤的同名缩写。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/专业借鉴与待核实主题/RICE全科问诊模式/topic.json",
+      "brief": "思维模型/专业借鉴与待核实主题/RICE全科问诊模式/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-002",
+      "title": "共鸣能量释放",
+      "summary": "原义待核实；每个人私下都知道一件事，和每个人都知道“别人也知道”，可能带来不同的协作结果。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/专业借鉴与待核实主题/共鸣能量释放/topic.json",
+      "brief": "思维模型/专业借鉴与待核实主题/共鸣能量释放/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-003",
+      "title": "待核实主题-BV1Nm421N7bp",
+      "summary": "原义待核实；最会完成当前工作的人，不一定已经具备下一岗位需要的能力。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp/topic.json",
+      "brief": "思维模型/专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-004",
+      "title": "待核实主题-BV1Pm411d7JL",
+      "summary": "原义待核实；“每天进步一点，一年就会变得很强”可以鼓励行动，却不能仅靠一个指数算式证明。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL/topic.json",
+      "brief": "思维模型/专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-005",
+      "title": "莫塔五问",
+      "summary": "采用 John Murtagh 的临床安全诊断策略五问；中文题名“莫塔”与该常见译名对应，但未核对视频具体讲法。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/专业借鉴与待核实主题/莫塔五问/topic.json",
+      "brief": "思维模型/专业借鉴与待核实主题/莫塔五问/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-006",
+      "title": "非SR思维模型",
+      "summary": "收到一句刺耳的评价，马上回击，可能把一次信息分歧变成关系冲突。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/专业借鉴与待核实主题/非SR思维模型/topic.json",
+      "brief": "思维模型/专业借鉴与待核实主题/非SR思维模型/一分钟看懂.md"
+    }
+  ]
+}

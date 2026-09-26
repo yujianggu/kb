@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-093",
+  "title": "SCQA序言结构",
+  "summary": "“我们要加两个人”是建议，读者却还不知道为什么现在需要。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

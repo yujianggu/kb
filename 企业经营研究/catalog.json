@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "title": "企业经营研究",
+  "groups": [
+    {
+      "title": "企业与机构",
+      "catalog": "企业经营研究/企业与机构/catalog.json"
+    }
+  ],
+  "topics": []
+}

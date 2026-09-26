@@ -1,0 +1,16 @@
+{
+  "id": "culture.classics.shiji",
+  "title": "史记：130卷全文与背景案例",
+  "summary": "阅读《史记》传世130卷全文，按本纪、表、书、世家、列传选卷，并辨析成书背景、原典叙事与现代教学案例。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "全文.md",
+    "examples": "案例.md",
+    "sources": "来源.md"
+  },
+  "requires": [],
+  "related": []
+}

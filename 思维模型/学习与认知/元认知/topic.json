@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-045",
+  "title": "元认知",
+  "summary": "做题前估计自己已经掌握，交卷后却发现漏洞，元认知关心的正是这种“我怎样认识和管理自己的认知”。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

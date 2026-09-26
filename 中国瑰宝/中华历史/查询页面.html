@@ -1,0 +1,2039 @@
+<!doctype html>
+<html lang="en" data-visualize-standalone>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline' 'unsafe-eval' 'wasm-unsafe-eval' blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; style-src 'unsafe-inline' blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; img-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; font-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; media-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; worker-src blob:; connect-src blob: data:; frame-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<title>中国历史 · 多维对照</title>
+<style>:root{color-scheme:light dark;background:light-dark(rgb(255 255 255), rgb(24 24 24))}html,body{margin:0}body{box-sizing:border-box;padding:1rem;background:inherit}iframe{display:block;width:100%;height:calc(100vh - 2rem);margin:0 auto;border:0}</style>
+</head>
+<body>
+<iframe id="codex-visualization" sandbox="allow-scripts" referrerpolicy="no-referrer" title="中国历史 · 多维对照" data-srcdoc="&lt;!doctype html&gt;
+&lt;html lang=&quot;en&quot; data-visualize-standalone&gt;
+&lt;head&gt;
+&lt;meta charset=&quot;utf-8&quot;&gt;
+&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
+&lt;meta name=&quot;referrer&quot; content=&quot;no-referrer&quot;&gt;
+&lt;meta http-equiv=&quot;Content-Security-Policy&quot; content=&quot;default-src &#x27;none&#x27;; script-src &#x27;unsafe-inline&#x27; &#x27;unsafe-eval&#x27; &#x27;wasm-unsafe-eval&#x27; blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; style-src &#x27;unsafe-inline&#x27; blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; img-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; font-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; media-src blob: data: https://cdnjs.cloudflare.com https://cdn.jsdelivr.net https://esm.sh https://fonts.bunny.net https://fonts.googleapis.com https://fonts.gstatic.com https://unpkg.com; worker-src blob:; connect-src blob: data:; frame-src &#x27;none&#x27;; object-src &#x27;none&#x27;; base-uri &#x27;none&#x27;; form-action &#x27;none&#x27;&quot;&gt;
+&lt;title&gt;中国历史 · 多维对照&lt;/title&gt;
+&lt;style&gt;:root {
+  color-scheme: light dark;
+  background-color: var(
+    --background,
+    var(--color-background-primary, light-dark(rgb(255 255 255), rgb(24 24 24)))
+  ) !important;
+
+  /* Agent-facing contract; keep in sync with SKILL.md. */
+  --background: var(
+    --color-background-primary,
+    light-dark(rgb(255 255 255), rgb(24 24 24))
+  );
+  --foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --card: color-mix(in oklab, var(--foreground) 5%, var(--background));
+  --card-foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --popover: var(
+    --color-background-secondary,
+    light-dark(rgb(255 255 255), rgb(45 45 45))
+  );
+  --popover-foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --primary: var(
+    --color-text-info,
+    light-dark(rgb(51 156 255), rgb(131 195 255))
+  );
+  --primary-foreground: var(
+    --color-text-inverse,
+    light-dark(rgb(255 255 255), rgb(13 13 13))
+  );
+  --secondary: var(
+    --color-background-secondary,
+    light-dark(rgb(255 255 255 / 96%), rgb(54 54 54 / 96%))
+  );
+  --secondary-foreground: var(
+    --color-text-primary,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --muted: color-mix(in srgb, var(--foreground) 10%, transparent);
+  --muted-foreground: var(
+    --color-text-secondary,
+    light-dark(rgb(26 28 31 / 49.4%), rgb(255 255 255 / 49.8%))
+  );
+  --accent: var(
+    --color-background-info,
+    light-dark(rgb(229 242 255), rgb(13 39 63))
+  );
+  --accent-foreground: var(
+    --color-text-info,
+    light-dark(rgb(51 156 255), rgb(131 195 255))
+  );
+  --destructive: var(
+    --color-text-warning,
+    light-dark(rgb(226 85 7), rgb(255 133 73))
+  );
+  --border: var(
+    --color-border-secondary,
+    light-dark(rgb(26 28 31 / 8%), rgb(255 255 255 / 8.2%))
+  );
+  --input: var(
+    --color-border-primary,
+    light-dark(
+      rgb(26 28 31 / 11.8%),
+      color-mix(in oklab, rgb(0 0 0) 10%, transparent)
+    )
+  );
+  --ring: var(
+    --color-ring-primary,
+    light-dark(rgb(51 156 255), rgb(131 195 255 / 76%))
+  );
+  --font-size-base: var(--font-text-md-size, 14px);
+  --blue: light-dark(rgb(51 156 255), rgb(51 156 255));
+  --orange: light-dark(rgb(226 85 7), rgb(251 106 34));
+  --green: light-dark(rgb(0 162 64), rgb(64 201 119));
+  --red: light-dark(rgb(224 46 42), rgb(255 103 100));
+  --purple: light-dark(rgb(146 79 247), rgb(173 123 249));
+  --yellow: light-dark(rgb(255 195 0), rgb(255 210 64));
+  --viz-series-1: var(--primary);
+  --viz-series-2: light-dark(rgb(243 136 59), rgb(245 154 86));
+  --viz-series-3: light-dark(rgb(93 201 119), rgb(116 213 139));
+  --viz-series-4: light-dark(rgb(235 119 177), rgb(240 143 192));
+  --viz-series-5: light-dark(rgb(155 121 236), rgb(170 145 239));
+  --viz-series-6: light-dark(rgb(58 185 177), rgb(90 203 194));
+
+  /* Internal implementation variables; not part of the agent contract. */
+  --font-sans: -apple-system, system-ui, &quot;Segoe UI&quot;, sans-serif;
+  --font-mono:
+    ui-monospace, SFMono-Regular, &quot;SF Mono&quot;, Menlo, Consolas, &quot;Liberation Mono&quot;,
+    monospace;
+  --font-size-normal: max(11px, var(--font-size-base));
+  --font-size-tooltip: calc(var(--font-size-base) - 1px);
+  --font-size-small: max(11px, calc(var(--font-size-base) - 2px));
+  --font-size-h1: calc(var(--font-size-normal) * 1.7142857143);
+  --font-size-h2: calc(var(--font-size-normal) * 1.4285714286);
+  --font-size-h3: calc(var(--font-size-normal) * 1.2857142857);
+  --font-weight-normal: 430;
+  --font-weight-medium: 500;
+  --icon-size: 16px;
+  --line-height-normal: calc(var(--font-size-normal) * 1.5);
+  --line-height-tooltip: calc(var(--font-size-tooltip) * 1.4285714286);
+  --line-height-small: calc(var(--font-size-small) + 4px);
+  --corner-shape: round;
+  --radius: var(--border-radius-lg, 10px);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-2xl: calc(var(--radius) * 1.6);
+  --radius-full: 9999px;
+  --shadow-sm: 0 1px 2px -1px rgb(0 0 0 / 8%);
+  --checkmark-image: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#x27;http://www.w3.org/2000/svg&#x27; viewBox=&#x27;0 0 17 17&#x27;%3E%3Cpath d=&#x27;M12.8961 3.64101C13.1297 3.41418 13.4984 3.37523 13.7779 3.56581C14.0571 3.75635 14.1554 4.11331 14.0299 4.41347L13.9615 4.53847L7.71151 13.7045C7.59411 13.8767 7.4063 13.9877 7.19881 14.0072C6.99136 14.0267 6.78564 13.9533 6.63826 13.806L2.88826 10.056L2.79842 9.9457C2.6192 9.67407 2.64927 9.30496 2.88826 9.06581C3.12738 8.82669 3.49647 8.79676 3.76815 8.97597L3.8785 9.06581L7.03084 12.2182L12.8053 3.74941L12.8961 3.64101Z&#x27;/%3E%3C/svg%3E&quot;);
+
+  /* Legacy aliases; not part of the current agent contract. */
+  --viz-bg: transparent;
+  --viz-panel: var(--card);
+  --viz-border: var(--border);
+  --viz-text: var(--foreground);
+  --viz-muted: var(--muted-foreground);
+  --viz-accent: var(--primary);
+  --viz-accent-text: var(--primary-foreground);
+  --viz-accent-bg: var(--accent);
+  --viz-font-size: var(--font-size-base);
+  --viz-warning: var(--destructive);
+}
+
+:root[data-theme=&quot;light&quot;] {
+  color-scheme: light;
+}
+
+:root[data-theme=&quot;dark&quot;] {
+  color-scheme: dark;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html &gt; body {
+  /* Preserve MCP aliases for older inline renderers without creating :root cycles. */
+  --color-background-primary: var(
+    --background,
+    light-dark(rgb(255 255 255), rgb(24 24 24))
+  );
+  --color-text-primary: var(
+    --foreground,
+    light-dark(rgb(26 28 31), rgb(255 255 255))
+  );
+  --color-border-secondary: var(
+    --border,
+    light-dark(rgb(26 28 31 / 8%), rgb(255 255 255 / 8.2%))
+  );
+
+  margin: 0;
+  padding: var(--visualize-paint-gutter, 0px);
+  color: var(--foreground);
+  background: transparent !important;
+  font-family: var(--font-sans) !important;
+  font-size: var(--font-size-normal);
+  font-weight: var(--font-weight-normal);
+  line-height: var(--line-height-normal);
+}
+
+.cursor-interaction {
+  cursor: var(--cursor-interaction, pointer);
+}
+
+a {
+  color: color-mix(in srgb, var(--viz-accent) 80%, var(--viz-text) 20%);
+  cursor: var(--cursor-interaction, pointer);
+  font-weight: var(--font-weight-medium, 500);
+  text-decoration: none;
+  text-underline-offset: 2px;
+}
+
+a:is(:hover, :focus-visible) {
+  text-decoration-line: underline;
+  text-decoration-style: dashed;
+  text-decoration-thickness: 0.5px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin-block: 0;
+}
+
+h1 {
+  font-size: var(--font-size-h1);
+  font-weight: var(--font-weight-medium);
+  line-height: 1.25;
+}
+
+h2 {
+  font-size: var(--font-size-h2);
+  font-weight: var(--font-weight-medium);
+  line-height: 1.25;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-size: var(--font-size-h3);
+  font-weight: var(--font-weight-medium);
+  line-height: 1.3;
+}
+
+b,
+strong,
+th {
+  font-weight: var(--font-weight-medium);
+}
+
+code:not(pre code) {
+  display: inline;
+  padding: 1px 6px;
+  border-radius: var(--radius-sm);
+  corner-shape: var(--corner-shape);
+  background: var(--muted);
+  font-family: var(--font-mono);
+  font-size: 0.92em;
+  overflow-wrap: anywhere;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+  word-break: break-word;
+}
+
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+  scrollbar-width: thin;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  color: var(--foreground);
+  font: inherit;
+  text-align: start;
+}
+
+.table :is(th, td) {
+  padding-block: 10px;
+  padding-inline: 0 24px;
+  overflow-wrap: anywhere;
+  border-bottom: 1px solid var(--border);
+  text-align: start;
+  vertical-align: top;
+}
+
+.table-responsive &gt; .table :is(th, td) {
+  overflow-wrap: break-word;
+}
+
+.table :is(th, td):last-child {
+  padding-inline-end: 0;
+}
+
+.table :is(caption, thead th) {
+  font-weight: 600;
+}
+
+.table thead th {
+  padding-block: 8px;
+  border-bottom-color: color-mix(in srgb, var(--foreground) 16%, transparent);
+}
+
+.table tbody tr:last-child :is(th, td) {
+  border-bottom: 0;
+}
+
+.table.table-sm :is(th, td) {
+  padding-block: 6px;
+}
+
+.table.table-sm :is(th, td):not(:last-child) {
+  padding-inline-end: 16px;
+}
+
+.table :is(.text-end, [align=&quot;right&quot;]) {
+  text-align: end;
+  font-variant-numeric: tabular-nums;
+}
+
+.table :is(.text-center, [align=&quot;center&quot;]) {
+  text-align: center;
+}
+
+.table .text-nowrap {
+  white-space: nowrap;
+}
+
+#widget {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 100%;
+  padding: 0;
+  background: transparent !important;
+}
+
+.card {
+  min-width: 0;
+  padding: 12px;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  border-radius: var(--radius-2xl);
+  corner-shape: var(--corner-shape);
+  color: var(--card-foreground);
+  background: var(--card);
+}
+
+#widget &gt; :not(.card, .progress) {
+  width: 100% !important;
+  max-width: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.tooltip {
+  position: fixed;
+  z-index: 50;
+  top: 0;
+  left: 0;
+  width: max-content;
+  max-width: min(
+    20rem,
+    var(--tooltip-available-width, calc(100vw - 10px)),
+    calc(100vw - 10px)
+  );
+  max-height: min(
+    var(--tooltip-available-height, calc(100vh - 10px)),
+    calc(100vh - 10px)
+  );
+  padding: 4px 8px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  corner-shape: var(--corner-shape);
+  color: var(--popover-foreground);
+  background: var(--popover);
+  box-shadow: none;
+  font-size: var(--font-size-tooltip);
+  line-height: var(--line-height-tooltip);
+  overflow-wrap: break-word;
+  white-space: normal;
+  pointer-events: none;
+  user-select: none;
+}
+
+.viz-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(max(180px, 24%), 1fr));
+  gap: 10px;
+}
+
+.viz-stat {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.viz-stat-value {
+  font-size: var(--font-size-h2);
+  font-weight: var(--font-weight-medium);
+  line-height: 1.25;
+}
+
+.viz-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+hr {
+  width: 100%;
+  height: 1px;
+  margin-block: 6px;
+  border: 0;
+  background: var(--border);
+}
+
+.nav {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 4px;
+}
+
+.progress {
+  display: flex;
+  height: 8px;
+  margin-block: calc((var(--line-height-normal, 1.5em) - 8px) / 2);
+  overflow: hidden;
+  border: 0;
+  border-radius: var(--radius-full);
+  background: var(--muted);
+}
+
+.progress-bar:only-child {
+  border-radius: var(--radius-full);
+}
+
+.progress-bar {
+  height: 100%;
+  flex-shrink: 0;
+  border: 0;
+  background: var(--viz-series-1);
+}
+
+.viz-badge {
+  padding: 3px 8px;
+  border-radius: var(--radius-full);
+  color: var(--accent-foreground);
+  background: var(--accent);
+  font-weight: var(--font-weight-medium);
+}
+
+small,
+.text-small,
+.viz-badge {
+  font-size: var(--font-size-small);
+  line-height: var(--line-height-small);
+}
+
+.text-muted {
+  color: var(--muted-foreground);
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.viz-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.viz-controls &gt; .form-label {
+  display: grid;
+  min-width: min(100%, 260px);
+  flex: 1 1 280px;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: baseline;
+  gap: 2px 12px;
+  margin-bottom: 0;
+}
+
+.viz-controls &gt; .form-label &gt; :is(.form-control, .form-range, .form-select) {
+  grid-column: 1 / -1;
+}
+
+.btn,
+.nav-link,
+.form-check-input,
+.form-control,
+.form-range,
+.form-select {
+  font: inherit;
+}
+
+.btn,
+.nav-link {
+  appearance: button;
+  display: inline-flex;
+  inline-size: fit-content;
+  max-inline-size: 100%;
+  min-height: 28px;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  margin: 0;
+  padding: 0 8px;
+  -webkit-app-region: no-drag;
+  border: 1px solid var(--input);
+  border-radius: var(--radius-lg);
+  corner-shape: var(--corner-shape);
+  color: var(--secondary-foreground);
+  background: var(--secondary);
+  cursor: var(--cursor-interaction, pointer);
+  text-align: center;
+  text-decoration: none;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-font-smoothing: antialiased;
+}
+
+.btn:is(.btn-block, .viz-tile) {
+  inline-size: 100%;
+}
+
+.btn.viz-tile {
+  min-width: 0;
+  overflow-wrap: anywhere;
+  white-space: normal;
+}
+
+a.btn {
+  cursor: var(--cursor-interaction, pointer);
+  text-decoration: none;
+}
+
+.btn:not(:disabled):hover,
+.nav-link:not(:disabled):not([aria-disabled=&quot;true&quot;]):hover {
+  background: color-mix(in srgb, var(--foreground) 6%, var(--secondary));
+}
+
+.btn-primary {
+  border-color: transparent;
+  color: var(--primary-foreground);
+  background: var(--foreground);
+  background-clip: padding-box;
+}
+
+.btn-primary .text-muted {
+  color: color-mix(in srgb, var(--primary-foreground) 50%, transparent);
+}
+
+.btn-primary:not(:disabled):hover {
+  background: color-mix(in srgb, var(--foreground) 80%, transparent);
+  background-clip: padding-box;
+}
+
+.btn-ghost {
+  border-color: transparent;
+  color: var(--muted-foreground);
+  background: transparent;
+}
+
+.btn-ghost:not(:disabled):hover {
+  color: var(--foreground);
+  background: color-mix(in srgb, var(--foreground) 6%, var(--secondary));
+}
+
+.nav-pills .nav-link {
+  min-width: 0;
+  border-color: transparent;
+  color: var(--muted-foreground);
+  background: transparent;
+}
+
+.nav-justified .nav-link {
+  flex: 1 1 0;
+  overflow-wrap: anywhere;
+  white-space: normal;
+}
+
+.nav-pills .nav-link.active {
+  color: var(--foreground);
+  background: var(--muted);
+}
+
+.btn:disabled,
+.nav-link:disabled,
+.nav-link[aria-disabled=&quot;true&quot;] {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
+
+[data-lucide] {
+  stroke-width: 1.6;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--foreground);
+}
+
+.form-control {
+  display: block;
+  width: 100%;
+  min-height: 28px;
+  padding: 0 8px;
+  outline: none;
+  border: 1px solid var(--input);
+  border-radius: var(--radius-lg);
+  corner-shape: var(--corner-shape);
+  color: var(--foreground);
+  background: var(--secondary);
+}
+
+.form-control::placeholder {
+  color: var(--muted-foreground);
+}
+
+.form-control[type=&quot;file&quot;] {
+  padding: 0;
+  overflow: hidden;
+  cursor: var(--cursor-interaction, pointer);
+}
+
+.form-control[type=&quot;file&quot;]::file-selector-button {
+  min-height: 26px;
+  margin-right: 8px;
+  padding: 0 8px;
+  border: 0;
+  border-right: 1px solid var(--input);
+  color: var(--secondary-foreground);
+  background: var(--secondary);
+  cursor: inherit;
+  font: inherit;
+}
+
+.form-control[type=&quot;file&quot;]:not(:disabled):hover::file-selector-button {
+  background: color-mix(in srgb, var(--foreground) 6%, var(--secondary));
+}
+
+.form-control-color[type=&quot;color&quot;] {
+  width: 40px;
+  height: 28px;
+  padding: 3px;
+  cursor: var(--cursor-interaction, pointer);
+}
+
+.form-control-color[type=&quot;color&quot;]::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+
+.form-control-color[type=&quot;color&quot;]::-webkit-color-swatch {
+  border: 0;
+  border-radius: calc(var(--radius-lg) - 4px);
+  corner-shape: var(--corner-shape);
+}
+
+textarea.form-control {
+  height: auto;
+  min-height: 72px;
+  padding: 8px 10px;
+  resize: vertical;
+}
+
+.form-control:focus-visible {
+  border-color: var(--ring);
+  box-shadow: inset 0 0 0 1px var(--ring);
+}
+
+.form-control:disabled,
+.form-select:disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
+
+.form-select {
+  appearance: none;
+  display: block;
+  width: 100%;
+  min-height: 28px;
+  margin: 0;
+  padding: 0 32px 0 8px;
+  outline: none;
+  border: 1px solid var(--input);
+  border-radius: var(--radius-lg);
+  corner-shape: var(--corner-shape);
+  color: var(--foreground);
+  background-color: var(--secondary);
+  background-image:
+    linear-gradient(45deg, transparent 50%, var(--muted-foreground) 50%),
+    linear-gradient(135deg, var(--muted-foreground) 50%, transparent 50%);
+  background-position:
+    calc(100% - 14px) 50%,
+    calc(100% - 10px) 50%;
+  background-repeat: no-repeat;
+  background-size: 4px 4px;
+  cursor: var(--cursor-interaction, default);
+}
+
+.form-select:not(:disabled):hover {
+  background-color: color-mix(in srgb, var(--foreground) 6%, var(--secondary));
+}
+
+.form-select:focus-visible {
+  border-color: var(--ring);
+  box-shadow: inset 0 0 0 1px var(--ring);
+}
+
+.form-check {
+  display: flex;
+  min-height: 20px;
+  align-items: center;
+  gap: 6px;
+}
+
+.form-check-input {
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  flex: 0 0 auto;
+  margin: 0;
+  border: 1px solid var(--input);
+  color: var(--primary-foreground);
+  background-color: transparent;
+  cursor: var(--cursor-interaction, default);
+  transition:
+    background-color 150ms,
+    border-color 150ms,
+    box-shadow 150ms;
+}
+
+.form-check:not(.form-switch) .form-check-input[type=&quot;checkbox&quot;] {
+  border-color: var(--input);
+  border-radius: var(--radius-sm);
+  corner-shape: var(--corner-shape);
+  background-color: var(--secondary);
+  box-shadow: var(--shadow-sm);
+}
+
+.form-check:not(.form-switch)
+  .form-check-input:not(:disabled):not(:checked):hover {
+  background-color: var(--card);
+}
+
+.form-check:not(.form-switch) .form-check-input[type=&quot;checkbox&quot;]:checked {
+  border-color: var(--primary);
+  background-color: var(--primary);
+}
+
+.form-check:not(.form-switch)
+  .form-check-input[type=&quot;checkbox&quot;]:checked::before {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background: var(--primary-foreground);
+  content: &quot;&quot;;
+  mask: var(--checkmark-image) center / 12px 12px no-repeat;
+}
+
+.form-check-input[type=&quot;radio&quot;] {
+  width: 14px;
+  height: 14px;
+  border-radius: var(--radius-full);
+}
+
+.form-check-input[type=&quot;radio&quot;]:checked {
+  border: 2px solid var(--primary);
+  background:
+    radial-gradient(circle, var(--primary-foreground) 0 2.5px, transparent 3px),
+    var(--primary);
+}
+
+.form-check:not(.form-switch) .form-check-input:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+.form-check:not(.form-switch) .form-check-input:disabled {
+  cursor: not-allowed;
+  pointer-events: none;
+}
+
+.form-check:not(.form-switch) .form-check-input:disabled + .form-check-label {
+  cursor: not-allowed;
+}
+
+.form-switch .form-check-input:disabled,
+.form-switch .form-check-input:disabled + .form-check-label {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.form-check-label {
+  color: var(--foreground);
+  cursor: var(--cursor-interaction, default);
+}
+
+.form-switch .form-check-input {
+  position: relative;
+  width: 32px;
+  height: 20px;
+  border: 0;
+  border-radius: var(--radius-full);
+  background: var(--muted);
+  box-shadow: none;
+  transition: background-color 200ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+.form-switch .form-check-input::before {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+  border: 1px solid light-dark(var(--primary-foreground), var(--foreground));
+  border-radius: var(--radius-full);
+  background: light-dark(var(--primary-foreground), var(--foreground));
+  box-shadow: var(--shadow-sm);
+  content: &quot;&quot;;
+  transform: translate(2px, -50%);
+  transition: transform 200ms cubic-bezier(0, 0, 0.2, 1);
+}
+
+.form-switch .form-check-input:checked {
+  background: var(--primary);
+}
+
+.form-switch .form-check-input:checked::before {
+  transform: translate(14px, -50%);
+}
+
+.form-switch .form-check-input:focus-visible {
+  box-shadow: 0 0 0 2px var(--ring);
+}
+
+.form-range {
+  appearance: none;
+  display: block;
+  width: 100%;
+  height: 28px;
+  flex: 1;
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: 0;
+  accent-color: var(--primary);
+  background: linear-gradient(
+      color-mix(in srgb, var(--foreground) 7%, transparent),
+      color-mix(in srgb, var(--foreground) 7%, transparent)
+    )
+    center / 100% 2px no-repeat;
+}
+
+.form-range::-webkit-slider-runnable-track {
+  height: 28px;
+  background: transparent;
+}
+
+.form-range::-webkit-slider-thumb {
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  margin-top: 4px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  background: light-dark(var(--primary-foreground), var(--foreground));
+}
+
+.form-range:focus-visible::-webkit-slider-thumb {
+  border-color: var(--ring);
+  box-shadow: inset 0 0 0 1px var(--ring);
+}
+
+.form-range::-moz-range-track {
+  height: 28px;
+  background: transparent;
+}
+
+.form-range::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-full);
+  background: light-dark(var(--primary-foreground), var(--foreground));
+}
+
+.form-range:focus-visible::-moz-range-thumb {
+  border-color: var(--ring);
+  box-shadow: inset 0 0 0 1px var(--ring);
+}
+
+.form-range:disabled {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
+
+.btn:not(.btn-primary, .viz-tile):is(
+  [aria-pressed=&quot;true&quot;],
+  [aria-selected=&quot;true&quot;],
+  .is-selected
+) {
+  border-color: var(--primary);
+  color: var(--primary-foreground);
+  background: var(--primary);
+}
+
+.btn.viz-tile:is([aria-pressed=&quot;true&quot;], [aria-selected=&quot;true&quot;], .is-selected) {
+  border-color: var(--primary);
+  box-shadow: inset 0 0 0 1px var(--primary);
+}
+
+.btn:focus-visible,
+.nav-link:focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+}
+
+@media (pointer: coarse) {
+  .btn,
+  .nav-link,
+  .form-control,
+  .form-select {
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  /* Keep small-screen WebKit from zooming when a text field receives focus. */
+  .form-control,
+  .form-select {
+    font-size: max(16px, var(--font-size-normal));
+  }
+
+  .form-control[type=&quot;file&quot;]::file-selector-button {
+    min-width: 44px;
+    min-height: 44px;
+  }
+
+  .form-control-color[type=&quot;color&quot;] {
+    width: 44px;
+    height: 44px;
+  }
+
+  .form-control:is(
+    [type=&quot;date&quot;],
+    [type=&quot;datetime-local&quot;],
+    [type=&quot;month&quot;],
+    [type=&quot;time&quot;],
+    [type=&quot;week&quot;]
+  ) {
+    min-width: 0;
+    max-width: 100%;
+    padding-block: 8px;
+  }
+
+  .form-check {
+    min-height: 44px;
+    padding-inline: 15px;
+  }
+
+  .form-check-input {
+    position: relative;
+  }
+
+  .form-check-input::after {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 44px;
+    height: 44px;
+    content: &quot;&quot;;
+    transform: translate(-50%, -50%);
+  }
+
+  .form-check-label {
+    display: inline-flex;
+    min-width: 44px;
+    min-height: 44px;
+    align-items: center;
+  }
+
+  .form-range {
+    height: 44px;
+    touch-action: pan-y;
+  }
+
+  .form-range::-webkit-slider-runnable-track {
+    height: 44px;
+  }
+
+  .form-range::-moz-range-track {
+    height: 44px;
+  }
+
+  .form-range::-webkit-slider-thumb {
+    margin-top: 12px;
+  }
+}
+
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#widget &gt; svg {
+  width: 100%;
+}
+
+/* Model-authored chart rules can otherwise stretch icons after these styles load. */
+svg.lucide {
+  display: block;
+  width: var(--icon-size) !important;
+  height: var(--icon-size) !important;
+  flex: none;
+  margin: 0 !important;
+  stroke-width: 1.6;
+}
+
+.text-warning,
+.text-destructive {
+  color: var(--destructive);
+}
+
+html&gt;body{padding:0}&lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;script type=&quot;application/json&quot; id=&quot;codex-visualization-widget-state&quot;&gt;__CODEX_VISUALIZATION_WIDGET_STATE__&lt;/script&gt;
+&lt;script&gt;(() =&gt; {
+  const root = document.documentElement;
+  const mediaQuery = globalThis.matchMedia(&quot;(prefers-color-scheme: dark)&quot;);
+  const apply = Reflect.apply;
+  const isArray = Array.isArray;
+  const hasOwn = Object.hasOwn;
+  const parentWindow = globalThis.parent;
+  const stringify = JSON.stringify;
+  const parse = JSON.parse;
+  const encode = TextEncoder.prototype.encode.bind(new TextEncoder());
+  const initialStateElement = document.getElementById(
+    &quot;codex-visualization-widget-state&quot;,
+  );
+  const initialGlobals = parse(initialStateElement?.textContent ?? &quot;{}&quot;);
+  initialStateElement?.remove();
+  /** @type {Record&lt;string, unknown&gt; | null} */
+  let state = initialGlobals.widgetState ?? null;
+  const statePersistence = initialGlobals.statePersistence ?? &quot;none&quot;;
+  let nextStateRequestId = 0;
+  /** @type {Map&lt;number, { resolve: () =&gt; void; reject: (error: Error) =&gt; void; timeout: ReturnType&lt;typeof globalThis.setTimeout&gt;; serializedState: string }&gt;} */
+  const pendingStateWrites = new Map();
+  const persistenceError = () =&gt;
+    Object.assign(
+      new Error(&quot;The host could not persist the widget state update&quot;),
+      {
+        code: -32000,
+        data: { code: &quot;widget_state_persistence_failed&quot;, retryable: false },
+      },
+    );
+  /**
+   * @param {object} prototype
+   * @param {string} property
+   */
+  const getPrototypeGetter = (prototype, property) =&gt; {
+    // oxlint-disable-next-line typescript/unbound-method -- invoked through captured Reflect.apply
+    const getter = Object.getOwnPropertyDescriptor(prototype, property)?.get;
+    if (getter == null) {
+      throw new Error(`Missing ${property} getter`);
+    }
+    return getter;
+  };
+  const getMessageData = getPrototypeGetter(MessageEvent.prototype, &quot;data&quot;);
+  const getMessagePorts = getPrototypeGetter(MessageEvent.prototype, &quot;ports&quot;);
+  const getMessageSource = getPrototypeGetter(MessageEvent.prototype, &quot;source&quot;);
+  // oxlint-disable-next-line typescript/unbound-method -- captured before the untrusted fragment runs
+  const addHostMessageListener = MessagePort.prototype.addEventListener;
+  // oxlint-disable-next-line typescript/unbound-method -- captured before the untrusted fragment runs
+  const postHostMessage = MessagePort.prototype.postMessage;
+  // oxlint-disable-next-line typescript/unbound-method -- captured before the untrusted fragment runs
+  const startHostPort = MessagePort.prototype.start;
+  // oxlint-disable-next-line typescript/unbound-method -- captured before the untrusted fragment runs
+  const stopMessagePropagation = Event.prototype.stopImmediatePropagation;
+  /** @type {MessagePort | null} */
+  let hostPort = null;
+  const postToHost = (type, payload) =&gt; {
+    if (hostPort != null) {
+      apply(postHostMessage, hostPort, [{ type, ...payload }]);
+    }
+  };
+  const openExternal = ({ href }) =&gt; {
+    if (globalThis.navigator.userActivation?.isActive === true) {
+      postToHost(&quot;open-external&quot;, { href });
+    }
+  };
+  const sendFollowUpMessage = ({ context, prompt, title }) =&gt; {
+    if (globalThis.navigator.userActivation?.isActive === true) {
+      postToHost(&quot;follow-up&quot;, { context, prompt, title });
+    }
+    return Promise.resolve();
+  };
+  /**
+   * @param {Record&lt;string, unknown&gt; | ((previous: Record&lt;string, unknown&gt; | null) =&gt; Record&lt;string, unknown&gt;)} next
+   * @returns {Promise&lt;void&gt;}
+   */
+  const setWidgetState = async (next) =&gt; {
+    const nextState = typeof next === &quot;function&quot; ? next(state) : next;
+    if (
+      nextState == null ||
+      typeof nextState !== &quot;object&quot; ||
+      isArray(nextState)
+    ) {
+      throw new TypeError(&quot;Widget state must be a JSON object&quot;);
+    }
+    const inputState = stringify(
+      nextState,
+      (_key, /** @type {unknown} */ value) =&gt; {
+        if (
+          typeof value === &quot;undefined&quot; ||
+          typeof value === &quot;function&quot; ||
+          typeof value === &quot;symbol&quot; ||
+          (typeof value === &quot;number&quot; &amp;&amp; !Number.isFinite(value))
+        ) {
+          throw new TypeError(&quot;Widget state must be a JSON object&quot;);
+        }
+        return value;
+      },
+    );
+    const parsedState = parse(inputState);
+    if (
+      parsedState == null ||
+      typeof parsedState !== &quot;object&quot; ||
+      isArray(parsedState)
+    ) {
+      throw new TypeError(&quot;Widget state must be a JSON object&quot;);
+    }
+    const storedState = {
+      modelContent: null,
+      privateContent: null,
+      ...parsedState,
+    };
+    const serializedState = stringify(storedState);
+    if (encode(serializedState).length &gt; 16 * 1024) {
+      throw new TypeError(
+        &quot;Widget state must be a JSON object of at most 16 KiB&quot;,
+      );
+    }
+    if (
+      hasOwn(storedState, &quot;imageIds&quot;) &amp;&amp;
+      (!isArray(storedState.imageIds) ||
+        storedState.imageIds.some(
+          (/** @type {unknown} */ id) =&gt; typeof id !== &quot;string&quot;,
+        ))
+    ) {
+      throw new TypeError(&quot;Widget state imageIds must be an array of strings&quot;);
+    }
+    if (storedState.imageIds?.length &gt; 0) {
+      throw Object.assign(
+        new TypeError(&quot;Visualization state does not support image attachments&quot;),
+        { code: -32602, data: { code: &quot;images_unsupported&quot; } },
+      );
+    }
+    state = storedState;
+    globalThis.openai.widgetState = state;
+    globalThis.dispatchEvent(
+      new CustomEvent(&quot;openai:set_globals&quot;, {
+        detail: { globals: { widgetState: state } },
+      }),
+    );
+    if (statePersistence === &quot;none&quot;) {
+      throw persistenceError();
+    }
+    const id = ++nextStateRequestId;
+    return new Promise((resolve, reject) =&gt; {
+      const timeout = globalThis.setTimeout(() =&gt; {
+        pendingStateWrites.delete(id);
+        reject(persistenceError());
+      }, 30_000);
+      pendingStateWrites.set(id, { resolve, reject, timeout, serializedState });
+      postToHost(&quot;widget-state-write&quot;, { id, state: serializedState });
+    });
+  };
+  const syncTheme = () =&gt; {
+    const theme = mediaQuery.matches ? &quot;dark&quot; : &quot;light&quot;;
+    root.dataset.theme = theme;
+    globalThis.openai = {
+      ...globalThis.openai,
+      openExternal,
+      sendFollowUpMessage,
+      setWidgetState,
+      theme,
+      visualizationStyleVariables: {},
+      visualizationTheme: theme,
+      widgetState: state,
+      statePersistence,
+      stateModelContext: &quot;none&quot;,
+    };
+    globalThis.dispatchEvent(
+      new CustomEvent(&quot;openai:set_globals&quot;, {
+        detail: { globals: globalThis.openai },
+      }),
+    );
+  };
+  const sendHeight = () =&gt; {
+    postToHost(&quot;height&quot;, {
+      height: Math.ceil(
+        Math.max(
+          document.body.scrollHeight,
+          document.body.getBoundingClientRect().height,
+        ),
+      ),
+    });
+  };
+
+  globalThis.addEventListener(
+    &quot;message&quot;,
+    (event) =&gt; {
+      const data = apply(getMessageData, event, []);
+      const ports = apply(getMessagePorts, event, []);
+      const source = apply(getMessageSource, event, []);
+      if (
+        hostPort != null ||
+        source !== parentWindow ||
+        typeof data !== &quot;object&quot; ||
+        data?.type !== &quot;codex-visualization-initialize&quot; ||
+        !isArray(ports) ||
+        ports.length !== 1
+      ) {
+        return;
+      }
+      apply(stopMessagePropagation, event, []);
+      const nextHostPort = ports[0];
+      try {
+        apply(addHostMessageListener, nextHostPort, [
+          &quot;message&quot;,
+          (event) =&gt; {
+            const data = apply(getMessageData, event, []);
+            if (typeof data === &quot;object&quot; &amp;&amp; data?.type === &quot;measure&quot;) {
+              sendHeight();
+            } else if (
+              typeof data === &quot;object&quot; &amp;&amp;
+              data?.type === &quot;widget-state-result&quot;
+            ) {
+              /** @type {unknown} */
+              const id = data.id;
+              if (typeof id !== &quot;number&quot;) {
+                return;
+              }
+              const pending = pendingStateWrites.get(id);
+              if (pending != null) {
+                pendingStateWrites.delete(id);
+                globalThis.clearTimeout(pending.timeout);
+                if (data.ok === true) {
+                  pending.resolve();
+                } else {
+                  pending.reject(persistenceError());
+                }
+              }
+            }
+          },
+        ]);
+        apply(startHostPort, nextHostPort, []);
+      } catch {
+        return;
+      }
+      hostPort = nextHostPort;
+      for (const [id, { serializedState }] of pendingStateWrites) {
+        postToHost(&quot;widget-state-write&quot;, { id, state: serializedState });
+      }
+      sendHeight();
+    },
+    { capture: true },
+  );
+  document.currentScript?.remove();
+  mediaQuery.addEventListener(&quot;change&quot;, syncTheme);
+  globalThis.addEventListener(&quot;click&quot;, (event) =&gt; {
+    if (event.defaultPrevented) {
+      return;
+    }
+    let element = null;
+    if (event.target instanceof globalThis.Element) {
+      element = event.target;
+    } else if (event.target instanceof globalThis.Node) {
+      element = event.target.parentElement;
+    }
+    const link = element?.closest(&quot;a[href]&quot;);
+    const href = link?.getAttribute(&quot;href&quot;);
+    if (href == null) {
+      return;
+    }
+    if (href.startsWith(&quot;#&quot;)) {
+      let id;
+      try {
+        id = decodeURIComponent(href.slice(1));
+      } catch {
+        return;
+      }
+      const target = id.length === 0 ? root : document.getElementById(id);
+      if (
+        target == null ||
+        globalThis.navigator.userActivation?.isActive !== true
+      ) {
+        return;
+      }
+      event.preventDefault();
+      postToHost(&quot;scroll-to&quot;, {
+        top: target.getBoundingClientRect().top + globalThis.scrollY,
+      });
+      return;
+    }
+    event.preventDefault();
+    openExternal({ href });
+  });
+  new ResizeObserver(sendHeight).observe(document.body);
+  syncTheme();
+})();
+&lt;/script&gt;
+&lt;div id=&quot;china-history-v1&quot;&gt;
+  &lt;h3&gt;中国历史 · 多维对照&lt;/h3&gt;
+  &lt;div class=&quot;viz-controls&quot;&gt;
+    &lt;label class=&quot;form-label&quot;&gt;查看维度
+      &lt;select class=&quot;form-select&quot; id=&quot;ch-view&quot;&gt;
+        &lt;option value=&quot;timeline&quot;&gt;朝代与并立&lt;/option&gt;&lt;option value=&quot;people&quot;&gt;代表人物&lt;/option&gt;&lt;option value=&quot;events&quot;&gt;重要事件&lt;/option&gt;
+      &lt;/select&gt;
+    &lt;/label&gt;
+    &lt;label class=&quot;form-label&quot;&gt;历史阶段
+      &lt;select class=&quot;form-select&quot; id=&quot;ch-stage&quot;&gt;&lt;option value=&quot;全部&quot;&gt;全部阶段&lt;/option&gt;&lt;option&gt;文明起源&lt;/option&gt;&lt;option&gt;先秦&lt;/option&gt;&lt;option&gt;秦汉&lt;/option&gt;&lt;option&gt;魏晋南北朝&lt;/option&gt;&lt;option&gt;隋唐五代&lt;/option&gt;&lt;option selected&gt;宋辽夏金元&lt;/option&gt;&lt;option&gt;明清&lt;/option&gt;&lt;option&gt;近现代&lt;/option&gt;&lt;/select&gt;
+    &lt;/label&gt;
+    &lt;label class=&quot;form-label&quot;&gt;关键词
+      &lt;input class=&quot;form-control&quot; id=&quot;ch-search&quot; type=&quot;search&quot; placeholder=&quot;朝代、人物、都城、事件&quot; aria-label=&quot;搜索历史资料&quot;&gt;
+    &lt;/label&gt;
+  &lt;/div&gt;
+  &lt;div id=&quot;ch-count&quot; class=&quot;text-small text-muted&quot; aria-live=&quot;polite&quot;&gt;&lt;/div&gt;
+  &lt;div id=&quot;ch-plot&quot;&gt;&lt;/div&gt;
+  &lt;div id=&quot;ch-detail-area&quot;&gt;
+    &lt;label class=&quot;form-label&quot;&gt;条目详情&lt;select id=&quot;ch-detail-select&quot; class=&quot;form-select&quot;&gt;&lt;/select&gt;&lt;/label&gt;
+    &lt;div class=&quot;card&quot; id=&quot;ch-detail&quot; aria-live=&quot;polite&quot;&gt;&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div id=&quot;ch-table&quot; class=&quot;table-responsive&quot; hidden&gt;&lt;/div&gt;
+  &lt;div class=&quot;text-small text-muted&quot; id=&quot;ch-caption&quot;&gt;前＝公元前 · 年代约数及分期见条目说明 · 资料截至2026-09-26&lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+  #china-history-v1 #ch-plot { width:100%; margin-block:12px; }
+  #china-history-v1 #ch-detail-area { display:grid; gap:12px; margin-block:12px; }
+  #china-history-v1 #ch-detail-area[hidden] { display:none; }
+  #china-history-v1 .ch-chart { display:block; overflow:visible; }
+  #china-history-v1 .ch-chart text { fill:var(--foreground); font-size:12px; font-weight:400; }
+  #china-history-v1 .ch-chart .domain, #china-history-v1 .ch-chart .tick line { stroke:var(--border); }
+  #china-history-v1 .ch-detail-row { margin-block:6px; }
+  #china-history-v1 #ch-caption { margin-block-start:12px; }
+&lt;/style&gt;
+&lt;script type=&quot;application/json&quot; id=&quot;ch-data&quot;&gt;{&quot;records&quot;:[{&quot;id&quot;:&quot;liangzhu&quot;,&quot;stage&quot;:&quot;文明起源&quot;,&quot;name&quot;:&quot;良渚文化／古城&quot;,&quot;kind&quot;:&quot;考古文化&quot;,&quot;start&quot;:-3300,&quot;end&quot;:-2300,&quot;dates&quot;:&quot;约前3300—前2300&quot;,&quot;capital&quot;:&quot;太湖地区；古城位于今杭州&quot;,&quot;people&quot;:&quot;无可确证的具名统治者&quot;,&quot;events&quot;:&quot;稻作农业、玉礼器、城市与水利系统&quot;,&quot;note&quot;:&quot;文明起源的区域实例，不是王朝；不与黄帝等传说人物强行对应。&quot;,&quot;sources&quot;:[&quot;S01&quot;]},{&quot;id&quot;:&quot;xia&quot;,&quot;stage&quot;:&quot;先秦&quot;,&quot;name&quot;:&quot;夏&quot;,&quot;kind&quot;:&quot;王朝&quot;,&quot;start&quot;:-2070,&quot;end&quot;:-1600,&quot;dates&quot;:&quot;约前2070—约前1600&quot;,&quot;capital&quot;:&quot;传统记载与考古定位仍在研究&quot;,&quot;people&quot;:&quot;禹、启、桀（传统记载）&quot;,&quot;events&quot;:&quot;早期国家与王位世袭的传统叙述&quot;,&quot;note&quot;:&quot;采用夏商周断代工程常用约数；二里头与夏的对应及具体王年不能当作全部定论。&quot;,&quot;sources&quot;:[&quot;S02&quot;,&quot;S03&quot;]},{&quot;id&quot;:&quot;shang&quot;,&quot;stage&quot;:&quot;先秦&quot;,&quot;name&quot;:&quot;商&quot;,&quot;kind&quot;:&quot;王朝&quot;,&quot;start&quot;:-1600,&quot;end&quot;:-1046,&quot;dates&quot;:&quot;约前1600—前1046&quot;,&quot;capital&quot;:&quot;多次迁都；晚期殷（今安阳）&quot;,&quot;people&quot;:&quot;商汤、盘庚、武丁、妇好&quot;,&quot;events&quot;:&quot;盘庚迁殷；甲骨文与青铜礼器&quot;,&quot;note&quot;:&quot;前1046为本文采用的克商推定年代；商前期与晚期证据丰富程度不同。&quot;,&quot;sources&quot;:[&quot;S02&quot;,&quot;S03&quot;]},{&quot;id&quot;:&quot;western-zhou&quot;,&quot;stage&quot;:&quot;先秦&quot;,&quot;name&quot;:&quot;西周&quot;,&quot;kind&quot;:&quot;王朝阶段&quot;,&quot;start&quot;:-1046,&quot;end&quot;:-771,&quot;dates&quot;:&quot;前1046—前771&quot;,&quot;capital&quot;:&quot;镐京（今西安一带），另有洛邑&quot;,&quot;people&quot;:&quot;周武王、周公、周宣王&quot;,&quot;events&quot;:&quot;武王克商；分封与宗法礼制；共和纪年&quot;,&quot;note&quot;:&quot;前841通常视为传世史书连续纪年的可靠起点；前1046仍属上古年代推定。&quot;,&quot;sources&quot;:[&quot;S02&quot;,&quot;S03&quot;]},{&quot;id&quot;:&quot;eastern-zhou&quot;,&quot;stage&quot;:&quot;先秦&quot;,&quot;name&quot;:&quot;东周王室&quot;,&quot;kind&quot;:&quot;王朝阶段&quot;,&quot;start&quot;:-770,&quot;end&quot;:-256,&quot;dates&quot;:&quot;前770—前256&quot;,&quot;capital&quot;:&quot;洛邑／成周（今洛阳一带）&quot;,&quot;people&quot;:&quot;周平王、周赧王&quot;,&quot;events&quot;:&quot;平王东迁；诸侯势力上升&quot;,&quot;note&quot;:&quot;王室终结不等于战国结束；前249秦灭残余东周君势力又是另一节点。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S05&quot;]},{&quot;id&quot;:&quot;spring-autumn&quot;,&quot;stage&quot;:&quot;先秦&quot;,&quot;name&quot;:&quot;春秋&quot;,&quot;kind&quot;:&quot;历史时期&quot;,&quot;start&quot;:-770,&quot;end&quot;:-476,&quot;dates&quot;:&quot;前770—前476（常用分期）&quot;,&quot;capital&quot;:&quot;诸侯多中心&quot;,&quot;people&quot;:&quot;齐桓公、管仲、晋文公、孔子&quot;,&quot;events&quot;:&quot;诸侯争霸；政治秩序与思想转变&quot;,&quot;note&quot;:&quot;不是独立王朝；《春秋》书中年代与通史分期不完全相同。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S05&quot;]},{&quot;id&quot;:&quot;warring-states&quot;,&quot;stage&quot;:&quot;先秦&quot;,&quot;name&quot;:&quot;战国&quot;,&quot;kind&quot;:&quot;历史时期&quot;,&quot;start&quot;:-475,&quot;end&quot;:-221,&quot;dates&quot;:&quot;前475—前221（常用分期）&quot;,&quot;capital&quot;:&quot;秦、楚、齐、燕、韩、赵、魏等多中心&quot;,&quot;people&quot;:&quot;商鞅、孟子、庄子、荀子、屈原&quot;,&quot;events&quot;:&quot;各国变法、兼并战争、百家争鸣&quot;,&quot;note&quot;:&quot;另有前453、前403等起点口径；周王室前256亡后仍延续。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S05&quot;,&quot;S06&quot;]},{&quot;id&quot;:&quot;qin&quot;,&quot;stage&quot;:&quot;秦汉&quot;,&quot;name&quot;:&quot;秦帝国&quot;,&quot;kind&quot;:&quot;王朝&quot;,&quot;start&quot;:-221,&quot;end&quot;:-207,&quot;dates&quot;:&quot;前221—前207&quot;,&quot;capital&quot;:&quot;咸阳&quot;,&quot;people&quot;:&quot;秦始皇、李斯、陈胜、吴广&quot;,&quot;events&quot;:&quot;兼并六国；皇帝制度、郡县治理、统一文字度量衡；秦末起义&quot;,&quot;note&quot;:&quot;前221是帝国统一起点，秦国存在更早；部分年表按历法或叙事节点止于前206。&quot;,&quot;sources&quot;:[&quot;S05&quot;,&quot;S07&quot;]},{&quot;id&quot;:&quot;western-han&quot;,&quot;stage&quot;:&quot;秦汉&quot;,&quot;name&quot;:&quot;西汉&quot;,&quot;kind&quot;:&quot;王朝阶段&quot;,&quot;start&quot;:-206,&quot;end&quot;:8,&quot;dates&quot;:&quot;前206—8（常用纪年表口径）&quot;,&quot;capital&quot;:&quot;长安；称帝初期曾驻洛阳&quot;,&quot;people&quot;:&quot;刘邦、吕后、汉文帝、汉景帝、汉武帝、司马迁、张骞&quot;,&quot;events&quot;:&quot;楚汉战争后建帝国；文景之治；削弱诸侯与通西域&quot;,&quot;note&quot;:&quot;前206为刘邦受封汉王，前202称帝；传统年表止于8，公历换算也常作9年王莽代汉。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S05&quot;,&quot;S07&quot;]},{&quot;id&quot;:&quot;xin&quot;,&quot;stage&quot;:&quot;秦汉&quot;,&quot;name&quot;:&quot;新&quot;,&quot;kind&quot;:&quot;王朝&quot;,&quot;start&quot;:9,&quot;end&quot;:23,&quot;dates&quot;:&quot;9—23&quot;,&quot;capital&quot;:&quot;常安（原长安）&quot;,&quot;people&quot;:&quot;王莽&quot;,&quot;events&quot;:&quot;代汉建新、改制；绿林赤眉起事&quot;,&quot;note&quot;:&quot;不能把西汉与东汉之间视为同一刘氏王朝连续统治。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S07&quot;]},{&quot;id&quot;:&quot;gengshi&quot;,&quot;stage&quot;:&quot;秦汉&quot;,&quot;name&quot;:&quot;更始政权&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:23,&quot;end&quot;:25,&quot;dates&quot;:&quot;23—25&quot;,&quot;capital&quot;:&quot;宛、洛阳、长安先后为中心&quot;,&quot;people&quot;:&quot;刘玄、刘秀&quot;,&quot;events&quot;:&quot;刘玄称帝；新末群雄竞争&quot;,&quot;note&quot;:&quot;与新末和东汉建立之年重叠；更始是年号，国号汉。&quot;,&quot;sources&quot;:[&quot;S04&quot;]},{&quot;id&quot;:&quot;eastern-han&quot;,&quot;stage&quot;:&quot;秦汉&quot;,&quot;name&quot;:&quot;东汉&quot;,&quot;kind&quot;:&quot;王朝阶段&quot;,&quot;start&quot;:25,&quot;end&quot;:220,&quot;dates&quot;:&quot;25—220&quot;,&quot;capital&quot;:&quot;洛阳；末期朝廷迁长安、许等地&quot;,&quot;people&quot;:&quot;刘秀、班超、班昭、蔡伦、张衡、曹操&quot;,&quot;events&quot;:&quot;光武中兴；对外交通；184年黄巾起义与此后群雄割据&quot;,&quot;note&quot;:&quot;曹操主要活动于东汉末，曹魏开国皇帝是曹丕。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S07&quot;]},{&quot;id&quot;:&quot;wei&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;曹魏&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:220,&quot;end&quot;:265,&quot;dates&quot;:&quot;220—265&quot;,&quot;capital&quot;:&quot;洛阳&quot;,&quot;people&quot;:&quot;曹丕、曹叡、司马懿&quot;,&quot;events&quot;:&quot;曹丕代汉；263年灭蜀汉；司马氏掌权&quot;,&quot;note&quot;:&quot;传统年表止于265，魏晋禅代公历换算亦作266。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S08&quot;]},{&quot;id&quot;:&quot;shu&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;蜀汉&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:221,&quot;end&quot;:263,&quot;dates&quot;:&quot;221—263&quot;,&quot;capital&quot;:&quot;成都&quot;,&quot;people&quot;:&quot;刘备、诸葛亮、刘禅&quot;,&quot;events&quot;:&quot;刘备称帝；诸葛亮北伐；263年亡于魏&quot;,&quot;note&quot;:&quot;国号汉，史称蜀汉以作区分。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S08&quot;]},{&quot;id&quot;:&quot;wu&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;孙吴&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:222,&quot;end&quot;:280,&quot;dates&quot;:&quot;222—280；229称帝&quot;,&quot;capital&quot;:&quot;武昌、建业（今南京）&quot;,&quot;people&quot;:&quot;孙权、陆逊、孙皓&quot;,&quot;events&quot;:&quot;孙权称帝；江南开发；280年亡于晋&quot;,&quot;note&quot;:&quot;222按孙权建元黄武计；229才称帝，三帝并立与三国时期起点不同。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S08&quot;]},{&quot;id&quot;:&quot;western-jin&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;西晋&quot;,&quot;kind&quot;:&quot;王朝阶段&quot;,&quot;start&quot;:265,&quot;end&quot;:316,&quot;dates&quot;:&quot;265—316（建国公历亦作266）&quot;,&quot;capital&quot;:&quot;洛阳；末期长安&quot;,&quot;people&quot;:&quot;司马炎、司马衷&quot;,&quot;events&quot;:&quot;280年灭吴；八王之乱；北方战乱&quot;,&quot;note&quot;:&quot;265／266建国与280统一是不同事件；十六国在其末期已出现。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S08&quot;]},{&quot;id&quot;:&quot;sixteen&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;十六国&quot;,&quot;kind&quot;:&quot;历史时期&quot;,&quot;start&quot;:304,&quot;end&quot;:439,&quot;dates&quot;:&quot;304—439&quot;,&quot;capital&quot;:&quot;北方与西南多中心&quot;,&quot;people&quot;:&quot;刘渊、石勒、苻坚、姚兴&quot;,&quot;events&quot;:&quot;多政权兴替；383年淝水之战；439年北魏统一北方&quot;,&quot;note&quot;:&quot;传统统称，实际政权不止十六个，也非同时全部存在。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S08&quot;]},{&quot;id&quot;:&quot;eastern-jin&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;东晋&quot;,&quot;kind&quot;:&quot;王朝阶段&quot;,&quot;start&quot;:317,&quot;end&quot;:420,&quot;dates&quot;:&quot;317—420&quot;,&quot;capital&quot;:&quot;建康（今南京）&quot;,&quot;people&quot;:&quot;司马睿、谢安、王羲之、陶渊明&quot;,&quot;events&quot;:&quot;晋室南渡；门阀政治；淝水之战与江南发展&quot;,&quot;note&quot;:&quot;与十六国、早期北魏并立；陶渊明生涯跨入刘宋。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S08&quot;]},{&quot;id&quot;:&quot;northern-wei&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;北魏&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:386,&quot;end&quot;:534,&quot;dates&quot;:&quot;386—534&quot;,&quot;capital&quot;:&quot;平城（今大同）→洛阳&quot;,&quot;people&quot;:&quot;拓跋珪、拓跋焘、孝文帝&quot;,&quot;events&quot;:&quot;439统一北方；迁都与改革；分裂为东魏、西魏&quot;,&quot;note&quot;:&quot;早期与十六国并存；不是420年才建立。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S08&quot;]},{&quot;id&quot;:&quot;liu-song&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;刘宋&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:420,&quot;end&quot;:479,&quot;dates&quot;:&quot;420—479&quot;,&quot;capital&quot;:&quot;建康&quot;,&quot;people&quot;:&quot;刘裕、刘义隆、祖冲之&quot;,&quot;events&quot;:&quot;刘裕代晋；南朝开始&quot;,&quot;note&quot;:&quot;南朝宋，与960年建立的赵宋不同。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S08&quot;]},{&quot;id&quot;:&quot;southern-qi&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;南齐&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:479,&quot;end&quot;:502,&quot;dates&quot;:&quot;479—502&quot;,&quot;capital&quot;:&quot;建康&quot;,&quot;people&quot;:&quot;萧道成、萧赜、谢朓&quot;,&quot;events&quot;:&quot;萧道成代宋；南朝政权更替&quot;,&quot;note&quot;:&quot;与春秋战国齐国、北齐均不同。&quot;,&quot;sources&quot;:[&quot;S04&quot;]},{&quot;id&quot;:&quot;liang&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;南梁&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:502,&quot;end&quot;:557,&quot;dates&quot;:&quot;502—557&quot;,&quot;capital&quot;:&quot;建康；末期江陵等&quot;,&quot;people&quot;:&quot;萧衍、萧统&quot;,&quot;events&quot;:&quot;佛教与文学发展；侯景之乱&quot;,&quot;note&quot;:&quot;此表为南朝梁主线；江陵西梁555—587另有延续。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S08&quot;]},{&quot;id&quot;:&quot;eastern-wei&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;东魏&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:534,&quot;end&quot;:550,&quot;dates&quot;:&quot;534—550&quot;,&quot;capital&quot;:&quot;邺&quot;,&quot;people&quot;:&quot;元善见、高欢&quot;,&quot;events&quot;:&quot;北魏分裂；高氏掌权&quot;,&quot;note&quot;:&quot;与西魏并立，后由北齐取代。&quot;,&quot;sources&quot;:[&quot;S04&quot;]},{&quot;id&quot;:&quot;western-wei&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;西魏&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:535,&quot;end&quot;:557,&quot;dates&quot;:&quot;535—557&quot;,&quot;capital&quot;:&quot;长安&quot;,&quot;people&quot;:&quot;元宝炬、宇文泰&quot;,&quot;events&quot;:&quot;关陇政治集团发展&quot;,&quot;note&quot;:&quot;与东魏、北齐先后并立，后由北周取代。&quot;,&quot;sources&quot;:[&quot;S04&quot;]},{&quot;id&quot;:&quot;northern-qi&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;北齐&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:550,&quot;end&quot;:577,&quot;dates&quot;:&quot;550—577&quot;,&quot;capital&quot;:&quot;邺&quot;,&quot;people&quot;:&quot;高洋、高长恭&quot;,&quot;events&quot;:&quot;高氏代东魏；后亡于北周&quot;,&quot;note&quot;:&quot;不是南朝的南齐。&quot;,&quot;sources&quot;:[&quot;S04&quot;]},{&quot;id&quot;:&quot;northern-zhou&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;北周&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:557,&quot;end&quot;:581,&quot;dates&quot;:&quot;557—581&quot;,&quot;capital&quot;:&quot;长安&quot;,&quot;people&quot;:&quot;宇文觉、宇文邕、杨坚&quot;,&quot;events&quot;:&quot;577灭北齐；581杨坚代周建隋&quot;,&quot;note&quot;:&quot;不是先秦周朝；此后隋与南陈仍并存。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S08&quot;]},{&quot;id&quot;:&quot;chen&quot;,&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;name&quot;:&quot;南陈&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:557,&quot;end&quot;:589,&quot;dates&quot;:&quot;557—589&quot;,&quot;capital&quot;:&quot;建康&quot;,&quot;people&quot;:&quot;陈霸先、陈后主&quot;,&quot;events&quot;:&quot;南朝最后一朝；589亡于隋&quot;,&quot;note&quot;:&quot;南朝宋、齐、梁、陈依次更替，与北方政权并立。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S08&quot;]},{&quot;id&quot;:&quot;sui&quot;,&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;name&quot;:&quot;隋&quot;,&quot;kind&quot;:&quot;王朝&quot;,&quot;start&quot;:581,&quot;end&quot;:618,&quot;dates&quot;:&quot;581—618&quot;,&quot;capital&quot;:&quot;大兴（今西安）；东都洛阳&quot;,&quot;people&quot;:&quot;杨坚、杨广&quot;,&quot;events&quot;:&quot;589灭陈；大运河建设；选官制度发展&quot;,&quot;note&quot;:&quot;581建国、589统一；隋末个别残余政权延至619。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S09&quot;]},{&quot;id&quot;:&quot;tang&quot;,&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;name&quot;:&quot;唐（含武周中断）&quot;,&quot;kind&quot;:&quot;王朝&quot;,&quot;start&quot;:618,&quot;end&quot;:907,&quot;dates&quot;:&quot;618—907；690—705为武周&quot;,&quot;capital&quot;:&quot;长安；洛阳为重要都城&quot;,&quot;people&quot;:&quot;李渊、李世民、武则天、李隆基、李白、杜甫、玄奘&quot;,&quot;events&quot;:&quot;贞观之治、开元时期；755—763安史之乱；藩镇势力与晚唐危机&quot;,&quot;note&quot;:&quot;618—907是通史总框架，不表示唐国号连续未变。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S09&quot;]},{&quot;id&quot;:&quot;wu-zhou&quot;,&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;name&quot;:&quot;武周&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:690,&quot;end&quot;:705,&quot;dates&quot;:&quot;690—705&quot;,&quot;capital&quot;:&quot;神都洛阳&quot;,&quot;people&quot;:&quot;武则天、狄仁杰&quot;,&quot;events&quot;:&quot;武则天称帝改国号周；705恢复唐国号&quot;,&quot;note&quot;:&quot;在唐代通史范围内单列，不能把此区间再当成唐同时统治。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S10&quot;]},{&quot;id&quot;:&quot;five&quot;,&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;name&quot;:&quot;五代&quot;,&quot;kind&quot;:&quot;历史时期&quot;,&quot;start&quot;:907,&quot;end&quot;:960,&quot;dates&quot;:&quot;907—960&quot;,&quot;capital&quot;:&quot;开封、洛阳等&quot;,&quot;people&quot;:&quot;朱温、李存勖、石敬瑭、刘知远、郭威、柴荣&quot;,&quot;events&quot;:&quot;后梁→后唐→后晋→后汉→后周；960宋代后周&quot;,&quot;note&quot;:&quot;五代是中原五个相继政权的统称。&quot;,&quot;sources&quot;:[&quot;S11&quot;]},{&quot;id&quot;:&quot;ten&quot;,&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;name&quot;:&quot;十国&quot;,&quot;kind&quot;:&quot;历史时期&quot;,&quot;start&quot;:907,&quot;end&quot;:979,&quot;dates&quot;:&quot;通常概括907—979&quot;,&quot;capital&quot;:&quot;南方各地与北汉地区多中心&quot;,&quot;people&quot;:&quot;钱镠、李煜、刘崇&quot;,&quot;events&quot;:&quot;地方割据与区域经济发展；979宋灭北汉&quot;,&quot;note&quot;:&quot;部分势力起于907以前；十国不是同时建立，也不是960全部消失。&quot;,&quot;sources&quot;:[&quot;S11&quot;]},{&quot;id&quot;:&quot;liao&quot;,&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;name&quot;:&quot;辽／契丹&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:916,&quot;end&quot;:1125,&quot;dates&quot;:&quot;916—1125&quot;,&quot;capital&quot;:&quot;五京制；上京临潢府等&quot;,&quot;people&quot;:&quot;耶律阿保机、耶律德光、萧绰&quot;,&quot;events&quot;:&quot;契丹建国；与北宋订澶渊之盟；1125亡于金&quot;,&quot;note&quot;:&quot;本文取916称帝建国口径；907另有称汗起点说。&quot;,&quot;sources&quot;:[&quot;S11&quot;,&quot;S12&quot;]},{&quot;id&quot;:&quot;northern-song&quot;,&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;name&quot;:&quot;北宋&quot;,&quot;kind&quot;:&quot;王朝阶段&quot;,&quot;start&quot;:960,&quot;end&quot;:1127,&quot;dates&quot;:&quot;960—1127&quot;,&quot;capital&quot;:&quot;东京开封府&quot;,&quot;people&quot;:&quot;赵匡胤、王安石、司马光、苏轼、沈括、毕昇&quot;,&quot;events&quot;:&quot;陈桥兵变；文官政治；变法；1127靖康之变&quot;,&quot;note&quot;:&quot;与辽、西夏等并立，没有统一所有传统中国史叙述涉及地区。&quot;,&quot;sources&quot;:[&quot;S11&quot;,&quot;S13&quot;]},{&quot;id&quot;:&quot;western-xia&quot;,&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;name&quot;:&quot;西夏&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:1038,&quot;end&quot;:1227,&quot;dates&quot;:&quot;1038—1227&quot;,&quot;capital&quot;:&quot;兴庆府（今银川）&quot;,&quot;people&quot;:&quot;李元昊、李仁孝&quot;,&quot;events&quot;:&quot;元昊称帝；西夏文字与制度发展；亡于蒙古&quot;,&quot;note&quot;:&quot;国号大夏，史称西夏；不能遗漏在宋辽金的并立关系之外。&quot;,&quot;sources&quot;:[&quot;S11&quot;]},{&quot;id&quot;:&quot;jin-jurchen&quot;,&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;name&quot;:&quot;金&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:1115,&quot;end&quot;:1234,&quot;dates&quot;:&quot;1115—1234&quot;,&quot;capital&quot;:&quot;上京会宁府→中都→开封&quot;,&quot;people&quot;:&quot;完颜阿骨打、金世宗、元好问&quot;,&quot;events&quot;:&quot;1125灭辽、1127灭北宋；1234亡于蒙古与宋联军&quot;,&quot;note&quot;:&quot;女真建立的金；不同于司马氏的晋，也不同于1616后金。&quot;,&quot;sources&quot;:[&quot;S11&quot;,&quot;S13&quot;]},{&quot;id&quot;:&quot;western-liao&quot;,&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;name&quot;:&quot;西辽&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:1124,&quot;end&quot;:1218,&quot;dates&quot;:&quot;约1124—1218&quot;,&quot;capital&quot;:&quot;虎思斡耳朵（中亚）&quot;,&quot;people&quot;:&quot;耶律大石&quot;,&quot;events&quot;:&quot;契丹西迁；中亚政权延续&quot;,&quot;note&quot;:&quot;1124为西迁建政起算，1132称帝又是常用起点；辽亡后仍有延续政权。&quot;,&quot;sources&quot;:[&quot;S11&quot;,&quot;S14&quot;]},{&quot;id&quot;:&quot;southern-song&quot;,&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;name&quot;:&quot;南宋&quot;,&quot;kind&quot;:&quot;王朝阶段&quot;,&quot;start&quot;:1127,&quot;end&quot;:1279,&quot;dates&quot;:&quot;1127—1279&quot;,&quot;capital&quot;:&quot;临安（今杭州）&quot;,&quot;people&quot;:&quot;赵构、岳飞、李清照、朱熹、辛弃疾、文天祥&quot;,&quot;events&quot;:&quot;宋金对峙；商业与海上贸易；1276临安失守；1279崖山败亡&quot;,&quot;note&quot;:&quot;1276失去临安与1279朝廷终结不同。&quot;,&quot;sources&quot;:[&quot;S11&quot;,&quot;S13&quot;,&quot;S15&quot;]},{&quot;id&quot;:&quot;mongol&quot;,&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;name&quot;:&quot;蒙古汗国（元前史）&quot;,&quot;kind&quot;:&quot;政权阶段&quot;,&quot;start&quot;:1206,&quot;end&quot;:1271,&quot;dates&quot;:&quot;1206建立；至1271元定号&quot;,&quot;capital&quot;:&quot;早期草原行帐，后有和林等&quot;,&quot;people&quot;:&quot;成吉思汗、窝阔台、蒙哥、忽必烈&quot;,&quot;events&quot;:&quot;草原统一、扩张；1227灭西夏；1234灭金&quot;,&quot;note&quot;:&quot;1271是本表转入元朝的叙述节点，不是整个蒙古帝国及各汗国同时灭亡。&quot;,&quot;sources&quot;:[&quot;S16&quot;]},{&quot;id&quot;:&quot;yuan&quot;,&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;name&quot;:&quot;元&quot;,&quot;kind&quot;:&quot;王朝&quot;,&quot;start&quot;:1271,&quot;end&quot;:1368,&quot;dates&quot;:&quot;1271—1368&quot;,&quot;capital&quot;:&quot;大都（今北京），另有上都&quot;,&quot;people&quot;:&quot;忽必烈、郭守敬、关汉卿、赵孟頫&quot;,&quot;events&quot;:&quot;1271定国号；1279灭南宋；行省治理与欧亚往来&quot;,&quot;note&quot;:&quot;1368明军进入大都，元廷北迁后延续，不能理解为蒙古各政权全部终结。&quot;,&quot;sources&quot;:[&quot;S16&quot;]},{&quot;id&quot;:&quot;ming&quot;,&quot;stage&quot;:&quot;明清&quot;,&quot;name&quot;:&quot;明&quot;,&quot;kind&quot;:&quot;王朝&quot;,&quot;start&quot;:1368,&quot;end&quot;:1644,&quot;dates&quot;:&quot;1368—1644&quot;,&quot;capital&quot;:&quot;南京→北京（1421迁都）&quot;,&quot;people&quot;:&quot;朱元璋、朱棣、郑和、王守仁、李时珍、张居正、徐光启&quot;,&quot;events&quot;:&quot;废丞相；郑和远航；赋役改革；1644北京失守&quot;,&quot;note&quot;:&quot;主表以北京朝廷结束为界，南明继续存在。&quot;,&quot;sources&quot;:[&quot;S04&quot;,&quot;S17&quot;]},{&quot;id&quot;:&quot;later-jin&quot;,&quot;stage&quot;:&quot;明清&quot;,&quot;name&quot;:&quot;后金&quot;,&quot;kind&quot;:&quot;政权&quot;,&quot;start&quot;:1616,&quot;end&quot;:1636,&quot;dates&quot;:&quot;1616—1636&quot;,&quot;capital&quot;:&quot;赫图阿拉，后迁辽阳、沈阳&quot;,&quot;people&quot;:&quot;努尔哈赤、皇太极&quot;,&quot;events&quot;:&quot;建立后金；1636改国号大清&quot;,&quot;note&quot;:&quot;并非五代的后晋，也非1115年建立的金。&quot;,&quot;sources&quot;:[&quot;S17&quot;]},{&quot;id&quot;:&quot;qing&quot;,&quot;stage&quot;:&quot;明清&quot;,&quot;name&quot;:&quot;清&quot;,&quot;kind&quot;:&quot;王朝&quot;,&quot;start&quot;:1636,&quot;end&quot;:1912,&quot;dates&quot;:&quot;1636—1912；1644入关&quot;,&quot;capital&quot;:&quot;盛京（今沈阳）→北京&quot;,&quot;people&quot;:&quot;皇太极、康熙、雍正、乾隆、曹雪芹、林则徐&quot;,&quot;events&quot;:&quot;入关与扩张；18世纪人口经济变化；鸦片战争；晚清改革；辛亥革命&quot;,&quot;note&quot;:&quot;可从后金1616叙述前史；1912年2月12日清帝退位。&quot;,&quot;sources&quot;:[&quot;S17&quot;,&quot;S19&quot;]},{&quot;id&quot;:&quot;southern-ming&quot;,&quot;stage&quot;:&quot;明清&quot;,&quot;name&quot;:&quot;南明&quot;,&quot;kind&quot;:&quot;政权群&quot;,&quot;start&quot;:1644,&quot;end&quot;:1662,&quot;dates&quot;:&quot;1644—1662（常用概括）&quot;,&quot;capital&quot;:&quot;南京、福州、肇庆等多中心&quot;,&quot;people&quot;:&quot;弘光帝、永历帝、史可法、郑成功&quot;,&quot;events&quot;:&quot;明宗室诸政权继续抗清&quot;,&quot;note&quot;:&quot;本表以永历帝遇害为主要终点；郑氏政权延至1683等延续另论。&quot;,&quot;sources&quot;:[&quot;S18&quot;]},{&quot;id&quot;:&quot;republic-mainland&quot;,&quot;stage&quot;:&quot;近现代&quot;,&quot;name&quot;:&quot;中华民国（大陆时期）&quot;,&quot;kind&quot;:&quot;近现代分期&quot;,&quot;start&quot;:1912,&quot;end&quot;:1949,&quot;dates&quot;:&quot;1912—1949（大陆史分期）&quot;,&quot;capital&quot;:&quot;南京、北京；抗战时期重庆为陪都&quot;,&quot;people&quot;:&quot;孙中山、袁世凯、蒋介石、鲁迅、陈独秀、李大钊&quot;,&quot;events&quot;:&quot;共和建立；军阀政治；国民革命；抗日战争；国共内战&quot;,&quot;note&quot;:&quot;1949政府迁台，此年不是中华民国政权一概终结的年份。&quot;,&quot;sources&quot;:[&quot;S20&quot;,&quot;S21&quot;]},{&quot;id&quot;:&quot;prc&quot;,&quot;stage&quot;:&quot;近现代&quot;,&quot;name&quot;:&quot;中华人民共和国&quot;,&quot;kind&quot;:&quot;国家时期&quot;,&quot;start&quot;:1949,&quot;end&quot;:null,&quot;dates&quot;:&quot;1949年10月1日至今&quot;,&quot;capital&quot;:&quot;北京&quot;,&quot;people&quot;:&quot;毛泽东、周恩来、邓小平、钱学森、袁隆平、屠呦呦等&quot;,&quot;events&quot;:&quot;国家建设、社会转型；1978改革开放；工业科技发展与国际联系&quot;,&quot;note&quot;:&quot;以2026-09-26为资料截止；人物为不同阶段代表，不是现任领导人名单。&quot;,&quot;sources&quot;:[&quot;S21&quot;,&quot;S22&quot;]}],&quot;people&quot;:[{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;商&quot;,&quot;era&quot;:&quot;晚商&quot;,&quot;category&quot;:&quot;军事&quot;,&quot;name&quot;:&quot;妇好&quot;,&quot;fact&quot;:&quot;商王武丁配偶；甲骨文记录其参与军事、祭祀，殷墟有其墓。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;西周&quot;,&quot;era&quot;:&quot;西周初&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;周公旦&quot;,&quot;fact&quot;:&quot;辅佐周初政治；后世礼乐叙述常以他为关键人物，具体制度归属宜分辨文献传统与考古证据。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;春秋&quot;,&quot;era&quot;:&quot;春秋晚期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;孔子&quot;,&quot;fact&quot;:&quot;倡导仁、礼与教育；言行经弟子及后学传为《论语》。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;春秋战国&quot;,&quot;era&quot;:&quot;约春秋晚期至战国早期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;老子（传统归属）&quot;,&quot;fact&quot;:&quot;《道德经》传统上归于老子；人物生平与文本形成过程有争议，不能视为单一作者的确定传记。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;战国&quot;,&quot;era&quot;:&quot;战国早期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;墨子&quot;,&quot;fact&quot;:&quot;墨家代表，提出兼爱、非攻等主张；《墨子》由学派长期传承。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;战国&quot;,&quot;era&quot;:&quot;战国中期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;孟子&quot;,&quot;fact&quot;:&quot;发挥儒家仁政、人性论；言论见《孟子》。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;战国&quot;,&quot;era&quot;:&quot;战国中晚期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;庄子&quot;,&quot;fact&quot;:&quot;道家代表；《庄子》内外杂篇形成层次不同。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;战国&quot;,&quot;era&quot;:&quot;秦孝公时期&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;商鞅&quot;,&quot;fact&quot;:&quot;在秦推行变法，涉及县制、军功爵等制度。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;战国&quot;,&quot;era&quot;:&quot;战国晚期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;荀子&quot;,&quot;fact&quot;:&quot;重视礼法与后天学习；《荀子》保存其学说。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;战国&quot;,&quot;era&quot;:&quot;战国晚期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;韩非&quot;,&quot;fact&quot;:&quot;法家思想集大成者之一，著有《韩非子》相关篇章。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;战国&quot;,&quot;era&quot;:&quot;楚怀王时期&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;屈原&quot;,&quot;fact&quot;:&quot;楚辞传统的核心人物；《离骚》等作品的具体归属仍应结合文本研究。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;period&quot;:&quot;战国&quot;,&quot;era&quot;:&quot;战国中期&quot;,&quot;category&quot;:&quot;军事&quot;,&quot;name&quot;:&quot;孙膑&quot;,&quot;fact&quot;:&quot;齐国军事人物，《孙膑兵法》竹简出土使相关文献研究有实物依据。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;秦&quot;,&quot;era&quot;:&quot;秦统一前后&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;秦始皇（嬴政）&quot;,&quot;fact&quot;:&quot;统一六国后创皇帝称号，推行郡县治理及度量衡、文字规范。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;秦&quot;,&quot;era&quot;:&quot;秦统一前后&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;李斯&quot;,&quot;fact&quot;:&quot;参与秦的制度建设与文字规范化，亦有《谏逐客书》传世。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;西汉&quot;,&quot;era&quot;:&quot;秦末至汉初&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;刘邦&quot;,&quot;fact&quot;:&quot;在秦末战争后建立汉朝，形成汉初政治格局。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;西汉&quot;,&quot;era&quot;:&quot;汉武帝时期&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;汉武帝（刘彻）&quot;,&quot;fact&quot;:&quot;推动中央集权、对匈奴战争与西域经营；政策有不同成本与影响。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;西汉&quot;,&quot;era&quot;:&quot;汉武帝时期&quot;,&quot;category&quot;:&quot;交流&quot;,&quot;name&quot;:&quot;张骞&quot;,&quot;fact&quot;:&quot;奉命出使西域，其使行与后来跨区域交往关系密切。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;西汉&quot;,&quot;era&quot;:&quot;汉武帝时期&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;司马迁&quot;,&quot;fact&quot;:&quot;撰《史记》，以本纪、世家、列传等组织历史叙述。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;西汉&quot;,&quot;era&quot;:&quot;汉武帝时期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;董仲舒&quot;,&quot;fact&quot;:&quot;西汉儒学人物；其政治思想与后世概括之间需区分。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;西汉&quot;,&quot;era&quot;:&quot;汉元帝时期&quot;,&quot;category&quot;:&quot;交流&quot;,&quot;name&quot;:&quot;王昭君&quot;,&quot;fact&quot;:&quot;出塞与匈奴和亲相关；文学戏曲对其经历多有再创作。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;东汉&quot;,&quot;era&quot;:&quot;东汉前期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;班昭&quot;,&quot;fact&quot;:&quot;参与《汉书》续成工作，著《女诫》；可与女性教育史并读。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;东汉&quot;,&quot;era&quot;:&quot;东汉中期&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;蔡伦&quot;,&quot;fact&quot;:&quot;改进并推广造纸技术的史载关键人物；纸的使用早于其活动时代。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;东汉&quot;,&quot;era&quot;:&quot;东汉中期&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;张衡&quot;,&quot;fact&quot;:&quot;制作浑天仪、候风地动仪的史载人物，亦有文学作品。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;period&quot;:&quot;东汉&quot;,&quot;era&quot;:&quot;东汉末&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;华佗&quot;,&quot;fact&quot;:&quot;医学人物，麻沸散、五禽戏等见于后世史书；具体技术细节不完整。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;period&quot;:&quot;东汉末至三国&quot;,&quot;era&quot;:&quot;东汉末&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;曹操&quot;,&quot;fact&quot;:&quot;统一北方大部，奠定曹魏政权基础；亦留下诗文。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;period&quot;:&quot;三国&quot;,&quot;era&quot;:&quot;蜀汉建立前后&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;诸葛亮&quot;,&quot;fact&quot;:&quot;辅佐刘备及刘禅，主持蜀汉政务与北伐；《出师表》传世。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;period&quot;:&quot;东晋&quot;,&quot;era&quot;:&quot;东晋中期&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;王羲之&quot;,&quot;fact&quot;:&quot;书法代表人物，《兰亭集序》成为后世书法经典。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;period&quot;:&quot;东晋&quot;,&quot;era&quot;:&quot;东晋中晚期&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;顾恺之&quot;,&quot;fact&quot;:&quot;早期人物画代表；传世画卷多为后世摹本。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;period&quot;:&quot;东晋至南朝宋&quot;,&quot;era&quot;:&quot;东晋末至刘宋初&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;陶渊明&quot;,&quot;fact&quot;:&quot;田园诗代表，作《归园田居》《桃花源记》等。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;period&quot;:&quot;南北朝&quot;,&quot;era&quot;:&quot;刘宋与南齐时期&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;祖冲之&quot;,&quot;fact&quot;:&quot;数学、历法人物，对圆周率等作精密计算。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;period&quot;:&quot;隋&quot;,&quot;era&quot;:&quot;隋统一时期&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;隋文帝（杨坚）&quot;,&quot;fact&quot;:&quot;建隋并统一南北，调整中央与地方制度。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;period&quot;:&quot;隋&quot;,&quot;era&quot;:&quot;隋炀帝时期&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;隋炀帝（杨广）&quot;,&quot;fact&quot;:&quot;在位时大规模贯通运河系统；工程建立在更早河道与历代维护之上。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;period&quot;:&quot;唐&quot;,&quot;era&quot;:&quot;唐初&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;唐太宗（李世民）&quot;,&quot;fact&quot;:&quot;唐初君主，“贞观之治”是后世概括，须结合具体政策理解。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;period&quot;:&quot;唐至武周&quot;,&quot;era&quot;:&quot;7世纪后半至8世纪初&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;武则天&quot;,&quot;fact&quot;:&quot;690年称帝，建立武周；参与并重组唐代政治秩序。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;period&quot;:&quot;唐&quot;,&quot;era&quot;:&quot;唐初至高宗时期&quot;,&quot;category&quot;:&quot;交流&quot;,&quot;name&quot;:&quot;玄奘&quot;,&quot;fact&quot;:&quot;赴印度求法，回国译经；《大唐西域记》保存旅行见闻。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;period&quot;:&quot;唐&quot;,&quot;era&quot;:&quot;盛唐&quot;,&quot;category&quot;:&quot;交流&quot;,&quot;name&quot;:&quot;鉴真&quot;,&quot;fact&quot;:&quot;多次东渡后抵达日本，参与佛教戒律与文化交流。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;period&quot;:&quot;唐&quot;,&quot;era&quot;:&quot;盛唐&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;李白&quot;,&quot;fact&quot;:&quot;唐诗代表人物，诗歌题材与风格多样。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;period&quot;:&quot;唐&quot;,&quot;era&quot;:&quot;盛唐至中唐&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;杜甫&quot;,&quot;fact&quot;:&quot;诗作记录个人遭际及时代动荡。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;period&quot;:&quot;唐&quot;,&quot;era&quot;:&quot;中唐&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;韩愈&quot;,&quot;fact&quot;:&quot;倡导古文，参与儒学与佛教相关思想论辩。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;北宋&quot;,&quot;era&quot;:&quot;宋初&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;宋太祖（赵匡胤）&quot;,&quot;fact&quot;:&quot;建北宋，推进对多数中原及南方割据政权的统一。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;北宋&quot;,&quot;era&quot;:&quot;宋神宗时期&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;王安石&quot;,&quot;fact&quot;:&quot;主持变法，涉及财政、军事、教育；成效与代价历来有争论。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;北宋&quot;,&quot;era&quot;:&quot;北宋中后期&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;司马光&quot;,&quot;fact&quot;:&quot;主编编年体史书《资治通鉴》，亦参与政治论辩。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;北宋&quot;,&quot;era&quot;:&quot;北宋中后期&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;苏轼&quot;,&quot;fact&quot;:&quot;诗、词、散文、书画均有影响，仕途与地方生活相连。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;北宋至南宋&quot;,&quot;era&quot;:&quot;两宋之交&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;李清照&quot;,&quot;fact&quot;:&quot;词人，作品涉及日常生活、离乱与身世。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;北宋&quot;,&quot;era&quot;:&quot;北宋中后期&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;沈括&quot;,&quot;fact&quot;:&quot;著《梦溪笔谈》，记录天文、地理、技术等观察与见闻。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;北宋&quot;,&quot;era&quot;:&quot;北宋中期&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;毕昇&quot;,&quot;fact&quot;:&quot;据《梦溪笔谈》记载试用胶泥活字印刷；雕版印刷仍长期广用。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;南宋&quot;,&quot;era&quot;:&quot;南宋初&quot;,&quot;category&quot;:&quot;军事&quot;,&quot;name&quot;:&quot;岳飞&quot;,&quot;fact&quot;:&quot;抗金将领；其身后评价与文学形象需和当时史料区分。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;南宋&quot;,&quot;era&quot;:&quot;南宋中期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;朱熹&quot;,&quot;fact&quot;:&quot;理学代表人物，编定《四书章句集注》，对后世教育和科举有长期影响。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;西夏&quot;,&quot;era&quot;:&quot;西夏建国前后&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;李元昊&quot;,&quot;fact&quot;:&quot;建立西夏政权，推进其制度与文字建设。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;金&quot;,&quot;era&quot;:&quot;金建国初&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;完颜阿骨打&quot;,&quot;fact&quot;:&quot;建立女真金政权，与辽、宋格局变化相关。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;蒙古汗国&quot;,&quot;era&quot;:&quot;13世纪初&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;成吉思汗（铁木真）&quot;,&quot;fact&quot;:&quot;1206年建立蒙古汗国；与1271年忽必烈定国号元是不同阶段。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;元&quot;,&quot;era&quot;:&quot;13世纪后半&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;忽必烈&quot;,&quot;fact&quot;:&quot;建立元朝国号，以大都为中心统治，形成跨区域多族群政权。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;元&quot;,&quot;era&quot;:&quot;元初&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;关汉卿&quot;,&quot;fact&quot;:&quot;元杂剧代表作家，《窦娥冤》等作品归其名下。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;period&quot;:&quot;元&quot;,&quot;era&quot;:&quot;元初至中期&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;郭守敬&quot;,&quot;fact&quot;:&quot;主持天文历法、水利相关工作，参与《授时历》制定。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;period&quot;:&quot;明&quot;,&quot;era&quot;:&quot;明初&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;明太祖（朱元璋）&quot;,&quot;fact&quot;:&quot;建明并重整中央、地方治理和户籍赋役秩序。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;period&quot;:&quot;明&quot;,&quot;era&quot;:&quot;明成祖时期&quot;,&quot;category&quot;:&quot;交流&quot;,&quot;name&quot;:&quot;郑和&quot;,&quot;fact&quot;:&quot;率船队多次远航印度洋，体现国家组织的海上外交与贸易交往。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;period&quot;:&quot;明&quot;,&quot;era&quot;:&quot;明中期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;王阳明（王守仁）&quot;,&quot;fact&quot;:&quot;心学代表人物，提出“致良知”“知行合一”。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;period&quot;:&quot;明&quot;,&quot;era&quot;:&quot;明中晚期&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;李时珍&quot;,&quot;fact&quot;:&quot;编《本草纲目》，系统整理、辨析药物知识。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;period&quot;:&quot;明&quot;,&quot;era&quot;:&quot;明末&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;徐光启&quot;,&quot;fact&quot;:&quot;参与历法、农学及西学翻译，著《农政全书》相关内容。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;period&quot;:&quot;清&quot;,&quot;era&quot;:&quot;清前中期&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;康熙帝（玄烨）&quot;,&quot;fact&quot;:&quot;清朝君主，治理多区域政权，并支持学术、测绘等事业。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;period&quot;:&quot;清&quot;,&quot;era&quot;:&quot;清中期&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;曹雪芹&quot;,&quot;fact&quot;:&quot;《红楼梦》前八十回通常归其创作，后续文本形成另有版本问题。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;period&quot;:&quot;清&quot;,&quot;era&quot;:&quot;清后期&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;林则徐&quot;,&quot;fact&quot;:&quot;禁烟运动重要官员，近代中外冲突中的关键人物。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;period&quot;:&quot;清&quot;,&quot;era&quot;:&quot;清后期&quot;,&quot;category&quot;:&quot;思想&quot;,&quot;name&quot;:&quot;魏源&quot;,&quot;fact&quot;:&quot;编《海国图志》，推动对域外知识的搜集与讨论。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;period&quot;:&quot;清末至民国&quot;,&quot;era&quot;:&quot;19世纪末至20世纪初&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;孙中山&quot;,&quot;fact&quot;:&quot;革命活动与共和制度倡议的重要人物；其思想和实践有不同阶段。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;period&quot;:&quot;民国&quot;,&quot;era&quot;:&quot;20世纪前期&quot;,&quot;category&quot;:&quot;文学艺术&quot;,&quot;name&quot;:&quot;鲁迅&quot;,&quot;fact&quot;:&quot;《呐喊》《彷徨》等作品影响现代文学与思想讨论。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;period&quot;:&quot;民国至中华人民共和国&quot;,&quot;era&quot;:&quot;20世纪中期&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;毛泽东&quot;,&quot;fact&quot;:&quot;中共及中华人民共和国主要领导人；参与革命与国家建设，其晚年政治运动及影响须结合具体史实评价。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;period&quot;:&quot;民国至中华人民共和国&quot;,&quot;era&quot;:&quot;20世纪中期&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;周恩来&quot;,&quot;fact&quot;:&quot;参与中共革命活动，任中华人民共和国首任国务院总理，在行政与外交方面发挥重要作用。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;period&quot;:&quot;中华人民共和国&quot;,&quot;era&quot;:&quot;20世纪后半叶&quot;,&quot;category&quot;:&quot;政治&quot;,&quot;name&quot;:&quot;邓小平&quot;,&quot;fact&quot;:&quot;改革开放的重要领导者；相关改革由多层级组织和社会共同推进。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;period&quot;:&quot;民国至中华人民共和国&quot;,&quot;era&quot;:&quot;20世纪中后期&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;钱学森&quot;,&quot;fact&quot;:&quot;空气动力学、工程控制论与中国航天事业的重要参与者。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;period&quot;:&quot;中华人民共和国&quot;,&quot;era&quot;:&quot;20世纪后半叶至21世纪初&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;袁隆平&quot;,&quot;fact&quot;:&quot;杂交水稻研究的重要推动者，相关成果依赖长期科研与育种协作。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;period&quot;:&quot;中华人民共和国&quot;,&quot;era&quot;:&quot;20世纪后半叶以来&quot;,&quot;category&quot;:&quot;科技工程&quot;,&quot;name&quot;:&quot;屠呦呦&quot;,&quot;fact&quot;:&quot;领导并参与青蒿素抗疟药研究，相关成果是团队及长期研究的产物。&quot;}],&quot;events&quot;:[{&quot;stage&quot;:&quot;文明起源&quot;,&quot;date&quot;:&quot;约前3300—前2300&quot;,&quot;name&quot;:&quot;良渚古城及其文化发展&quot;,&quot;people&quot;:&quot;太湖地区居民&quot;,&quot;category&quot;:&quot;文明与考古&quot;,&quot;fact&quot;:&quot;区域性早期国家、城市、水利与分工的证据。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;date&quot;:&quot;前1046（采用的推定年代）&quot;,&quot;name&quot;:&quot;武王克商&quot;,&quot;people&quot;:&quot;周武王、商王帝辛&quot;,&quot;category&quot;:&quot;政权更替&quot;,&quot;fact&quot;:&quot;商周转换；具体年代需保留推定性质。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;date&quot;:&quot;前841&quot;,&quot;name&quot;:&quot;共和元年&quot;,&quot;people&quot;:&quot;西周王朝&quot;,&quot;category&quot;:&quot;史料与纪年&quot;,&quot;fact&quot;:&quot;传世历史连续可靠纪年的常用起点。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;date&quot;:&quot;前770&quot;,&quot;name&quot;:&quot;平王东迁&quot;,&quot;people&quot;:&quot;周平王&quot;,&quot;category&quot;:&quot;政权与空间&quot;,&quot;fact&quot;:&quot;东周开始，王室与诸侯关系逐渐变化。&quot;},{&quot;stage&quot;:&quot;先秦&quot;,&quot;date&quot;:&quot;前356、前350（常用分期）&quot;,&quot;name&quot;:&quot;商鞅变法的主要阶段&quot;,&quot;people&quot;:&quot;秦孝公、商鞅&quot;,&quot;category&quot;:&quot;制度&quot;,&quot;fact&quot;:&quot;县制、军功爵与农业等政策改变秦的治理方式。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;date&quot;:&quot;前221&quot;,&quot;name&quot;:&quot;秦兼并六国&quot;,&quot;people&quot;:&quot;秦始皇、李斯等&quot;,&quot;category&quot;:&quot;统一与制度&quot;,&quot;fact&quot;:&quot;建立统一帝国，推行皇帝制度和郡县治理。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;date&quot;:&quot;前209&quot;,&quot;name&quot;:&quot;陈胜、吴广起义&quot;,&quot;people&quot;:&quot;陈胜、吴广&quot;,&quot;category&quot;:&quot;社会与战争&quot;,&quot;fact&quot;:&quot;秦末大规模反抗的重要开端。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;date&quot;:&quot;前202&quot;,&quot;name&quot;:&quot;刘邦称帝&quot;,&quot;people&quot;:&quot;刘邦、项羽等&quot;,&quot;category&quot;:&quot;政权更替&quot;,&quot;fact&quot;:&quot;楚汉竞争后汉帝国建立；不要与前206汉王纪年混淆。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;date&quot;:&quot;前138（常用纪年）&quot;,&quot;name&quot;:&quot;张骞首次出使西域&quot;,&quot;people&quot;:&quot;张骞&quot;,&quot;category&quot;:&quot;交流&quot;,&quot;fact&quot;:&quot;汉与西域联系的重要节点，跨区域道路和贸易并非一人独创。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;date&quot;:&quot;9／23／25&quot;,&quot;name&quot;:&quot;新建立／新亡与更始兴起／东汉建立&quot;,&quot;people&quot;:&quot;王莽、刘玄、刘秀&quot;,&quot;category&quot;:&quot;政权更替&quot;,&quot;fact&quot;:&quot;补全西汉与东汉之间的过渡。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;date&quot;:&quot;105（史书记载奏报年）&quot;,&quot;name&quot;:&quot;蔡伦向朝廷奏报改进的造纸法&quot;,&quot;people&quot;:&quot;蔡伦及工匠&quot;,&quot;category&quot;:&quot;科技与传播&quot;,&quot;fact&quot;:&quot;改良技术与传播节点，不是此前世上没有纸。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;date&quot;:&quot;184&quot;,&quot;name&quot;:&quot;黄巾起义&quot;,&quot;people&quot;:&quot;张角等&quot;,&quot;category&quot;:&quot;社会与政治&quot;,&quot;fact&quot;:&quot;与此后地方军政势力增长、东汉末分裂相联系。&quot;},{&quot;stage&quot;:&quot;秦汉&quot;,&quot;date&quot;:&quot;208&quot;,&quot;name&quot;:&quot;赤壁之战&quot;,&quot;people&quot;:&quot;曹操、孙权、刘备、周瑜等&quot;,&quot;category&quot;:&quot;战争&quot;,&quot;fact&quot;:&quot;发生于东汉末，为后来三国格局的重要前提。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;date&quot;:&quot;220／221／229&quot;,&quot;name&quot;:&quot;魏、蜀汉、吴先后称帝&quot;,&quot;people&quot;:&quot;曹丕、刘备、孙权&quot;,&quot;category&quot;:&quot;政权并立&quot;,&quot;fact&quot;:&quot;三方称帝不是同一年；吴王建元另可从222起算。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;date&quot;:&quot;280&quot;,&quot;name&quot;:&quot;晋灭吴&quot;,&quot;people&quot;:&quot;司马炎、孙皓等&quot;,&quot;category&quot;:&quot;统一&quot;,&quot;fact&quot;:&quot;西晋统一晚于其建国。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;date&quot;:&quot;317&quot;,&quot;name&quot;:&quot;东晋建立&quot;,&quot;people&quot;:&quot;司马睿&quot;,&quot;category&quot;:&quot;政权与迁移&quot;,&quot;fact&quot;:&quot;晋室南渡；北方诸政权同时发展。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;date&quot;:&quot;383&quot;,&quot;name&quot;:&quot;淝水之战&quot;,&quot;people&quot;:&quot;苻坚、谢安、谢玄等&quot;,&quot;category&quot;:&quot;战争&quot;,&quot;fact&quot;:&quot;前秦与东晋交战，影响南北力量格局。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;date&quot;:&quot;439&quot;,&quot;name&quot;:&quot;北魏统一北方主要地区&quot;,&quot;people&quot;:&quot;拓跋焘&quot;,&quot;category&quot;:&quot;政权&quot;,&quot;fact&quot;:&quot;十六国时期常用结束节点；南方刘宋同时存在。&quot;},{&quot;stage&quot;:&quot;魏晋南北朝&quot;,&quot;date&quot;:&quot;494&quot;,&quot;name&quot;:&quot;北魏迁都洛阳&quot;,&quot;people&quot;:&quot;孝文帝&quot;,&quot;category&quot;:&quot;制度与空间&quot;,&quot;fact&quot;:&quot;迁都及一系列改革改变统治结构与文化关系。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;date&quot;:&quot;581／589&quot;,&quot;name&quot;:&quot;隋建立／隋灭陈&quot;,&quot;people&quot;:&quot;杨坚&quot;,&quot;category&quot;:&quot;统一&quot;,&quot;fact&quot;:&quot;建国与南北再统一相差八年。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;date&quot;:&quot;605年起&quot;,&quot;name&quot;:&quot;隋大规模开凿、贯通运河&quot;,&quot;people&quot;:&quot;杨广及大量劳动者&quot;,&quot;category&quot;:&quot;工程与经济&quot;,&quot;fact&quot;:&quot;整合已有水道与新河段，代价和长期交通作用须分别分析。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;date&quot;:&quot;618&quot;,&quot;name&quot;:&quot;唐建立&quot;,&quot;people&quot;:&quot;李渊&quot;,&quot;category&quot;:&quot;政权更替&quot;,&quot;fact&quot;:&quot;隋末战争中的新政权，随后继续平定各地。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;date&quot;:&quot;690／705&quot;,&quot;name&quot;:&quot;武周建立／恢复唐国号&quot;,&quot;people&quot;:&quot;武则天、唐中宗等&quot;,&quot;category&quot;:&quot;政权&quot;,&quot;fact&quot;:&quot;唐代总框架内存在国号中断。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;date&quot;:&quot;755—763&quot;,&quot;name&quot;:&quot;安史之乱&quot;,&quot;people&quot;:&quot;安禄山、史思明、唐朝及参战各方&quot;,&quot;category&quot;:&quot;战争与财政&quot;,&quot;fact&quot;:&quot;战争重创社会，中央、藩镇和财政关系进一步改变。&quot;},{&quot;stage&quot;:&quot;隋唐五代&quot;,&quot;date&quot;:&quot;907&quot;,&quot;name&quot;:&quot;后梁代唐&quot;,&quot;people&quot;:&quot;朱温&quot;,&quot;category&quot;:&quot;政权更替&quot;,&quot;fact&quot;:&quot;五代开始；多地割据同时存在。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;date&quot;:&quot;960／979&quot;,&quot;name&quot;:&quot;北宋建立／宋灭北汉&quot;,&quot;people&quot;:&quot;赵匡胤、赵光义&quot;,&quot;category&quot;:&quot;政权&quot;,&quot;fact&quot;:&quot;五代与十国的末端不同，宋初仍与地方政权并存。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;date&quot;:&quot;1004—1005&quot;,&quot;name&quot;:&quot;澶渊之盟&quot;,&quot;people&quot;:&quot;宋、辽双方&quot;,&quot;category&quot;:&quot;外交&quot;,&quot;fact&quot;:&quot;宋辽战争后的关系安排；岁币、边贸与边境秩序须一起观察。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;date&quot;:&quot;1069年起&quot;,&quot;name&quot;:&quot;王安石变法&quot;,&quot;people&quot;:&quot;宋神宗、王安石及支持与反对者&quot;,&quot;category&quot;:&quot;财政与制度&quot;,&quot;fact&quot;:&quot;政策目标、地方执行与长期后果需要区分。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;date&quot;:&quot;1125／1127&quot;,&quot;name&quot;:&quot;金灭辽／靖康之变、南宋建立&quot;,&quot;people&quot;:&quot;金、宋、辽诸方；赵构&quot;,&quot;category&quot;:&quot;政权并立&quot;,&quot;fact&quot;:&quot;辽宋夏格局转向宋金夏等并立，西辽另有延续。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;date&quot;:&quot;1206&quot;,&quot;name&quot;:&quot;蒙古汗国建立&quot;,&quot;people&quot;:&quot;成吉思汗&quot;,&quot;category&quot;:&quot;政权&quot;,&quot;fact&quot;:&quot;早于元朝定国号。&quot;},{&quot;stage&quot;:&quot;宋辽夏金元&quot;,&quot;date&quot;:&quot;1271／1279&quot;,&quot;name&quot;:&quot;定国号大元／南宋最终败亡&quot;,&quot;people&quot;:&quot;忽必烈、南宋朝廷等&quot;,&quot;category&quot;:&quot;政权与统一&quot;,&quot;fact&quot;:&quot;元与南宋在1271—1279年间并立。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;date&quot;:&quot;1368&quot;,&quot;name&quot;:&quot;明建立、元廷北迁&quot;,&quot;people&quot;:&quot;朱元璋、元顺帝等&quot;,&quot;category&quot;:&quot;政权更替&quot;,&quot;fact&quot;:&quot;元在中原的统治结束，不表示蒙古势力全部消失。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;date&quot;:&quot;1405—1433&quot;,&quot;name&quot;:&quot;郑和七次远航&quot;,&quot;people&quot;:&quot;郑和及船队&quot;,&quot;category&quot;:&quot;海洋与交流&quot;,&quot;fact&quot;:&quot;国家组织的航海外交，与更长期的民间海上贸易并看。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;date&quot;:&quot;1421&quot;,&quot;name&quot;:&quot;明迁都北京&quot;,&quot;people&quot;:&quot;朱棣&quot;,&quot;category&quot;:&quot;政治与空间&quot;,&quot;fact&quot;:&quot;南京仍保留重要地位，不等于从历史中消失。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;date&quot;:&quot;1616／1636／1644&quot;,&quot;name&quot;:&quot;后金建立／清定号／清入关&quot;,&quot;people&quot;:&quot;努尔哈赤、皇太极、多尔衮等&quot;,&quot;category&quot;:&quot;政权&quot;,&quot;fact&quot;:&quot;三个节点不能合为同一个“清朝建立年”。&quot;},{&quot;stage&quot;:&quot;明清&quot;,&quot;date&quot;:&quot;1644／1662&quot;,&quot;name&quot;:&quot;北京明廷结束／永历帝遇害&quot;,&quot;people&quot;:&quot;崇祯帝、李自成、南明与清各方&quot;,&quot;category&quot;:&quot;政权&quot;,&quot;fact&quot;:&quot;1644后南明持续，郑氏政权另延至1683。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;1840—1842&quot;,&quot;name&quot;:&quot;第一次鸦片战争&quot;,&quot;people&quot;:&quot;清、英国；林则徐等&quot;,&quot;category&quot;:&quot;国际关系&quot;,&quot;fact&quot;:&quot;中国大陆通史常以1840作为近代史起点。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;1860年代起&quot;,&quot;name&quot;:&quot;洋务运动&quot;,&quot;people&quot;:&quot;曾国藩、李鸿章、左宗棠、张之洞等&quot;,&quot;category&quot;:&quot;技术与制度&quot;,&quot;fact&quot;:&quot;军工、企业、教育等改革尝试，不能只用“成功／失败”概括。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;1894—1895／1898&quot;,&quot;name&quot;:&quot;甲午战争／戊戌变法&quot;,&quot;people&quot;:&quot;清、日本；光绪帝、康有为、梁启超等&quot;,&quot;category&quot;:&quot;战争与改革&quot;,&quot;fact&quot;:&quot;晚清国家危机与制度变革的重要节点。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;1911／1912&quot;,&quot;name&quot;:&quot;辛亥革命／民国建立、清帝退位&quot;,&quot;people&quot;:&quot;革命团体、孙中山、袁世凯、清廷等&quot;,&quot;category&quot;:&quot;政体&quot;,&quot;fact&quot;:&quot;革命、共和建立与皇帝退位不是同日完成。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;1919／1921&quot;,&quot;name&quot;:&quot;五四运动／中国共产党成立&quot;,&quot;people&quot;:&quot;学生、知识分子、工人等；陈独秀、李大钊等&quot;,&quot;category&quot;:&quot;思想与政治&quot;,&quot;fact&quot;:&quot;新文化、社会运动与政治组织的发展。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;1931／1937—1945&quot;,&quot;name&quot;:&quot;九一八事变后局部抗战／全民族抗战&quot;,&quot;people&quot;:&quot;中国各抗日力量、日本侵略军及国际参战者&quot;,&quot;category&quot;:&quot;战争&quot;,&quot;fact&quot;:&quot;局部与全面战争的起点不同；1945抗战胜利。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;1946—1949&quot;,&quot;name&quot;:&quot;国共全面内战主要阶段&quot;,&quot;people&quot;:&quot;国民党、共产党及其他社会力量&quot;,&quot;category&quot;:&quot;战争与政权&quot;,&quot;fact&quot;:&quot;1949形成重大政权与地域格局变化，后续战事未在同一天全部结束。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;1949&quot;,&quot;name&quot;:&quot;中华人民共和国成立；中华民国政府迁台&quot;,&quot;people&quot;:&quot;两岸政府与社会&quot;,&quot;category&quot;:&quot;政权&quot;,&quot;fact&quot;:&quot;成立于10月1日；“民国大陆时期结束”不等于其政权一概消失。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;1958—1961&quot;,&quot;name&quot;:&quot;大跃进、人民公社化及严重经济社会困难&quot;,&quot;people&quot;:&quot;党和政府、全国民众&quot;,&quot;category&quot;:&quot;政策与社会&quot;,&quot;fact&quot;:&quot;研究政策决策、资源配置和社会代价的重要阶段。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;1966—1976&quot;,&quot;name&quot;:&quot;文化大革命&quot;,&quot;people&quot;:&quot;毛泽东、党政机构与全国民众&quot;,&quot;category&quot;:&quot;政治与社会&quot;,&quot;fact&quot;:&quot;造成严重政治、社会和文化损害；不能从现代史框架中略去。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;1978年起&quot;,&quot;name&quot;:&quot;改革开放&quot;,&quot;people&quot;:&quot;邓小平等及各级组织、企业、民众&quot;,&quot;category&quot;:&quot;经济与制度&quot;,&quot;fact&quot;:&quot;政策方向的重要转折，具体改革分阶段推进。&quot;},{&quot;stage&quot;:&quot;近现代&quot;,&quot;date&quot;:&quot;2001-12-11&quot;,&quot;name&quot;:&quot;中国加入世界贸易组织&quot;,&quot;people&quot;:&quot;中国、WTO成员&quot;,&quot;category&quot;:&quot;经济与全球联系&quot;,&quot;fact&quot;:&quot;融入多边贸易体系的重要节点；不直接等于全部领域同时开放。&quot;}],&quot;sources&quot;:{&quot;S01&quot;:{&quot;title&quot;:&quot;UNESCO：良渚古城遗址&quot;,&quot;url&quot;:&quot;https://whc.unesco.org/en/list/1592&quot;},&quot;S02&quot;:{&quot;title&quot;:&quot;中国国家博物馆：夏商西周&quot;,&quot;url&quot;:&quot;https://www.chnmuseum.cn/portals/0/web/zt/gudai/detail2.html&quot;},&quot;S03&quot;:{&quot;title&quot;:&quot;深圳盐田档案史志：夏商周纪年&quot;,&quot;url&quot;:&quot;https://www.yantian.gov.cn/ytdayszxxw/lsjt/content/post_11734666.html&quot;},&quot;S04&quot;:{&quot;title&quot;:&quot;《重编国语辞典修订本》：中国历代纪年表&quot;,&quot;url&quot;:&quot;https://dict.revised.moe.edu.tw/appendix.jsp?ID=1&amp;la=0&amp;powerMode=0&quot;},&quot;S05&quot;:{&quot;title&quot;:&quot;中国政府网资料转载：中国历史纪年简表&quot;,&quot;url&quot;:&quot;https://big5.locpg.gov.cn/gate/big5/www.locpg.gov.cn/zggq/2014-01/04/c_125956418.htm&quot;},&quot;S06&quot;:{&quot;title&quot;:&quot;国家民委：《资治通鉴》的战国叙述&quot;,&quot;url&quot;:&quot;https://www.neac.gov.cn/seac/c103391/202308/1166798.shtml&quot;},&quot;S07&quot;:{&quot;title&quot;:&quot;中国国家博物馆：秦汉&quot;,&quot;url&quot;:&quot;https://www.chnmuseum.cn/portals/0/web/zt/gudai/detail4.html&quot;},&quot;S08&quot;:{&quot;title&quot;:&quot;中国国家博物馆：三国两晋南北朝&quot;,&quot;url&quot;:&quot;https://www.chnmuseum.cn/portals/0/web/zt/gudai/detail5.html&quot;},&quot;S09&quot;:{&quot;title&quot;:&quot;中国国家博物馆：隋唐五代&quot;,&quot;url&quot;:&quot;https://www.chnmuseum.cn/portals/0/web/zt/gudai/detail6.html&quot;},&quot;S10&quot;:{&quot;title&quot;:&quot;吕梁政协：武则天相关史事&quot;,&quot;url&quot;:&quot;https://www.llzx.gov.cn/llrw/llmr/202011/t20201118_1450063.shtml&quot;},&quot;S11&quot;:{&quot;title&quot;:&quot;广西民族大学图书馆：历史类分类表&quot;,&quot;url&quot;:&quot;https://library.gxmzu.edu.cn/info/1060/1694_2.htm&quot;},&quot;S12&quot;:{&quot;title&quot;:&quot;山东大学《文史哲》：契丹建国年代研究&quot;,&quot;url&quot;:&quot;https://lhpqk.sdu.edu.cn/CN/Y2019/V0/I6/94&quot;},&quot;S13&quot;:{&quot;title&quot;:&quot;中国国家博物馆：辽宋夏金元&quot;,&quot;url&quot;:&quot;https://www.chnmuseum.cn/portals/0/web/zt/gudai/detail7.html&quot;},&quot;S14&quot;:{&quot;title&quot;:&quot;河北省民委：西辽史事&quot;,&quot;url&quot;:&quot;https://mw.hebei.gov.cn/system/2024/01/26/030274985.shtml&quot;},&quot;S15&quot;:{&quot;title&quot;:&quot;全国哲学社会科学工作办公室：南宋海上行朝&quot;,&quot;url&quot;:&quot;https://www.nopss.gov.cn/n/2013/0422/c362350-21230308.html&quot;},&quot;S16&quot;:{&quot;title&quot;:&quot;大都会艺术博物馆：中国1000—1400年&quot;,&quot;url&quot;:&quot;https://www.metmuseum.org/toah/ht/07/eac.html&quot;},&quot;S17&quot;:{&quot;title&quot;:&quot;故宫博物院：皇太极&quot;,&quot;url&quot;:&quot;https://www.dpm.org.cn/court/lineage/226251.html&quot;},&quot;S18&quot;:{&quot;title&quot;:&quot;复旦大学文史研究院：南明史研究&quot;,&quot;url&quot;:&quot;https://iahs.fudan.edu.cn/info/1010/5704.htm&quot;},&quot;S19&quot;:{&quot;title&quot;:&quot;中国国家博物馆：《京师公报》清帝退位号外&quot;,&quot;url&quot;:&quot;https://www.chnmuseum.cn/zp/zpml/gmww/202208/t20220805_256891.shtml&quot;},&quot;S20&quot;:{&quot;title&quot;:&quot;台湾行政院：中华民国之肇建&quot;,&quot;url&quot;:&quot;https://www.ey.gov.tw/state/62879155A536D543/bf75db05-30af-4c3a-bdda-3fe32e3f8e5a&quot;},&quot;S21&quot;:{&quot;title&quot;:&quot;中国政府网资料转载：现代史&quot;,&quot;url&quot;:&quot;https://www.locpg.gov.cn/zggq/2014-01/04/c_125956423.htm&quot;},&quot;S22&quot;:{&quot;title&quot;:&quot;1981年《关于建国以来党的若干历史问题的决议》&quot;,&quot;url&quot;:&quot;https://yndx.gov.cn/html/210507/14467.html&quot;},&quot;S23&quot;:{&quot;title&quot;:&quot;世界贸易组织：中国加入WTO二十周年回顾&quot;,&quot;url&quot;:&quot;https://www.wto.org/english/news_e/news21_e/acc_10dec21_e.htm&quot;}}}&lt;/script&gt;
+&lt;script src=&quot;https://cdn.jsdelivr.net/npm/d3@7.9.0/dist/d3.min.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+(() =&gt; {
+  const root = document.getElementById(&#x27;china-history-v1&#x27;);
+  const data = JSON.parse(document.getElementById(&#x27;ch-data&#x27;).textContent);
+  const view = root.querySelector(&#x27;#ch-view&#x27;);
+  const stage = root.querySelector(&#x27;#ch-stage&#x27;);
+  const search = root.querySelector(&#x27;#ch-search&#x27;);
+  const plot = root.querySelector(&#x27;#ch-plot&#x27;);
+  const table = root.querySelector(&#x27;#ch-table&#x27;);
+  const detailArea = root.querySelector(&#x27;#ch-detail-area&#x27;);
+  const detailSelect = root.querySelector(&#x27;#ch-detail-select&#x27;);
+  const detail = root.querySelector(&#x27;#ch-detail&#x27;);
+  const count = root.querySelector(&#x27;#ch-count&#x27;);
+  const caption = root.querySelector(&#x27;#ch-caption&#x27;);
+  let selection = &#x27;northern-song&#x27;;
+  let current = [];
+  const validViews = [&#x27;timeline&#x27;,&#x27;people&#x27;,&#x27;events&#x27;];
+  const text = (tag, content, cls) =&gt; { const el = document.createElement(tag); el.textContent = content; if (cls) el.className = cls; return el; };
+  const year = n =&gt; n &lt; 0 ? &#x27;前&#x27; + Math.abs(Math.round(n)) : String(Math.round(n));
+  const matches = r =&gt; (stage.value === &#x27;全部&#x27; || r.stage === stage.value) &amp;&amp; (!search.value.trim() || Object.values(r).join(&#x27; &#x27;).toLowerCase().includes(search.value.trim().toLowerCase()));
+  function save() {
+    if (window.openai &amp;&amp; window.openai.setWidgetState) {
+      window.openai.setWidgetState({modelContent:{view:view.value,stage:stage.value,keyword:search.value,selected:selection},privateContent:null}).catch(() =&gt; {});
+    }
+  }
+  function showDetail() {
+    const r = current.find(x =&gt; x.id === selection);
+    detail.replaceChildren();
+    if (!r) return;
+    detail.append(text(&#x27;div&#x27;,r.name + &#x27; · &#x27; + r.dates));
+    for (const [label,key] of [[&#x27;类型&#x27;,&#x27;kind&#x27;],[&#x27;都城／地区&#x27;,&#x27;capital&#x27;],[&#x27;人物&#x27;,&#x27;people&#x27;],[&#x27;事件&#x27;,&#x27;events&#x27;],[&#x27;纪年说明&#x27;,&#x27;note&#x27;]]) detail.append(text(&#x27;div&#x27;,label+&#x27;：&#x27;+r[key],&#x27;ch-detail-row&#x27;));
+    const links = document.createElement(&#x27;div&#x27;);
+    links.append(text(&#x27;span&#x27;,&#x27;来源：&#x27;,&#x27;text-small&#x27;));
+    r.sources.forEach((id,i) =&gt; { const s=data.sources[id]; if (!s) return; if(i) links.append(document.createTextNode(&#x27; · &#x27;)); const a=text(&#x27;a&#x27;,s.title,&#x27;text-small&#x27;); a.href=s.url; a.target=&#x27;_blank&#x27;; a.rel=&#x27;noopener noreferrer&#x27;; links.append(a); });
+    detail.append(links);
+  }
+  function draw() {
+    plot.replaceChildren();
+    if (view.value !== &#x27;timeline&#x27; || !current.length) return;
+    if (!window.d3) { plot.append(text(&#x27;p&#x27;,&#x27;时间轴资源未能载入；下方条目详情仍可查看。&#x27;)); return; }
+    const width = Math.round(plot.getBoundingClientRect().width);
+    if (width &lt; 100) return;
+    const row = window.matchMedia(&#x27;(pointer:coarse)&#x27;).matches ? 48 : 34;
+    const left = width &lt; 420 ? 120 : 140, right = width-8, top = 18, bottom = top+current.length*row;
+    const height = bottom+66;
+    const base = data.records.filter(r =&gt; stage.value === &#x27;全部&#x27; || r.stage === stage.value);
+    let [lo,hi] = d3.extent(base.flatMap(r =&gt; [r.start,r.end === null ? 2026 : r.end]));
+    const pad = Math.max(1,(hi-lo)*0.025);
+    const x = d3.scaleLinear().domain([lo-pad,hi+pad]).range([left+3,right-3]);
+    const svg = d3.select(plot).append(&#x27;svg&#x27;).attr(&#x27;class&#x27;,&#x27;ch-chart&#x27;).attr(&#x27;width&#x27;,width).attr(&#x27;height&#x27;,height).attr(&#x27;viewBox&#x27;,`0 0 ${width} ${height}`).attr(&#x27;role&#x27;,&#x27;img&#x27;).attr(&#x27;aria-label&#x27;,`中国历史${stage.value}时间轴。横轴年份，纵轴朝代或时期；重叠条表示并立，唐的武周区间留空。可用下方选择框查看详情。`);
+    svg.append(&#x27;title&#x27;).text(&#x27;朝代与政权时间轴&#x27;);
+    svg.append(&#x27;rect&#x27;).attr(&#x27;data-chart-frame&#x27;,&#x27;&#x27;).attr(&#x27;x&#x27;,left).attr(&#x27;y&#x27;,top).attr(&#x27;width&#x27;,right-left).attr(&#x27;height&#x27;,bottom-top).attr(&#x27;fill&#x27;,&#x27;none&#x27;).attr(&#x27;stroke&#x27;,&#x27;var(--border)&#x27;);
+    const ticks = x.ticks(width&lt;420?3:5).filter(v=&gt;v!==0);
+    svg.selectAll(&#x27;.ch-grid&#x27;).data(ticks).join(&#x27;line&#x27;).attr(&#x27;x1&#x27;,d=&gt;x(d)).attr(&#x27;x2&#x27;,d=&gt;x(d)).attr(&#x27;y1&#x27;,top).attr(&#x27;y2&#x27;,bottom).attr(&#x27;stroke&#x27;,&#x27;var(--border)&#x27;);
+    const axis = svg.append(&#x27;g&#x27;).attr(&#x27;transform&#x27;,`translate(0,${bottom})`).call(d3.axisBottom(x).tickValues(ticks).tickFormat(year));
+    axis.select(&#x27;.domain&#x27;).remove();
+    const tickText=axis.selectAll(&#x27;.tick text&#x27;).nodes();
+    tickText.forEach((el,i)=&gt;{if(i===0)el.setAttribute(&#x27;text-anchor&#x27;,&#x27;start&#x27;);if(i===tickText.length-1)el.setAttribute(&#x27;text-anchor&#x27;,&#x27;end&#x27;);});
+    let prev=-Infinity;
+    tickText.forEach(el=&gt;{const b=el.getBoundingClientRect();if(b.left&lt;prev+4)el.remove();else prev=b.right;});
+    svg.append(&#x27;text&#x27;).attr(&#x27;class&#x27;,&#x27;axis-title&#x27;).attr(&#x27;data-axis&#x27;,&#x27;x&#x27;).attr(&#x27;x&#x27;,(left+right)/2).attr(&#x27;y&#x27;,height-12).attr(&#x27;text-anchor&#x27;,&#x27;middle&#x27;).text(&#x27;年份（前＝公元前）&#x27;);
+    svg.append(&#x27;text&#x27;).attr(&#x27;class&#x27;,&#x27;axis-title&#x27;).attr(&#x27;data-axis&#x27;,&#x27;y&#x27;).attr(&#x27;x&#x27;,left-8).attr(&#x27;y&#x27;,12).attr(&#x27;text-anchor&#x27;,&#x27;end&#x27;).text(&#x27;朝代／时期&#x27;);
+    const short = {&#x27;liangzhu&#x27;:&#x27;良渚文化&#x27;,&#x27;tang&#x27;:&#x27;唐&#x27;,&#x27;mongol&#x27;:&#x27;蒙古汗国&#x27;,&#x27;republic-mainland&#x27;:&#x27;民国大陆时期&#x27;,&#x27;prc&#x27;:&#x27;中华人民共和国&#x27;};
+    current.forEach((r,i)=&gt;{
+      const y=top+i*row+row/2;
+      svg.append(&#x27;text&#x27;).attr(&#x27;x&#x27;,left-8).attr(&#x27;y&#x27;,y+4).attr(&#x27;text-anchor&#x27;,&#x27;end&#x27;).text(short[r.id]||r.name);
+      const ranges=r.id===&#x27;tang&#x27;?[[618,690],[705,907]]:[[r.start,r.end===null?2026:r.end]];
+      const alpha=r.id===selection?1:(r.kind.includes(&#x27;时期&#x27;)||r.kind===&#x27;考古文化&#x27;?0.35:0.65);
+      ranges.forEach(([a,b])=&gt;svg.append(&#x27;rect&#x27;).attr(&#x27;x&#x27;,x(a)).attr(&#x27;y&#x27;,y-7).attr(&#x27;width&#x27;,Math.max(1,x(b)-x(a))).attr(&#x27;height&#x27;,14).attr(&#x27;fill&#x27;,&#x27;var(--viz-series-1)&#x27;).attr(&#x27;opacity&#x27;,alpha));
+      const hit=svg.append(&#x27;rect&#x27;).attr(&#x27;data-chart-hit&#x27;,&#x27;&#x27;).attr(&#x27;x&#x27;,left).attr(&#x27;y&#x27;,y-row/2).attr(&#x27;width&#x27;,right-left).attr(&#x27;height&#x27;,row).attr(&#x27;fill&#x27;,&#x27;transparent&#x27;).attr(&#x27;class&#x27;,&#x27;cursor-interaction&#x27;).attr(&#x27;data-tooltip&#x27;,r.name+&#x27; · &#x27;+r.dates);
+      hit.on(&#x27;click&#x27;,()=&gt;{selection=r.id;detailSelect.value=selection;showDetail();draw();save();});
+    });
+  }
+  function renderTable(rows,columns) {
+    table.replaceChildren();
+    const t=document.createElement(&#x27;table&#x27;); t.className=&#x27;table table-sm&#x27;;
+    const head=document.createElement(&#x27;thead&#x27;), tr=document.createElement(&#x27;tr&#x27;);
+    columns.forEach(([title])=&gt;tr.append(text(&#x27;th&#x27;,title))); head.append(tr);t.append(head);
+    const body=document.createElement(&#x27;tbody&#x27;);
+    rows.forEach(r=&gt;{const tr=document.createElement(&#x27;tr&#x27;);columns.forEach(([,key])=&gt;tr.append(text(&#x27;td&#x27;,r[key])));body.append(tr);});t.append(body);table.append(t);
+  }
+  function render() {
+    const timeline=view.value===&#x27;timeline&#x27;;
+    table.hidden=timeline; plot.hidden=!timeline; detailArea.hidden=!timeline;
+    if(timeline){
+      current=data.records.filter(matches);
+      if(!current.some(r=&gt;r.id===selection))selection=current[0]?.id||&#x27;&#x27;;
+      detailSelect.replaceChildren();current.forEach(r=&gt;{const o=text(&#x27;option&#x27;,r.name+&#x27; · &#x27;+r.dates);o.value=r.id;detailSelect.append(o);});detailSelect.value=selection;
+      detailArea.hidden=!current.length;
+      count.textContent=current.length+&#x27; 条朝代／时期记录&#x27;;
+      showDetail();draw();
+      caption.textContent=&#x27;前＝公元前 · 唐的武周区间留空 · 淡色条含历史时期／考古文化 · 约数与起讫口径见详情&#x27;;
+    }else if(view.value===&#x27;people&#x27;){
+      const rows=data.people.filter(matches); count.textContent=rows.length+&#x27; 位／组代表人物&#x27;;
+      renderTable(rows,[[&#x27;人物&#x27;,&#x27;name&#x27;],[&#x27;主要活动时代&#x27;,&#x27;era&#x27;],[&#x27;类别&#x27;,&#x27;category&#x27;],[&#x27;事迹／作品&#x27;,&#x27;fact&#x27;]]);
+      caption.textContent=&#x27;按主要活动时代归类；并非生卒年或完整人物名录。资料截至2026-09-26。&#x27;;
+    }else{
+      const rows=data.events.filter(matches);count.textContent=rows.length+&#x27; 条事件／变化记录&#x27;;
+      renderTable(rows,[[&#x27;时间&#x27;,&#x27;date&#x27;],[&#x27;事件／变化&#x27;,&#x27;name&#x27;],[&#x27;相关主体&#x27;,&#x27;people&#x27;],[&#x27;观察维度&#x27;,&#x27;category&#x27;],[&#x27;历史联系&#x27;,&#x27;fact&#x27;]]);
+      caption.textContent=&#x27;代表性转折点；影响为入门概括，不能据时间相邻直接判定因果。&#x27;;
+    }
+    if(count.textContent.startsWith(&#x27;0 &#x27;))count.textContent+=&#x27;；可更换阶段或关键词。&#x27;;
+  }
+  function applyState(state) {
+    const s=state?.modelContent;if(!s)return;
+    if(validViews.includes(s.view))view.value=s.view;
+    if([...stage.options].some(o=&gt;o.value===s.stage))stage.value=s.stage;
+    if(typeof s.keyword===&#x27;string&#x27;)search.value=s.keyword.slice(0,200);
+    if(typeof s.selected===&#x27;string&#x27;)selection=s.selected;
+  }
+  view.addEventListener(&#x27;change&#x27;,()=&gt;{render();save();});
+  stage.addEventListener(&#x27;change&#x27;,()=&gt;{render();save();});
+  search.addEventListener(&#x27;input&#x27;,()=&gt;{render();save();});
+  detailSelect.addEventListener(&#x27;change&#x27;,()=&gt;{selection=detailSelect.value;showDetail();draw();save();});
+  window.addEventListener(&#x27;openai:set_globals&#x27;,e=&gt;{if(e.detail?.globals?.widgetState){applyState(e.detail.globals.widgetState);render();}});
+  let lastWidth=0;
+  new ResizeObserver(()=&gt;{const w=Math.round(plot.getBoundingClientRect().width);if(w!==lastWidth){lastWidth=w;draw();}}).observe(plot);
+  applyState(window.openai?.widgetState);render();
+})();
+&lt;/script&gt;
+
+&lt;script src=&quot;https://unpkg.com/@floating-ui/core@1.7.3/dist/floating-ui.core.umd.min.js&quot;&gt;&lt;/script&gt;
+&lt;script src=&quot;https://unpkg.com/@floating-ui/dom@1.7.4/dist/floating-ui.dom.umd.min.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+(() =&gt; {
+  if (window.FloatingUIDOM == null) {
+    return;
+  }
+  const { autoUpdate, computePosition, flip, offset, shift, size } =
+    window.FloatingUIDOM;
+  const tooltipPlacements = new Set([&quot;top&quot;, &quot;right&quot;, &quot;bottom&quot;, &quot;left&quot;]);
+  const tooltipId = `codex-visualization-tooltip-${
+    window.crypto?.randomUUID?.() ?? Date.now().toString(36)
+  }`;
+  const tooltipGap = 5;
+  const hoverDelay = 700;
+  const skipDelay = 300;
+  let activeTrigger = null;
+  let pendingTrigger = null;
+  let tooltip = null;
+  let openTimeout = null;
+  let autoUpdateCleanup = null;
+  let positionRequest = 0;
+  let skipDelayUntil = 0;
+  let lastPointerWasTouch = false;
+  let pinnedByTouch = false;
+
+  const getTrigger = (target) =&gt;
+    target?.nodeType === Node.ELEMENT_NODE
+      ? target.closest(&quot;[data-tooltip]&quot;)
+      : null;
+  const containsTarget = (trigger, target) =&gt;
+    target?.nodeType != null &amp;&amp; trigger.contains(target);
+  const getContent = (trigger) =&gt;
+    trigger.getAttribute(&quot;data-tooltip&quot;)?.trim() ?? &quot;&quot;;
+  const getPlacement = (trigger) =&gt; {
+    const placement = trigger.getAttribute(&quot;data-tooltip-placement&quot;);
+    return tooltipPlacements.has(placement) ? placement : &quot;top&quot;;
+  };
+  const getTooltip = () =&gt; {
+    if (tooltip == null) {
+      tooltip = document.createElement(&quot;div&quot;);
+      tooltip.id = tooltipId;
+      tooltip.className = &quot;tooltip&quot;;
+      tooltip.setAttribute(&quot;role&quot;, &quot;tooltip&quot;);
+    }
+    return tooltip;
+  };
+  const setDescribedBy = (trigger, described) =&gt; {
+    const ids = new Set(
+      (trigger.getAttribute(&quot;aria-describedby&quot;) ?? &quot;&quot;)
+        .split(/\s+/)
+        .filter(Boolean),
+    );
+    if (described) {
+      ids.add(tooltipId);
+    } else {
+      ids.delete(tooltipId);
+    }
+    if (ids.size === 0) {
+      trigger.removeAttribute(&quot;aria-describedby&quot;);
+    } else {
+      trigger.setAttribute(&quot;aria-describedby&quot;, [...ids].join(&quot; &quot;));
+    }
+  };
+  const clearOpenTimeout = () =&gt; {
+    if (openTimeout != null) {
+      window.clearTimeout(openTimeout);
+      openTimeout = null;
+    }
+    pendingTrigger = null;
+  };
+  const closeTooltip = (activateSkipDelay = true) =&gt; {
+    clearOpenTimeout();
+    pinnedByTouch = false;
+    positionRequest += 1;
+    autoUpdateCleanup?.();
+    autoUpdateCleanup = null;
+    if (activeTrigger == null) {
+      return;
+    }
+    setDescribedBy(activeTrigger, false);
+    activeTrigger = null;
+    tooltip?.remove();
+    if (activateSkipDelay) {
+      skipDelayUntil = Date.now() + skipDelay;
+    }
+  };
+  const updatePosition = (trigger, floating) =&gt; {
+    const request = ++positionRequest;
+    void computePosition(trigger, floating, {
+      middleware: [
+        offset(tooltipGap),
+        flip({ padding: tooltipGap }),
+        shift({ padding: tooltipGap }),
+        size({
+          padding: tooltipGap,
+          apply({ availableHeight, availableWidth, elements }) {
+            elements.floating.style.setProperty(
+              &quot;--tooltip-available-width&quot;,
+              `${Math.max(0, availableWidth)}px`,
+            );
+            elements.floating.style.setProperty(
+              &quot;--tooltip-available-height&quot;,
+              `${Math.max(0, availableHeight)}px`,
+            );
+          },
+        }),
+      ],
+      placement: getPlacement(trigger),
+      strategy: &quot;fixed&quot;,
+    })
+      .then(({ x, y }) =&gt; {
+        if (activeTrigger !== trigger || request !== positionRequest) {
+          return;
+        }
+        const scale = window.devicePixelRatio || 1;
+        floating.style.transform = `translate(${Math.round(x * scale) / scale}px, ${Math.round(y * scale) / scale}px)`;
+        floating.style.visibility = &quot;visible&quot;;
+      })
+      .catch(() =&gt; {
+        if (activeTrigger === trigger &amp;&amp; request === positionRequest) {
+          closeTooltip(false);
+        }
+      });
+  };
+  const openTooltip = (trigger) =&gt; {
+    const content = getContent(trigger);
+    if (!trigger.isConnected || content.length === 0) {
+      return;
+    }
+    clearOpenTimeout();
+    if (activeTrigger === trigger) {
+      return;
+    }
+    closeTooltip();
+    const floating = getTooltip();
+    floating.textContent = content;
+    floating.style.visibility = &quot;hidden&quot;;
+    floating.style.transform = &quot;translate(0, 0)&quot;;
+    document.body.appendChild(floating);
+    activeTrigger = trigger;
+    setDescribedBy(trigger, true);
+    autoUpdateCleanup = autoUpdate(trigger, floating, () =&gt; {
+      updatePosition(trigger, floating);
+    });
+  };
+  const requestOpen = (trigger, immediate = false) =&gt; {
+    if (
+      getContent(trigger).length === 0 ||
+      activeTrigger === trigger ||
+      pendingTrigger === trigger
+    ) {
+      return;
+    }
+    clearOpenTimeout();
+    pendingTrigger = trigger;
+    const delay =
+      immediate || activeTrigger != null || Date.now() &lt; skipDelayUntil
+        ? 0
+        : hoverDelay;
+    if (delay === 0) {
+      openTooltip(trigger);
+      return;
+    }
+    openTimeout = window.setTimeout(() =&gt; {
+      openTimeout = null;
+      pendingTrigger = null;
+      openTooltip(trigger);
+    }, delay);
+  };
+  const handlePointerOpen = (event) =&gt; {
+    if (event.pointerType === &quot;touch&quot;) {
+      return;
+    }
+    const trigger = getTrigger(event.target);
+    if (trigger == null || containsTarget(trigger, event.relatedTarget)) {
+      return;
+    }
+    requestOpen(trigger);
+  };
+  const handlePointer = (event) =&gt; {
+    lastPointerWasTouch =
+      event.type === &quot;pointerdown&quot; &amp;&amp; event.pointerType === &quot;touch&quot;;
+  };
+  const handleTouchClick = (event) =&gt; {
+    const isTouch = event.pointerType === &quot;touch&quot; || lastPointerWasTouch;
+    lastPointerWasTouch = false;
+    if (!isTouch || event.detail === 0) {
+      return;
+    }
+    const trigger = getTrigger(event.target);
+    if (
+      trigger == null ||
+      !trigger.isConnected ||
+      getContent(trigger).length === 0 ||
+      (pinnedByTouch &amp;&amp; activeTrigger === trigger)
+    ) {
+      if (pinnedByTouch) {
+        closeTooltip();
+      }
+      return;
+    }
+    openTooltip(trigger);
+    pinnedByTouch = activeTrigger === trigger;
+    window.setTimeout(() =&gt; {
+      if (activeTrigger === trigger &amp;&amp; !trigger.isConnected) {
+        closeTooltip(false);
+      }
+    }, 0);
+  };
+  const handleLeave = (event) =&gt; {
+    if (pinnedByTouch) {
+      return;
+    }
+    const trigger = getTrigger(event.target);
+    if (trigger == null || containsTarget(trigger, event.relatedTarget)) {
+      return;
+    }
+    if (activeTrigger === trigger || pendingTrigger === trigger) {
+      closeTooltip();
+    }
+  };
+  const handleFocusIn = (event) =&gt; {
+    const trigger = getTrigger(event.target);
+    if (trigger?.matches(&quot;:focus-visible&quot;)) {
+      requestOpen(trigger, true);
+    }
+  };
+  const handleKeyDown = (event) =&gt; {
+    if (event.key === &quot;Escape&quot;) {
+      closeTooltip();
+    }
+  };
+  const handleContextMenu = (event) =&gt; {
+    lastPointerWasTouch = false;
+    const trigger = getTrigger(event.target);
+    if (activeTrigger === trigger || pendingTrigger === trigger) {
+      closeTooltip();
+    }
+  };
+  const destroy = () =&gt; {
+    closeTooltip(false);
+    lastPointerWasTouch = false;
+    document.removeEventListener(&quot;pointerover&quot;, handlePointerOpen);
+    document.removeEventListener(&quot;pointerdown&quot;, handlePointer);
+    document.removeEventListener(&quot;pointercancel&quot;, handlePointer);
+    document.removeEventListener(&quot;click&quot;, handleTouchClick);
+    document.removeEventListener(&quot;pointerout&quot;, handleLeave);
+    document.removeEventListener(&quot;focusin&quot;, handleFocusIn);
+    document.removeEventListener(&quot;focusout&quot;, handleLeave);
+    document.removeEventListener(&quot;keydown&quot;, handleKeyDown);
+    document.removeEventListener(&quot;contextmenu&quot;, handleContextMenu);
+    tooltip = null;
+  };
+
+  document.addEventListener(&quot;pointerover&quot;, handlePointerOpen);
+  document.addEventListener(&quot;pointerdown&quot;, handlePointer);
+  document.addEventListener(&quot;pointercancel&quot;, handlePointer);
+  document.addEventListener(&quot;click&quot;, handleTouchClick);
+  document.addEventListener(&quot;pointerout&quot;, handleLeave);
+  document.addEventListener(&quot;focusin&quot;, handleFocusIn);
+  document.addEventListener(&quot;focusout&quot;, handleLeave);
+  document.addEventListener(&quot;keydown&quot;, handleKeyDown);
+  document.addEventListener(&quot;contextmenu&quot;, handleContextMenu);
+  window.addEventListener(&quot;pagehide&quot;, destroy, { once: true });
+})();
+&lt;/script&gt;
+&lt;script id=&quot;codex-visualization-tabs&quot;&gt;
+(() =&gt; {
+  const selector = &#x27;.nav[role=&quot;tablist&quot;] [role=&quot;tab&quot;]&#x27;;
+  const disabled = &#x27;:disabled,[aria-disabled=&quot;true&quot;]&#x27;;
+  const selectTab = (selected) =&gt; {
+    const panelId = selected.getAttribute(&quot;aria-controls&quot;);
+    for (const tab of selected.closest(&#x27;[role=&quot;tablist&quot;]&#x27;).querySelectorAll(&#x27;[role=&quot;tab&quot;]&#x27;)) {
+      const active = tab === selected;
+      tab.classList.toggle(&quot;active&quot;, active);
+      tab.setAttribute(&quot;aria-selected&quot;, String(active));
+      const id = tab.getAttribute(&quot;aria-controls&quot;);
+      const panel = id &amp;&amp; document.getElementById(id);
+      if (panel != null) {
+        panel.hidden = id !== panelId;
+        if (!panel.hidden &amp;&amp; selected.id) {
+          panel.setAttribute(&quot;aria-labelledby&quot;, selected.id);
+        }
+      }
+    }
+  };
+  const interact = (event) =&gt; {
+    const tab = event.target?.closest?.(selector);
+    if (event.defaultPrevented || tab == null || tab.matches(disabled)) {
+      return;
+    }
+    if (event.type === &quot;click&quot;) {
+      selectTab(tab);
+      return;
+    }
+    const tabs = Array.from(
+      tab.closest(&#x27;[role=&quot;tablist&quot;]&#x27;).querySelectorAll(&#x27;[role=&quot;tab&quot;]&#x27;),
+    ).filter((candidate) =&gt; !candidate.matches(disabled));
+    const current = tabs.indexOf(tab);
+    let next;
+    if (event.key === &quot;ArrowRight&quot; || event.key === &quot;ArrowDown&quot;) {
+      next = (current + 1) % tabs.length;
+    } else if (event.key === &quot;ArrowLeft&quot; || event.key === &quot;ArrowUp&quot;) {
+      next = (current + tabs.length - 1) % tabs.length;
+    } else if (event.key === &quot;Home&quot;) {
+      next = 0;
+    } else if (event.key === &quot;End&quot;) {
+      next = tabs.length - 1;
+    } else {
+      return;
+    }
+    event.preventDefault();
+    tabs[next].focus();
+    selectTab(tabs[next]);
+  };
+
+  for (const list of document.querySelectorAll(&#x27;.nav[role=&quot;tablist&quot;]&#x27;)) {
+    const selected =
+      list.querySelector(&#x27;[role=&quot;tab&quot;][aria-selected=&quot;true&quot;]&#x27;) ??
+      list.querySelector(&#x27;[role=&quot;tab&quot;].active&#x27;) ??
+      list.querySelector(&#x27;[role=&quot;tab&quot;]&#x27;);
+    if (selected != null) {
+      selectTab(selected);
+    }
+  }
+  document.addEventListener(&quot;click&quot;, interact);
+  document.addEventListener(&quot;keydown&quot;, interact);
+  window.addEventListener(&quot;pagehide&quot;, () =&gt; {
+    document.removeEventListener(&quot;click&quot;, interact);
+    document.removeEventListener(&quot;keydown&quot;, interact);
+  }, { once: true });
+})();
+&lt;/script&gt;
+&lt;script id=&quot;codex-visualization-lucide&quot; async src=&quot;https://unpkg.com/lucide@1.17.0/dist/umd/lucide.js&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+(() =&gt; {
+  const initialize = () =&gt; {
+    globalThis.lucide?.createIcons({ attrs: { width: 16, height: 16 } });
+  };
+  if (globalThis.lucide != null) {
+    initialize();
+    return;
+  }
+  document
+    .getElementById(&quot;codex-visualization-lucide&quot;)
+    ?.addEventListener(&quot;load&quot;, initialize, { once: true });
+})();
+&lt;/script&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;
+"></iframe>
+<script>(() => {
+  const frame = document.getElementById("codex-visualization");
+  if (!(frame instanceof HTMLIFrameElement)) {
+    return;
+  }
+  let viewportHeight = globalThis.innerHeight;
+  const storageKey = `codex:visualization-widget-state-v2:${JSON.stringify([
+    globalThis.location.pathname,
+    globalThis.location.search,
+  ])}`;
+  const parseState = (serializedState) => {
+    if (
+      typeof serializedState !== "string" ||
+      new TextEncoder().encode(serializedState).length > 16 * 1024
+    ) {
+      throw new TypeError(
+        "Widget state must be a JSON object of at most 16 KiB",
+      );
+    }
+    /** @type {unknown} */
+    const state = JSON.parse(serializedState);
+    if (
+      state == null ||
+      typeof state !== "object" ||
+      Array.isArray(state) ||
+      ("imageIds" in state &&
+        (!Array.isArray(state.imageIds) || state.imageIds.length > 0))
+    ) {
+      throw new TypeError("Widget state must be a JSON object");
+    }
+    const storedState = { modelContent: null, privateContent: null, ...state };
+    const canonicalState = JSON.stringify(
+      storedState,
+      (_key, /** @type {unknown} */ value) => {
+        if (typeof value === "number" && !Number.isFinite(value)) {
+          throw new TypeError("Widget state must contain finite numbers");
+        }
+        return value;
+      },
+    );
+    if (new TextEncoder().encode(canonicalState).length > 16 * 1024) {
+      throw new TypeError(
+        "Widget state must be a JSON object of at most 16 KiB",
+      );
+    }
+    return storedState;
+  };
+  let storage = null;
+  let state = null;
+  try {
+    const localStorage = globalThis.localStorage;
+    const probeKey = `${storageKey}:probe`;
+    localStorage.setItem(probeKey, "1");
+    localStorage.removeItem(probeKey);
+    storage = localStorage;
+    const savedState = storage.getItem(storageKey);
+    if (savedState != null) {
+      try {
+        state = parseState(savedState);
+      } catch {
+        // Invalid saved state does not disable future writes.
+      }
+    }
+  } catch {
+    storage = null;
+  }
+  const initialGlobals = {
+    widgetState: state,
+    statePersistence: storage == null ? "none" : "local",
+  };
+
+  const channel = new MessageChannel();
+  channel.port1.addEventListener("message", (event) => {
+    const data = event.data;
+    if (typeof data !== "object" || data == null) {
+      return;
+    }
+    if (data.type === "widget-state-write") {
+      if (!Number.isSafeInteger(data.id) || data.id <= 0) {
+        return;
+      }
+      let ok = false;
+      try {
+        if (storage != null) {
+          const state = parseState(data.state);
+          storage.setItem(storageKey, JSON.stringify(state));
+          ok = true;
+        }
+      } catch {
+        // Storage denial, quota limits, and invalid state return a failed receipt.
+      }
+      channel.port1.postMessage({
+        type: "widget-state-result",
+        id: data.id,
+        ok,
+      });
+      return;
+    }
+    if (data.type === "height") {
+      const height = data.height;
+      if (
+        typeof height === "number" &&
+        Number.isFinite(height) &&
+        height >= 0 &&
+        height <= 10_000
+      ) {
+        frame.style.height = Math.ceil(height) + "px";
+      }
+      return;
+    }
+    if (data.type === "scroll-to") {
+      const top = data.top;
+      if (
+        typeof top === "number" &&
+        Number.isFinite(top) &&
+        top >= 0 &&
+        globalThis.navigator.userActivation?.isActive === true
+      ) {
+        globalThis.scrollTo({
+          top: Math.ceil(
+            globalThis.scrollY + frame.getBoundingClientRect().top + top,
+          ),
+        });
+      }
+      return;
+    }
+    if (data.type === "open-external") {
+      const rawHref = data.href;
+      if (typeof rawHref !== "string") {
+        return;
+      }
+      let href;
+      try {
+        const url = new URL(rawHref, document.baseURI);
+        if (url.protocol !== "https:") {
+          return;
+        }
+        href = url.href;
+      } catch {
+        return;
+      }
+      if (globalThis.navigator.userActivation?.isActive === true) {
+        const anchor = document.createElement("a");
+        anchor.href = href;
+        anchor.rel = "noopener noreferrer";
+        anchor.target = "_blank";
+        document.body.appendChild(anchor);
+        anchor.click();
+        anchor.remove();
+      }
+      return;
+    }
+    if (data.type === "follow-up") {
+      const prompt = data.prompt;
+      if (
+        typeof prompt !== "string" ||
+        globalThis.navigator.userActivation?.isActive !== true
+      ) {
+        return;
+      }
+      const title = data.title;
+      globalThis.prompt(typeof title === "string" ? title : prompt, prompt);
+    }
+  });
+  channel.port1.start();
+  const srcdoc = frame.dataset.srcdoc;
+  if (srcdoc == null) {
+    return;
+  }
+  globalThis.addEventListener("resize", () => {
+    const height = Number.parseFloat(frame.style.height);
+    if (!Number.isFinite(height) || height <= viewportHeight) {
+      frame.style.removeProperty("height");
+    }
+    viewportHeight = globalThis.innerHeight;
+    channel.port1.postMessage({ type: "measure" });
+  });
+  frame.addEventListener(
+    "load",
+    () => {
+      frame.contentWindow?.postMessage(
+        { type: "codex-visualization-initialize" },
+        "*",
+        [channel.port2],
+      );
+    },
+    { once: true },
+  );
+  // Match the trusted bootstrap element, not the same text in an authored title.
+  frame.srcdoc = srcdoc.replace(
+    '<script type="application/json" id="codex-visualization-widget-state">__CODEX_VISUALIZATION_WIDGET_STATE__<\/script>',
+    () =>
+      '<script type="application/json" id="codex-visualization-widget-state">' +
+      JSON.stringify(initialGlobals).replaceAll("<", "\\u003c") +
+      "<\/script>",
+  );
+  delete frame.dataset.srcdoc;
+})();
+</script>
+</body>
+</html>

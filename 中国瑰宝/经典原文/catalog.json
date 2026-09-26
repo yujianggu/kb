@@ -1,0 +1,107 @@
+{
+  "version": 1,
+  "title": "经典原文",
+  "groups": [],
+  "topics": [
+    {
+      "id": "culture.classics.chunqiu",
+      "title": "春秋",
+      "summary": "阅读《春秋》传世原文全文，结合成书背景、原典案例和现代教学例，核查篇章与版本边界。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/经典原文/春秋/topic.json",
+      "brief": "中国瑰宝/经典原文/春秋/摘要.md"
+    },
+    {
+      "id": "culture.classics.daxue",
+      "title": "大学",
+      "summary": "阅读《大学》传世篇本原文及逐段白话初稿，结合背景和案例；注意底本差异与译法争议。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/经典原文/大学/topic.json",
+      "brief": "中国瑰宝/经典原文/大学/摘要.md"
+    },
+    {
+      "id": "culture.classics.liji",
+      "title": "礼记",
+      "summary": "阅读《礼记》传世原文全文，结合成书背景、原典案例和现代教学例，核查篇章与版本边界。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/经典原文/礼记/topic.json",
+      "brief": "中国瑰宝/经典原文/礼记/摘要.md"
+    },
+    {
+      "id": "culture.classics.lunyu",
+      "title": "论语",
+      "summary": "阅读《论语》20篇原文及512段古今对照白话初稿，结合背景和案例；注意底本差异与译法争议。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/经典原文/论语/topic.json",
+      "brief": "中国瑰宝/经典原文/论语/摘要.md"
+    },
+    {
+      "id": "culture.classics.mengzi",
+      "title": "孟子",
+      "summary": "阅读《孟子》七篇上下14部分原文及742段古今对照白话初稿，结合背景和案例；注意底本差异与译法争议。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/经典原文/孟子/topic.json",
+      "brief": "中国瑰宝/经典原文/孟子/摘要.md"
+    },
+    {
+      "id": "culture.classics.shangshu",
+      "title": "尚书",
+      "summary": "阅读《尚书》传世原文全文，结合成书背景、原典案例和现代教学例，核查篇章与版本边界。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/经典原文/尚书/topic.json",
+      "brief": "中国瑰宝/经典原文/尚书/摘要.md"
+    },
+    {
+      "id": "culture.classics.shiji",
+      "title": "史记：130卷全文与背景案例",
+      "summary": "阅读《史记》传世130卷全文，按本纪、表、书、世家、列传选卷，并辨析成书背景、原典叙事与现代教学案例。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/经典原文/史记/topic.json",
+      "brief": "中国瑰宝/经典原文/史记/摘要.md"
+    },
+    {
+      "id": "culture.classics.shijing",
+      "title": "诗经",
+      "summary": "阅读《诗经》传世原文全文，结合成书背景、原典案例和现代教学例，核查篇章与版本边界。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/经典原文/诗经/topic.json",
+      "brief": "中国瑰宝/经典原文/诗经/摘要.md"
+    },
+    {
+      "id": "culture.classics.zhongyong",
+      "title": "中庸",
+      "summary": "阅读《中庸》传世篇本原文及逐段白话初稿，结合背景和案例；注意底本差异与译法争议。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/经典原文/中庸/topic.json",
+      "brief": "中国瑰宝/经典原文/中庸/摘要.md"
+    },
+    {
+      "id": "culture.classics.zhouyi",
+      "title": "周易",
+      "summary": "阅读《周易》传世原文全文，结合成书背景、原典案例和现代教学例，核查篇章与版本边界。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "中国瑰宝/经典原文/周易/topic.json",
+      "brief": "中国瑰宝/经典原文/周易/摘要.md"
+    }
+  ]
+}

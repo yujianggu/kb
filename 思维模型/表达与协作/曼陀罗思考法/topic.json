@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-101",
+  "title": "曼陀罗思考法",
+  "summary": "围绕一个目标想到很多点，却总绕回同一角度，可以试用九宫格。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

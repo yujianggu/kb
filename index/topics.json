@@ -1,0 +1,625 @@
+{
+  "version": 1,
+  "topics": {
+    "business.amazon": {
+      "metadata": "企业经营研究/企业与机构/亚马逊/topic.json",
+      "sha256": "ae5658f498cecca3ea484c5eb51c8dc5cf01604c20f4a9a48f7435b45fa0406c"
+    },
+    "business.berkshire": {
+      "metadata": "企业经营研究/企业与机构/伯克希尔哈撒韦/topic.json",
+      "sha256": "e9cbf15750e543c47c6486e335f76e3fbc70b75dca63ddeb8e24978687cf2bdd"
+    },
+    "business.costco": {
+      "metadata": "企业经营研究/企业与机构/Costco/topic.json",
+      "sha256": "fe4948623a004985b96c5603ec39360509d8aeaf64cfb2f80283ea7410f6a8f9"
+    },
+    "business.danaher": {
+      "metadata": "企业经营研究/企业与机构/丹纳赫/topic.json",
+      "sha256": "101b146219c591753c0672b1da804dbc882f7ef6778630b6185a19371be04583"
+    },
+    "business.huawei": {
+      "metadata": "企业经营研究/企业与机构/华为/topic.json",
+      "sha256": "11dced7481c55689f70bf696dccf2757c6ff2e7f59a2a353b81d247487e03b5a"
+    },
+    "business.inditex": {
+      "metadata": "企业经营研究/企业与机构/Inditex-Zara/topic.json",
+      "sha256": "f6cdc3b0b4e51c660df6442a0dd32f49a4dfd92627aed068be9442fd672df670"
+    },
+    "business.microsoft": {
+      "metadata": "企业经营研究/企业与机构/微软/topic.json",
+      "sha256": "e11c0a5e666bbd9e7c38d85632f2e94721a296b27487e59bf16631344aa54094"
+    },
+    "business.toyota": {
+      "metadata": "企业经营研究/企业与机构/丰田/topic.json",
+      "sha256": "0ab6f15dc502acc0760d7addec5266c62d91339fdc950e8332c1ff535dd21f95"
+    },
+    "business.yc": {
+      "metadata": "企业经营研究/企业与机构/YC/topic.json",
+      "sha256": "35a83be29941a9b9f5d3aebf72c6fe6167914f5f3d37dd89a37f2230bf30e579"
+    },
+    "culture.buddhism": {
+      "metadata": "中国瑰宝/佛家/topic.json",
+      "sha256": "dea949c191ee4674642f04b07264a177a4c4a038a8053d48d1ebbf75d6830615"
+    },
+    "culture.chinese-history": {
+      "metadata": "中国瑰宝/中华历史/topic.json",
+      "sha256": "3286788d67b3dda15ae9d9f38e0f9f63623437047e6b7cf58673d924e3ffed1a"
+    },
+    "culture.classics.chunqiu": {
+      "metadata": "中国瑰宝/经典原文/春秋/topic.json",
+      "sha256": "f5f05c43beddec0ad73fb2edd267078918674270e98d549e32c395eca3a1225b"
+    },
+    "culture.classics.daxue": {
+      "metadata": "中国瑰宝/经典原文/大学/topic.json",
+      "sha256": "24b46a039dc6884bd7e2cc5ef0abe4562553205a505b335845bd8e1dbf2295bc"
+    },
+    "culture.classics.liji": {
+      "metadata": "中国瑰宝/经典原文/礼记/topic.json",
+      "sha256": "8dbb876349fa86d54aa68cfe015615ab590219eda7bbce606b9a24af2dff26ab"
+    },
+    "culture.classics.lunyu": {
+      "metadata": "中国瑰宝/经典原文/论语/topic.json",
+      "sha256": "5a929ddbf1c68ba94bbbc1726d7cc59c7e612e084731b9d09d691b544c930880"
+    },
+    "culture.classics.mengzi": {
+      "metadata": "中国瑰宝/经典原文/孟子/topic.json",
+      "sha256": "3426d30f05efb169e25d5b0ecd9e222019ee20de6dd5d5ca8bc73451f3e074ee"
+    },
+    "culture.classics.shangshu": {
+      "metadata": "中国瑰宝/经典原文/尚书/topic.json",
+      "sha256": "7fae19af84eec34fc883939c21e5a1cc9fd9530a38f4c3d5645748b2950fe430"
+    },
+    "culture.classics.shiji": {
+      "metadata": "中国瑰宝/经典原文/史记/topic.json",
+      "sha256": "9c925bcffd0d8e6ff4a3531b58a9d90dd2d76b77e182f677c69be19efe82dadb"
+    },
+    "culture.classics.shijing": {
+      "metadata": "中国瑰宝/经典原文/诗经/topic.json",
+      "sha256": "0a0f8e660b8e5769524ef8f94d3b28d5677a29cd6e5287dd244bf31f027cadf9"
+    },
+    "culture.classics.zhongyong": {
+      "metadata": "中国瑰宝/经典原文/中庸/topic.json",
+      "sha256": "ae8b90095aa080690c2342ae95480c74d4410b3766dca03e2d60463e26fcf63c"
+    },
+    "culture.classics.zhouyi": {
+      "metadata": "中国瑰宝/经典原文/周易/topic.json",
+      "sha256": "1c722647ae62032964f4b63061d81aa2a3fe23c40e4de1599e526306d8232c41"
+    },
+    "culture.comparison": {
+      "metadata": "中国瑰宝/三家比较/topic.json",
+      "sha256": "58ab0787f920b942ca266e269ca3bab9387969a8efcb4d81b0ff3fc72e1824fd"
+    },
+    "culture.confucianism": {
+      "metadata": "中国瑰宝/儒家/topic.json",
+      "sha256": "c53e7de9b01c9221e6c65856ea89dc39910aacd967c4acbdceba2d685c5c750a"
+    },
+    "culture.daoism": {
+      "metadata": "中国瑰宝/道家/topic.json",
+      "sha256": "f2a9aa0335355f7278bd3d600e45c935bf4d6ee0e4a120129f7aeefb770e7883"
+    },
+    "english.assessment": {
+      "metadata": "英语学习/学习规划/诊断与测评/topic.json",
+      "sha256": "9a69595a0a6abb069182870b6decbafbea0039965d8bc6f6b6a61a0e2d72b4aa"
+    },
+    "english.grammar": {
+      "metadata": "英语学习/基础能力/语法与句子/topic.json",
+      "sha256": "52560d0499ea16b7e42683e76023f3b5cce895f0cd61afa2c90e6e1a30f22ffb"
+    },
+    "english.listening": {
+      "metadata": "英语学习/听说读写/听力训练/topic.json",
+      "sha256": "2c7884d58b8aa21bbefa0ea3280c46d9d9a1f9a9dddf711edbb3ec7850300c4d"
+    },
+    "english.practice": {
+      "metadata": "英语学习/综合实践/场景任务/topic.json",
+      "sha256": "a688b14e20e350fc7928ab99a8e2447076c4b51532c41a386aa6bbc18134059b"
+    },
+    "english.pronunciation": {
+      "metadata": "英语学习/基础能力/语音与发音/topic.json",
+      "sha256": "ed95a8766b3c75a9e3ec72d97f981f7f7b9832d81688e5a29eb3b48a8f7037c0"
+    },
+    "english.reading": {
+      "metadata": "英语学习/听说读写/阅读理解/topic.json",
+      "sha256": "3523ebcb51645859a36cd3c851fdae9b684a328591ff0687189573f3ac2f511a"
+    },
+    "english.roadmap": {
+      "metadata": "英语学习/学习规划/学习路线/topic.json",
+      "sha256": "19fdb9b5ba5f221ee297e35272af90b3d947e37eaa52e88850b5c689dc1b5974"
+    },
+    "english.speaking": {
+      "metadata": "英语学习/听说读写/口语表达/topic.json",
+      "sha256": "94be4990e7cc1c04e8ed221f571a15d80dfcc7d62755fb59a7f4b612dd0e4cdc"
+    },
+    "english.vocabulary": {
+      "metadata": "英语学习/基础能力/词汇与语块/topic.json",
+      "sha256": "37b945a3fe20cbd14a09a4746f3fdbc81e5421501260d1ddb04a48caab61b43b"
+    },
+    "english.writing": {
+      "metadata": "英语学习/听说读写/写作表达/topic.json",
+      "sha256": "f1f0b82a6366cad2ceb4180db5a112f4eb0308270c1557dc8ad56ba90a40c003"
+    },
+    "ontology.ev-quality": {
+      "metadata": "本体/行业案例/新能源车质量安全域本体模型/topic.json",
+      "sha256": "0ea53b76de1ecb8d03e629b0425d58f3b185dd6665dba091c6cff6590a01acec"
+    },
+    "ontology.introduction": {
+      "metadata": "本体/基础理论与方法/本体论-快速入门与案例/topic.json",
+      "sha256": "2c189c734d88fb6c4f0a897cfa85c3d6efaa356fbccd868c5056339e23ef8ce3"
+    },
+    "ontology.modeling": {
+      "metadata": "本体/基础理论与方法/本体模型与本体建模方法/topic.json",
+      "sha256": "5444f814ac9fc044119eb06c5fd33eb9126a2830ac7ea183f8dccf3f4b8832c3"
+    },
+    "ontology.okf": {
+      "metadata": "本体/技术标准与格式/OKF/Google-OKF开放知识格式/topic.json",
+      "sha256": "57e88c2e114a4cc8d20b509719a7dffd8f8ca6e3ea95c2f3f64b3de7abbec34e"
+    },
+    "ontology.operational": {
+      "metadata": "本体/基础理论与方法/运营型本体定义与分类/topic.json",
+      "sha256": "b0b3df676cb2aa3fe36e2e33c4f098e2de680a628e41bb11e9263ac2a56f8bb0"
+    },
+    "ontology.owl": {
+      "metadata": "本体/技术标准与格式/OWL-Web本体语言详解/topic.json",
+      "sha256": "3b84a0909f3b96c73e76410ef92500b2f158b33abd3889003cb3a78cd7cf41fb"
+    },
+    "ontology.palantir.after-sales": {
+      "metadata": "本体/产品平台/Palantir/Palantir-Ontology-四要素与汽车售后案例/topic.json",
+      "sha256": "3860def7ab5df55c1bd19c54a83d4aad6efdb504535ddedade1fee5615e140ce"
+    },
+    "ontology.palantir.comparison": {
+      "metadata": "本体/产品平台/Palantir/通用本体模型与Palantir-Ontology差异比较/topic.json",
+      "sha256": "a5a382d905005ec7bfc4cf728591b400ad320b9b6d692afd01b0b14d6e849a30"
+    },
+    "ontology.palantir.components": {
+      "metadata": "本体/产品平台/Palantir/Interface-Function-Action关系与区别/topic.json",
+      "sha256": "bc8255b35189984ea85d93bd188d50f32caff44005bf5be4babc2fb4fd4bc1c9"
+    },
+    "ontology.palantir.overview": {
+      "metadata": "本体/产品平台/Palantir/palantir-ontology-summary/topic.json",
+      "sha256": "d8ad9e702ef50bf15cd7071d087d31aea6762124a4cb17a7e6dfaa3797bc5a5f"
+    },
+    "ontology.rdf": {
+      "metadata": "本体/技术标准与格式/RDF-资源描述框架/topic.json",
+      "sha256": "7ba187ea78ebfc66d7c3b67fbd5104b7c5b557948cad9c802b47c4b305843d28"
+    },
+    "reporting.business": {
+      "metadata": "汇报模板/业务汇报/topic.json",
+      "sha256": "d20db99c54722c8ec8d5e76aff901b7f4eff78a382d8bef29a0c46f48ef17485"
+    },
+    "reporting.technical": {
+      "metadata": "汇报模板/技术汇报/topic.json",
+      "sha256": "139517c8b91b02eaaca643f3bccb7b1e3d718e39893ce0233c1254f3b4159b88"
+    },
+    "thinking.5w1h": {
+      "metadata": "思维模型/系统与问题分析/六何法（5W1H）/topic.json",
+      "sha256": "4055ebb7901db359e23021186172b928955ef667cda9b60dc903389c8988ca94"
+    },
+    "thinking.causal-loop": {
+      "metadata": "思维模型/系统与问题分析/因果回路/topic.json",
+      "sha256": "9c38114aca38c830877147193fde27d88339e472909f3fc27fe1d3683145afb8"
+    },
+    "thinking.cost-benefit": {
+      "metadata": "思维模型/判断与决策/成本收益分析/topic.json",
+      "sha256": "0963d23d63318bdda7857e1ff920592dc4eca96b9848311db7b781c8ad962f53"
+    },
+    "thinking.first-principles": {
+      "metadata": "思维模型/判断与决策/第一性原理/topic.json",
+      "sha256": "b80d79815b0f7332215cd9806558cdc1f3e1ef3e2284890c16bf3834a021e2b6"
+    },
+    "thinking.five-whys": {
+      "metadata": "思维模型/系统与问题分析/5Why法（五个为什么）/topic.json",
+      "sha256": "94fd45b77b70eac17ce58f2f1c730b10eea5d30d8f61b322e61b610442766bce"
+    },
+    "thinking.lean-startup": {
+      "metadata": "思维模型/商业与产品/精益创业与验证式学习/topic.json",
+      "sha256": "aeca795390b369b29bc86f1150f181f1059ddb7dc8e2354b614d19d13960552f"
+    },
+    "thinking.mece": {
+      "metadata": "思维模型/系统与问题分析/MECE原则/topic.json",
+      "sha256": "d3c501ecb7d7a98ee29a9010e1220853e25e3e3c54185f8e04846ba9bf854d49"
+    },
+    "thinking.model-001": {
+      "metadata": "思维模型/专业借鉴与待核实主题/RICE全科问诊模式/topic.json",
+      "sha256": "c461d8e6482bd122d92dff46f534f3e930a8106c8d0aaf37804bdf54047fb9f8"
+    },
+    "thinking.model-002": {
+      "metadata": "思维模型/专业借鉴与待核实主题/共鸣能量释放/topic.json",
+      "sha256": "2f2d1ec8b0213a52535ce5a6a7fcf25da8ea38db4205fc457e4bd4f7a9ad3f8e"
+    },
+    "thinking.model-003": {
+      "metadata": "思维模型/专业借鉴与待核实主题/待核实主题-BV1Nm421N7bp/topic.json",
+      "sha256": "fa79915e8a0f2d11124e708bab2e320976a194121a68ecd3cad6b49a28db5447"
+    },
+    "thinking.model-004": {
+      "metadata": "思维模型/专业借鉴与待核实主题/待核实主题-BV1Pm411d7JL/topic.json",
+      "sha256": "744a191993aaec16394306853e2eb9cf3993322f29f690ff2d331f11bdaf91d4"
+    },
+    "thinking.model-005": {
+      "metadata": "思维模型/专业借鉴与待核实主题/莫塔五问/topic.json",
+      "sha256": "ca04ef563bc093aed6bc36bc5ab8e8fa658f5b40ce1752298b3739f025a4fb65"
+    },
+    "thinking.model-006": {
+      "metadata": "思维模型/专业借鉴与待核实主题/非SR思维模型/topic.json",
+      "sha256": "5bdce0b30d304a56ebea41e78eea497543efee292fe05969b0df06289b5e158f"
+    },
+    "thinking.model-007": {
+      "metadata": "思维模型/判断与决策/101010旁观思维模型/topic.json",
+      "sha256": "4014136b20a730bec046b660a4ce272474f6122278ffa081ff010f69f4965352"
+    },
+    "thinking.model-008": {
+      "metadata": "思维模型/判断与决策/二八法则/topic.json",
+      "sha256": "8dcca84fddc7f81d535fc8fa992b47e1b458af6cbaf54b8ec04d9bedf4f27172"
+    },
+    "thinking.model-009": {
+      "metadata": "思维模型/判断与决策/前景理论/topic.json",
+      "sha256": "0192036d7bddf107d835e942d8d3d3e35e35bbd748c8610956a4fb63873c9d23"
+    },
+    "thinking.model-010": {
+      "metadata": "思维模型/判断与决策/卡尼曼双系统/topic.json",
+      "sha256": "530b8cf8aac09009583850ec4136a3f5809261079309d4b6a2091a1fa4a0be10"
+    },
+    "thinking.model-011": {
+      "metadata": "思维模型/判断与决策/合取谬误/topic.json",
+      "sha256": "5487918a4c2d77dc99d7752a0e691e1cc198cc97110cbd45a3ff98c853ce51cb"
+    },
+    "thinking.model-012": {
+      "metadata": "思维模型/判断与决策/奥卡姆剃刀/topic.json",
+      "sha256": "9c56dada178b9f39ddf1f4ec06a439ca9c7d43477fbdbde3e8e1325c96253add"
+    },
+    "thinking.model-013": {
+      "metadata": "思维模型/判断与决策/安全边际思维模型/topic.json",
+      "sha256": "f67bd500c7fc23ea36af9505616d5a4bdd4faa2f9e1f0efc4c570cab6689c955"
+    },
+    "thinking.model-014": {
+      "metadata": "思维模型/判断与决策/心理账户/topic.json",
+      "sha256": "280e32f343ee691ef63d6853a273520fd0361e4298651bf6fdadd0992dea1dc5"
+    },
+    "thinking.model-016": {
+      "metadata": "思维模型/判断与决策/机会成本/topic.json",
+      "sha256": "fc60bd584e0e5218f70dc69e04e898c2e6aa8eb650efeff3d259a329662d966f"
+    },
+    "thinking.model-017": {
+      "metadata": "思维模型/判断与决策/框架效应/topic.json",
+      "sha256": "87af2e567f01f44fd6ad0a7b07772b6e7e4063e143420b50740e5cef29816a4c"
+    },
+    "thinking.model-018": {
+      "metadata": "思维模型/判断与决策/沉没成本/topic.json",
+      "sha256": "f19270bccba11b0ed428292833770f396571462d50255fa88e3ce59a9787b937"
+    },
+    "thinking.model-019": {
+      "metadata": "思维模型/判断与决策/笛卡尔批判思维模型/topic.json",
+      "sha256": "fe3dea218aa9015be25f6b7c708fa6ada0716d8449bccf0b6caefdffcf6ebf5f"
+    },
+    "thinking.model-021": {
+      "metadata": "思维模型/判断与决策/能力圈模型/topic.json",
+      "sha256": "d9f854d2a16ea02486e46e992156eeea1f1b33991d68e783e5e4b31ba580035c"
+    },
+    "thinking.model-022": {
+      "metadata": "思维模型/判断与决策/达克效应/topic.json",
+      "sha256": "bf8efce0c9faa9be50e0ff57e2216c8cfe8df22eac2dae4f331d5575dbd8dc40"
+    },
+    "thinking.model-023": {
+      "metadata": "思维模型/判断与决策/逆向思维/topic.json",
+      "sha256": "072e9e0938c377212a220dfbb1b70e29725cb99ca4ffb46d1f60f0f4595f30e2"
+    },
+    "thinking.model-024": {
+      "metadata": "思维模型/商业与产品/4-Letters营销理论串烧/topic.json",
+      "sha256": "57930413755e619722f83c6b8b79d80a53c210f2d119ccd8274f2207191848d2"
+    },
+    "thinking.model-025": {
+      "metadata": "思维模型/商业与产品/4C营销模型/topic.json",
+      "sha256": "6254ed2df905cc552fc53cdd2ee87cfd02e7c72c6114c8153eef4ceeaf0a64e6"
+    },
+    "thinking.model-026": {
+      "metadata": "思维模型/商业与产品/4P营销模型/topic.json",
+      "sha256": "d0a0785eb9dd13f60c6de4c5d21dbf19c75b11a26ae8dfb798416879b8b83172"
+    },
+    "thinking.model-027": {
+      "metadata": "思维模型/商业与产品/AISAS消费者行为分析模型/topic.json",
+      "sha256": "fd766c922769ac8c176dad1b64998b7da63aa9b9b8d2143c2ba80bbd12cafa61"
+    },
+    "thinking.model-028": {
+      "metadata": "思维模型/商业与产品/FAB销售法则/topic.json",
+      "sha256": "c2ba43fb2110c713cd7b813cbb0473d22f3fccbaec730eb33a56ad1d1bd2a29f"
+    },
+    "thinking.model-029": {
+      "metadata": "思维模型/商业与产品/Hook上瘾模型/topic.json",
+      "sha256": "17af52fb45902822ddab6d05a7606338eb9d14d9d8d3ae65cc8a7179478fb691"
+    },
+    "thinking.model-030": {
+      "metadata": "思维模型/商业与产品/MVP思维模型/topic.json",
+      "sha256": "68c0161a49630b8c995c9dfb781a9a9f45d6922beb3d14a46ab1dfcbc3395c42"
+    },
+    "thinking.model-031": {
+      "metadata": "思维模型/商业与产品/PEST分析模型/topic.json",
+      "sha256": "4d6ef01d235a1e2ff8d8ceef04e67f886bbfc762f7d829fde2f65abdcda5e209"
+    },
+    "thinking.model-032": {
+      "metadata": "思维模型/商业与产品/STP市场细分理论/topic.json",
+      "sha256": "3413752a51cffb28774f2daefb16a66aeff954f92a39bc6fec5e3fb312db3554"
+    },
+    "thinking.model-033": {
+      "metadata": "思维模型/商业与产品/SWOT分析模型/topic.json",
+      "sha256": "e73d69d8410a644a81df5ac4ac9b3f230abbf6411331b9606795792390586800"
+    },
+    "thinking.model-035": {
+      "metadata": "思维模型/商业与产品/峰终定律/topic.json",
+      "sha256": "90dc3cc3a5987908527bc9382cd5b9c457f080bd5b7c91fa5c5805bbd6483367"
+    },
+    "thinking.model-036": {
+      "metadata": "思维模型/商业与产品/护城河理论/topic.json",
+      "sha256": "ac2cb11cb50c7a11f0711343e1add4c1dbf101b309c554e7605eea10d31ab291"
+    },
+    "thinking.model-037": {
+      "metadata": "思维模型/商业与产品/波士顿矩阵/topic.json",
+      "sha256": "e25ccd8dc5fa74da3785f16c84f56efa8a85bda127fb1f23d350e4a907dba0eb"
+    },
+    "thinking.model-038": {
+      "metadata": "思维模型/商业与产品/波特五力模型/topic.json",
+      "sha256": "5efdfb3d8e61d4f84e978b73fce820821693020c099230743efb71bd31d196c3"
+    },
+    "thinking.model-039": {
+      "metadata": "思维模型/商业与产品/销售漏斗模型/topic.json",
+      "sha256": "d58af600cc9eb14849f0004fea888da8b96663bc683284f8f893cc58c0c51c14"
+    },
+    "thinking.model-040": {
+      "metadata": "思维模型/商业与产品/长尾效应/topic.json",
+      "sha256": "8450fe528629b072b5da4bf72ef0e750ef658289eb3f6e0dce5bd656c55b9938"
+    },
+    "thinking.model-041": {
+      "metadata": "思维模型/商业与产品/需求三角模型/topic.json",
+      "sha256": "82b8de2e47cf815341d6075f71d72bba88977f1d79428aa8b775625250ad8e80"
+    },
+    "thinking.model-042": {
+      "metadata": "思维模型/学习与认知/NLP理解层次/topic.json",
+      "sha256": "5bdb185e3f415d184c9fd851af0d337a39392196fe44ea03d54ede5adfcdea41"
+    },
+    "thinking.model-043": {
+      "metadata": "思维模型/学习与认知/SOLO分类理论/topic.json",
+      "sha256": "752adcb521672079c7d989810df9557fc9bd60ccd38fd505bca55f0f0b5b8655"
+    },
+    "thinking.model-044": {
+      "metadata": "思维模型/学习与认知/SQ3R阅读法/topic.json",
+      "sha256": "c05d9d02ed74d919cff4a79d22fe6080a8fa5c4d0d99b3c07857b99127850d68"
+    },
+    "thinking.model-045": {
+      "metadata": "思维模型/学习与认知/元认知/topic.json",
+      "sha256": "8a08e4b1e04a225380ef853aec391e9977de33d37f3ca435c9ca347b900e4a63"
+    },
+    "thinking.model-046": {
+      "metadata": "思维模型/学习与认知/心流/topic.json",
+      "sha256": "e4ce4ec674c0d73c34c5841c57249af85e0f2b358cab7dde8890cbfe968d2d1f"
+    },
+    "thinking.model-047": {
+      "metadata": "思维模型/学习与认知/总观效应/topic.json",
+      "sha256": "bf521d7461250449b169826c3af069d80139e592e5778547be7148415fb9f4ea"
+    },
+    "thinking.model-048": {
+      "metadata": "思维模型/学习与认知/成长型思维/topic.json",
+      "sha256": "dbf42d84a1bc159a4d7c99b380f4add8e530ff78a3efc1f1387384f1b3fe6a78"
+    },
+    "thinking.model-049": {
+      "metadata": "思维模型/学习与认知/放大镜缩小镜思维/topic.json",
+      "sha256": "4452b8d709fe6e3d6891093a1c5e321dd7b68f0fcbd7db042fac89287f5c6394"
+    },
+    "thinking.model-050": {
+      "metadata": "思维模型/学习与认知/次心流/topic.json",
+      "sha256": "92c6c108ec33eef62dfda225facabcfaf7f4bfa842e1a0350deeef5b2411f703"
+    },
+    "thinking.model-051": {
+      "metadata": "思维模型/学习与认知/生命的维度/topic.json",
+      "sha256": "72b410aceda2a849cc903012870f5fcf521ec7944b4ae7fb3f375cc30ee61455"
+    },
+    "thinking.model-052": {
+      "metadata": "思维模型/学习与认知/耶克斯多德森定律/topic.json",
+      "sha256": "039ed2b30a42d80b2db999f2137512f3198ee988561cf369f03f98d301f6a548"
+    },
+    "thinking.model-053": {
+      "metadata": "思维模型/学习与认知/蔡氏效应/topic.json",
+      "sha256": "1c38eb060633345c81f2b6e3f8b123302dbdd3d82aaaa73780d6015b58540ee8"
+    },
+    "thinking.model-054": {
+      "metadata": "思维模型/学习与认知/贝勃定律/topic.json",
+      "sha256": "d65315af17e9f5c26eb6040f4fdd2875adb9053fcf2bbb5aec5354be766feb06"
+    },
+    "thinking.model-055": {
+      "metadata": "思维模型/学习与认知/费曼学习法/topic.json",
+      "sha256": "22f741c32484cdc2a2f0cf5a4cfce69de1675b2b769f14a8d1df2b0e3427e142"
+    },
+    "thinking.model-056": {
+      "metadata": "思维模型/学习与认知/间态放松模型/topic.json",
+      "sha256": "403c5040c3367ad3a5fbadd33397bb34f3578901fe5747dc89c1709482315150"
+    },
+    "thinking.model-057": {
+      "metadata": "思维模型/学习与认知/马斯洛需求层次理论/topic.json",
+      "sha256": "625ee24c7cd71c773bbd4581323b5900897a70c76ebf4183b07f8bbbd2aab807"
+    },
+    "thinking.model-060": {
+      "metadata": "思维模型/系统与问题分析/SECI模型/topic.json",
+      "sha256": "7357aee32efa7edd5fd53f21d16ce523deb18bad7f6ef8317cec12eabe9ca636"
+    },
+    "thinking.model-062": {
+      "metadata": "思维模型/系统与问题分析/冗余备份思维模型/topic.json",
+      "sha256": "bbc93fafda1cac06c7b0e190702e4d9c8059a5484db9747ef8829f7978702d28"
+    },
+    "thinking.model-063": {
+      "metadata": "思维模型/系统与问题分析/军标六性（职场能力类比）/topic.json",
+      "sha256": "0021cf3efd4b59640781a0336fec62503d37f91c85359adfeae7957be971d387"
+    },
+    "thinking.model-064": {
+      "metadata": "思维模型/系统与问题分析/冰山模型/topic.json",
+      "sha256": "79936f07cd25a1f69c380416349d78badab6a06026a79b283249960c9fd1bc34"
+    },
+    "thinking.model-065": {
+      "metadata": "思维模型/系统与问题分析/反反木桶原理/topic.json",
+      "sha256": "263ca2bfaf8500c3f76c79ad0a2c7be729da3e09f9155c5eed1779f6604f3ea6"
+    },
+    "thinking.model-067": {
+      "metadata": "思维模型/系统与问题分析/多环集合思维/topic.json",
+      "sha256": "121e82eeef49adedf094179efdf436ebfb3314a883515da85f43cdf1b5a77adb"
+    },
+    "thinking.model-068": {
+      "metadata": "思维模型/系统与问题分析/大道至简/topic.json",
+      "sha256": "e1dde11e88ca5dd7d8e0e4d2af553fb624d12b8088c4ade95ef6d20d81cefafc"
+    },
+    "thinking.model-069": {
+      "metadata": "思维模型/系统与问题分析/断裂点理论思维模型/topic.json",
+      "sha256": "bc1c5748a6a8137748d37563a872646ab3b97d26efa21009f642573a6a9e4625"
+    },
+    "thinking.model-070": {
+      "metadata": "思维模型/系统与问题分析/系统思维/topic.json",
+      "sha256": "433323e919d3d29a8b33e83d37bc1166172d2a905d7d53b27ceabf08107eb1ca"
+    },
+    "thinking.model-071": {
+      "metadata": "思维模型/系统与问题分析/诺依曼思维/topic.json",
+      "sha256": "43ab8b72ed3098958fd691d4d77e606d6296fcc2ac7d31e5c5669a4a6898a3eb"
+    },
+    "thinking.model-072": {
+      "metadata": "思维模型/系统与问题分析/路径依赖/topic.json",
+      "sha256": "ce11236df5bc41c9300db996b1cc264d9b5ed6326904eec680fdac4895df61b2"
+    },
+    "thinking.model-073": {
+      "metadata": "思维模型/系统与问题分析/递弱代偿/topic.json",
+      "sha256": "08879600321c0188715b6f4107c45892a4397439091ce1510679d4c0422943ab"
+    },
+    "thinking.model-074": {
+      "metadata": "思维模型/系统与问题分析/道法术器/topic.json",
+      "sha256": "914a97300c0db7262153da758e91cecf39c9480de2dbdf23b12fbb3fc9c4487f"
+    },
+    "thinking.model-076": {
+      "metadata": "思维模型/系统与问题分析/飞轮效应/topic.json",
+      "sha256": "49585ec312fb8b6dc2c7a906ae1008d48f61b61b1196176752d04d7af3de2b21"
+    },
+    "thinking.model-077": {
+      "metadata": "思维模型/系统与问题分析/马太效应/topic.json",
+      "sha256": "dd0d1b7e8c501cca1fcfaf1c94bd80719b1e42ccaddf9a25c51539ea1e7768f1"
+    },
+    "thinking.model-078": {
+      "metadata": "思维模型/行动与复盘/GRAI复盘模型/topic.json",
+      "sha256": "188d58ced14b444323c830d9789a2b88284e395bfe89f5c7d226ba521328a66a"
+    },
+    "thinking.model-079": {
+      "metadata": "思维模型/行动与复盘/GROW成长模型/topic.json",
+      "sha256": "3a8d9d493a2b99876d5996007991eb1cc623200bf81350b939a83f18ea378476"
+    },
+    "thinking.model-080": {
+      "metadata": "思维模型/行动与复盘/KISS复盘模型/topic.json",
+      "sha256": "5b218c1d577a1958ef6269fac8369a09cc3ea3d841ea37d07849b435440c482b"
+    },
+    "thinking.model-081": {
+      "metadata": "思维模型/行动与复盘/OGSM目标管理工具/topic.json",
+      "sha256": "8cbce13998f50d1b84d14e267ae7027a4d3b03905ba846f73ebcfcba47edfbb3"
+    },
+    "thinking.model-083": {
+      "metadata": "思维模型/行动与复盘/SMART原则/topic.json",
+      "sha256": "d2c10863bd6988230f08b1a014bc5faf718d021f082f6e2f16d997d3a0dcc508"
+    },
+    "thinking.model-084": {
+      "metadata": "思维模型/行动与复盘/WOOP思维工具/topic.json",
+      "sha256": "00c1ca24d322dae10d2674c7079d404988069c667f978091f1a86cb2d59b8ac3"
+    },
+    "thinking.model-085": {
+      "metadata": "思维模型/行动与复盘/三八理论/topic.json",
+      "sha256": "9dbf7c091dbe1a85475546e0089c04c7667fb675f7f62f93b4454a0b0fbdf78d"
+    },
+    "thinking.model-086": {
+      "metadata": "思维模型/行动与复盘/双目标清单思维/topic.json",
+      "sha256": "72453a04e804d77325320aa53a15819187855af2075a440c7541b5191557bb83"
+    },
+    "thinking.model-087": {
+      "metadata": "思维模型/行动与复盘/四象限法则/topic.json",
+      "sha256": "e9fc0c03ebf54866a04e69e4f78391d37fc172c486b41dae5fd16463eb45a973"
+    },
+    "thinking.model-088": {
+      "metadata": "思维模型/行动与复盘/帕金森定律/topic.json",
+      "sha256": "1202fc46c2ceba575e39fb5e656aac9f928f9063c892149e718ce6b2333c4e41"
+    },
+    "thinking.model-089": {
+      "metadata": "思维模型/行动与复盘/福格行为模型/topic.json",
+      "sha256": "9c5f51be1cee629779a835ab3219cdb32618d4794417bcb9c239a738dfebd7e7"
+    },
+    "thinking.model-090": {
+      "metadata": "思维模型/行动与复盘/细节效率思维模型/topic.json",
+      "sha256": "4912a4acc54f93dce80338345bc30c887b18d2aed02342db277b55035f336a00"
+    },
+    "thinking.model-091": {
+      "metadata": "思维模型/表达与协作/FFC赞美法/topic.json",
+      "sha256": "f9e32f16db874ce90c73c9cbefa00330517a3143f91f1899fc9dfde16cfb6219"
+    },
+    "thinking.model-092": {
+      "metadata": "思维模型/表达与协作/PREP表达方式/topic.json",
+      "sha256": "1a9089cb53b7c401d7fc43b217eac52d9465938ec634a51835c7620cac031ed8"
+    },
+    "thinking.model-093": {
+      "metadata": "思维模型/表达与协作/SCQA序言结构/topic.json",
+      "sha256": "740c54d4da0d20bdd0290b3c4edd81735ac23d186fc282b084ee4e95ef96747c"
+    },
+    "thinking.model-094": {
+      "metadata": "思维模型/表达与协作/TTT思维/topic.json",
+      "sha256": "ee8933d0472caf4da3cc410d3d471a55233c889a06b69482b9e1dc61b213223b"
+    },
+    "thinking.model-095": {
+      "metadata": "思维模型/表达与协作/三三制/topic.json",
+      "sha256": "836b3a7513200ae42650382edf80e009fe95e8c463b717d61ce28fef72f4c22f"
+    },
+    "thinking.model-096": {
+      "metadata": "思维模型/表达与协作/乔哈里视窗/topic.json",
+      "sha256": "2476afd4b7ae36d29b20799242de1bcee472ac5e880002f797def8254860bb47"
+    },
+    "thinking.model-097": {
+      "metadata": "思维模型/表达与协作/五遍信息沟通模型/topic.json",
+      "sha256": "ad321d0cf76d151b1bff937fd3e66a413cbb3fe18c599d9eac10a659a578373d"
+    },
+    "thinking.model-098": {
+      "metadata": "思维模型/表达与协作/六顶思考帽/topic.json",
+      "sha256": "8c77ca8dd34f65b7f0e929394a0a4a1899897e8274a7f74a645fb9c742f38c48"
+    },
+    "thinking.model-099": {
+      "metadata": "思维模型/表达与协作/头脑风暴/topic.json",
+      "sha256": "2a08b8a3d6e5aaeae263cd27a122003014f9f8d2ed35ccf24110867a80c38d0d"
+    },
+    "thinking.model-100": {
+      "metadata": "思维模型/表达与协作/奥斯本检核表法/topic.json",
+      "sha256": "93e404cd7f10518221a2d9a3aa6b8a99a09abe0b1fa4c88769d6314a0be04391"
+    },
+    "thinking.model-101": {
+      "metadata": "思维模型/表达与协作/曼陀罗思考法/topic.json",
+      "sha256": "dd329301e6dc733a48d527563739985432969565f63b9a68da2ea2062819afa9"
+    },
+    "thinking.model-102": {
+      "metadata": "思维模型/表达与协作/沉默的螺旋/topic.json",
+      "sha256": "3952e05943db1c6860d138c92b1c14d5d9f5cb0b764e7b652ca9a0c4bec60438"
+    },
+    "thinking.model-103": {
+      "metadata": "思维模型/表达与协作/课题分离/topic.json",
+      "sha256": "44ebcc448302c72071f52740404cefa944f492c85f26249cb8d17114776f1c3b"
+    },
+    "thinking.model-104": {
+      "metadata": "思维模型/表达与协作/近因效应/topic.json",
+      "sha256": "bb99c3d18d9f32f1fce35c69d895183883b40b5ae7c1c4ef3d7d72fffa6ca22d"
+    },
+    "thinking.model-106": {
+      "metadata": "思维模型/表达与协作/首因效应/topic.json",
+      "sha256": "f4241ae75df331a9f88d5c3987addabd536b185ce0d280191a8f3698b6cc5d31"
+    },
+    "thinking.model-107": {
+      "metadata": "思维模型/表达与协作/黄金圈法则/topic.json",
+      "sha256": "075d256c8920cd807f8884d84cd28f3a3ece980c55ec9b78a0ee87cebc94bd66"
+    },
+    "thinking.pdca": {
+      "metadata": "思维模型/行动与复盘/PDCA循环/topic.json",
+      "sha256": "c68efd69b3ec59ae15816a7a0c538248363d3948e12d32a604eab225c8115fb0"
+    },
+    "thinking.problem-tree": {
+      "metadata": "思维模型/系统与问题分析/问题树/topic.json",
+      "sha256": "38893ee9ab5e314c64f295ebeb96ffd82245eee2547176e738331cc8f95ee822"
+    },
+    "thinking.pyramid": {
+      "metadata": "思维模型/表达与协作/金字塔原理/topic.json",
+      "sha256": "bee177832b6ea501499bff0c6b553b7fa73135b1d91c0a9a0a91eddd9e9d16e8"
+    },
+    "thinking.value-chain": {
+      "metadata": "思维模型/商业与产品/价值链分析/topic.json",
+      "sha256": "bd09c7a70ea3946a0394334d11fb5c0e958c79ca85cbd16556a99c0701652b4c"
+    }
+  }
+}

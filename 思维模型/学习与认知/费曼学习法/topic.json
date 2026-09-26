@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-055",
+  "title": "费曼学习法",
+  "summary": "看完一章觉得都懂，合上书却说不出为什么，费曼学习法就用来暴露这种差距。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

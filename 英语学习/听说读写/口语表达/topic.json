@@ -1,0 +1,16 @@
+{
+  "id": "english.speaking",
+  "title": "口语表达",
+  "summary": "需要把已知词句用于真实交流时使用，以信息差、追问、澄清和确认结果组织口语练习；单人背稿不能代替互动评估。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "README.md",
+    "detail": "教程.md",
+    "examples": "案例.md",
+    "sources": "../../来源与边界.md"
+  },
+  "requires": [],
+  "related": ["english.pronunciation", "english.vocabulary", "english.listening", "english.grammar", "english.practice"]
+}

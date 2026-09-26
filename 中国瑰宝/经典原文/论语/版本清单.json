@@ -1,0 +1,196 @@
+{
+  "book": "论语",
+  "retrieved_date": "2026-09-26",
+  "coverage": "收录通行本20篇，来源分为512个段落；不同版本章句拆合不同，段落数不作为唯一完整性依据。不包括出土本残篇《知道》等佚篇，也不收历代注疏。采用来源简体字形。",
+  "full_text_sha256": "20f52c3a1d11d1f193499ce906d79f8d912fae078ea0271c196ef053d5d24df8",
+  "sources": [
+    {
+      "label": "论语电子文本",
+      "url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "commit": "b8594f81a89752241442f2ce267d6f66f96704ee",
+      "download_sha256": "bc336a3839706377892719db44c48a09794a493190535a42bf1c7d4c4233e96c"
+    }
+  ],
+  "chapters": [
+    {
+      "order": 1,
+      "title": "学而篇",
+      "path": "篇章/001-学而篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 493,
+      "sha256": "23cfdfaa61ba31ff586cda4facad4d1bb77f766adeab7121ce713b249670dbd2",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 2,
+      "title": "为政篇",
+      "path": "篇章/002-为政篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 579,
+      "sha256": "eeb3de9387da0c2e7988de229dfe66e12dd4b6f25778e5187199ab149dded9e8",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 3,
+      "title": "八佾篇",
+      "path": "篇章/003-八佾篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 689,
+      "sha256": "205965bdb38b92bf59b393c07efbdf4aae2f8892afa4f99b971a15b5de2d984b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 4,
+      "title": "里仁篇",
+      "path": "篇章/004-里仁篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 500,
+      "sha256": "1eade1016e0b48fe9787f382bdd983b435ddbd97c770c70640920558fba1ef3c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 5,
+      "title": "公冶长篇",
+      "path": "篇章/005-公冶长篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 869,
+      "sha256": "bfe65333b8f4f522aa9c711bc51ebae0b3af58a11f6665444db0af29404dfd9e",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 6,
+      "title": "雍也篇",
+      "path": "篇章/006-雍也篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 816,
+      "sha256": "32e6036a36fee24ac3326e242f1bc2c6fe885f20c1cf04d4800956a910f0194c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 7,
+      "title": "述而篇",
+      "path": "篇章/007-述而篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 873,
+      "sha256": "e0f521e3f69229027913d66f7d3e4bf47e67290aee1e94077e5e75f70edd78ef",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 8,
+      "title": "泰伯篇",
+      "path": "篇章/008-泰伯篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 614,
+      "sha256": "36037ad52af36e93d60987882eff50c2b2612343ad2857b534c15677481a84d7",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 9,
+      "title": "子罕篇",
+      "path": "篇章/009-子罕篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 806,
+      "sha256": "eda1f6895b3811c71a053c94f0f6a3e76cf92217ced6301d3f3665898968cd25",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 10,
+      "title": "乡党篇",
+      "path": "篇章/010-乡党篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 642,
+      "sha256": "377a905a415dd8811f4849c6e2f7b31a6144e6f4a3dbcbbf0815de591d9c3866",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 11,
+      "title": "先进篇",
+      "path": "篇章/011-先进篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 1054,
+      "sha256": "b92bfbb8b6616e97e17559f9543421fd5df0d8284578876686a0b5166c6e606d",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 12,
+      "title": "颜渊篇",
+      "path": "篇章/012-颜渊篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 992,
+      "sha256": "0de50b568ba629f9487b37c77674d9b7cb8a6e700304f94e177c0af5586e0197",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 13,
+      "title": "子路篇",
+      "path": "篇章/013-子路篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 1035,
+      "sha256": "f1c4efed60e040489c025bf755968f486604ce6d44ecb5a9303c8321df6d110c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 14,
+      "title": "宪问篇",
+      "path": "篇章/014-宪问篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 1339,
+      "sha256": "8268772134b3b54f5c77e29d6e420694e392968874ff8daa26439baf8bf75b19",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 15,
+      "title": "卫灵公篇",
+      "path": "篇章/015-卫灵公篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 905,
+      "sha256": "a8eb940147e9d972cb66302b07404f430b9451ca7c83424414af20241553550b",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 16,
+      "title": "季氏篇",
+      "path": "篇章/016-季氏篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 863,
+      "sha256": "e98b7cef7f5a4659bb84a5942bbe44e71f79f12ba89416d82f9586f59afde1a2",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 17,
+      "title": "阳货篇",
+      "path": "篇章/017-阳货篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 1019,
+      "sha256": "8eacb4cfff98d5b67f599e5ca0cbb6d3bbc20fe228060ab118389e4e13eaeea4",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 18,
+      "title": "微子篇",
+      "path": "篇章/018-微子篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 617,
+      "sha256": "29a19bf82a9a3f384d17f741359deb3ef03cd628cbcdc3289e4cab56c349cc7c",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 19,
+      "title": "子张篇",
+      "path": "篇章/019-子张篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 842,
+      "sha256": "875d5dacf50444693f7908a9ec9a9f97ab82f8b02ffa36dbda70869a542d2ae7",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    },
+    {
+      "order": 20,
+      "title": "尧曰篇",
+      "path": "篇章/020-尧曰篇.md",
+      "source_url": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/%E8%AE%BA%E8%AF%AD/lunyu.json",
+      "text_han_characters": 370,
+      "sha256": "7745687dda4e7e4db5ac941ec79e9fd02a5b4913c2a625cf92f4b3ffd44151aa",
+      "source_commit": "b8594f81a89752241442f2ce267d6f66f96704ee"
+    }
+  ]
+}

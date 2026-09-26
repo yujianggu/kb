@@ -1,0 +1,197 @@
+{
+  "version": 1,
+  "title": "商业与产品",
+  "groups": [],
+  "topics": [
+    {
+      "id": "thinking.lean-startup",
+      "title": "精益创业与验证式学习",
+      "summary": "在需求、购买或交付尚不确定时，设计实验并用证据决定继续、转向或停止；不以小样本短期结果证明长期盈利。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/精益创业与验证式学习/topic.json",
+      "brief": "思维模型/商业与产品/精益创业与验证式学习/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-024",
+      "title": "4-Letters营销理论串烧",
+      "summary": "原义待核实；遇到营销问题时，背出越多缩写不一定越有帮助。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/商业与产品/4-Letters营销理论串烧/topic.json",
+      "brief": "思维模型/商业与产品/4-Letters营销理论串烧/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-025",
+      "title": "4C营销模型",
+      "summary": "同样一门课程，老师觉得内容丰富，学员却觉得报名麻烦、时间不合。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/4C营销模型/topic.json",
+      "brief": "思维模型/商业与产品/4C营销模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-026",
+      "title": "4P营销模型",
+      "summary": "一家咖啡店卖不动，问题可能是口味、价格、位置，也可能是顾客根本不知道它。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/4P营销模型/topic.json",
+      "brief": "思维模型/商业与产品/4P营销模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-027",
+      "title": "AISAS消费者行为分析模型",
+      "summary": "版本与边界： 采用电通传播中的Attention、Interest、Search、Action、Share版本。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/AISAS消费者行为分析模型/topic.json",
+      "brief": "思维模型/商业与产品/AISAS消费者行为分析模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-028",
+      "title": "FAB销售法则",
+      "summary": "客户问“这东西对我有什么用”，一长串配置通常没有回答问题。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/FAB销售法则/topic.json",
+      "brief": "思维模型/商业与产品/FAB销售法则/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-029",
+      "title": "Hook上瘾模型",
+      "summary": "为什么有些产品会让人反复回来？",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/Hook上瘾模型/topic.json",
+      "brief": "思维模型/商业与产品/Hook上瘾模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-030",
+      "title": "MVP思维模型",
+      "summary": "采用 Minimum Viable Product（最小可行产品）的通用产品管理版本，因为它有公开文字来源；视频标题强调缩写歧义，不能认定作者所指就是此版本。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/MVP思维模型/topic.json",
+      "brief": "思维模型/商业与产品/MVP思维模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-031",
+      "title": "PEST分析模型",
+      "summary": "计划开一家店，只研究附近竞争者还不够：规则变化、消费能力、人口习惯和新技术都可能改变生意。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/PEST分析模型/topic.json",
+      "brief": "思维模型/商业与产品/PEST分析模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-032",
+      "title": "STP市场细分理论",
+      "summary": "采用 Segmentation、Targeting、Positioning 通用版本；视频题名中的“STPST”含义未核实，不据此扩展新步骤。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/STP市场细分理论/topic.json",
+      "brief": "思维模型/商业与产品/STP市场细分理论/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-033",
+      "title": "SWOT分析模型",
+      "summary": "准备换工作时，“我沟通不错”和“行业正在招聘”都可能有利，却属于不同类型的信息。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/SWOT分析模型/topic.json",
+      "brief": "思维模型/商业与产品/SWOT分析模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-035",
+      "title": "峰终定律",
+      "summary": "一次旅行整体不差，但最后丢行李的经历让你回想起来很糟，这提醒我们：回忆评价未必等于全过程体验的平均。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/峰终定律/topic.json",
+      "brief": "思维模型/商业与产品/峰终定律/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-036",
+      "title": "护城河理论",
+      "summary": "一家企业现在赚钱，不代表竞争者进入后还能持续赚钱。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/护城河理论/topic.json",
+      "brief": "思维模型/商业与产品/护城河理论/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-037",
+      "title": "波士顿矩阵",
+      "summary": "一家企业有四条产品线，平均分钱看似公平，却可能让成熟业务过度投入、新业务一直长不大。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/波士顿矩阵/topic.json",
+      "brief": "思维模型/商业与产品/波士顿矩阵/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-038",
+      "title": "波特五力模型",
+      "summary": "一家店顾客不少，却始终难赚钱，原因可能不只在同行竞争：供货方强势、顾客容易转店、替代方案便宜、新店随时进入，都可能压缩利润。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/波特五力模型/topic.json",
+      "brief": "思维模型/商业与产品/波特五力模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-039",
+      "title": "销售漏斗模型",
+      "summary": "一千人看到商品，只有二十人付款，直接说“销售不行”没有指出问题。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/销售漏斗模型/topic.json",
+      "brief": "思维模型/商业与产品/销售漏斗模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-040",
+      "title": "长尾效应",
+      "summary": "采用克里斯·安德森讨论的商业长尾：大量低频需求在一定供给与发现条件下具有合计价值。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/长尾效应/topic.json",
+      "brief": "思维模型/商业与产品/长尾效应/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-041",
+      "title": "需求三角模型",
+      "summary": "原义待核实；用户说“这个产品不错”，却没有采取行动，需求分析需要继续问：他究竟想解决什么、当前方案是否合适、采取行动有什么障碍。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/商业与产品/需求三角模型/topic.json",
+      "brief": "思维模型/商业与产品/需求三角模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.value-chain",
+      "title": "价值链分析",
+      "summary": "价值链分析把业务拆成创造和交付价值的活动，检查哪些活动影响成本、客户价值，以及活动怎样配合。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/商业与产品/价值链分析/topic.json",
+      "brief": "思维模型/商业与产品/价值链分析/一分钟看懂.md"
+    }
+  ]
+}

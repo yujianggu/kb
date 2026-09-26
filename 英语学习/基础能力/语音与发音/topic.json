@@ -1,0 +1,16 @@
+{
+  "id": "english.pronunciation",
+  "title": "语音与发音",
+  "summary": "用词典音频、真实听辨和录音复核提升可懂度，练音素、词重音、句重音与意群；文字分析不能代替声音任务。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "README.md",
+    "detail": "教程.md",
+    "examples": "案例.md",
+    "sources": "../../来源与边界.md"
+  },
+  "requires": [],
+  "related": ["english.listening", "english.speaking", "english.vocabulary", "english.assessment"]
+}

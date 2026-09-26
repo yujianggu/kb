@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-026",
+  "title": "4P营销模型",
+  "summary": "一家咖啡店卖不动，问题可能是口味、价格、位置，也可能是顾客根本不知道它。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}
