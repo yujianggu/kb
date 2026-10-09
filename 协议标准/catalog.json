@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "title": "协议标准",
+  "groups": [],
+  "topics": [
+    {
+      "id": "standards.apqp",
+      "title": "APQP：产品质量先期策划",
+      "summary": "在汽车零部件开发、量产准备或重大变更中，用于规划质量风险、阶段交付物、验证与批准；附虚构案例和来源边界。",
+      "kind": "method",
+      "scope": "industry",
+      "status": "general",
+      "metadata": "协议标准/APQP/topic.json",
+      "brief": "协议标准/APQP/摘要.md"
+    }
+  ]
+}

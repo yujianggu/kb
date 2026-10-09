@@ -189,6 +189,10 @@
       "metadata": "汇报模板/技术汇报/topic.json",
       "sha256": "139517c8b91b02eaaca643f3bccb7b1e3d718e39893ce0233c1254f3b4159b88"
     },
+    "standards.apqp": {
+      "metadata": "协议标准/APQP/topic.json",
+      "sha256": "96d70f4cbb75784b630134211b32d7b320d9aa45a4fc40a241d44986b728c464"
+    },
     "thinking.5w1h": {
       "metadata": "思维模型/系统与问题分析/六何法（5W1H）/topic.json",
       "sha256": "4055ebb7901db359e23021186172b928955ef667cda9b60dc903389c8988ca94"
