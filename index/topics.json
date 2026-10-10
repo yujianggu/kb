@@ -191,7 +191,11 @@
     },
     "standards.apqp": {
       "metadata": "协议标准/APQP/topic.json",
-      "sha256": "96d70f4cbb75784b630134211b32d7b320d9aa45a4fc40a241d44986b728c464"
+      "sha256": "2fee8dd0e0ce41e2552f01031801d20a7eef369a1d2e6cb35b32fc9f7b9dca07"
+    },
+    "standards.ppap": {
+      "metadata": "协议标准/PPAP/topic.json",
+      "sha256": "8c0bb13908e804f76df2497e3890dcaed2ef695601f0d32a928027b4a676d9bc"
     },
     "thinking.5w1h": {
       "metadata": "思维模型/系统与问题分析/六何法（5W1H）/topic.json",
