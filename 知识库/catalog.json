@@ -5,6 +5,10 @@
     {
       "title": "案例",
       "catalog": "知识库/案例/catalog.json"
+    },
+    {
+      "title": "知识图谱",
+      "catalog": "知识库/知识图谱/catalog.json"
     }
   ],
   "topics": [
@@ -21,7 +25,7 @@
     {
       "id": "knowledge.kb-graph-ontology",
       "title": "知识库、知识图谱、知识本体",
-      "summary": "区分知识管理、实体关系与领域语义，用 AI Coding 教学示例说明三者协作及推理、校验、执行的边界。",
+      "summary": "区分知识管理、实体关系与共享业务模型，说明传统本体和运营型本体的规则、状态、行动与治理，以及三者协作边界。",
       "kind": "concept",
       "scope": "general",
       "status": "general",

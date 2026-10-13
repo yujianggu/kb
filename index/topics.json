@@ -181,13 +181,17 @@
       "metadata": "知识库/案例/Weaviate/topic.json",
       "sha256": "5cfc2850ac212b02ab8b3f5727ed58f7fdbd76cd65b368e52d4a796125bade40"
     },
+    "knowledge.graph-storage": {
+      "metadata": "知识库/知识图谱/知识图谱存储方案/topic.json",
+      "sha256": "58ca6917977087bcc53e30068dfc3e6fcbdfbbdc3ad62ecc7a3f17f460d6de61"
+    },
     "knowledge.introduction": {
       "metadata": "知识库/介绍/topic.json",
       "sha256": "46c809f8318e50d863a80c5d6f855a89244db569d958507b5d91e8b199951377"
     },
     "knowledge.kb-graph-ontology": {
       "metadata": "知识库/知识库知识图谱与本体/topic.json",
-      "sha256": "d40ea918bf98732dfabab6eedbcad50fb630b43c4897545e6e9bcfdecd877150"
+      "sha256": "fad7b5632e5447085f094db7e079fe3cfa2a8bfa8797b81ce97eed6552f37ce4"
     },
     "ontology.ev-quality": {
       "metadata": "本体/行业案例/新能源车质量安全域本体模型/topic.json",

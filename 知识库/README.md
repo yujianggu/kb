@@ -16,6 +16,7 @@
 
 - [知识库介绍：LLM、AI Coding 与知识供给](介绍/README.md)：概念、建设动机、RAG／Wiki／图谱关系及建设原则；主题 ID 为 `knowledge.introduction`。
 - [知识库、知识图谱、知识本体](知识库知识图谱与本体/README.md)：定义、关系、AI Coding 示例及选型边界；主题 ID 为 `knowledge.kb-graph-ontology`。
+- [知识图谱](知识图谱/README.md)：图式知识的表示、存储和治理；当前包含[知识图谱存储方案](知识图谱/知识图谱存储方案/README.md)，主题 ID 为 `knowledge.graph-storage`。
 - [案例：按提供方／公司组织](案例/README.md)：云托管、应用平台、检索底座及构建框架的方案与比较。
 - [方案对比与选型](案例/方案对比与选型.md)：先按自建责任和使用场景筛选，再阅读候选案例。
 
