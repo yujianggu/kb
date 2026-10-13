@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.case.karpathy-llm-wiki",
+  "title": "Andrej Karpathy：LLM Wiki",
+  "summary": "研究原始资料与持续整理 Wiki 分层的知识积累模式，评估 AI Coding 上下文复用、原文检索与受控更新。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": ["knowledge.introduction"]
+}

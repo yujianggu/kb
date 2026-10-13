@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.case.ragflow",
+  "title": "RAGFlow / InfiniFlow：以文档解析和检索验证为核心",
+  "summary": "研究 RAGFlow 面向复杂文档的解析、可检查分块及检索调优方案；用于设计文档质量验证与问答故障分层定位。",
+  "kind": "reference",
+  "scope": "company",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": []
+}

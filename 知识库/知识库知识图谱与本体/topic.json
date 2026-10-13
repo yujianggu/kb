@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.kb-graph-ontology",
+  "title": "知识库、知识图谱、知识本体",
+  "summary": "区分知识管理、实体关系与领域语义，用 AI Coding 教学示例说明三者协作及推理、校验、执行的边界。",
+  "kind": "concept",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": ["knowledge.introduction", "ontology.introduction", "ontology.modeling"]
+}

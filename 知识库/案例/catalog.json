@@ -1,0 +1,117 @@
+{
+  "version": 1,
+  "title": "案例",
+  "groups": [],
+  "topics": [
+    {
+      "id": "knowledge.case.alibaba",
+      "title": "阿里巴巴：阿里云百炼 AI 知识库方案",
+      "summary": "研究百炼托管式知识库的解析、索引、检索与大模型接入，核验地域、接口及配置变更边界。",
+      "kind": "reference",
+      "scope": "company",
+      "status": "general",
+      "metadata": "知识库/案例/阿里巴巴/topic.json",
+      "brief": "知识库/案例/阿里巴巴/摘要.md"
+    },
+    {
+      "id": "knowledge.case.aws",
+      "title": "AWS：Amazon Bedrock Knowledge Bases",
+      "summary": "评估 Bedrock 私有知识检索与生成，区分 Managed 和 Customer-managed 的存储、连接器与权限能力。",
+      "kind": "reference",
+      "scope": "company",
+      "status": "general",
+      "metadata": "知识库/案例/AWS/topic.json",
+      "brief": "知识库/案例/AWS/摘要.md"
+    },
+    {
+      "id": "knowledge.case.dify",
+      "title": "Dify / LangGenius：工作流驱动的知识库应用",
+      "summary": "研究通过 Dify 快速搭建知识库问答及工作流应用；重点关注检索分层配置、元数据筛选与自托管许可边界。",
+      "kind": "reference",
+      "scope": "company",
+      "status": "general",
+      "metadata": "知识库/案例/Dify/topic.json",
+      "brief": "知识库/案例/Dify/摘要.md"
+    },
+    {
+      "id": "knowledge.case.elastic",
+      "title": "Elastic：Elasticsearch 混合检索与 RAG 基础设施",
+      "summary": "研究 Elasticsearch 关键词与向量混合检索、RRF 排序融合及检索权限机制；适合已有搜索基础设施的知识库设计。",
+      "kind": "reference",
+      "scope": "company",
+      "status": "general",
+      "metadata": "知识库/案例/Elastic/topic.json",
+      "brief": "知识库/案例/Elastic/摘要.md"
+    },
+    {
+      "id": "knowledge.case.google-cloud",
+      "title": "Google Cloud：RAG Engine 知识供给方案",
+      "summary": "评估 Google Cloud 的 corpus 摄取、检索与模型工具接入，核验产品命名变化、区域与数据驻留限制。",
+      "kind": "reference",
+      "scope": "company",
+      "status": "general",
+      "metadata": "知识库/案例/Google-Cloud/topic.json",
+      "brief": "知识库/案例/Google-Cloud/摘要.md"
+    },
+    {
+      "id": "knowledge.case.karpathy-llm-wiki",
+      "title": "Andrej Karpathy：LLM Wiki",
+      "summary": "研究原始资料与持续整理 Wiki 分层的知识积累模式，评估 AI Coding 上下文复用、原文检索与受控更新。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "知识库/案例/Andrej-Karpathy/topic.json",
+      "brief": "知识库/案例/Andrej-Karpathy/摘要.md"
+    },
+    {
+      "id": "knowledge.case.llamaindex",
+      "title": "LlamaIndex：可组合数据接入与 RAG 编排",
+      "summary": "LlamaIndex 框架组合数据接入、索引、检索和响应合成，适合以代码定制大模型 RAG 知识库。用于研究LlamaIndex的 AI 知识库组件与实施边界。",
+      "kind": "reference",
+      "scope": "company",
+      "status": "general",
+      "metadata": "知识库/案例/LlamaIndex/topic.json",
+      "brief": "知识库/案例/LlamaIndex/摘要.md"
+    },
+    {
+      "id": "knowledge.case.microsoft",
+      "title": "Microsoft：Azure AI Search 知识检索与 RAG",
+      "summary": "为 Azure 大模型应用设计关键词、向量与语义检索，比较经典 RAG 和 agentic 路径，明确索引与权限责任。",
+      "kind": "reference",
+      "scope": "company",
+      "status": "general",
+      "metadata": "知识库/案例/Microsoft/topic.json",
+      "brief": "知识库/案例/Microsoft/摘要.md"
+    },
+    {
+      "id": "knowledge.case.pinecone",
+      "title": "Pinecone：向量检索与重排驱动的 RAG 知识库",
+      "summary": "Pinecone 可提供索引写入、语义召回及重排组件，供大模型 RAG 知识库使用。用于研究Pinecone的 AI 知识库组件与实施边界。",
+      "kind": "reference",
+      "scope": "company",
+      "status": "general",
+      "metadata": "知识库/案例/Pinecone/topic.json",
+      "brief": "知识库/案例/Pinecone/摘要.md"
+    },
+    {
+      "id": "knowledge.case.ragflow",
+      "title": "RAGFlow / InfiniFlow：以文档解析和检索验证为核心",
+      "summary": "研究 RAGFlow 面向复杂文档的解析、可检查分块及检索调优方案；用于设计文档质量验证与问答故障分层定位。",
+      "kind": "reference",
+      "scope": "company",
+      "status": "general",
+      "metadata": "知识库/案例/RAGFlow/topic.json",
+      "brief": "知识库/案例/RAGFlow/摘要.md"
+    },
+    {
+      "id": "knowledge.case.weaviate",
+      "title": "Weaviate：混合检索与生成式查询知识库",
+      "summary": "Weaviate 用向量与 BM25F 混合检索支持大模型知识库，并可把检索结果交给配置的生成模型。用于研究Weaviate的 AI 知识库组件与实施边界。",
+      "kind": "reference",
+      "scope": "company",
+      "status": "general",
+      "metadata": "知识库/案例/Weaviate/topic.json",
+      "brief": "知识库/案例/Weaviate/摘要.md"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.case.pinecone",
+  "title": "Pinecone：向量检索与重排驱动的 RAG 知识库",
+  "summary": "Pinecone 可提供索引写入、语义召回及重排组件，供大模型 RAG 知识库使用。用于研究Pinecone的 AI 知识库组件与实施边界。",
+  "kind": "reference",
+  "scope": "company",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": []
+}

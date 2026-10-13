@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "title": "知识库",
+  "groups": [
+    {
+      "title": "案例",
+      "catalog": "知识库/案例/catalog.json"
+    }
+  ],
+  "topics": [
+    {
+      "id": "knowledge.introduction",
+      "title": "知识库介绍：LLM、AI Coding 与知识供给",
+      "summary": "理解服务大模型的知识库为何需要知识供给、持续积累与行动治理，辨别 RAG、LLM Wiki、图谱及本体的用途和边界。",
+      "kind": "concept",
+      "scope": "general",
+      "status": "general",
+      "metadata": "知识库/介绍/topic.json",
+      "brief": "知识库/介绍/摘要.md"
+    },
+    {
+      "id": "knowledge.kb-graph-ontology",
+      "title": "知识库、知识图谱、知识本体",
+      "summary": "区分知识管理、实体关系与领域语义，用 AI Coding 教学示例说明三者协作及推理、校验、执行的边界。",
+      "kind": "concept",
+      "scope": "general",
+      "status": "general",
+      "metadata": "知识库/知识库知识图谱与本体/topic.json",
+      "brief": "知识库/知识库知识图谱与本体/摘要.md"
+    }
+  ]
+}

@@ -137,6 +137,58 @@
       "metadata": "英语学习/听说读写/写作表达/topic.json",
       "sha256": "f1f0b82a6366cad2ceb4180db5a112f4eb0308270c1557dc8ad56ba90a40c003"
     },
+    "knowledge.case.alibaba": {
+      "metadata": "知识库/案例/阿里巴巴/topic.json",
+      "sha256": "4a209236d04f778f528217a9ad06a4f4a5131b71253476bd75ce1b830c71bdaa"
+    },
+    "knowledge.case.aws": {
+      "metadata": "知识库/案例/AWS/topic.json",
+      "sha256": "19f86a226c15d282de1ab114514618c56e22f422502485f0f90bbd1bbd7338ad"
+    },
+    "knowledge.case.dify": {
+      "metadata": "知识库/案例/Dify/topic.json",
+      "sha256": "8de01a31044fef9c61be3749ddb498dba4e437d381a2d312e8903d8e0f8639e1"
+    },
+    "knowledge.case.elastic": {
+      "metadata": "知识库/案例/Elastic/topic.json",
+      "sha256": "112c0e41d92d2b1d260365892b01893fcc9edbc37c86308160f5e9b03d533748"
+    },
+    "knowledge.case.google-cloud": {
+      "metadata": "知识库/案例/Google-Cloud/topic.json",
+      "sha256": "4c8d040bd7c84d6fcc2da909ae1ab939b11ede0c5f94287de446f98aeff119cd"
+    },
+    "knowledge.case.karpathy-llm-wiki": {
+      "metadata": "知识库/案例/Andrej-Karpathy/topic.json",
+      "sha256": "1a3d3474f3a418b1df83efd7ef00cf50b0704f5c02b77788082d837ba781e861"
+    },
+    "knowledge.case.llamaindex": {
+      "metadata": "知识库/案例/LlamaIndex/topic.json",
+      "sha256": "906647983579769e2b86e3c2adfb0166b64269334eea7782c9b805de7a146105"
+    },
+    "knowledge.case.microsoft": {
+      "metadata": "知识库/案例/Microsoft/topic.json",
+      "sha256": "86545ca694c7b19016240b02cf7d61bd5bcd899deff536d05b13cbe05f8dbf7f"
+    },
+    "knowledge.case.pinecone": {
+      "metadata": "知识库/案例/Pinecone/topic.json",
+      "sha256": "3d0dcd818e37bce3fcd0a0bcefefeec6e9a31af6a6f9881e391c9e977de178a5"
+    },
+    "knowledge.case.ragflow": {
+      "metadata": "知识库/案例/RAGFlow/topic.json",
+      "sha256": "08761484ae52e782f83a5adf8e5564d0c445cdd3a12330a7165e185c3569433a"
+    },
+    "knowledge.case.weaviate": {
+      "metadata": "知识库/案例/Weaviate/topic.json",
+      "sha256": "5cfc2850ac212b02ab8b3f5727ed58f7fdbd76cd65b368e52d4a796125bade40"
+    },
+    "knowledge.introduction": {
+      "metadata": "知识库/介绍/topic.json",
+      "sha256": "46c809f8318e50d863a80c5d6f855a89244db569d958507b5d91e8b199951377"
+    },
+    "knowledge.kb-graph-ontology": {
+      "metadata": "知识库/知识库知识图谱与本体/topic.json",
+      "sha256": "d40ea918bf98732dfabab6eedbcad50fb630b43c4897545e6e9bcfdecd877150"
+    },
     "ontology.ev-quality": {
       "metadata": "本体/行业案例/新能源车质量安全域本体模型/topic.json",
       "sha256": "0ea53b76de1ecb8d03e629b0425d58f3b185dd6665dba091c6cff6590a01acec"
