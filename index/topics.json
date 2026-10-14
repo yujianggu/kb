@@ -17,6 +17,10 @@
       "metadata": "企业经营研究/企业与机构/丹纳赫/topic.json",
       "sha256": "101b146219c591753c0672b1da804dbc882f7ef6778630b6185a19371be04583"
     },
+    "business.digital-ipd-brm-4a": {
+      "metadata": "企业经营研究/跨企业专题/企业数字化-IPD-BRM与4A/topic.json",
+      "sha256": "713f7a3f2860a9ff10f78977e071558917f25f4fe71ce49693a3f3c47202c05b"
+    },
     "business.huawei": {
       "metadata": "企业经营研究/企业与机构/华为/topic.json",
       "sha256": "11dced7481c55689f70bf696dccf2757c6ff2e7f59a2a353b81d247487e03b5a"
@@ -159,7 +163,7 @@
     },
     "knowledge.case.karpathy-llm-wiki": {
       "metadata": "知识库/案例/Andrej-Karpathy/topic.json",
-      "sha256": "1a3d3474f3a418b1df83efd7ef00cf50b0704f5c02b77788082d837ba781e861"
+      "sha256": "acde7238eae8b6e9420cdc734541288862481faeeefd0b4de0963277b157145f"
     },
     "knowledge.case.llamaindex": {
       "metadata": "知识库/案例/LlamaIndex/topic.json",
@@ -180,6 +184,10 @@
     "knowledge.case.weaviate": {
       "metadata": "知识库/案例/Weaviate/topic.json",
       "sha256": "5cfc2850ac212b02ab8b3f5727ed58f7fdbd76cd65b368e52d4a796125bade40"
+    },
+    "knowledge.construction-framework": {
+      "metadata": "知识库/建设框架/topic.json",
+      "sha256": "6905e0a6c578921957a26ceeb1eb8658d313ef9613776075767d5a209ffeec1f"
     },
     "knowledge.graph-storage": {
       "metadata": "知识库/知识图谱/知识图谱存储方案/topic.json",

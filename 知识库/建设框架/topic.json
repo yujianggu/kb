@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.construction-framework",
+  "title": "面向 LLM／AI Coding 的知识库建设框架",
+  "summary": "围绕知识可达、持续积累与行动治理，确定知识库的建设重点、交付物和验收条件，按需组合 RAG、Wiki、图谱与本体。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": ["knowledge.introduction", "knowledge.case.karpathy-llm-wiki", "knowledge.kb-graph-ontology", "knowledge.graph-storage"]
+}

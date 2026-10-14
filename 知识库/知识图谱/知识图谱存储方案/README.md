@@ -34,6 +34,37 @@
 
 RDF 并非只能保存简单关系，属性图也能承载领域模型；关键在于语义、约束、查询和迁移要求，而非将二者分别称为“学术”和“工程”路线。
 
+### PostgreSQL（PG）：关系、图扩展与向量可以组合
+
+PG 是知识图谱存储的正式候选，不只适合临时原型。以下三种用法应分开理解，是否能在同一部署组合，需核验版本与托管平台的扩展支持。
+
+| 用法 | 保存／查询什么 | 适用判断与边界 |
+|---|---|---|
+| 普通 PostgreSQL | 实体、关系、断言和证据表；SQL 联接、递归遍历；JSONB 保存可变属性 | 已有 SQL 能力且希望图关系与业务表共同管理；图语义、索引和遍历规则需自行设计 |
+| PostgreSQL + Apache AGE | 通过扩展提供图能力，使用 Cypher，并与 SQL 结合 | 需要图式查询接口时评估；不是 PostgreSQL 核心默认能力，也不能假设与任意 Cypher 产品完全兼容 |
+| PostgreSQL + pgvector | 保存嵌入并执行向量相似度检索 | 为文档和实体描述提供语义召回；不自动建立关系或执行多跳图查询 |
+
+PostgreSQL 原生支持递归 CTE，可表达直接／间接依赖；查询需处理循环和终止条件。[递归查询](https://www.postgresql.org/docs/current/queries-with.html) JSONB 支持结构化 JSON 数据与相关索引，但将属性放入 JSONB 不会自动赋予它们本体语义或业务约束。[JSON 类型](https://www.postgresql.org/docs/current/datatype-json.html)
+
+Apache AGE 是 PostgreSQL 的图扩展，提供图模型及 SQL／Cypher 结合路径。[AGE 概述](https://age.apache.org/overview/) pgvector 是向量相似度搜索扩展，属于检索能力；“安装 pgvector”不等于“拥有知识图谱”。[pgvector 官方仓库](https://github.com/pgvector/pgvector)
+
+**本库建议的 PG 逻辑模型（教学示例）**：
+
+```text
+entities：实体 ID、类型、名称、适用范围、属性
+relations：关系 ID、起点、关系类型、终点
+assertions：关系断言、有效时间、记录时间、确认状态
+sources / evidence：来源版本、文档位置、断言依据
+model_versions：本体或模型定义的版本与定位
+chunks / embeddings：文档片段及可选向量，关联来源身份
+```
+
+这是设计思路，不是已运行的表结构。核心身份和引用适合用明确字段与约束表达，可变属性再考虑 JSONB；一条关系可以有多个断言和证据。按查询方向设计关系索引，在递归的每一步落实范围和权限；不能先遍历受限数据，再只过滤最终返回对象。
+
+AI Coding 可先用关系表查询“哪些服务调用废弃接口”，再联接负责人和来源；需要相似文档时添加 pgvector，确实需要图查询语法时再评估 AGE。不要为了“图谱”名称立即叠加所有扩展，也不要仅以节点数量决定升级到专用图库：应测量真实深度、扇出、并发、更新和响应要求。
+
+优势是可以复用现有 SQL、业务数据和数据库运维体系；代价是图建模、递归查询、索引调优与扩展维护责任仍在团队。PG 不原生等同于 RDF／SPARQL／OWL 推理系统。本次没有安装扩展或验证该组合，正式采用前还需检查权限、备份恢复、升级、扩展兼容和成本。
+
 ### 自托管与托管的区别
 
 Jena TDB2 是单机持久 RDF 存储组件，事务支持并发多读、单写；同一存储目录不能由多个 JVM 同时直接打开。多应用或跨机器访问可通过 Fuseki 服务共享，但这不等于分布式存储或多写集群。[TDB2 文档](https://jena.apache.org/documentation/tdb2/)、[事务文档](https://jena.apache.org/documentation/txn/)、[Fuseki 集成](https://jena.apache.org/documentation/tdb2/tdb2_fuseki.html)

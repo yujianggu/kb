@@ -13,6 +13,16 @@
   ],
   "topics": [
     {
+      "id": "knowledge.construction-framework",
+      "title": "面向 LLM／AI Coding 的知识库建设框架",
+      "summary": "围绕知识可达、持续积累与行动治理，确定知识库的建设重点、交付物和验收条件，按需组合 RAG、Wiki、图谱与本体。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "知识库/建设框架/topic.json",
+      "brief": "知识库/建设框架/摘要.md"
+    },
+    {
       "id": "knowledge.introduction",
       "title": "知识库介绍：LLM、AI Coding 与知识供给",
       "summary": "理解服务大模型的知识库为何需要知识供给、持续积累与行动治理，辨别 RAG、LLM Wiki、图谱及本体的用途和边界。",

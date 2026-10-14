@@ -5,6 +5,10 @@
     {
       "title": "企业与机构",
       "catalog": "企业经营研究/企业与机构/catalog.json"
+    },
+    {
+      "title": "跨企业专题",
+      "catalog": "企业经营研究/跨企业专题/catalog.json"
     }
   ],
   "topics": []
