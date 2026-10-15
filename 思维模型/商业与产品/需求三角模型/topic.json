@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-041",
+  "title": "需求三角模型",
+  "summary": "原义待核实；用户说“这个产品不错”，却没有采取行动，需求分析需要继续问：他究竟想解决什么、当前方案是否合适、采取行动有什么障碍。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "reference",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

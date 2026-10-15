@@ -1,0 +1,207 @@
+{
+  "version": 1,
+  "title": "系统与问题分析",
+  "groups": [],
+  "topics": [
+    {
+      "id": "thinking.5w1h",
+      "title": "六何法（5W1H）",
+      "summary": "版本与边界： 采用What、Why、Who、When、Where、How六类问题；不把5W1H与连续追问原因的“五个为什么”混为一谈。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/六何法（5W1H）/topic.json",
+      "brief": "思维模型/系统与问题分析/六何法（5W1H）/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.causal-loop",
+      "title": "因果回路",
+      "summary": "因果回路把“变化怎样经过一连串影响，又回到自身”画出来。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/因果回路/topic.json",
+      "brief": "思维模型/系统与问题分析/因果回路/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.five-whys",
+      "title": "5Why法（五个为什么）",
+      "summary": "5Why 法通过连续问“为什么会发生”，从表面现象追到有证据支持、可以采取措施的原因。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/5Why法（五个为什么）/topic.json",
+      "brief": "思维模型/系统与问题分析/5Why法（五个为什么）/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.mece",
+      "title": "MECE原则",
+      "summary": "把支出分成“餐饮、网购、交通”时，一笔网上订餐可能算进两类，房租又没有位置。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/MECE原则/topic.json",
+      "brief": "思维模型/系统与问题分析/MECE原则/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-060",
+      "title": "SECI模型",
+      "summary": "老师傅知道机器声音哪里不对，新人却只拿到一本说明书。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/SECI模型/topic.json",
+      "brief": "思维模型/系统与问题分析/SECI模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-062",
+      "title": "冗余备份思维模型",
+      "summary": "电脑坏了之后才发现，所谓“备份”只是同一块硬盘里的另一个文件夹。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/冗余备份思维模型/topic.json",
+      "brief": "思维模型/系统与问题分析/冗余备份思维模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-063",
+      "title": "军标六性（职场能力类比）",
+      "summary": "原义待核实；一个人偶尔把任务做得漂亮，不等于团队能持续依赖他的交付。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/系统与问题分析/军标六性（职场能力类比）/topic.json",
+      "brief": "思维模型/系统与问题分析/军标六性（职场能力类比）/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-064",
+      "title": "冰山模型",
+      "summary": "同一种故障每周重演，只修这一次，往往看不到反复发生的条件。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/冰山模型/topic.json",
+      "brief": "思维模型/系统与问题分析/冰山模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-065",
+      "title": "反反木桶原理",
+      "summary": "原义待核实；题名定义待核实；以下为相关主题参考，不代表该模型或作者观点。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/系统与问题分析/反反木桶原理/topic.json",
+      "brief": "思维模型/系统与问题分析/反反木桶原理/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-067",
+      "title": "多环集合思维",
+      "summary": "原义待核实；想租一间便宜、近公司、又安静的房子，可以把每个条件视作一组候选房源，寻找同时满足条件的交集。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/系统与问题分析/多环集合思维/topic.json",
+      "brief": "思维模型/系统与问题分析/多环集合思维/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-068",
+      "title": "大道至简",
+      "summary": "原义待核实；把一份流程删到只剩一句话，可能更难执行。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/系统与问题分析/大道至简/topic.json",
+      "brief": "思维模型/系统与问题分析/大道至简/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-069",
+      "title": "断裂点理论思维模型",
+      "summary": "原义待核实；一个外部服务连续失败，如果系统仍不断重试，局部问题可能拖垮更多功能。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/系统与问题分析/断裂点理论思维模型/topic.json",
+      "brief": "思维模型/系统与问题分析/断裂点理论思维模型/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-070",
+      "title": "系统思维",
+      "summary": "本文的分析角度： 先明确要分析的范围，再看哪些东西在积累、什么让它们增加或减少、各个因素如何相互影响，以及这些影响多久才会显现。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/系统思维/topic.json",
+      "brief": "思维模型/系统与问题分析/系统思维/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-071",
+      "title": "诺依曼思维",
+      "summary": "原义待核实；复杂任务可以拆成若干部分，但“每一部分都正常”还不保证整体正常。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/系统与问题分析/诺依曼思维/topic.json",
+      "brief": "思维模型/系统与问题分析/诺依曼思维/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-072",
+      "title": "路径依赖",
+      "summary": "团队一直用旧系统，不一定只是“不愿改变”。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/路径依赖/topic.json",
+      "brief": "思维模型/系统与问题分析/路径依赖/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-073",
+      "title": "递弱代偿",
+      "summary": "版本与边界： 本稿介绍王东岳《物演通论》中的哲学主张，并将实际练习限定为本库整理的“能力与依赖检查”。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/递弱代偿/topic.json",
+      "brief": "思维模型/系统与问题分析/递弱代偿/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-074",
+      "title": "道法术器",
+      "summary": "原义待核实；买了新的笔记软件，学习仍没有进展，可能是工具与真正目标没有接上。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "reference",
+      "metadata": "思维模型/系统与问题分析/道法术器/topic.json",
+      "brief": "思维模型/系统与问题分析/道法术器/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-076",
+      "title": "飞轮效应",
+      "summary": "版本与边界： 采用Jim Collins在《从优秀到卓越》中提出的组织积累比喻。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/飞轮效应/topic.json",
+      "brief": "思维模型/系统与问题分析/飞轮效应/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.model-077",
+      "title": "马太效应",
+      "summary": "两项贡献相近的工作，署上知名者的名字可能更容易受到注意。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/马太效应/topic.json",
+      "brief": "思维模型/系统与问题分析/马太效应/一分钟看懂.md"
+    },
+    {
+      "id": "thinking.problem-tree",
+      "title": "问题树",
+      "summary": "“活动报名少”是问题，“多发广告”已经是答案。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "思维模型/系统与问题分析/问题树/topic.json",
+      "brief": "思维模型/系统与问题分析/问题树/一分钟看懂.md"
+    }
+  ]
+}

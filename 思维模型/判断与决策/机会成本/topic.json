@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-016",
+  "title": "机会成本",
+  "summary": "周六下午只能用于休息或备考，选择备考的代价不只是一杯咖啡钱，还包括放弃的休息价值。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

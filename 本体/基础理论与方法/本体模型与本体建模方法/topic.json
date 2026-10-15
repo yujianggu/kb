@@ -1,0 +1,16 @@
+{
+  "id": "ontology.modeling",
+  "title": "本体模型与本体建模方法",
+  "summary": "从业务问题识别对象、关系与约束，形成可核验的本体模型。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../本体模型与本体建模方法.md"
+  },
+  "requires": [
+    "ontology.introduction"
+  ],
+  "related": []
+}

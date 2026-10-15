@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-087",
+  "title": "四象限法则",
+  "summary": "版本与边界： 题名未说明两轴。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

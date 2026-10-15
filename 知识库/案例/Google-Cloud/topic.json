@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.case.google-cloud",
+  "title": "Google Cloud：RAG Engine 知识供给方案",
+  "summary": "评估 Google Cloud 的 corpus 摄取、检索与模型工具接入，核验产品命名变化、区域与数据驻留限制。",
+  "kind": "reference",
+  "scope": "company",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": []
+}

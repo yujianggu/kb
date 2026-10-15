@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-009",
+  "title": "前景理论",
+  "summary": "采用卡尼曼与特沃斯基关于风险决策的前景理论通用说明；仅解释认知，不作为投资策略。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

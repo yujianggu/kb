@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-011",
+  "title": "合取谬误",
+  "summary": "“明天会下雨”和“明天会下雨，而且你会迟到”，后一句更有画面，却不可能比前一句更容易发生。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-031",
+  "title": "PEST分析模型",
+  "summary": "计划开一家店，只研究附近竞争者还不够：规则变化、消费能力、人口习惯和新技术都可能改变生意。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

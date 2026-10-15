@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-104",
+  "title": "近因效应",
+  "summary": "季度绩效回顾时，最近一周的失误可能压过此前几个月的工作；刚读完一串项目，也可能更容易记得结尾部分。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "title": "综合实践",
+  "groups": [],
+  "topics": [
+    {
+      "id": "english.practice",
+      "title": "场景任务",
+      "summary": "通过介绍、改约、方案比较与提案练习综合运用；材料均为原创教学示例。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "英语学习/综合实践/场景任务/topic.json",
+      "brief": "英语学习/综合实践/场景任务/README.md"
+    }
+  ]
+}

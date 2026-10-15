@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.case.alibaba",
+  "title": "阿里巴巴：阿里云百炼 AI 知识库方案",
+  "summary": "研究百炼托管式知识库的解析、索引、检索与大模型接入，核验地域、接口及配置变更边界。",
+  "kind": "reference",
+  "scope": "company",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": []
+}

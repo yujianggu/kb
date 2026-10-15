@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-003",
+  "title": "待核实主题-BV1Nm421N7bp",
+  "summary": "原义待核实；最会完成当前工作的人，不一定已经具备下一岗位需要的能力。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "reference",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

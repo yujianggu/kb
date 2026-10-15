@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "title": "思维模型",
+  "groups": [
+    {
+      "title": "专业借鉴与待核实主题",
+      "catalog": "思维模型/专业借鉴与待核实主题/catalog.json"
+    },
+    {
+      "title": "判断与决策",
+      "catalog": "思维模型/判断与决策/catalog.json"
+    },
+    {
+      "title": "商业与产品",
+      "catalog": "思维模型/商业与产品/catalog.json"
+    },
+    {
+      "title": "学习与认知",
+      "catalog": "思维模型/学习与认知/catalog.json"
+    },
+    {
+      "title": "系统与问题分析",
+      "catalog": "思维模型/系统与问题分析/catalog.json"
+    },
+    {
+      "title": "行动与复盘",
+      "catalog": "思维模型/行动与复盘/catalog.json"
+    },
+    {
+      "title": "表达与协作",
+      "catalog": "思维模型/表达与协作/catalog.json"
+    }
+  ],
+  "topics": []
+}

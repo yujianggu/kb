@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200"><defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8" fill="none" stroke="#375267" stroke-width="1.5"/></marker></defs><rect width="1200" height="1200" fill="#f7f9fc"/><g transform="translate(0,140)">
+<text x="600" y="55" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="32" fill="#203849">因果回路｜解释问题为什么反复出现</text>
+<text x="600" y="94" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="20" fill="#203849">质量工单教学示例：两条回路同时作用</text>
+<text x="600" y="147" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="27" fill="#176c63">B1 平衡回路：应急消减</text>
+<rect x="80" y="185" width="240" height="60" rx="12" fill="white" stroke="#9aafbf"/>
+<text x="200" y="223" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="23" fill="#203849">待处理工单数</text>
+<rect x="480" y="185" width="240" height="60" rx="12" fill="white" stroke="#9aafbf"/>
+<text x="600" y="223" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="23" fill="#203849">应急处理工时/周</text>
+<rect x="880" y="185" width="240" height="60" rx="12" fill="white" stroke="#9aafbf"/>
+<text x="1000" y="223" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="23" fill="#203849">解决工单数/周</text>
+<path d="M320 215 L480 215" fill="none" stroke="#375267" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="400" y="200" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="25" fill="#203849">+</text>
+<path d="M720 215 L880 215" fill="none" stroke="#375267" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="800" y="200" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="25" fill="#203849">+</text>
+<path d="M1000 245 L1000 290 L200 290 L200 245" fill="none" stroke="#375267" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="600" y="281" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="25" fill="#203849">−</text>
+<text x="600" y="337" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="20" fill="#203849">积压推动处理投入；解决速率提高，抵消积压增加。</text>
+<text x="600" y="411" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="27" fill="#995226">R1 增强回路：改进被挤占</text>
+<rect x="180" y="450" width="240" height="60" rx="12" fill="white" stroke="#9aafbf"/>
+<text x="300" y="488" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="23" fill="#203849">待处理工单数</text>
+<rect x="780" y="450" width="240" height="60" rx="12" fill="white" stroke="#9aafbf"/>
+<text x="900" y="488" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="23" fill="#203849">应急处理工时/周</text>
+<rect x="180" y="625" width="240" height="60" rx="12" fill="white" stroke="#9aafbf"/>
+<text x="300" y="663" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="23" fill="#203849">复发工单数/周</text>
+<rect x="780" y="625" width="240" height="60" rx="12" fill="white" stroke="#9aafbf"/>
+<text x="900" y="663" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="23" fill="#203849">根因改进工时/周</text>
+<path d="M420 480 L780 480" fill="none" stroke="#375267" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="600" y="468" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="25" fill="#203849">+</text>
+<path d="M900 510 L900 625" fill="none" stroke="#375267" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="930" y="576" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="25" fill="#203849">−</text>
+<path d="M780 655 L420 655" fill="none" stroke="#375267" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="600" y="639" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="25" fill="#203849">−  延迟</text>
+<path d="M300 625 L300 510" fill="none" stroke="#375267" stroke-width="2.5" marker-end="url(#a)"/>
+<text x="268" y="576" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="25" fill="#203849">+</text>
+<text x="600" y="558" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="21" fill="#203849">两条负连接 → 放大初始变化</text>
+<text x="600" y="733" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="20" fill="#203849">前提：总工时受限，且根因改进能降低复发；需要数据验证。</text>
+<text x="600" y="788" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="20" fill="#203849">+ / − 表示影响方向，不表示好坏；R / B 表示整体反馈性质。</text>
+<text x="600" y="825" text-anchor="middle" font-family="PingFang SC, sans-serif" font-size="17" fill="#203849">本库绘制 · 非公司实测结论 · 延迟长短与影响强度需另行估计</text>
+</g></svg>

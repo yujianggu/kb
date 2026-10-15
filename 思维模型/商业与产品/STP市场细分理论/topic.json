@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-032",
+  "title": "STP市场细分理论",
+  "summary": "采用 Segmentation、Targeting、Positioning 通用版本；视频题名中的“STPST”含义未核实，不据此扩展新步骤。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

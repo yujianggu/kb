@@ -1,0 +1,20 @@
+{
+  "id": "english.assessment",
+  "title": "诊断与测评",
+  "summary": "用听说读写任务选择训练起点、分析错因并复测；不提供标准化等级或考试换算。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "README.md",
+    "detail": "教程.md",
+    "examples": "案例.md",
+    "sources": "../../来源与边界.md"
+  },
+  "requires": [],
+  "related": [
+    "english.roadmap",
+    "english.listening",
+    "english.speaking"
+  ]
+}

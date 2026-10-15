@@ -1,0 +1,14 @@
+{
+  "id": "ontology.palantir.components",
+  "title": "Interface-Function-Action关系与区别",
+  "summary": "区分 Palantir Interface、Function 与 Action 的职责。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../Interface-Function-Action关系与区别.md"
+  },
+  "requires": [],
+  "related": []
+}

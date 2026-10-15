@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-010",
+  "title": "卡尼曼双系统",
+  "summary": "面对一道熟悉题，你可能脱口而出；面对多步计算，你需要停下来。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

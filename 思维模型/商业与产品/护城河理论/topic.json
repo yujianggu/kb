@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-036",
+  "title": "护城河理论",
+  "summary": "一家企业现在赚钱，不代表竞争者进入后还能持续赚钱。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

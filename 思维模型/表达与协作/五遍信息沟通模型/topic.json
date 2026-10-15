@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-097",
+  "title": "五遍信息沟通模型",
+  "summary": "原义待核实；“我已经说了”与“对方准确理解并能执行”之间还有距离。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "reference",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

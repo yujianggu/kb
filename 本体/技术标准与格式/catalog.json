@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "title": "技术标准与格式",
+  "groups": [
+    {
+      "title": "OKF",
+      "catalog": "本体/技术标准与格式/OKF/catalog.json"
+    }
+  ],
+  "topics": [
+    {
+      "id": "ontology.owl",
+      "title": "OWL-Web本体语言详解",
+      "summary": "了解 OWL 的类、属性、语义约束与推理表达。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "本体/技术标准与格式/OWL-Web本体语言详解/topic.json",
+      "brief": "本体/技术标准与格式/OWL-Web本体语言详解/摘要.md"
+    },
+    {
+      "id": "ontology.rdf",
+      "title": "RDF-资源描述框架",
+      "summary": "了解 RDF 的资源、三元组与图式知识表示。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "本体/技术标准与格式/RDF-资源描述框架/topic.json",
+      "brief": "本体/技术标准与格式/RDF-资源描述框架/摘要.md"
+    }
+  ]
+}

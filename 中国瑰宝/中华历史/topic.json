@@ -1,0 +1,16 @@
+{
+  "id": "culture.chinese-history",
+  "title": "中华历史",
+  "summary": "按朝代、时间、人物、事件与制度文化交叉查阅中国通史，并辨析并立政权和纪年口径。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "朝代时间表.md",
+    "sources": "来源与口径.md",
+    "assets": "朝代数据.json"
+  },
+  "requires": [],
+  "related": ["culture.confucianism", "culture.daoism", "culture.buddhism"]
+}

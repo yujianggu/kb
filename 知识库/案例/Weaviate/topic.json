@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.case.weaviate",
+  "title": "Weaviate：混合检索与生成式查询知识库",
+  "summary": "Weaviate 用向量与 BM25F 混合检索支持大模型知识库，并可把检索结果交给配置的生成模型。用于研究Weaviate的 AI 知识库组件与实施边界。",
+  "kind": "reference",
+  "scope": "company",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": []
+}

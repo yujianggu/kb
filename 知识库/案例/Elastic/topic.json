@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.case.elastic",
+  "title": "Elastic：Elasticsearch 混合检索与 RAG 基础设施",
+  "summary": "研究 Elasticsearch 关键词与向量混合检索、RRF 排序融合及检索权限机制；适合已有搜索基础设施的知识库设计。",
+  "kind": "reference",
+  "scope": "company",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-050",
+  "title": "次心流",
+  "summary": "原义待核实；没有达到忘我状态，也可以把事情做得很好。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "reference",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

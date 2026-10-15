@@ -6,3 +6,7 @@
 
 # JetBrains IDE settings
 .idea/
+
+# Python tool caches
+__pycache__/
+*.pyc

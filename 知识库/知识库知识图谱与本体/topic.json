@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.kb-graph-ontology",
+  "title": "知识库、知识图谱、知识本体",
+  "summary": "区分知识管理、实体关系与共享业务模型，说明传统本体和运营型本体的规则、状态、行动与治理，以及三者协作边界。",
+  "kind": "concept",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": ["knowledge.introduction", "ontology.introduction", "ontology.modeling", "ontology.operational"]
+}

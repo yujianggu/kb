@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-022",
+  "title": "达克效应",
+  "summary": "刚接触一个领域时，人可能既做错，也缺少识别错误的标准。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

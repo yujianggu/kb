@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-035",
+  "title": "峰终定律",
+  "summary": "一次旅行整体不差，但最后丢行李的经历让你回想起来很糟，这提醒我们：回忆评价未必等于全过程体验的平均。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

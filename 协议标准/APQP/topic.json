@@ -1,0 +1,16 @@
+{
+  "id": "standards.apqp",
+  "title": "APQP：产品质量先期策划",
+  "summary": "在汽车零部件开发、量产准备或重大变更中，用于规划质量风险、阶段交付物、验证与批准；附虚构案例和来源边界。",
+  "kind": "method",
+  "scope": "industry",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "APQP-方法与落地.md",
+    "examples": "案例-动力电池冷却板.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": ["standards.ppap"]
+}

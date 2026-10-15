@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-076",
+  "title": "飞轮效应",
+  "summary": "版本与边界： 采用Jim Collins在《从优秀到卓越》中提出的组织积累比喻。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

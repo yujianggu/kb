@@ -1,0 +1,14 @@
+{
+  "id": "ontology.palantir.overview",
+  "title": "palantir-ontology-summary",
+  "summary": "了解 Palantir Ontology 的整体模型与核心构件。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../palantir-ontology-summary.md"
+  },
+  "requires": [],
+  "related": []
+}

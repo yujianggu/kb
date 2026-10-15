@@ -1,0 +1,30 @@
+{
+  "book": "大学",
+  "retrieved_date": "2026-09-26",
+  "coverage": "完整采用《礼记·大学》篇本，与本库《礼记》同篇正文一致。未混入朱熹重排、改字和格物补传；不能称为《大学章句》全文。",
+  "full_text_sha256": "016859ce27124edb6d45aed69396a1976a28a0eb2e53ddb9973112e5acfa91af",
+  "sources": [
+    {
+      "label": "禮記/大學",
+      "url": "https://zh.wikisource.org/wiki/%E7%A6%AE%E8%A8%98/%E5%A4%A7%E5%AD%B8",
+      "revision": 2809685,
+      "permanent_url": "https://zh.wikisource.org/w/index.php?oldid=2809685",
+      "source_wikitext_sha256": "1719851e4755b278788b59587727d05666c47833fefa4bfa6f4c0949f7f052d3"
+    }
+  ],
+  "chapters": [
+    {
+      "order": 1,
+      "title": "大學",
+      "path": "篇章/001-大學.md",
+      "source_url": "https://zh.wikisource.org/w/index.php?oldid=2809685",
+      "text_han_characters": 1753,
+      "sha256": "6aa9f6ea4363ee274b5357f5f8846aa466ec16597deb0b405dba93e33ade5300",
+      "source_page": "禮記/大學",
+      "source_revision": 2809685,
+      "source_revision_timestamp": "2026-04-27T03:23:09Z",
+      "source_wikitext_sha256": "1719851e4755b278788b59587727d05666c47833fefa4bfa6f4c0949f7f052d3",
+      "transformation": "仅格式转写"
+    }
+  ]
+}

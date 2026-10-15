@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "title": "学习规划",
+  "groups": [],
+  "topics": [
+    {
+      "id": "english.assessment",
+      "title": "诊断与测评",
+      "summary": "用听说读写任务选择训练起点、分析错因并复测；不提供标准化等级或考试换算。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "英语学习/学习规划/诊断与测评/topic.json",
+      "brief": "英语学习/学习规划/诊断与测评/README.md"
+    },
+    {
+      "id": "english.roadmap",
+      "title": "学习路线",
+      "summary": "选择成人英语重学阶段、20单元大纲与学习安排；本库教学设计，不是官方分级。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "英语学习/学习规划/学习路线/topic.json",
+      "brief": "英语学习/学习规划/学习路线/README.md"
+    }
+  ]
+}

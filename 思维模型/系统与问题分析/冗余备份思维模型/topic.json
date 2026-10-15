@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-062",
+  "title": "冗余备份思维模型",
+  "summary": "电脑坏了之后才发现，所谓“备份”只是同一块硬盘里的另一个文件夹。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

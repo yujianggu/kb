@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-073",
+  "title": "递弱代偿",
+  "summary": "版本与边界： 本稿介绍王东岳《物演通论》中的哲学主张，并将实际练习限定为本库整理的“能力与依赖检查”。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

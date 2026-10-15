@@ -1,0 +1,16 @@
+{
+  "id": "english.grammar",
+  "title": "语法与句子",
+  "summary": "从完整句骨架到时态语境、冠词可数性与从句，建立按问题类型修改的流程；适合规则会认但表达不稳的学习者。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "README.md",
+    "detail": "教程.md",
+    "examples": "案例.md",
+    "sources": "../../来源与边界.md"
+  },
+  "requires": [],
+  "related": ["english.vocabulary", "english.writing", "english.speaking", "english.assessment"]
+}

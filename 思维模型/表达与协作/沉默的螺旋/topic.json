@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-102",
+  "title": "沉默的螺旋",
+  "summary": "版本与边界： 采用Noelle-Neumann的公众意见表达理论；它描述可能发生的社会机制，不意味着所有沉默都由从众或恐惧造成。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

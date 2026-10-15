@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "title": "汇报模板",
+  "groups": [],
+  "topics": [
+    {
+      "id": "reporting.business",
+      "title": "业务汇报模板",
+      "summary": "围绕业务问题、目标、成效证据、风险和决策组织汇报。",
+      "kind": "template",
+      "scope": "general",
+      "status": "general",
+      "metadata": "汇报模板/业务汇报/topic.json",
+      "brief": "汇报模板/业务汇报/摘要.md"
+    },
+    {
+      "id": "reporting.technical",
+      "title": "技术汇报模板",
+      "summary": "围绕业务约束、架构取舍、交付验证与运行质量组织汇报。",
+      "kind": "template",
+      "scope": "general",
+      "status": "general",
+      "metadata": "汇报模板/技术汇报/topic.json",
+      "brief": "汇报模板/技术汇报/摘要.md"
+    }
+  ]
+}

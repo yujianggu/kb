@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-008",
+  "title": "二八法则",
+  "summary": "一百条投诉中，某几类问题可能占了大部分处理时间。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

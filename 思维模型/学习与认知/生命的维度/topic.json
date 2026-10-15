@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-051",
+  "title": "生命的维度",
+  "summary": "原义待核实；工资变高，却失去休息和相处时间；事情做得多，却觉得没有方向。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "reference",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

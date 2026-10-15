@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.introduction",
+  "title": "知识库介绍：LLM、AI Coding 与知识供给",
+  "summary": "理解服务大模型的知识库为何需要知识供给、持续积累与行动治理，辨别 RAG、LLM Wiki、图谱及本体的用途和边界。",
+  "kind": "concept",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": ["ontology.introduction", "ontology.modeling", "ontology.operational"]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "reporting.technical",
+  "title": "技术汇报模板",
+  "summary": "围绕业务约束、架构取舍、交付验证与运行质量组织汇报。",
+  "kind": "template",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../侧重技术-汇报模板.md"
+  },
+  "requires": [],
+  "related": []
+}

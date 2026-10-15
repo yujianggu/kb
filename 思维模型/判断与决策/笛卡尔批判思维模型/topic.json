@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-019",
+  "title": "笛卡尔批判思维模型",
+  "summary": "采用《方法谈》第二部分四条方法规则的通用解读：审慎接受、分解、由简入繁、全面复查。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

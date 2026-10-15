@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-056",
+  "title": "间态放松模型",
+  "summary": "原义待核实；连续处理复杂材料后，继续刷一屏信息未必算恢复。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "reference",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

@@ -10,11 +10,15 @@
 
 `clx` 通过 Git submodule 绑定到 `git@gitlab.chehejia.com:factory/qs-kb.git`，公司资料在该独立仓库中维护。
 
-首次克隆主仓库时使用 `git clone --recurse-submodules <主仓库地址>`；已有工作区可在主仓库根目录运行：
+公司资料是可选扩展。只使用通用知识时，不需要初始化本目录下的子仓库，也不应默认递归获取所有扩展。
+
+需要 clx 公司资料的项目，在具备该仓库访问权限时，于主仓库根目录显式执行：
 
 ```bash
-git submodule update --init --recursive
+git submodule update --init 本体/公司业务/clx
 ```
+
+消费项目应同时记录基础知识库和公司子仓库的提交版本；通用主题索引不包含公司资料。公司子仓库的内部加载方式由其自身约定。
 
 修改公司资料后，先在 `本体/公司业务/clx` 中提交并推送，再回到主仓库提交 submodule 指针更新。主仓库只记录子仓库的提交位置，不直接保存其中的文档内容。
 

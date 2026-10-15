@@ -1,0 +1,16 @@
+{
+  "id": "english.reading",
+  "title": "阅读理解",
+  "summary": "需要从通知、说明或观点文本中取得信息并给出证据时使用，训练定位、拆句和有限推断；不把常识补入原文或把猜中答案当理解。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "README.md",
+    "detail": "教程.md",
+    "examples": "案例.md",
+    "sources": "../../来源与边界.md"
+  },
+  "requires": [],
+  "related": ["english.vocabulary", "english.grammar", "english.writing", "english.assessment", "english.practice"]
+}

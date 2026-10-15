@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-039",
+  "title": "销售漏斗模型",
+  "summary": "一千人看到商品，只有二十人付款，直接说“销售不行”没有指出问题。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

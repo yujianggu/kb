@@ -1,0 +1,14 @@
+{
+  "id": "reporting.business",
+  "title": "业务汇报模板",
+  "summary": "围绕业务问题、目标、成效证据、风险和决策组织汇报。",
+  "kind": "template",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../侧重业务-汇报模板.md"
+  },
+  "requires": [],
+  "related": []
+}

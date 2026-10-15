@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-057",
+  "title": "马斯洛需求层次理论",
+  "summary": "有人工作时无法专注，原因可能是疲惫、担心岗位变化，也可能是缺少尊重和成长机会。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

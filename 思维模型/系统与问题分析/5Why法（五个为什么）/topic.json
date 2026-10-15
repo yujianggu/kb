@@ -1,0 +1,22 @@
+{
+  "id": "thinking.five-whys",
+  "title": "5Why法（五个为什么）",
+  "summary": "5Why 法通过连续问“为什么会发生”，从表面现象追到有证据支持、可以采取措施的原因。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": [
+    "thinking.5w1h",
+    "thinking.problem-tree",
+    "thinking.causal-loop",
+    "thinking.pdca"
+  ]
+}

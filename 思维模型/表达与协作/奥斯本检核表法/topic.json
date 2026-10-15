@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-100",
+  "title": "奥斯本检核表法",
+  "summary": "采用奥斯本问题检核表的通用创意提示：另作他用、借鉴、修改、扩大、缩小、替代、重排、颠倒、组合；译法和分组存在差异。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

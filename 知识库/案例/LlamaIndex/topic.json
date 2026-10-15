@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.case.llamaindex",
+  "title": "LlamaIndex：可组合数据接入与 RAG 编排",
+  "summary": "LlamaIndex 框架组合数据接入、索引、检索和响应合成，适合以代码定制大模型 RAG 知识库。用于研究LlamaIndex的 AI 知识库组件与实施边界。",
+  "kind": "reference",
+  "scope": "company",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": []
+}

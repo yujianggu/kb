@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-012",
+  "title": "奥卡姆剃刀",
+  "summary": "电脑连不上网，可以先检查连接设置，也可以想象一套复杂的阴谋。",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

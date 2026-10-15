@@ -1,0 +1,17 @@
+{
+  "id": "thinking.model-029",
+  "title": "Hook上瘾模型",
+  "summary": "为什么有些产品会让人反复回来？",
+  "kind": "method",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "一分钟看懂.md",
+    "detail": "明细.md",
+    "examples": "案例.md",
+    "sources": "README.md",
+    "assets": "模型示意图.svg"
+  },
+  "requires": [],
+  "related": []
+}

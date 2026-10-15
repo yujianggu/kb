@@ -1,0 +1,111 @@
+{
+  "verified_date": "2026-09-26",
+  "book_count": 10,
+  "reading_units_including_six_title_only_poems": 665,
+  "case_count": 46,
+  "books": [
+    {
+      "book": "大学",
+      "topic_id": "culture.classics.daxue",
+      "reading_units": 1,
+      "case_count": 4,
+      "retained_han_characters_including_source_notes": 1753,
+      "file_hashes_verified": true,
+      "source_hashes_verified": true
+    },
+    {
+      "book": "中庸",
+      "topic_id": "culture.classics.zhongyong",
+      "reading_units": 1,
+      "case_count": 4,
+      "retained_han_characters_including_source_notes": 3567,
+      "file_hashes_verified": true,
+      "source_hashes_verified": true
+    },
+    {
+      "book": "论语",
+      "topic_id": "culture.classics.lunyu",
+      "reading_units": 20,
+      "case_count": 4,
+      "retained_han_characters_including_source_notes": 15917,
+      "file_hashes_verified": true,
+      "source_hashes_verified": true
+    },
+    {
+      "book": "孟子",
+      "topic_id": "culture.classics.mengzi",
+      "reading_units": 14,
+      "case_count": 4,
+      "retained_han_characters_including_source_notes": 35516,
+      "file_hashes_verified": true,
+      "source_hashes_verified": true
+    },
+    {
+      "book": "诗经",
+      "topic_id": "culture.classics.shijing",
+      "reading_units": 311,
+      "case_count": 4,
+      "retained_han_characters_including_source_notes": 29814,
+      "file_hashes_verified": true,
+      "source_hashes_verified": true
+    },
+    {
+      "book": "尚书",
+      "topic_id": "culture.classics.shangshu",
+      "reading_units": 58,
+      "case_count": 4,
+      "retained_han_characters_including_source_notes": 31908,
+      "file_hashes_verified": true,
+      "source_hashes_verified": true
+    },
+    {
+      "book": "礼记",
+      "topic_id": "culture.classics.liji",
+      "reading_units": 49,
+      "case_count": 4,
+      "retained_han_characters_including_source_notes": 99030,
+      "file_hashes_verified": true,
+      "source_hashes_verified": true
+    },
+    {
+      "book": "周易",
+      "topic_id": "culture.classics.zhouyi",
+      "reading_units": 69,
+      "case_count": 4,
+      "retained_han_characters_including_source_notes": 21301,
+      "file_hashes_verified": true,
+      "source_hashes_verified": true
+    },
+    {
+      "book": "春秋",
+      "topic_id": "culture.classics.chunqiu",
+      "reading_units": 12,
+      "case_count": 4,
+      "retained_han_characters_including_source_notes": 17124,
+      "file_hashes_verified": true,
+      "source_hashes_verified": true
+    },
+    {
+      "book": "史记",
+      "topic_id": "culture.classics.shiji",
+      "reading_units": 130,
+      "case_count": 10,
+      "retained_han_characters_including_source_notes": 597790,
+      "file_hashes_verified": true,
+      "source_hashes_verified": true
+    }
+  ],
+  "local_markdown_links": "all_existing",
+  "repository_validation": {
+    "build": "passed",
+    "check": "passed",
+    "tool_behavior_changed": false
+  },
+  "independent_review": "九部经籍：204个维基文本页面与转换正文汉字序列核对（大学中庸复用礼记篇），论语20篇与诗经305首逐段核对；史记56卷HTML保留字符校验，74卷保存原始源码并检查模板展开，另有渲染抽查。",
+  "limits": [
+    "不是逐字影印本校勘",
+    "不独立认证原典叙事中的史实",
+    "保留来源字形、部分夹注和已说明疑文",
+    "阅读单元数不等于传统篇数，大学中庸与礼记有明确重复"
+  ]
+}
