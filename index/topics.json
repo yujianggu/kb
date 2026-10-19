@@ -201,6 +201,10 @@
       "metadata": "知识库/知识库知识图谱与本体/topic.json",
       "sha256": "fad7b5632e5447085f094db7e079fe3cfa2a8bfa8797b81ce97eed6552f37ce4"
     },
+    "knowledge.okf": {
+      "metadata": "知识库/建设框架/OKF/topic.json",
+      "sha256": "14a415cb89afafa8f0c158f684a47630874cb3c0f3d2c40eac60c1a76893b105"
+    },
     "ontology.ev-quality": {
       "metadata": "本体/行业案例/新能源车质量安全域本体模型/topic.json",
       "sha256": "0ea53b76de1ecb8d03e629b0425d58f3b185dd6665dba091c6cff6590a01acec"

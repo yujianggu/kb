@@ -3,6 +3,10 @@
   "title": "知识库",
   "groups": [
     {
+      "title": "建设框架",
+      "catalog": "知识库/建设框架/catalog.json"
+    },
+    {
       "title": "案例",
       "catalog": "知识库/案例/catalog.json"
     },

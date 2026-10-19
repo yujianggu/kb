@@ -16,6 +16,7 @@
 
 - [知识库介绍：LLM、AI Coding 与知识供给](介绍/README.md)：概念、建设动机、RAG／Wiki／图谱关系及建设原则；主题 ID 为 `knowledge.introduction`。
 - [建设框架](建设框架/README.md)：围绕基础层、进阶层与企业层，明确建设重点、交付物和验收条件；主题 ID 为 `knowledge.construction-framework`。
+- [Open Knowledge Format（OKF）](建设框架/OKF/README.md)：Google Cloud v0.2 知识交换规范详解、离线原文及业务／AI Coding 样包；主题 ID 为 `knowledge.okf`。
 - [知识库、知识图谱、知识本体](知识库知识图谱与本体/README.md)：定义、关系、AI Coding 示例及选型边界；主题 ID 为 `knowledge.kb-graph-ontology`。
 - [知识图谱](知识图谱/README.md)：图式知识的表示、存储和治理；当前包含[知识图谱存储方案](知识图谱/知识图谱存储方案/README.md)，主题 ID 为 `knowledge.graph-storage`。
 - [案例：按提供方／公司组织](案例/README.md)：云托管、应用平台、检索底座及构建框架的方案与比较。

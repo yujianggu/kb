@@ -1,0 +1,22 @@
+{
+  "repository": "https://github.com/GoogleCloudPlatform/open-knowledge-format",
+  "revision": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
+  "commit_date": "2026-08-21T13:08:36-07:00",
+  "retrieved_date": "2026-10-15",
+  "license": "Apache-2.0",
+  "modified": false,
+  "files": [
+    {
+      "path": "SPEC.md",
+      "sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
+    },
+    {
+      "path": "README.md",
+      "sha256": "e7f3bec9a90a5cbf1ba16c91a879d155d7a826f0ecc4fe028df01b7bb13ea786"
+    },
+    {
+      "path": "LICENSE.md",
+      "sha256": "8c6db340475136df3c1201d458fa5755698eace76e510471ecc9d857d6083dac"
+    }
+  ]
+}

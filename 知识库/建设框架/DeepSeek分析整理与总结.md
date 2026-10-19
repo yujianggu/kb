@@ -172,6 +172,8 @@ flowchart LR
 
 分享中提到的 `foundry-ontology-open`、`edgextract`、OKF 及示例 API，本次未做仓库、版本或运行验证，不列为已确认工具推荐，也未执行安装。原文使用的 Contract／Task／Artifact／Evidence／Seal 等对象集合可作为某种设计，但不是所有知识库都必须采用的标准。
 
+后续补记（2026-10-15）：已单独核对 Google Cloud 的 [Open Knowledge Format v0.2](OKF/README.md)，并保存官方规范快照。它是知识交换格式，不是这里提到的本体执行引擎；其他第三方工具的未验证限制不变。
+
 ## 7. 本仓库的落实方式
 
 本次增加这份分析，并将其链接到建设框架入口；**不迁移现有领域，不创建业务／架构／工程／运维四套空目录，不改变元数据 schema，也未部署提取或运行时系统。**
