@@ -8,7 +8,7 @@
 |---|---|---|
 | 理解或设计本体、研究表示格式和产品实现 | [本体](本体/README.md) | [本体索引](本体/catalog.json) |
 | 分析问题、决策、学习、表达或复盘 | [思维模型](思维模型/README.md) | [思维模型索引](思维模型/catalog.json) |
-| 梳理中华历史，阅读佛、道、儒的思想与历史语境 | [中国瑰宝](中国瑰宝/README.md) | [文化索引](中国瑰宝/catalog.json) |
+| 梳理中华历史，阅读佛、道、儒的思想与历史语境 | [中国瑰宝（已迁至 chinese-culture）](https://github.com/yujianggu/chinese-culture) | 独立项目维护 |
 | 研究企业经营机制、关键决策与案例 | [企业经营研究](企业经营研究/README.md) | [企业研究索引](企业经营研究/catalog.json) |
 | 查阅行业方法、标准与协议 | [协议标准](协议标准/README.md) | [协议标准索引](协议标准/catalog.json) |
 | 构建服务 AI 大模型的知识库、比较 RAG 方案 | [知识库](知识库/README.md) | [知识库索引](知识库/catalog.json) |

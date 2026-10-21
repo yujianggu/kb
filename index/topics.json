@@ -41,66 +41,6 @@
       "metadata": "企业经营研究/企业与机构/YC/topic.json",
       "sha256": "35a83be29941a9b9f5d3aebf72c6fe6167914f5f3d37dd89a37f2230bf30e579"
     },
-    "culture.buddhism": {
-      "metadata": "中国瑰宝/佛家/topic.json",
-      "sha256": "dea949c191ee4674642f04b07264a177a4c4a038a8053d48d1ebbf75d6830615"
-    },
-    "culture.chinese-history": {
-      "metadata": "中国瑰宝/中华历史/topic.json",
-      "sha256": "3286788d67b3dda15ae9d9f38e0f9f63623437047e6b7cf58673d924e3ffed1a"
-    },
-    "culture.classics.chunqiu": {
-      "metadata": "中国瑰宝/经典原文/春秋/topic.json",
-      "sha256": "f5f05c43beddec0ad73fb2edd267078918674270e98d549e32c395eca3a1225b"
-    },
-    "culture.classics.daxue": {
-      "metadata": "中国瑰宝/经典原文/大学/topic.json",
-      "sha256": "24b46a039dc6884bd7e2cc5ef0abe4562553205a505b335845bd8e1dbf2295bc"
-    },
-    "culture.classics.liji": {
-      "metadata": "中国瑰宝/经典原文/礼记/topic.json",
-      "sha256": "8dbb876349fa86d54aa68cfe015615ab590219eda7bbce606b9a24af2dff26ab"
-    },
-    "culture.classics.lunyu": {
-      "metadata": "中国瑰宝/经典原文/论语/topic.json",
-      "sha256": "5a929ddbf1c68ba94bbbc1726d7cc59c7e612e084731b9d09d691b544c930880"
-    },
-    "culture.classics.mengzi": {
-      "metadata": "中国瑰宝/经典原文/孟子/topic.json",
-      "sha256": "3426d30f05efb169e25d5b0ecd9e222019ee20de6dd5d5ca8bc73451f3e074ee"
-    },
-    "culture.classics.shangshu": {
-      "metadata": "中国瑰宝/经典原文/尚书/topic.json",
-      "sha256": "7fae19af84eec34fc883939c21e5a1cc9fd9530a38f4c3d5645748b2950fe430"
-    },
-    "culture.classics.shiji": {
-      "metadata": "中国瑰宝/经典原文/史记/topic.json",
-      "sha256": "9c925bcffd0d8e6ff4a3531b58a9d90dd2d76b77e182f677c69be19efe82dadb"
-    },
-    "culture.classics.shijing": {
-      "metadata": "中国瑰宝/经典原文/诗经/topic.json",
-      "sha256": "0a0f8e660b8e5769524ef8f94d3b28d5677a29cd6e5287dd244bf31f027cadf9"
-    },
-    "culture.classics.zhongyong": {
-      "metadata": "中国瑰宝/经典原文/中庸/topic.json",
-      "sha256": "ae8b90095aa080690c2342ae95480c74d4410b3766dca03e2d60463e26fcf63c"
-    },
-    "culture.classics.zhouyi": {
-      "metadata": "中国瑰宝/经典原文/周易/topic.json",
-      "sha256": "1c722647ae62032964f4b63061d81aa2a3fe23c40e4de1599e526306d8232c41"
-    },
-    "culture.comparison": {
-      "metadata": "中国瑰宝/三家比较/topic.json",
-      "sha256": "58ab0787f920b942ca266e269ca3bab9387969a8efcb4d81b0ff3fc72e1824fd"
-    },
-    "culture.confucianism": {
-      "metadata": "中国瑰宝/儒家/topic.json",
-      "sha256": "c53e7de9b01c9221e6c65856ea89dc39910aacd967c4acbdceba2d685c5c750a"
-    },
-    "culture.daoism": {
-      "metadata": "中国瑰宝/道家/topic.json",
-      "sha256": "f2a9aa0335355f7278bd3d600e45c935bf4d6ee0e4a120129f7aeefb770e7883"
-    },
     "english.assessment": {
       "metadata": "英语学习/学习规划/诊断与测评/topic.json",
       "sha256": "9a69595a0a6abb069182870b6decbafbea0039965d8bc6f6b6a61a0e2d72b4aa"
