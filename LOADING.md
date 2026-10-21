@@ -20,16 +20,16 @@
 
 - 所有生成的 `catalog.json`、`index/topics.json` 和解析结果中的路径，均相对**知识库根目录**。
 - `topic.json` 的 `entrypoints` 路径相对**该 topic.json 所在目录**，允许在库内使用 `../` 复用旧正文，不允许越出本库。
-- ID 是主题身份，一经发布不随分类或目录名称修改。部分主题使用 `thinking.model-NNN`；序号只是持久标识，不是排序或优先级。
+- ID 是主题身份，一经发布不随分类或目录名称修改。迁至独立项目的主题ID也保持原标识；需到对应项目解析。
 - `index/topics.json` 是程序使用的完整 ID 地址表，不是模型启动时应读取的总目录。
 - `requires` 是必需依赖，`related` 是相关推荐。只有前者自动展开，按 ID 和文件路径去重；依赖循环报错。
 
 ## 内容层级解析
 
 ```bash
-python3 scripts/kb.py resolve thinking.five-whys --layer brief
-python3 scripts/kb.py resolve thinking.five-whys --layer detail
-python3 scripts/kb.py resolve thinking.five-whys --layer examples
+python3 scripts/kb.py resolve ontology.modeling --layer brief
+python3 scripts/kb.py resolve ontology.modeling --layer detail
+python3 scripts/kb.py resolve ontology.modeling --layer examples
 python3 scripts/kb.py resolve ontology.modeling reporting.business --layer detail
 ```
 
@@ -64,7 +64,7 @@ python3 scripts/kb.py resolve ontology.modeling --layer detail --max-bytes 50000
 {
   "repository": "项目配置的知识库来源",
   "revision": "接入时记录的实际 Git 提交 SHA",
-  "topics": ["thinking.five-whys", "reporting.business"],
+  "topics": ["ontology.modeling", "reporting.business"],
   "layer": "detail"
 }
 ```
@@ -72,7 +72,7 @@ python3 scripts/kb.py resolve ontology.modeling --layer detail --max-bytes 50000
 从任意工作目录调用固定版本知识库中的工具，保存输出作为本次任务的读取记录：
 
 ```bash
-python3 /path/to/kb/scripts/kb.py resolve thinking.five-whys --layer detail
+python3 /path/to/kb/scripts/kb.py resolve ontology.modeling --layer detail
 ```
 
 输出包括 `revision`、`dirty`、主题 ID、层级和文件清单。`dirty: true` 表示工作区有未提交变动，此时提交 SHA 不能复现本地状态；可用于试用，正式复用应固定干净的提交。非 Git 副本的版本字段为 `null`，调用方需另外记录来源版本。本工具不自动切换版本或执行 Git 下载操作。

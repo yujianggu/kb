@@ -7,7 +7,7 @@
 | 任务 | 阅读入口 | 机器索引 |
 |---|---|---|
 | 理解或设计本体、研究表示格式和产品实现 | [本体](本体/README.md) | [本体索引](本体/catalog.json) |
-| 分析问题、决策、学习、表达或复盘 | [思维模型](思维模型/README.md) | [思维模型索引](思维模型/catalog.json) |
+| 分析问题、决策、学习、表达或复盘 | [思维模型（已迁至 mindset-think）](https://github.com/yujianggu/mindset-think) | 独立项目维护 |
 | 梳理中华历史，阅读佛、道、儒的思想与历史语境 | [中国瑰宝（已迁至 chinese-culture）](https://github.com/yujianggu/chinese-culture) | 独立项目维护 |
 | 研究企业经营机制、关键决策与案例 | [企业经营研究](企业经营研究/README.md) | [企业研究索引](企业经营研究/catalog.json) |
 | 查阅行业方法、标准与协议 | [协议标准](协议标准/README.md) | [协议标准索引](协议标准/catalog.json) |
@@ -22,7 +22,7 @@
 工具使用 Python 3.9 及以上版本，无第三方依赖：
 
 ```bash
-python3 scripts/kb.py resolve thinking.five-whys
+python3 scripts/kb.py resolve ontology.modeling
 python3 scripts/kb.py resolve ontology.modeling --layer detail
 python3 scripts/kb.py resolve reporting.business --layer detail --max-bytes 20000
 ```

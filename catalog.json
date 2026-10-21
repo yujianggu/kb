@@ -9,12 +9,6 @@
       "catalog": "本体/catalog.json"
     },
     {
-      "id": "thinking",
-      "title": "思维模型",
-      "summary": "按用途选择分析、决策、学习、表达与复盘方法。",
-      "catalog": "思维模型/catalog.json"
-    },
-    {
       "id": "reporting",
       "title": "汇报模板",
       "summary": "业务与技术汇报的可复用结构及使用边界。",
