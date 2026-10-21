@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "title": "知识库",
+  "groups": [
+    {
+      "title": "建设框架",
+      "catalog": "知识库/建设框架/catalog.json"
+    },
+    {
+      "title": "案例",
+      "catalog": "知识库/案例/catalog.json"
+    },
+    {
+      "title": "知识图谱",
+      "catalog": "知识库/知识图谱/catalog.json"
+    }
+  ],
+  "topics": [
+    {
+      "id": "knowledge.construction-framework",
+      "title": "面向 LLM／AI Coding 的知识库建设框架",
+      "summary": "围绕知识可达、持续积累与行动治理，确定知识库的建设重点、交付物和验收条件，按需组合 RAG、Wiki、图谱与本体。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "知识库/建设框架/topic.json",
+      "brief": "知识库/建设框架/摘要.md"
+    },
+    {
+      "id": "knowledge.introduction",
+      "title": "知识库介绍：LLM、AI Coding 与知识供给",
+      "summary": "理解服务大模型的知识库为何需要知识供给、持续积累与行动治理，辨别 RAG、LLM Wiki、图谱及本体的用途和边界。",
+      "kind": "concept",
+      "scope": "general",
+      "status": "general",
+      "metadata": "知识库/介绍/topic.json",
+      "brief": "知识库/介绍/摘要.md"
+    },
+    {
+      "id": "knowledge.kb-graph-ontology",
+      "title": "知识库、知识图谱、知识本体",
+      "summary": "区分知识管理、实体关系与共享业务模型，说明传统本体和运营型本体的规则、状态、行动与治理，以及三者协作边界。",
+      "kind": "concept",
+      "scope": "general",
+      "status": "general",
+      "metadata": "知识库/知识库知识图谱与本体/topic.json",
+      "brief": "知识库/知识库知识图谱与本体/摘要.md"
+    }
+  ]
+}

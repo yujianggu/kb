@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "title": "建设框架",
+  "groups": [],
+  "topics": [
+    {
+      "id": "knowledge.okf",
+      "title": "Google Cloud Open Knowledge Format（OKF）v0.2",
+      "summary": "理解 OKF 知识包、frontmatter、来源与验证、生命周期及计算核验约定，按业务问答与 AI Coding 示例设计可交换知识资产。",
+      "kind": "reference",
+      "scope": "general",
+      "status": "general",
+      "metadata": "知识库/建设框架/OKF/topic.json",
+      "brief": "知识库/建设框架/OKF/摘要.md"
+    }
+  ]
+}

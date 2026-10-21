@@ -6,3 +6,10 @@
 
 # JetBrains IDE settings
 .idea/
+
+# Python tool caches
+__pycache__/
+*.pyc
+
+# Obsidian workspace settings
+.obsidian/

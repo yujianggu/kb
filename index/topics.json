@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "topics": {
+    "business.amazon": {
+      "metadata": "企业经营研究/企业与机构/亚马逊/topic.json",
+      "sha256": "ae5658f498cecca3ea484c5eb51c8dc5cf01604c20f4a9a48f7435b45fa0406c"
+    },
+    "business.berkshire": {
+      "metadata": "企业经营研究/企业与机构/伯克希尔哈撒韦/topic.json",
+      "sha256": "e9cbf15750e543c47c6486e335f76e3fbc70b75dca63ddeb8e24978687cf2bdd"
+    },
+    "business.costco": {
+      "metadata": "企业经营研究/企业与机构/Costco/topic.json",
+      "sha256": "fe4948623a004985b96c5603ec39360509d8aeaf64cfb2f80283ea7410f6a8f9"
+    },
+    "business.danaher": {
+      "metadata": "企业经营研究/企业与机构/丹纳赫/topic.json",
+      "sha256": "101b146219c591753c0672b1da804dbc882f7ef6778630b6185a19371be04583"
+    },
+    "business.digital-ipd-brm-4a": {
+      "metadata": "企业经营研究/跨企业专题/企业数字化-IPD-BRM与4A/topic.json",
+      "sha256": "713f7a3f2860a9ff10f78977e071558917f25f4fe71ce49693a3f3c47202c05b"
+    },
+    "business.huawei": {
+      "metadata": "企业经营研究/企业与机构/华为/topic.json",
+      "sha256": "11dced7481c55689f70bf696dccf2757c6ff2e7f59a2a353b81d247487e03b5a"
+    },
+    "business.inditex": {
+      "metadata": "企业经营研究/企业与机构/Inditex-Zara/topic.json",
+      "sha256": "f6cdc3b0b4e51c660df6442a0dd32f49a4dfd92627aed068be9442fd672df670"
+    },
+    "business.microsoft": {
+      "metadata": "企业经营研究/企业与机构/微软/topic.json",
+      "sha256": "e11c0a5e666bbd9e7c38d85632f2e94721a296b27487e59bf16631344aa54094"
+    },
+    "business.toyota": {
+      "metadata": "企业经营研究/企业与机构/丰田/topic.json",
+      "sha256": "0ab6f15dc502acc0760d7addec5266c62d91339fdc950e8332c1ff535dd21f95"
+    },
+    "business.yc": {
+      "metadata": "企业经营研究/企业与机构/YC/topic.json",
+      "sha256": "35a83be29941a9b9f5d3aebf72c6fe6167914f5f3d37dd89a37f2230bf30e579"
+    },
+    "knowledge.case.alibaba": {
+      "metadata": "知识库/案例/阿里巴巴/topic.json",
+      "sha256": "4a209236d04f778f528217a9ad06a4f4a5131b71253476bd75ce1b830c71bdaa"
+    },
+    "knowledge.case.aws": {
+      "metadata": "知识库/案例/AWS/topic.json",
+      "sha256": "19f86a226c15d282de1ab114514618c56e22f422502485f0f90bbd1bbd7338ad"
+    },
+    "knowledge.case.dify": {
+      "metadata": "知识库/案例/Dify/topic.json",
+      "sha256": "8de01a31044fef9c61be3749ddb498dba4e437d381a2d312e8903d8e0f8639e1"
+    },
+    "knowledge.case.elastic": {
+      "metadata": "知识库/案例/Elastic/topic.json",
+      "sha256": "112c0e41d92d2b1d260365892b01893fcc9edbc37c86308160f5e9b03d533748"
+    },
+    "knowledge.case.google-cloud": {
+      "metadata": "知识库/案例/Google-Cloud/topic.json",
+      "sha256": "4c8d040bd7c84d6fcc2da909ae1ab939b11ede0c5f94287de446f98aeff119cd"
+    },
+    "knowledge.case.karpathy-llm-wiki": {
+      "metadata": "知识库/案例/Andrej-Karpathy/topic.json",
+      "sha256": "acde7238eae8b6e9420cdc734541288862481faeeefd0b4de0963277b157145f"
+    },
+    "knowledge.case.llamaindex": {
+      "metadata": "知识库/案例/LlamaIndex/topic.json",
+      "sha256": "906647983579769e2b86e3c2adfb0166b64269334eea7782c9b805de7a146105"
+    },
+    "knowledge.case.microsoft": {
+      "metadata": "知识库/案例/Microsoft/topic.json",
+      "sha256": "86545ca694c7b19016240b02cf7d61bd5bcd899deff536d05b13cbe05f8dbf7f"
+    },
+    "knowledge.case.pinecone": {
+      "metadata": "知识库/案例/Pinecone/topic.json",
+      "sha256": "3d0dcd818e37bce3fcd0a0bcefefeec6e9a31af6a6f9881e391c9e977de178a5"
+    },
+    "knowledge.case.ragflow": {
+      "metadata": "知识库/案例/RAGFlow/topic.json",
+      "sha256": "08761484ae52e782f83a5adf8e5564d0c445cdd3a12330a7165e185c3569433a"
+    },
+    "knowledge.case.weaviate": {
+      "metadata": "知识库/案例/Weaviate/topic.json",
+      "sha256": "5cfc2850ac212b02ab8b3f5727ed58f7fdbd76cd65b368e52d4a796125bade40"
+    },
+    "knowledge.construction-framework": {
+      "metadata": "知识库/建设框架/topic.json",
+      "sha256": "6905e0a6c578921957a26ceeb1eb8658d313ef9613776075767d5a209ffeec1f"
+    },
+    "knowledge.graph-storage": {
+      "metadata": "知识库/知识图谱/知识图谱存储方案/topic.json",
+      "sha256": "58ca6917977087bcc53e30068dfc3e6fcbdfbbdc3ad62ecc7a3f17f460d6de61"
+    },
+    "knowledge.introduction": {
+      "metadata": "知识库/介绍/topic.json",
+      "sha256": "46c809f8318e50d863a80c5d6f855a89244db569d958507b5d91e8b199951377"
+    },
+    "knowledge.kb-graph-ontology": {
+      "metadata": "知识库/知识库知识图谱与本体/topic.json",
+      "sha256": "fad7b5632e5447085f094db7e079fe3cfa2a8bfa8797b81ce97eed6552f37ce4"
+    },
+    "knowledge.okf": {
+      "metadata": "知识库/建设框架/OKF/topic.json",
+      "sha256": "14a415cb89afafa8f0c158f684a47630874cb3c0f3d2c40eac60c1a76893b105"
+    },
+    "ontology.ev-quality": {
+      "metadata": "本体/行业案例/新能源车质量安全域本体模型/topic.json",
+      "sha256": "0ea53b76de1ecb8d03e629b0425d58f3b185dd6665dba091c6cff6590a01acec"
+    },
+    "ontology.introduction": {
+      "metadata": "本体/基础理论与方法/本体论-快速入门与案例/topic.json",
+      "sha256": "2c189c734d88fb6c4f0a897cfa85c3d6efaa356fbccd868c5056339e23ef8ce3"
+    },
+    "ontology.modeling": {
+      "metadata": "本体/基础理论与方法/本体模型与本体建模方法/topic.json",
+      "sha256": "5444f814ac9fc044119eb06c5fd33eb9126a2830ac7ea183f8dccf3f4b8832c3"
+    },
+    "ontology.okf": {
+      "metadata": "本体/技术标准与格式/OKF/Google-OKF开放知识格式/topic.json",
+      "sha256": "57e88c2e114a4cc8d20b509719a7dffd8f8ca6e3ea95c2f3f64b3de7abbec34e"
+    },
+    "ontology.operational": {
+      "metadata": "本体/基础理论与方法/运营型本体定义与分类/topic.json",
+      "sha256": "b0b3df676cb2aa3fe36e2e33c4f098e2de680a628e41bb11e9263ac2a56f8bb0"
+    },
+    "ontology.owl": {
+      "metadata": "本体/技术标准与格式/OWL-Web本体语言详解/topic.json",
+      "sha256": "3b84a0909f3b96c73e76410ef92500b2f158b33abd3889003cb3a78cd7cf41fb"
+    },
+    "ontology.palantir.after-sales": {
+      "metadata": "本体/产品平台/Palantir/Palantir-Ontology-四要素与汽车售后案例/topic.json",
+      "sha256": "3860def7ab5df55c1bd19c54a83d4aad6efdb504535ddedade1fee5615e140ce"
+    },
+    "ontology.palantir.comparison": {
+      "metadata": "本体/产品平台/Palantir/通用本体模型与Palantir-Ontology差异比较/topic.json",
+      "sha256": "a5a382d905005ec7bfc4cf728591b400ad320b9b6d692afd01b0b14d6e849a30"
+    },
+    "ontology.palantir.components": {
+      "metadata": "本体/产品平台/Palantir/Interface-Function-Action关系与区别/topic.json",
+      "sha256": "bc8255b35189984ea85d93bd188d50f32caff44005bf5be4babc2fb4fd4bc1c9"
+    },
+    "ontology.palantir.overview": {
+      "metadata": "本体/产品平台/Palantir/palantir-ontology-summary/topic.json",
+      "sha256": "d8ad9e702ef50bf15cd7071d087d31aea6762124a4cb17a7e6dfaa3797bc5a5f"
+    },
+    "ontology.rdf": {
+      "metadata": "本体/技术标准与格式/RDF-资源描述框架/topic.json",
+      "sha256": "7ba187ea78ebfc66d7c3b67fbd5104b7c5b557948cad9c802b47c4b305843d28"
+    },
+    "reporting.business": {
+      "metadata": "汇报模板/业务汇报/topic.json",
+      "sha256": "d20db99c54722c8ec8d5e76aff901b7f4eff78a382d8bef29a0c46f48ef17485"
+    },
+    "reporting.technical": {
+      "metadata": "汇报模板/技术汇报/topic.json",
+      "sha256": "139517c8b91b02eaaca643f3bccb7b1e3d718e39893ce0233c1254f3b4159b88"
+    },
+    "standards.apqp": {
+      "metadata": "协议标准/APQP/topic.json",
+      "sha256": "2fee8dd0e0ce41e2552f01031801d20a7eef369a1d2e6cb35b32fc9f7b9dca07"
+    },
+    "standards.ppap": {
+      "metadata": "协议标准/PPAP/topic.json",
+      "sha256": "8c0bb13908e804f76df2497e3890dcaed2ef695601f0d32a928027b4a676d9bc"
+    }
+  }
+}

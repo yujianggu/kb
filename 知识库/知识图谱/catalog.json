@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "title": "知识图谱",
+  "groups": [],
+  "topics": [
+    {
+      "id": "knowledge.graph-storage",
+      "title": "知识图谱存储方案",
+      "summary": "按表示模型、查询与治理要求比较 RDF、属性图、SQL 和文件存储，设计来源、版本、更新与权限边界。",
+      "kind": "method",
+      "scope": "general",
+      "status": "general",
+      "metadata": "知识库/知识图谱/知识图谱存储方案/topic.json",
+      "brief": "知识库/知识图谱/知识图谱存储方案/摘要.md"
+    }
+  ]
+}

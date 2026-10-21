@@ -1,0 +1,14 @@
+{
+  "id": "ontology.okf",
+  "title": "Google-OKF开放知识格式",
+  "summary": "查阅库中 OKF 格式资料及其来源边界。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../Google-OKF开放知识格式.md"
+  },
+  "requires": [],
+  "related": []
+}

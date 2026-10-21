@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "title": "行业案例",
+  "groups": [],
+  "topics": [
+    {
+      "id": "ontology.ev-quality",
+      "title": "新能源车质量安全域本体模型",
+      "summary": "通过新能源车示例理解跨质量域的对象、关系与治理。",
+      "kind": "example",
+      "scope": "industry",
+      "status": "example",
+      "metadata": "本体/行业案例/新能源车质量安全域本体模型/topic.json",
+      "brief": "本体/行业案例/新能源车质量安全域本体模型/摘要.md"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "knowledge.case.dify",
+  "title": "Dify / LangGenius：工作流驱动的知识库应用",
+  "summary": "研究通过 Dify 快速搭建知识库问答及工作流应用；重点关注检索分层配置、元数据筛选与自托管许可边界。",
+  "kind": "reference",
+  "scope": "company",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": []
+}

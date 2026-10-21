@@ -1,0 +1,14 @@
+{
+  "id": "ontology.rdf",
+  "title": "RDF-资源描述框架",
+  "summary": "了解 RDF 的资源、三元组与图式知识表示。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "../RDF-资源描述框架.md"
+  },
+  "requires": [],
+  "related": []
+}

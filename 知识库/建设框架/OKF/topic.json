@@ -1,0 +1,16 @@
+{
+  "id": "knowledge.okf",
+  "title": "Google Cloud Open Knowledge Format（OKF）v0.2",
+  "summary": "理解 OKF 知识包、frontmatter、来源与验证、生命周期及计算核验约定，按业务问答与 AI Coding 示例设计可交换知识资产。",
+  "kind": "reference",
+  "scope": "general",
+  "status": "general",
+  "entrypoints": {
+    "brief": "摘要.md",
+    "detail": "README.md",
+    "examples": "案例-业务问答与AI-Coding.md",
+    "sources": "来源与适用边界.md"
+  },
+  "requires": [],
+  "related": ["knowledge.construction-framework", "knowledge.case.karpathy-llm-wiki", "knowledge.kb-graph-ontology"]
+}
