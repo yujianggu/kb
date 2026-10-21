@@ -41,46 +41,6 @@
       "metadata": "企业经营研究/企业与机构/YC/topic.json",
       "sha256": "35a83be29941a9b9f5d3aebf72c6fe6167914f5f3d37dd89a37f2230bf30e579"
     },
-    "english.assessment": {
-      "metadata": "英语学习/学习规划/诊断与测评/topic.json",
-      "sha256": "9a69595a0a6abb069182870b6decbafbea0039965d8bc6f6b6a61a0e2d72b4aa"
-    },
-    "english.grammar": {
-      "metadata": "英语学习/基础能力/语法与句子/topic.json",
-      "sha256": "52560d0499ea16b7e42683e76023f3b5cce895f0cd61afa2c90e6e1a30f22ffb"
-    },
-    "english.listening": {
-      "metadata": "英语学习/听说读写/听力训练/topic.json",
-      "sha256": "2c7884d58b8aa21bbefa0ea3280c46d9d9a1f9a9dddf711edbb3ec7850300c4d"
-    },
-    "english.practice": {
-      "metadata": "英语学习/综合实践/场景任务/topic.json",
-      "sha256": "a688b14e20e350fc7928ab99a8e2447076c4b51532c41a386aa6bbc18134059b"
-    },
-    "english.pronunciation": {
-      "metadata": "英语学习/基础能力/语音与发音/topic.json",
-      "sha256": "ed95a8766b3c75a9e3ec72d97f981f7f7b9832d81688e5a29eb3b48a8f7037c0"
-    },
-    "english.reading": {
-      "metadata": "英语学习/听说读写/阅读理解/topic.json",
-      "sha256": "3523ebcb51645859a36cd3c851fdae9b684a328591ff0687189573f3ac2f511a"
-    },
-    "english.roadmap": {
-      "metadata": "英语学习/学习规划/学习路线/topic.json",
-      "sha256": "19fdb9b5ba5f221ee297e35272af90b3d947e37eaa52e88850b5c689dc1b5974"
-    },
-    "english.speaking": {
-      "metadata": "英语学习/听说读写/口语表达/topic.json",
-      "sha256": "94be4990e7cc1c04e8ed221f571a15d80dfcc7d62755fb59a7f4b612dd0e4cdc"
-    },
-    "english.vocabulary": {
-      "metadata": "英语学习/基础能力/词汇与语块/topic.json",
-      "sha256": "37b945a3fe20cbd14a09a4746f3fdbc81e5421501260d1ddb04a48caab61b43b"
-    },
-    "english.writing": {
-      "metadata": "英语学习/听说读写/写作表达/topic.json",
-      "sha256": "f1f0b82a6366cad2ceb4180db5a112f4eb0308270c1557dc8ad56ba90a40c003"
-    },
     "knowledge.case.alibaba": {
       "metadata": "知识库/案例/阿里巴巴/topic.json",
       "sha256": "4a209236d04f778f528217a9ad06a4f4a5131b71253476bd75ce1b830c71bdaa"

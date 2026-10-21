@@ -13,7 +13,7 @@
 | 查阅行业方法、标准与协议 | [协议标准](协议标准/README.md) | [协议标准索引](协议标准/catalog.json) |
 | 构建服务 AI 大模型的知识库、比较 RAG 方案 | [知识库](知识库/README.md) | [知识库索引](知识库/catalog.json) |
 | 准备业务或技术汇报 | [汇报模板](汇报模板/README.md) | [模板索引](汇报模板/catalog.json) |
-| 系统学习英语，规划阶段并练习听说读写 | [英语学习](英语学习/README.md) | [英语索引](英语学习/catalog.json) |
+| 系统学习英语，规划阶段并练习听说读写 | [英语学习（已迁至 learning-improve）](https://github.com/yujianggu/learning-improve) | 独立项目维护 |
 
 首次接入读取本页和[加载约定](LOADING.md)。程序入口为 [catalog.json](catalog.json)，只包含领域入口和可选扩展，不包含全部主题正文。
 
